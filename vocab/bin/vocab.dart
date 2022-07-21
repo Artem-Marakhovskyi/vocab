@@ -10,6 +10,12 @@ void main(List<String> arguments) async {
   var f = await File('${Directory.current.path}/../vocabulary/index.html')
       .readAsString();
   print(processHtml(f));
+  f = await File('${Directory.current.path}/../vocabulary/index2.html')
+      .readAsString();
+  print(processHtml(f));
+  f = await File('${Directory.current.path}/../vocabulary/index3.html')
+      .readAsString();
+  print(processHtml(f));
   // var existingDict = await ExistingDict(
   //     '${Directory.current.path}/../vocabulary/vocabulary-de.yaml');
   // existingDict.load();
