@@ -10,11 +10,11 @@ class WordEntity {
 }
 
 class Meaning {
-  final String de;
-  final List<String> engs;
+  final String src;
+  final List<String> dests;
   final String mark;
-  Meaning(this.de, this.engs, this.mark);
+  Meaning(this.src, this.dests, this.mark);
 
   @override
-  String toString() => '$de ($mark) - ${engs.join(', ')}';
+  String toString() => '$src ($mark) - ${dests.join(', ')}';
 }

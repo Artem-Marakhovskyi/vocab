@@ -1,47 +1,36 @@
-import 'dart:convert';
+import 'dart:io';
 
 import 'package:vocab/dict/existing_dict.dart';
-import 'package:yaml/yaml.dart';
-import 'package:http/http.dart' as http;
-
-import 'yaml/yaml.dart';
+import 'package:vocab/dict/input/input_dict.dart';
+import 'package:vocab/html/html_parser.dart';
+import 'package:vocab/network/wordreference.api.dart';
 
 class Translator {
-  final Yaml _yaml;
-  final String _baseUrl = 'http://www.wordreference.com/{src}{dest}/{word}';
-  final Map<String, String> _partOfSpeeches = <String, String>{
-    "noun": "NOUN",
-    "verb": "VERB",
-    "adj": "ADJ",
-    "adv": "ADVERB"
-  };
-
+  final InputDict _inputDict;
   final ExistingDict existingDict;
+  final HtmlParser parser;
+  final WordReferenceApi api;
 
-  Translator(this._yaml, this.existingDict) {}
+  Translator(this._inputDict, this.existingDict, this.parser, this.api) {}
 
-  Future loadTranslations(String filepath) async {
-    var yaml = await _yaml.load(filepath);
+  Future loadTranslations() async {
+    for (var term in _inputDict.terms) {
+      if (existingDict.words.any((element) => element.de == term)) {
+        continue;
+      }
 
-    var langReadyUrl = _baseUrl
-        .replaceAll("{src}", yaml['src'] as String)
-        .replaceAll('{dest}', yaml['dest'] as String);
-
-    YamlList verbs = yaml['words']['verbs'];
-
-    for (var item in verbs) {
-      print(item);
-      var response =
-          await http.get(Uri.parse(langReadyUrl.replaceAll('{word}', item)));
-
-      print(response.body);
-      var s = response.body;
-      break;
-      // for (var j in jObj) {
-      //   existingDict.addVerb(j);
-      // }
+      print('working on: $term');
+      var html =
+          await api.getHtml(_inputDict.srcLang, _inputDict.destLang, term);
+      var word = parser.processHtml(html);
+      if (word == null) {
+        print('\t$term - broken');
+        existingDict.brokenWords.add(term);
+      } else {
+        print('\t$term - success');
+        existingDict.words.add(word);
+      }
+      existingDict.flushToJson();
     }
-
-    // existingDict.flushToJson();
   }
 }

@@ -7,8 +7,8 @@ import 'package:yaml/yaml.dart';
 class ExistingDict {
   final Yaml _yaml = Yaml();
   final String _filePath;
-
-  List<WordEntity> words = [];
+  final List<WordEntity> words = [];
+  final List<String> brokenWords = [];
   String? lastUpdated;
   ExistingDict(this._filePath);
 
@@ -20,6 +20,15 @@ class ExistingDict {
     }
 
     lastUpdated = yaml['lastUpdated'];
+
+    var brokensYaml = yaml['broken'];
+    if (brokensYaml != null) {
+      var brokens = (brokensYaml as YamlList);
+      for (var brokenWord in brokens) {
+        brokenWords.add(brokenWord.toString());
+      }
+    }
+
     var wordList = (yaml['words'] as YamlList);
     for (var word in wordList) {
       var meanings = <Meaning>[];
@@ -27,7 +36,7 @@ class ExistingDict {
         var src = meaningYaml['src'].toString();
         var mark = meaningYaml['mark'].toString();
         var engs = <String>[];
-        for (var eng in meaningYaml['engs']) {
+        for (var eng in meaningYaml['dest']) {
           engs.add(eng);
         }
         meanings.add(Meaning(src, engs, mark));
@@ -42,14 +51,19 @@ class ExistingDict {
     for (var word in words) {
       wordsList.add({
         'de': word.de,
-        'meanings': word.meanings.map((e) => {
-              'src': e.de,
-              'mark': e.mark,
-              'dest': e.engs,
-            })
+        'meanings': word.meanings
+            .map((e) => {
+                  'src': e.src,
+                  'mark': e.mark,
+                  'dest': e.dests,
+                })
+            .toList()
       });
     }
-    _yaml.write(_filePath,
-        {'lastUpdated': DateTime.now().toString(), 'words': wordsList});
+    _yaml.write(_filePath, {
+      'lastUpdated': DateTime.now().toString(),
+      'words': wordsList,
+      'broken': brokenWords
+    });
   }
 }

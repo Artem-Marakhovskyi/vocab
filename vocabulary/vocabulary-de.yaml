@@ -1,51 +1,2177 @@
-lastUpdated: '2022-07-20 21:25:13.381771'
-verbs: 
+lastUpdated: '2022-07-22 00:07:09.251580'
+words: 
   - 
-    de: 'machen'
-    en: 'make'
-    part_of_speech: 'VERB'
-    synonyms: 
-      - 'accommodate'
-      - ' act'
-      - ' annul'
-      - ' behave'
-      - ' build'
-      - ' cancel'
-      - ' construct'
-      - ' create'
-      - ' do'
-      - ' fix'
-      - ' go'
-      - ' maketh'
-      - ' perform'
-      - ' produce'
-      - ' put'
-      - ' render'
-      - ' repeal'
-      - ' rescind'
-      - ' revoke'
-  - 
-    de: 'machen'
-    en: 'do'
-    part_of_speech: 'VERB'
-    synonyms: 
-      - 'accommodate'
-      - ' act'
-      - ' annul'
-      - ' behave'
-      - ' build'
-      - ' cancel'
-      - ' construct'
-      - ' create'
-      - ' fix'
-      - ' go'
-      - ' make'
-      - ' maketh'
-      - ' perform'
-      - ' produce'
-      - ' put'
-      - ' render'
-      - ' repeal'
-      - ' rescind'
-      - ' revoke'
+    de: 'abholen'
+    meanings: 
+      - 
+        src: 'Ladung abholen'
+        mark: 'Nf + Vt'
+        dest: 
+          - 'collect cargo'
+          - 'pick up cargo'
 
+  - 
+    de: 'machen'
+    meanings: 
+      - 
+        src: '[etw] machen'
+        mark: 'Vt'
+        dest: 
+          - 'do'
+          - 'complete'
+          - 'carry'
+          - 'prepare'
+          - 'make'
+          - 'develop'
+
+  - 
+    de: 'sein'
+    meanings: 
+      - 
+        src: 'sein'
+        mark: 'Vi'
+        dest: 
+          - 'be'
+          - 'exist'
+
+  - 
+    de: 'aufstehen'
+    meanings: 
+      - 
+        src: 'aufstehen'
+        mark: 'Vi, sepa'
+        dest: 
+          - 'stand up'
+          - 'get up'
+          - 'wake up'
+          - 'get back up'
+
+  - 
+    de: 'aufraumen'
+    meanings: 
+      - 
+        src: 'aufräumen'
+        mark: 'Vi, sepa'
+        dest: 
+          - 'tidy up'
+      - 
+        src: 'aufräumen'
+        mark: 'Vt, sepa'
+        dest: 
+          - 'put'
+          - 'straighten'
+
+  - 
+    de: 'anziehen'
+    meanings: 
+      - 
+        src: 'einen Handschuh anziehen'
+        mark: 'Rdw'
+        dest: 
+          - 'put on a glove'
+
+  - 
+    de: 'zumachen'
+    meanings: 
+      - 
+        src: 'jmdn/[etw] zu [etw] machen'
+        mark: 'Präp + Vt'
+        dest: 
+          - 'make'
+
+  - 
+    de: 'verkaufen'
+    meanings: 
+      - 
+        src: '[etw] verkaufen'
+        mark: 'Vt'
+        dest: 
+          - 'sell'
+
+  - 
+    de: 'einkaufen'
+    meanings: 
+      - 
+        src: 'einkaufen'
+        mark: 'Vi, sepa'
+        dest: 
+          - 'shop'
+          - 'do the shopping'
+          - 'go to the supermarket'
+      - 
+        src: '[etw] einkaufen'
+        mark: 'Vt, sepa'
+        dest: 
+          - 'buy'
+          - 'shop'
+
+  - 
+    de: 'kaufen'
+    meanings: 
+      - 
+        src: '[etw] kaufen'
+        mark: 'Vt'
+        dest: 
+          - 'buy'
+          - 'purchase'
+      - 
+        src: 'jmdn kaufen'
+        mark: 'Vt'
+        dest: 
+          - 'buy'
+
+  - 
+    de: 'tragen'
+    meanings: 
+      - 
+        src: 'jmdn/[etw] tragen'
+        mark: 'Vt'
+        dest: 
+          - 'carry'
+          - 'take'
+      - 
+        src: '[etw] tragen'
+        mark: 'Vt'
+        dest: 
+          - 'hold'
+          - 'wear'
+
+  - 
+    de: 'waschen'
+    meanings: 
+      - 
+        src: '[etw] waschen'
+        mark: 'Vt'
+        dest: 
+          - 'wash, clean'
+
+  - 
+    de: 'fallen'
+    meanings: 
+      - 
+        src: 'fallen'
+        mark: 'Vi'
+        dest: 
+          - 'fall'
+          - 'trip'
+          - 'stumble'
+          - 'fall down'
+          - 'drop'
+          - 'decline'
+          - 'drop'
+          - 'come into a situation'
+
+  - 
+    de: 'treten'
+    meanings: 
+      - 
+        src: 'jmdn/[etw] treten'
+        mark: 'Vt'
+        dest: 
+          - 'kick'
+      - 
+        src: 'zu [etw] treten'
+        mark: 'Präp + Vi'
+        dest: 
+          - 'head to'
+          - 'move to'
+
+  - 
+    de: 'treffen'
+    meanings: 
+      - 
+        src: 'jmdn treffen'
+        mark: 'Vt'
+        dest: 
+          - 'meet'
+          - 'encounter'
+          - 'upset'
+      - 
+        src: 'jmdn/[etw] treffen'
+        mark: 'Vt'
+        dest: 
+          - 'hit'
+          - 'hurt'
+      - 
+        src: '[etw] treffen'
+        mark: 'Vt'
+        dest: 
+          - 'make'
+
+  - 
+    de: 'tauchen'
+    meanings: 
+      - 
+        src: 'tauchen'
+        mark: 'Vi'
+        dest: 
+          - 'dive'
+
+  - 
+    de: 'langweilig'
+    meanings: 
+      - 
+        src: 'langweilig'
+        mark: 'Adj'
+        dest: 
+          - 'bored'
+          - 'boring'
+
+  - 
+    de: 'leider'
+    meanings: 
+      - 
+        src: 'leider'
+        mark: 'Adv'
+        dest: 
+          - 'unfortunately'
+
+  - 
+    de: 'unsinn'
+    meanings: 
+      - 
+        src: 'Unsinn'
+        mark: 'Nm'
+        dest: 
+          - 'nonsense'
+          - 'fool around'
+          - 'prank'
+          - 'get up to no good'
+
+  - 
+    de: 'verbessern'
+    meanings: 
+      - 
+        src: '[etw] verbessern'
+        mark: 'Vt'
+        dest: 
+          - 'improve'
+          - 'correct'
+          - 'improve'
+      - 
+        src: 'sich verbessern'
+        mark: 'Vr'
+        dest: 
+          - 'do'
+          - 'improve'
+
+  - 
+    de: 'verbringen'
+    meanings: 
+      - 
+        src: '[etw] verbringen'
+        mark: 'Vt'
+        dest: 
+          - 'hang out'
+          - 'spend time'
+          - 'spend'
+          - 'spend'
+
+  - 
+    de: 'vielleicht'
+    meanings: 
+      - 
+        src: 'vielleicht'
+        mark: 'Adv'
+        dest: 
+          - 'maybe'
+          - 'perhaps'
+          - 'about'
+          - 'approximately'
+
+  - 
+    de: 'eigentlich'
+    meanings: 
+      - 
+        src: 'eigentlich'
+        mark: 'Adj'
+        dest: 
+          - 'main'
+          - 'primary'
+      - 
+        src: 'eigentlich'
+        mark: 'Adv'
+        dest: 
+          - 'actually'
+          - 'really'
+      - 
+        src: 'eigentlich'
+        mark: 'Part'
+        dest: 
+          - 'actually'
+
+  - 
+    de: 'kennen'
+    meanings: 
+      - 
+        src: 'jmdn kennen'
+        mark: 'Vt'
+        dest: 
+          - 'know'
+      - 
+        src: 'sich kennen'
+        mark: 'Vr'
+        dest: 
+          - 'be acquainted'
+          - 'know each other'
+      - 
+        src: '[etw] kennen'
+        mark: 'Vt'
+        dest: 
+          - 'be familiar with'
+          - 'know'
+
+  - 
+    de: 'kennenlernen'
+    meanings: 
+      - 
+        src: 'jmdn/[etw] kennenlernen'
+        mark: 'Vt, sepa'
+        dest: 
+          - 'meet'
+
+  - 
+    de: 'bald'
+    meanings: 
+      - 
+        src: 'bald'
+        mark: 'Adv'
+        dest: 
+          - 'soon'
+          - 'shortly'
+
+  - 
+    de: 'ausbildung'
+    meanings: 
+      - 
+        src: 'Ausbildung'
+        mark: 'Nf'
+        dest: 
+          - 'apprenticeship'
+          - 'training'
+      - 
+        src: 'Ausbildung, schulische Ausbildung'
+        mark: 'Nf'
+        dest: 
+          - 'education'
+          - 'traineeship'
+
+  - 
+    de: 'unterrichten'
+    meanings: 
+      - 
+        src: '[jmd] über [etw] unterrichten'
+        mark: 'Rdw'
+        dest: 
+          - 'inform'
+      - 
+        src: 'privat unterrichten'
+        mark: 'Adv + Vt'
+        dest: 
+          - 'privately tutor'
+          - 'tutor'
+
+  - 
+    de: 'stelle'
+    meanings: 
+      - 
+        src: 'Stelle'
+        mark: 'Nf'
+        dest: 
+          - 'position'
+          - 'job'
+          - 'place'
+          - 'point'
+          - 'place'
+
+  - 
+    de: 'stellen'
+    meanings: 
+      - 
+        src: '[etw] stellen'
+        mark: 'Vt'
+        dest: 
+          - 'put'
+          - 'place'
+      - 
+        src: 'sich stellen'
+        mark: 'Vr'
+        dest: 
+          - 'stand'
+          - 'position'
+          - 'display'
+      - 
+        src: 'jmdn/[etw] stellen'
+        mark: 'Vt'
+        dest: 
+          - 'provide'
+
+  - 
+    de: 'hinsicht'
+    meanings: 
+      - 
+        src: 'Hinsicht'
+        mark: 'Nf'
+        dest: 
+          - 'regard, respect'
+
+  - 
+    de: 'weil'
+    meanings: 
+      - 
+        src: 'weil'
+        mark: 'Konj'
+        dest: 
+          - 'since'
+          - 'because'
+
+  - 
+    de: 'damals'
+    meanings: 
+      - 
+        src: 'damals'
+        mark: 'Adv'
+        dest: 
+          - 'then'
+          - 'back then'
+
+  - 
+    de: 'irgendwo'
+    meanings: 
+      - 
+        src: 'irgendwo'
+        mark: 'Adv'
+        dest: 
+          - 'somewhere'
+          - 'anywhere'
+
+  - 
+    de: 'geschenk'
+    meanings: 
+      - 
+        src: 'Geschenk'
+        mark: 'Nn'
+        dest: 
+          - 'present'
+          - 'gift'
+
+  - 
+    de: 'wunderbar'
+    meanings: 
+      - 
+        src: 'wunderbar'
+        mark: 'Adj'
+        dest: 
+          - 'wonderful'
+
+  - 
+    de: 'antworten'
+    meanings: 
+      - 
+        src: 'antworten'
+        mark: 'Vi'
+        dest: 
+          - 'answer'
+
+  - 
+    de: 'auffallen'
+    meanings: 
+      - 
+        src: 'auffallen'
+        mark: 'Vi, sepa'
+        dest: 
+          - 'be seen'
+          - 'get noticed'
+          - 'attract attention'
+          - 'strike'
+          - 'become clear'
+
+  - 
+    de: 'ausweichen'
+    meanings: 
+      - 
+        src: '[etw] ausweichen'
+        mark: 'Pron + Vi'
+        dest: 
+          - 'avoid'
+          - 'evade'
+
+  - 
+    de: 'begegnen'
+    meanings: 
+      - 
+        src: 'begegnen'
+        mark: 'Vi'
+        dest: 
+          - 'meet'
+          - 'encounter'
+          - 'face'
+          - 'be confronted with'
+          - 'respond to'
+          - 'counter'
+          - 'handle'
+
+  - 
+    de: 'beistehen'
+    meanings: 
+      - 
+        src: '[jmd] beistehen'
+        mark: 'Pron + Vi'
+        dest: 
+          - 'stand by'
+          - 'support'
+
+  - 
+    de: 'dienen'
+    meanings: 
+      - 
+        src: 'dienen'
+        mark: 'Vi'
+        dest: 
+          - 'serve'
+      - 
+        src: 'als [etw] dienen'
+        mark: 'Konj + Vi'
+        dest: 
+          - 'serve as'
+          - 'wait on'
+
+  - 
+    de: 'drohen'
+    meanings: 
+      - 
+        src: 'drohen'
+        mark: 'Vi'
+        dest: 
+          - 'threaten'
+          - 'seem to do'
+          - 'impend'
+
+  - 
+    de: 'einfallen'
+    meanings: 
+      - 
+        src: 'einfallen'
+        mark: 'Vi, sepa'
+        dest: 
+          - 'think of'
+          - 'remember'
+          - 'come to mind'
+          - 'collapse'
+          - 'fall in'
+
+  - 
+    de: 'erlauben'
+    meanings: 
+      - 
+        src: '[etw] erlauben'
+        mark: 'Vt'
+        dest: 
+          - 'allow'
+          - 'let'
+          - 'make'
+      - 
+        src: 'sich [etw] erlauben'
+        mark: 'Vr'
+        dest: 
+          - 'allow'
+          - 'take the liberty of doing'
+      - 
+        src: 'sich erlauben'
+        mark: 'Vr'
+        dest: 
+          - 'allow oneself doing something'
+          - 'let oneself do'
+
+  - 
+    de: 'fehlen'
+    meanings: 
+      - 
+        src: 'fehlen'
+        mark: 'Vi'
+        dest: 
+          - 'missing'
+          - 'miss'
+          - 'lack'
+          - 'be short on'
+
+  - 
+    de: 'folgen'
+    meanings: 
+      - 
+        src: 'Folge'
+        mark: 'Nf'
+        dest: 
+          - 'result'
+          - 'consequence'
+          - 'sequence'
+
+  - 
+    de: 'glauben'
+    meanings: 
+      - 
+        src: 'jmdm/[etw] glauben'
+        mark: 'Vt'
+        dest: 
+          - 'trust'
+      - 
+        src: '[etw] glauben'
+        mark: 'Vt'
+        dest: 
+          - 'think'
+          - 'believe'
+      - 
+        src: 'an [etw] glauben'
+        mark: 'Präp + Vi'
+        dest: 
+          - 'believe in'
+
+  - 
+    de: 'gratulieren'
+    meanings: 
+      - 
+        src: 'gratulieren'
+        mark: 'Vi'
+        dest: 
+          - 'congratulate'
+
+  - 
+    de: 'gefallen'
+    meanings: 
+      - 
+        src: 'Gefallen finden an'
+        mark: 'Rdw'
+        dest: 
+          - 'find joy in'
+          - 'enjoy'
+
+  - 
+    de: 'gelingen'
+    meanings: 
+      - 
+        src: 'gelingen'
+        mark: 'Vi'
+        dest: 
+          - 'work'
+          - 'succeed'
+
+  - 
+    de: 'benutzen'
+    meanings: 
+      - 
+        src: '[etw] benutzen'
+        mark: 'Vt'
+        dest: 
+          - 'use'
+      - 
+        src: '[jmd] benutzen'
+        mark: 'Vt'
+        dest: 
+          - 'use'
+
+  - 
+    de: 'passen'
+    meanings: 
+      - 
+        src: 'passen'
+        mark: 'Vi'
+        dest: 
+          - 'fit'
+          - 'work'
+          - 'pass'
+          - 'skip'
+
+  - 
+    de: 'raten'
+    meanings: 
+      - 
+        src: 'jmdm [etw] raten'
+        mark: 'Vt'
+        dest: 
+          - 'recommend'
+          - 'suggest'
+      - 
+        src: 'raten'
+        mark: 'Vi'
+        dest: 
+          - 'make a guess'
+          - 'take a guess'
+
+  - 
+    de: 'schaden'
+    meanings: 
+      - 
+        src: 'schaden'
+        mark: 'Vi'
+        dest: 
+          - 'damage'
+          - 'harm'
+          - 'do harm to'
+
+  - 
+    de: 'schmecken'
+    meanings: 
+      - 
+        src: 'schmecken'
+        mark: 'Vi'
+        dest: 
+          - 'taste like'
+      - 
+        src: '[etw] schmecken'
+        mark: 'Vt'
+        dest: 
+          - 'taste'
+
+  - 
+    de: 'vertrauen'
+    meanings: 
+      - 
+        src: 'vertrauen'
+        mark: 'Vi'
+        dest: 
+          - 'trust'
+          - 'rely on'
+
+  - 
+    de: 'winken'
+    meanings: 
+      - 
+        src: 'winken'
+        mark: 'Vi'
+        dest: 
+          - 'wave'
+
+  - 
+    de: 'zustimmen'
+    meanings: 
+      - 
+        src: 'zustimmen'
+        mark: 'Vi, sepa'
+        dest: 
+          - 'agree'
+          - 'concur'
+          - 'approve'
+          - 'accept'
+
+  - 
+    de: 'beenden'
+    meanings: 
+      - 
+        src: '[etw] beenden'
+        mark: 'Vt'
+        dest: 
+          - 'finish'
+          - 'complete'
+          - 'cancel'
+          - 'terminate'
+          - 'end'
+
+  - 
+    de: 'abbiegen'
+    meanings: 
+      - 
+        src: 'abbiegen'
+        mark: 'Vi, sepa'
+        dest: 
+          - 'turn'
+          - 'make a turn'
+          - 'change direction'
+      - 
+        src: '[etw] abbiegen'
+        mark: 'Vt, sepa'
+        dest: 
+          - 'bend'
+          - 'twist'
+
+  - 
+    de: 'werden'
+    meanings: 
+      - 
+        src: 'werden'
+        mark: 'Vi'
+        dest: 
+          - 'get'
+          - 'become'
+          - 'get'
+          - 'train'
+          - 'turn'
+          - 'become'
+
+  - 
+    de: 'schlange'
+    meanings: 
+      - 
+        src: 'Schlange'
+        mark: 'Nf'
+        dest: 
+          - 'snake'
+          - 'serpent'
+          - 'queue'
+          - 'chain, line'
+
+  - 
+    de: 'hauptstadt'
+    meanings: 
+      - 
+        src: 'Hauptstadt'
+        mark: 'Nf'
+        dest: 
+          - 'capital'
+          - 'capital city'
+
+  - 
+    de: 'kreuzung'
+    meanings: 
+      - 
+        src: 'Kreuzung'
+        mark: 'Nf'
+        dest: 
+          - 'crossroad'
+          - 'interbreeding'
+          - 'cross-breeding'
+          - 'hybridization'
+
+  - 
+    de: 'bus'
+    meanings: 
+      - 
+        src: 'Bus'
+        mark: 'Nm'
+        dest: 
+          - 'bus'
+
+  - 
+    de: 'ecke'
+    meanings: 
+      - 
+        src: 'Ecke'
+        mark: 'Nf'
+        dest: 
+          - 'corner'
+
+  - 
+    de: 'ampel'
+    meanings: 
+      - 
+        src: 'Ampel'
+        mark: 'Nf'
+        dest: 
+          - 'traffic light'
+
+  - 
+    de: 'befinden'
+    meanings: 
+      - 
+        src: 'sich befinden'
+        mark: 'Vr'
+        dest: 
+          - 'is'
+          - 'is located'
+          - 'is/are'
+      - 
+        src: '[etw] befinden'
+        mark: 'Vt'
+        dest: 
+          - 'judge'
+          - 'decide'
+          - 'find'
+          - 'think'
+
+  - 
+    de: 'hotel'
+    meanings: 
+      - 
+        src: 'Hotel'
+        mark: 'Nn'
+        dest: 
+          - 'hotel'
+
+  - 
+    de: 'fluss'
+    meanings: 
+      - 
+        src: 'Fluss'
+        mark: 'Nm'
+        dest: 
+          - 'river'
+          - 'flow'
+          - 'stream'
+
+  - 
+    de: 'insel'
+    meanings: 
+      - 
+        src: 'Insel'
+        mark: 'Nf'
+        dest: 
+          - 'island'
+
+  - 
+    de: 'zug'
+    meanings: 
+      - 
+        src: 'Zug'
+        mark: 'Nm'
+        dest: 
+          - 'train'
+          - 'take'
+          - 'draft'
+
+  - 
+    de: 'bahn'
+    meanings: 
+      - 
+        src: 'Bahn'
+        mark: 'Nf'
+        dest: 
+          - 'train'
+          - 'track'
+          - 'course'
+          - 'lane'
+          - 'circuit'
+          - 'race track'
+          - 'lane'
+
+  - 
+    de: 'schein'
+    meanings: 
+      - 
+        src: 'Schein'
+        mark: 'Nm'
+        dest: 
+          - 'certificate, document'
+          - 'note, banknote'
+          - 'bill'
+          - 'illusion'
+          - 'appearances'
+
+  - 
+    de: 'erwachsene'
+    meanings: 
+      - 
+        src: 'Erwachsener'
+        mark: 'Nm'
+        dest: 
+          - 'adult'
+          - 'grown-up, grownup'
+          - 'mature person'
+
+  - 
+    de: 'fahrplan'
+    meanings: 
+      - 
+        src: 'Fahrplan'
+        mark: 'Nm'
+        dest: 
+          - 'timetable'
+          - 'schedule'
+
+  - 
+    de: 'entscheiden'
+    meanings: 
+      - 
+        src: 'sich zwischen jmdm/[etw] entscheiden'
+        mark: 'Präp + Vr'
+        dest: 
+          - 'choose between'
+      - 
+        src: 'sich für [etw] entscheiden'
+        mark: 'Präp + Vr'
+        dest: 
+          - 'decide on'
+          - 'choose'
+          - 'pick'
+      - 
+        src: 'sich entscheiden'
+        mark: 'Vr'
+        dest: 
+          - 'decide'
+      - 
+        src: '[etw] entscheiden'
+        mark: 'Vt'
+        dest: 
+          - 'arrange'
+          - 'organize'
+
+  - 
+    de: 'eingeben'
+    meanings: 
+      - 
+        src: '[etw] eingeben'
+        mark: 'Vt, sepa'
+        dest: 
+          - 'enter'
+          - 'put in'
+          - 'pour'
+          - 'inspire'
+          - 'give'
+
+  - 
+    de: 'einzelzimmer'
+    meanings: 
+      - 
+        src: 'Einzelzimmer'
+        mark: 'Nn'
+        dest: 
+          - 'single room'
+          - 'single bedroom'
+
+  - 
+    de: 'lage'
+    meanings: 
+      - 
+        src: 'Lage'
+        mark: 'Nf'
+        dest: 
+          - 'location'
+          - 'situation'
+          - 'position'
+          - 'layer'
+
+  - 
+    de: 'sauber'
+    meanings: 
+      - 
+        src: 'sauber'
+        mark: 'Adj'
+        dest: 
+          - 'clean'
+          - 'correct'
+          - 'innocent'
+
+  - 
+    de: 'besichtigen'
+    meanings: 
+      - 
+        src: '[etw] besichtigen'
+        mark: 'Vt'
+        dest: 
+          - 'look at'
+          - 'inspect'
+          - 'tour'
+          - 'sightsee'
+          - 'visit'
+
+  - 
+    de: 'dazu'
+    meanings: 
+      - 
+        src: 'dazu'
+        mark: 'Adv'
+        dest: 
+          - 'for this purpose'
+          - 'in addition'
+          - 'to that'
+
+  - 
+    de: 'ausflug'
+    meanings: 
+      - 
+        src: 'Ausflug'
+        mark: 'Nm'
+        dest: 
+          - 'trip'
+          - 'excursion'
+          - 'journey'
+
+  - 
+    de: 'erfahrung'
+    meanings: 
+      - 
+        src: 'Erfahrung'
+        mark: 'Nf'
+        dest: 
+          - 'experience'
+          - 'know how'
+          - 'knowledge'
+
+  - 
+    de: 'gesicht'
+    meanings: 
+      - 
+        src: 'Gesicht'
+        mark: 'Nn'
+        dest: 
+          - 'face'
+          - 'make a face'
+          - 'pull a face'
+
+  - 
+    de: 'haar'
+    meanings: 
+      - 
+        src: 'Haar'
+        mark: 'Nn'
+        dest: 
+          - 'hair'
+      - 
+        src: 'Haar, Haare'
+        mark: 'Nn'
+        dest: 
+          - 'hair'
+
+  - 
+    de: 'auge'
+    meanings: 
+      - 
+        src: 'Auge'
+        mark: 'Nn'
+        dest: 
+          - 'eye'
+          - 'pip'
+      - 
+        src: 'Auge, ein Auge für etwas haben'
+        mark: 'Nn'
+        dest: 
+          - 'instinct'
+          - 'have a nack for'
+          - 'have a good eye'
+          - 'eye'
+
+  - 
+    de: 'ohr'
+    meanings: 
+      - 
+        src: 'Ohr'
+        mark: 'Nn'
+        dest: 
+          - 'ear'
+
+  - 
+    de: 'bein'
+    meanings: 
+      - 
+        src: 'Bein'
+        mark: 'Nn'
+        dest: 
+          - 'leg'
+
+  - 
+    de: 'kopf'
+    meanings: 
+      - 
+        src: 'Kopf'
+        mark: 'Nm'
+        dest: 
+          - 'head'
+
+  - 
+    de: 'arm'
+    meanings: 
+      - 
+        src: 'Arm'
+        mark: 'Nm'
+        dest: 
+          - 'arm'
+      - 
+        src: 'arm'
+        mark: 'Adj'
+        dest: 
+          - 'poor'
+          - 'needy'
+          - 'miserable'
+          - 'bleak'
+          - 'grim'
+
+  - 
+    de: 'mund'
+    meanings: 
+      - 
+        src: 'Mund'
+        mark: 'Nm'
+        dest: 
+          - 'mouth'
+          - 'pie hole'
+
+  - 
+    de: 'bauch'
+    meanings: 
+      - 
+        src: 'Bauch'
+        mark: 'Nm'
+        dest: 
+          - 'abdomen'
+          - 'stomach'
+          - 'belly'
+          - 'hold'
+      - 
+        src: 'Bauch, aus dem Bauch heraus'
+        mark: 'Nm'
+        dest: 
+          - 'gut feeling'
+          - 'instinct'
+
+  - 
+    de: 'hals'
+    meanings: 
+      - 
+        src: 'Hals'
+        mark: 'Nm'
+        dest: 
+          - 'neck'
+          - 'throat'
+
+  - 
+    de: 'hand'
+    meanings: 
+      - 
+        src: 'Hand'
+        mark: 'Nf'
+        dest: 
+          - 'hand'
+
+  - 
+    de: 'finger'
+    meanings: 
+      - 
+        src: 'Finger'
+        mark: 'Nm'
+        dest: 
+          - 'finger'
+
+  - 
+    de: 'zahn'
+    meanings: 
+      - 
+        src: 'Zahn'
+        mark: 'Nm'
+        dest: 
+          - 'tooth'
+
+  - 
+    de: 'starke'
+    meanings: 
+      - 
+        src: 'Stärke'
+        mark: 'Nf'
+        dest: 
+          - 'strength, vigor'
+          - 'power'
+          - 'strength, willpower'
+          - 'strength'
+          - 'performance'
+
+  - 
+    de: 'passieren'
+    meanings: 
+      - 
+        src: 'passieren'
+        mark: 'Vi'
+        dest: 
+          - 'happen'
+      - 
+        src: '[etw] passieren'
+        mark: 'Vt'
+        dest: 
+          - 'pass'
+          - 'cross'
+
+  - 
+    de: 'schlimm'
+    meanings: 
+      - 
+        src: 'schlimm'
+        mark: 'Adj'
+        dest: 
+          - 'serious'
+          - 'unpleasant'
+          - 'bad'
+          - 'terrible'
+
+  - 
+    de: 'brechen'
+    meanings: 
+      - 
+        src: '[etw] brechen'
+        mark: 'Vt'
+        dest: 
+          - 'break'
+          - 'violate'
+      - 
+        src: 'sich [etw] brechen'
+        mark: 'Vr'
+        dest: 
+          - 'break'
+      - 
+        src: 'brechen'
+        mark: 'Vi'
+        dest: 
+          - 'throw up'
+          - 'vomit'
+          - 'puke'
+      - 
+        src: 'mit jmdm/[etw] brechen'
+        mark: 'Adv + Vi'
+        dest: 
+          - 'break up with'
+          - 'split up with'
+      - 
+        src: 'sich brechen'
+        mark: 'Vr'
+        dest: 
+          - 'crash'
+          - 'break'
+      - 
+        src: 'jmdn brechen'
+        mark: 'Vt'
+        dest: 
+          - 'break'
+
+  - 
+    de: 'los'
+    meanings: 
+      - 
+        src: 'los'
+        mark: 'Adj'
+        dest: 
+          - 'separate'
+          - 'free'
+
+  - 
+    de: 'vereinbaren'
+    meanings: 
+      - 
+        src: '[etw] vereinbaren'
+        mark: 'Vt'
+        dest: 
+          - 'agree on'
+          - 'organize'
+          - 'arrange'
+      - 
+        src: '[etw] mit [etw] vereinbaren'
+        mark: 'Adv + Vt'
+        dest: 
+          - 'reconcile'
+          - 'manage'
+          - 'be able to handle'
+
+  - 
+    de: 'absagen'
+    meanings: 
+      - 
+        src: 'Absage'
+        mark: 'Nf'
+        dest: 
+          - 'rejection'
+          - 'refusal'
+          - 'turndown'
+          - 'cancellation'
+
+  - 
+    de: 'verschieben'
+    meanings: 
+      - 
+        src: '[etw] verschieben'
+        mark: 'Vt'
+        dest: 
+          - 'shift'
+          - 'push'
+          - 'postpone'
+      - 
+        src: 'sich verschieben'
+        mark: 'Vr'
+        dest: 
+          - 'shift'
+          - 'move'
+          - 'move'
+          - 'reschedule'
+
+  - 
+    de: 'husten'
+    meanings: 
+      - 
+        src: 'husten'
+        mark: 'Vi'
+        dest: 
+          - 'cough'
+
+  - 
+    de: 'niesen'
+    meanings: 
+      - 
+        src: 'niesen'
+        mark: 'Vi'
+        dest: 
+          - 'sneeze'
+
+  - 
+    de: 'gesundheit'
+    meanings: 
+      - 
+        src: 'Gesundheit'
+        mark: 'Nf'
+        dest: 
+          - 'health'
+
+  - 
+    de: 'wandern'
+    meanings: 
+      - 
+        src: 'wandern'
+        mark: 'Vi'
+        dest: 
+          - 'hike'
+
+  - 
+    de: 'freuen'
+    meanings: 
+      - 
+        src: 'freuen'
+        mark: 'Vr'
+        dest: 
+          - 'be happy'
+          - 'be pleased'
+      - 
+        src: 'sich auf [etw] freuen'
+        mark: 'Präp + Vr'
+        dest: 
+          - 'look forward to'
+
+  - 
+    de: 'entschuldigen'
+    meanings: 
+      - 
+        src: 'sich entschuldigen'
+        mark: 'Vr'
+        dest: 
+          - 'apologize'
+          - 'excuse yourself'
+
+  - 
+    de: 'vorne'
+    meanings: 
+      - 
+        src: 'vorne, vorn'
+        mark: 'Adv'
+        dest: 
+          - 'in front'
+          - 'front'
+
+  - 
+    de: 'oben'
+    meanings: 
+      - 
+        src: 'oben'
+        mark: 'Adv'
+        dest: 
+          - 'above'
+          - 'upper'
+          - 'at the top'
+          - 'on the top'
+          - 'on the surface'
+          - 'northern'
+
+  - 
+    de: 'demselben'
+    meanings: 
+      - 
+        src: 'demselben'
+        mark: 'Pron'
+        dest: 
+          - 'the same'
+
+  - 
+    de: 'unten'
+    meanings: 
+      - 
+        src: 'unten'
+        mark: 'Adv'
+        dest: 
+          - 'at the bottom'
+          - 'below'
+          - 'bottom'
+          - 'down south'
+          - 'down below'
+
+  - 
+    de: 'erhalten'
+    meanings: 
+      - 
+        src: '[etw] erhalten'
+        mark: 'Vt'
+        dest: 
+          - 'get'
+          - 'receive'
+          - 'obtain'
+          - 'maintain'
+          - 'preserve'
+      - 
+        src: 'sich erhalten'
+        mark: 'Vr'
+        dest: 
+          - 'sustain'
+          - 'conserve'
+          - 'preserve'
+      - 
+        src: 'erhalten, replace. [etw]/jmdn erhalten'
+        mark: 'Vt'
+        dest: 
+          - 'nourish'
+          - 'care for'
+
+  - 
+    de: 'koffer'
+    meanings: 
+      - 
+        src: 'Koffer'
+        mark: 'Nm'
+        dest: 
+          - 'suitcase'
+          - 'case'
+
+  - 
+    de: 'ankommen'
+    meanings: 
+      - 
+        src: 'ankommen (auf etwas)'
+        mark: 'Partv tr, sepa'
+        dest: 
+          - 'depend'
+
+  - 
+    de: 'abfahrt'
+    meanings: 
+      - 
+        src: 'Abfahrt'
+        mark: 'Nf'
+        dest: 
+          - 'departure'
+          - 'start'
+          - 'exit'
+
+  - 
+    de: 'abflug'
+    meanings: 
+      - 
+        src: 'Abflug'
+        mark: 'Nm'
+        dest: 
+          - 'departure'
+          - 'takeoff'
+
+  - 
+    de: 'ankunft'
+    meanings: 
+      - 
+        src: 'Ankunft'
+        mark: 'Nf'
+        dest: 
+          - 'arrival'
+
+  - 
+    de: 'anschluss'
+    meanings: 
+      - 
+        src: 'Anschluss'
+        mark: 'Nm'
+        dest: 
+          - 'connection'
+          - 'keep up'
+          - 'connection'
+          - 'contact'
+
+  - 
+    de: 'vergessen'
+    meanings: 
+      - 
+        src: '[etw] vergessen'
+        mark: 'Vt'
+        dest: 
+          - 'forget'
+          - 'suppress'
+
+  - 
+    de: 'verloren'
+    meanings: 
+      - 
+        src: 'verloren'
+        mark: 'Adj'
+        dest: 
+          - 'lost'
+          - 'doomed'
+
+  - 
+    de: 'entstehen'
+    meanings: 
+      - 
+        src: 'entstehen'
+        mark: 'Vi'
+        dest: 
+          - 'develop'
+          - 'arise'
+          - 'occur'
+          - 'emerge'
+
+  - 
+    de: 'rund'
+    meanings: 
+      - 
+        src: 'rund'
+        mark: 'Adj'
+        dest: 
+          - 'round, circular'
+          - 'rounded'
+          - 'busy, chaotic'
+      - 
+        src: 'rund'
+        mark: 'Adv'
+        dest: 
+          - 'around, roughly'
+
+  - 
+    de: 'raum'
+    meanings: 
+      - 
+        src: 'Raum'
+        mark: 'Nm'
+        dest: 
+          - 'room'
+          - 'chamber'
+          - 'space, range'
+          - 'sphere'
+          - 'space'
+          - 'outer space'
+
+  - 
+    de: 'ereignis'
+    meanings: 
+      - 
+        src: 'Ereignis'
+        mark: 'Nn'
+        dest: 
+          - 'event'
+          - 'occurrence'
+          - 'incident'
+
+  - 
+    de: 'namen'
+    meanings: 
+      - 
+        src: 'Name'
+        mark: 'Nm'
+        dest: 
+          - 'name'
+          - 'reputation'
+          - 'name'
+
+  - 
+    de: 'eigenschaft'
+    meanings: 
+      - 
+        src: 'Eigenschaft'
+        mark: 'Nf'
+        dest: 
+          - 'characteristic'
+          - 'quality'
+          - 'trait'
+          - 'feature'
+          - 'property'
+          - 'quality'
+
+  - 
+    de: 'bekannte'
+    meanings: 
+      - 
+        src: 'Bekannte'
+        mark: 'Nf'
+        dest: 
+          - 'acquaintance'
+
+  - 
+    de: 'verbinden'
+    meanings: 
+      - 
+        src: '[etw] verbinden'
+        mark: 'Vt'
+        dest: 
+          - 'bandage'
+          - 'connect'
+          - 'link'
+          - 'join'
+          - 'conceal'
+
+  - 
+    de: 'fast'
+    meanings: 
+      - 
+        src: 'fast'
+        mark: 'Adv'
+        dest: 
+          - 'almost'
+          - 'nearly'
+
+  - 
+    de: 'bestimmt'
+    meanings: 
+      - 
+        src: 'bestimmt'
+        mark: 'Adv'
+        dest: 
+          - 'definitely'
+          - 'certainly'
+      - 
+        src: 'bestimmt'
+        mark: 'Adj'
+        dest: 
+          - 'certain'
+          - 'definite'
+      - 
+        src: 'bestimmt'
+        mark: 'V Part Perf'
+        dest: 
+          - 'predetermined'
+
+  - 
+    de: 'besonders'
+    meanings: 
+      - 
+        src: 'besonders'
+        mark: 'Adv'
+        dest: 
+          - 'especially'
+          - 'very'
+
+  - 
+    de: 'especially'
+    meanings: 
+      - 
+        src: 'especially'
+        mark: 'adv'
+        dest: 
+          - 'besonders'
+          - 'insbesondere'
+          - 'gerade'
+          - 'vor allem'
+
+  - 
+    de: 'normalerweise'
+    meanings: 
+      - 
+        src: 'normalerweise'
+        mark: 'Adv'
+        dest: 
+          - 'normally'
+          - 'usually'
+
+  - 
+    de: 'reden'
+    meanings: 
+      - 
+        src: 'reden'
+        mark: 'Vi'
+        dest: 
+          - 'speak'
+          - 'talk'
+          - 'say'
+          - 'talk about'
+          - 'discuss'
+
+  - 
+    de: 'vorstellen'
+    meanings: 
+      - 
+        src: 'sich [etw] vorstellen'
+        mark: 'Vr, sepa'
+        dest: 
+          - 'imagine'
+          - 'visualize'
+      - 
+        src: 'sich vorstellen'
+        mark: 'Vr, sepa'
+        dest: 
+          - 'introduce'
+      - 
+        src: 'jmdn vorstellen'
+        mark: 'Vt, sepa'
+        dest: 
+          - 'introduce'
+      - 
+        src: '[etw] vorstellen'
+        mark: 'Vt, sepa'
+        dest: 
+          - 'move'
+          - 'put'
+
+  - 
+    de: 'leistung'
+    meanings: 
+      - 
+        src: 'Leistung'
+        mark: 'Nf'
+        dest: 
+          - 'performance'
+          - 'achievement'
+          - 'efficiency'
+
+  - 
+    de: 'kaputt'
+    meanings: 
+      - 
+        src: 'kaputt'
+        mark: 'Adj'
+        dest: 
+          - 'broken'
+          - 'torn'
+          - 'kaput'
+          - 'broken'
+
+  - 
+    de: 'reise'
+    meanings: 
+      - 
+        src: 'Reise'
+        mark: 'Nf'
+        dest: 
+          - 'journey, trip'
+          - 'voyage'
+          - 'travel, trip'
+
+  - 
+    de: 'brief'
+    meanings: 
+      - 
+        src: 'Brief'
+        mark: 'Nm'
+        dest: 
+          - 'letter'
+
+  - 
+    de: 'dringend'
+    meanings: 
+      - 
+        src: 'dringend'
+        mark: 'Adj'
+        dest: 
+          - 'urgent'
+          - 'desperate'
+          - 'urgent'
+          - 'badly'
+          - 'urgently'
+
+  - 
+    de: 'weit'
+    meanings: 
+      - 
+        src: 'weit'
+        mark: 'Adj'
+        dest: 
+          - 'extensive'
+          - 'large'
+          - 'far'
+          - 'broad'
+
+  - 
+    de: 'versuchen'
+    meanings: 
+      - 
+        src: '[etw] versuchen'
+        mark: 'Vt'
+        dest: 
+          - 'try'
+          - 'attempt'
+          - 'taste'
+      - 
+        src: 'sich versuchen'
+        mark: 'Vr'
+        dest: 
+          - 'dabble'
+          - 'try'
+          - 'attempt'
+
+  - 
+    de: 'weg'
+    meanings: 
+      - 
+        src: 'weg'
+        mark: 'Adv'
+        dest: 
+          - 'far away, far off'
+          - 'gone'
+
+  - 
+    de: 'liegen'
+    meanings: 
+      - 
+        src: 'liegen'
+        mark: 'Vi'
+        dest: 
+          - 'lie'
+          - 'located'
+          - 'be'
+
+  - 
+    de: 'einige'
+    meanings: 
+      - 
+        src: 'einige'
+        mark: 'Pron'
+        dest: 
+          - 'several'
+          - 'some'
+          - 'a few'
+
+  - 
+    de: 'lassen'
+    meanings: 
+      - 
+        src: 'jmdn/[etw] [etw] tun lassen'
+        mark: 'VP'
+        dest: 
+          - 'let'
+      - 
+        src: '[etw] lassen'
+        mark: 'Vt'
+        dest: 
+          - 'leave'
+          - 'let'
+
+  - 
+    de: 'anspringen'
+    meanings: 
+      - 
+        src: 'auf [etw] anspringen'
+        mark: 'Rdw'
+        dest: 
+          - 'jump at'
+      - 
+        src: 'nicht anspringen'
+        mark: 'Part + Vi'
+        dest: 
+          - 'not start'
+          - 'not turn over'
+          - 'not jump in'
+
+  - 
+    de: 'ersatzteile'
+    meanings: 
+      - 
+        src: 'Ersatzteil'
+        mark: 'Nn'
+        dest: 
+          - 'spare part'
+
+  - 
+    de: 'passend'
+    meanings: 
+      - 
+        src: 'passend'
+        mark: 'Adj'
+        dest: 
+          - 'appropriate amount'
+          - 'suitable'
+          - 'appropriate'
+
+  - 
+    de: 'entweder'
+    meanings: 
+      - 
+        src: 'entweder, entweder...oder'
+        mark: 'Konj'
+        dest: 
+          - 'either'
+
+  - 
+    de: 'eher'
+    meanings: 
+      - 
+        src: 'eher'
+        mark: 'Adv'
+        dest: 
+          - 'earlier'
+          - 'sooner'
+          - 'rather'
+          - 'preferably'
+
+  - 
+    de: 'Fortsetzung'
+    meanings: 
+      - 
+        src: 'Fortsetzung'
+        mark: 'Nf'
+        dest: 
+          - 'continuation'
+          - 'resumption'
+          - 'episode'
+
+  - 
+    de: 'ding'
+    meanings: 
+      - 
+        src: 'Ding'
+        mark: 'Nn'
+        dest: 
+          - 'thing'
+          - 'matter'
+          - 'affair'
+
+  - 
+    de: 'sache'
+    meanings: 
+      - 
+        src: 'Sache'
+        mark: 'Nf'
+        dest: 
+          - 'thing'
+          - 'matter'
+          - 'issue'
+          - 'object'
+          - 'goal'
+          - 'cause'
+          - 'things'
+          - 'item'
+          - 'case'
+          - 'matter'
+
+  - 
+    de: 'gesetz'
+    meanings: 
+      - 
+        src: 'Gesetz'
+        mark: 'Nn'
+        dest: 
+          - 'law'
+
+  - 
+    de: 'verhalten'
+    meanings: 
+      - 
+        src: 'verhalten'
+        mark: 'Vr'
+        dest: 
+          - 'react'
+          - 'to be to'
+          - 'behave'
+      - 
+        src: 'verhalten'
+        mark: 'Adj'
+        dest: 
+          - 'restrained'
+
+  - 
+    de: 'ziemlich'
+    meanings: 
+      - 
+        src: 'ziemlich'
+        mark: 'Adj'
+        dest: 
+          - 'seemly'
+      - 
+        src: 'ziemlich'
+        mark: 'Adv'
+        dest: 
+          - 'fairly'
+          - 'pretty'
+          - 'quite'
+
+  - 
+    de: 'wirklich'
+    meanings: 
+      - 
+        src: 'wirklich'
+        mark: 'Adj'
+        dest: 
+          - 'real'
+      - 
+        src: 'wirklich'
+        mark: 'Adv'
+        dest: 
+          - 'really'
+
+  - 
+    de: 'wirken'
+    meanings: 
+      - 
+        src: 'wirken'
+        mark: 'Vi'
+        dest: 
+          - 'appear'
+          - 'seem'
+          - 'have an effect'
+          - 'work'
+
+  - 
+    de: 'unterscheiden'
+    meanings: 
+      - 
+        src: '[etw]/jmdn unterscheiden'
+        mark: 'Vt, fix'
+        dest: 
+          - 'tell'
+          - 'distinguish'
+          - 'point out'
+          - 'identify'
+      - 
+        src: 'sich unterscheiden'
+        mark: 'Vr, fix'
+        dest: 
+          - 'differ'
+          - 'be characteristic'
+          - 'tell apart'
+          - 'distinguish'
+
+
+broken: 
+  - 'küste'
+  - 'mütze'
+  - 'quatsch'
+  - 'vershieden'
+  - 'aufhören'
+  - 'mitkommen'
+  - 'wunderschön'
+  - 'änheln'
+  - 'befehlen'
+  - 'entgegnen'
+  - 'gehorchen'
+  - 'gehören'
+  - 'genügen'
+  - 'gechehen'
+  - 'nützen'
+  - 'verzeihen'
+  - 'wiedersprechen'
+  - 'straße'
+  - 'geschäft'
+  - 'brauhaus'
+  - 'Sehenswürdigkeit'
+  - 'geradeaus'
+  - 'münze'
+  - 'banknite'
+  - 'wechselgeld'
+  - 'wählen'
+  - 'auswählen'
+  - 'entwerten'
+  - 'stempelln'
+  - 'doppelzimmer'
+  - 'füllen'
+  - 'gepäck'
+  - 'draußen'
+  - 'zubereiten'
+  - 'rücken'
+  - 'sußigkeit'
+  - 'erkältet'
+  - 'wohlfühlen'
+  - 'vorbeikommen'
+  - 'ändern'
+  - 'verletzen'
+  - 'gebrochen'
+  - 'aufhören'
+  - 'verlieben'
+  - 'drüben'
+  - 'zusätlichen'
+  - 'abfiegen'
+  - 'verspätung'
+  - 'umstiegen'
+  - 'aufstieg'
+  - 'ausgestorben'
+  - 'aufzulösen'
+  - 'urknoll'
+  - 'grundlegenden'
+  - 'berühmten'
+  - 'getränk'
+  - 'buchstabieren'
+  - 'nachshauen'
+  - 'ungefähr'
+  - 'ingesamt'
+  - 'enwickeln'
+  - 'draußen'
+  - 'urahn'
+  - 'vertrautheit'
