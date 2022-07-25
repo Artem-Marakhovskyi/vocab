@@ -1,3 +1,4 @@
+import 'dart:convert';
 import 'dart:io';
 
 import 'package:vocab/dict/input/input_dict.dart';
@@ -17,6 +18,9 @@ void main(List<String> arguments) async {
   // f = await File('${Directory.current.path}/../vocabulary/index3.html')
   //     .readAsString();
   // print(processHtml(f));
+
+  // var s = await WordReferenceApi().getHtml('de', 'en', 'münze');
+  // File('${Directory.current.path}/../vocabulary/index.html').writeAsString(s);
   var existingDict = ExistingDict(
       '${Directory.current.path}/../vocabulary/vocabulary-de.yaml');
   await existingDict.load();
