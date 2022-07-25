@@ -46,6 +46,22 @@ class ExistingDict {
     }
   }
 
+  void addBroken(String term) {
+    if (brokenWords.contains(term)) {
+      return;
+    }
+
+    brokenWords.add(term);
+  }
+
+  void addWord(WordEntity wordEntity) {
+    brokenWords.remove(wordEntity.de);
+    words.add(wordEntity);
+  }
+
+  bool containsTerm(String term) =>
+      words.any((element) => element.de == term) || brokenWords.contains(term);
+
   void flushToJson() {
     var wordsList = [];
     for (var word in words) {

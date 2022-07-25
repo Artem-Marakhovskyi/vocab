@@ -21,6 +21,7 @@ void main(List<String> arguments) async {
 
   // var s = await WordReferenceApi().getHtml('de', 'en', 'münze');
   // File('${Directory.current.path}/../vocabulary/index.html').writeAsString(s);
+
   var existingDict = ExistingDict(
       '${Directory.current.path}/../vocabulary/vocabulary-de.yaml');
   await existingDict.load();

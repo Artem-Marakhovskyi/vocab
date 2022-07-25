@@ -14,23 +14,30 @@ class Translator {
   Translator(this._inputDict, this.existingDict, this.parser, this.api) {}
 
   Future loadTranslations() async {
+    for (var term in existingDict.brokenWords) {
+      print('fixing broken: $term');
+      loadTranslation(term);
+    }
+
     for (var term in _inputDict.terms) {
-      if (existingDict.words.any((element) => element.de == term)) {
+      if (existingDict.containsTerm(term)) {
         continue;
       }
-
       print('working on: $term');
-      var html =
-          await api.getHtml(_inputDict.srcLang, _inputDict.destLang, term);
-      var word = parser.processHtml(html);
-      if (word == null) {
-        print('\t$term - broken');
-        existingDict.brokenWords.add(term);
-      } else {
-        print('\t$term - success');
-        existingDict.words.add(word);
-      }
+      await loadTranslation(term);
       existingDict.flushToJson();
+    }
+  }
+
+  Future loadTranslation(String term) async {
+    var html = await api.getHtml(_inputDict.srcLang, _inputDict.destLang, term);
+    var word = parser.processHtml(html);
+    if (word == null) {
+      print('\t$term - broken');
+      existingDict.addBroken(term);
+    } else {
+      print('\t$term - success');
+      existingDict.addWord(word);
     }
   }
 }

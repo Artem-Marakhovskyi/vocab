@@ -1,4 +1,4 @@
-lastUpdated: '2022-07-22 17:03:47.858640'
+lastUpdated: '2022-07-25 18:48:32.265440'
 words: 
   - 
     de: 'abholen'
@@ -2109,13 +2109,147 @@ words:
           - 'tell apart'
           - 'distinguish'
 
+  - 
+    de: 'küste'
+    meanings: 
+      - 
+        src: 'Küste'
+        mark: 'Nf'
+        dest: 
+          - 'coast'
+
+  - 
+    de: 'draußen'
+    meanings: 
+      - 
+        src: 'draußen'
+        mark: 'Adv'
+        dest: 
+          - 'outside'
+
+  - 
+    de: 'aufhören'
+    meanings: 
+      - 
+        src: 'aufhören'
+        mark: 'Vi, sepa'
+        dest: 
+          - 'stop'
+          - 'end'
+
+  - 
+    de: 'wählen'
+    meanings: 
+      - 
+        src: '[etw] wählen'
+        mark: 'Vt'
+        dest: 
+          - 'choose'
+      - 
+        src: 'jmdn/[etw] wählen'
+        mark: 'Vt'
+        dest: 
+          - 'vote'
+          - 'go to the polls'
+          - 'elect'
+
+  - 
+    de: 'Sehenswürdigkeit'
+    meanings: 
+      - 
+        src: 'Sehenswürdigkeit'
+        mark: 'Nf'
+        dest: 
+          - 'sight'
+          - 'place of interest, tourist attraction'
+
+  - 
+    de: 'sußigkeit'
+    meanings: 
+      - 
+        src: 'Süßigkeit'
+        mark: 'Nf'
+        dest: 
+          - 'candy'
+          - 'sweets'
+          - 'lollies'
+
+  - 
+    de: 'nützen'
+    meanings: 
+      - 
+        src: 'Nutzen'
+        mark: 'Nm'
+        dest: 
+          - 'advantage'
+          - 'benefit'
+          - 'use'
+
+  - 
+    de: 'gepäck'
+    meanings: 
+      - 
+        src: 'Gepäck'
+        mark: 'Nn'
+        dest: 
+          - 'luggage'
+          - 'baggage'
+
+  - 
+    de: 'auswählen'
+    meanings: 
+      - 
+        src: 'auswählen'
+        mark: 'Vt, sepa'
+        dest: 
+          - 'choose'
+          - 'select'
+          - 'pick'
+
+  - 
+    de: 'wohlfühlen'
+    meanings: 
+      - 
+        src: 'sich wohlfühlen'
+        mark: 'Vr, sepa'
+        dest: 
+          - 'feel good, feel happy, be comfortable'
+
+  - 
+    de: 'draußen'
+    meanings: 
+      - 
+        src: 'draußen'
+        mark: 'Adv'
+        dest: 
+          - 'outside'
+
+  - 
+    de: 'bestimmt'
+    meanings: 
+      - 
+        src: 'bestimmt'
+        mark: 'Adv'
+        dest: 
+          - 'definitely'
+          - 'certainly'
+      - 
+        src: 'bestimmt'
+        mark: 'Adj'
+        dest: 
+          - 'certain'
+          - 'definite'
+      - 
+        src: 'bestimmt'
+        mark: 'V Part Perf'
+        dest: 
+          - 'predetermined'
+
 
 broken: 
-  - 'küste'
   - 'mütze'
   - 'quatsch'
   - 'vershieden'
-  - 'aufhören'
   - 'mitkommen'
   - 'wunderschön'
   - 'änheln'
@@ -2125,30 +2259,22 @@ broken:
   - 'gehören'
   - 'genügen'
   - 'gechehen'
-  - 'nützen'
   - 'verzeihen'
   - 'wiedersprechen'
   - 'straße'
   - 'geschäft'
   - 'brauhaus'
-  - 'Sehenswürdigkeit'
   - 'geradeaus'
   - 'münze'
   - 'banknite'
   - 'wechselgeld'
-  - 'wählen'
-  - 'auswählen'
   - 'entwerten'
   - 'stempelln'
   - 'doppelzimmer'
   - 'füllen'
-  - 'gepäck'
-  - 'draußen'
   - 'zubereiten'
   - 'rücken'
-  - 'sußigkeit'
   - 'erkältet'
-  - 'wohlfühlen'
   - 'vorbeikommen'
   - 'ändern'
   - 'verletzen'
@@ -2172,6 +2298,5 @@ broken:
   - 'ungefähr'
   - 'ingesamt'
   - 'enwickeln'
-  - 'draußen'
   - 'urahn'
   - 'vertrautheit'
