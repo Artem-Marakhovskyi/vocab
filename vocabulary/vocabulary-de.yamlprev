@@ -1,4 +1,4 @@
-lastUpdated: '2022-07-22 17:03:47.858640'
+lastUpdated: '2022-07-25 19:58:41.971194'
 words: 
   - 
     de: 'abholen'
@@ -199,6 +199,15 @@ words:
           - 'make'
 
   - 
+    de: 'küste'
+    meanings: 
+      - 
+        src: 'Küste'
+        mark: 'Nf'
+        dest: 
+          - 'coast'
+
+  - 
     de: 'tauchen'
     meanings: 
       - 
@@ -206,6 +215,16 @@ words:
         mark: 'Vi'
         dest: 
           - 'dive'
+
+  - 
+    de: 'mütze'
+    meanings: 
+      - 
+        src: 'Mütze'
+        mark: 'Nf'
+        dest: 
+          - 'cap'
+          - 'beanie'
 
   - 
     de: 'langweilig'
@@ -237,6 +256,16 @@ words:
           - 'fool around'
           - 'prank'
           - 'get up to no good'
+
+  - 
+    de: 'quatsch'
+    meanings: 
+      - 
+        src: 'Quatsch'
+        mark: 'm'
+        dest: 
+          - 'rubbish'
+          - 'crap'
 
   - 
     de: 'verbessern'
@@ -301,6 +330,16 @@ words:
           - 'actually'
 
   - 
+    de: 'aufhören'
+    meanings: 
+      - 
+        src: 'aufhören'
+        mark: 'Vi, sepa'
+        dest: 
+          - 'stop'
+          - 'end'
+
+  - 
     de: 'kennen'
     meanings: 
       - 
@@ -339,6 +378,15 @@ words:
         dest: 
           - 'soon'
           - 'shortly'
+
+  - 
+    de: 'mitkommen'
+    meanings: 
+      - 
+        src: 'mitkommen'
+        mark: 'v/i (irr, trennb, ist -ge-)'
+        dest: 
+          - 'come (along) too'
 
   - 
     de: 'ausbildung'
@@ -465,6 +513,16 @@ words:
           - 'wonderful'
 
   - 
+    de: 'wunderschön'
+    meanings: 
+      - 
+        src: 'wunderschön'
+        mark: 'adj'
+        dest: 
+          - 'wonderful'
+          - 'beautiful'
+
+  - 
     de: 'antworten'
     meanings: 
       - 
@@ -495,6 +553,15 @@ words:
         dest: 
           - 'avoid'
           - 'evade'
+
+  - 
+    de: 'befehlen'
+    meanings: 
+      - 
+        src: 'befehlen'
+        mark: 'befiehlt, befahl, hat befohlen'
+        dest: 
+          - ';'
 
   - 
     de: 'begegnen'
@@ -559,6 +626,15 @@ words:
           - 'come to mind'
           - 'collapse'
           - 'fall in'
+
+  - 
+    de: 'entgegnen'
+    meanings: 
+      - 
+        src: 'entgegnen'
+        mark: 'v/t & v/i'
+        dest: 
+          - 'reply'
 
   - 
     de: 'erlauben'
@@ -646,6 +722,36 @@ words:
           - 'enjoy'
 
   - 
+    de: 'gehorchen'
+    meanings: 
+      - 
+        src: 'gehorchen'
+        mark: 'v/i'
+        dest: 
+          - ':'
+
+  - 
+    de: 'gehören'
+    meanings: 
+      - 
+        src: 'jmdm gehören'
+        mark: 'Vi'
+        dest: 
+          - 'belong to'
+      - 
+        src: 'zu jmdm/[etw] gehören'
+        mark: 'Präp + Vi'
+        dest: 
+          - 'belong with'
+          - 'belong to'
+      - 
+        src: 'gehören'
+        mark: 'Vi'
+        dest: 
+          - 'require'
+          - 'need'
+
+  - 
     de: 'gelingen'
     meanings: 
       - 
@@ -654,6 +760,33 @@ words:
         dest: 
           - 'work'
           - 'succeed'
+
+  - 
+    de: 'genügen'
+    meanings: 
+      - 
+        src: 'genügen'
+        mark: 'Vi'
+        dest: 
+          - 'suffice'
+          - 'be enough'
+      - 
+        src: 'jmdm/[etw] genügen'
+        mark: 'Vi'
+        dest: 
+          - 'satisfy'
+          - 'fulfil'
+
+  - 
+    de: 'nützen'
+    meanings: 
+      - 
+        src: 'Nutzen'
+        mark: 'Nm'
+        dest: 
+          - 'advantage'
+          - 'benefit'
+          - 'use'
 
   - 
     de: 'benutzen'
@@ -731,6 +864,15 @@ words:
         dest: 
           - 'trust'
           - 'rely on'
+
+  - 
+    de: 'verzeihen'
+    meanings: 
+      - 
+        src: 'verzeihen'
+        mark: 'v/t & v/i (irr)'
+        dest: 
+          - 'forgive'
 
   - 
     de: 'winken'
@@ -820,6 +962,18 @@ words:
           - 'capital city'
 
   - 
+    de: 'straße'
+    meanings: 
+      - 
+        src: 'Straße'
+        mark: 'Nf'
+        dest: 
+          - 'street, road'
+          - 'street, neighborhood'
+          - 'strait'
+          - 'passage'
+
+  - 
     de: 'kreuzung'
     meanings: 
       - 
@@ -878,6 +1032,18 @@ words:
           - 'think'
 
   - 
+    de: 'geschäft'
+    meanings: 
+      - 
+        src: 'Geschäft'
+        mark: 'Nn'
+        dest: 
+          - 'shop'
+          - 'store'
+          - 'deal'
+          - 'income'
+
+  - 
     de: 'hotel'
     meanings: 
       - 
@@ -907,6 +1073,25 @@ words:
           - 'island'
 
   - 
+    de: 'brauhaus'
+    meanings: 
+      - 
+        src: 'Brauhaus'
+        mark: 'n'
+        dest: 
+          - 'brewery'
+
+  - 
+    de: 'Sehenswürdigkeit'
+    meanings: 
+      - 
+        src: 'Sehenswürdigkeit'
+        mark: 'Nf'
+        dest: 
+          - 'sight'
+          - 'place of interest, tourist attraction'
+
+  - 
     de: 'zug'
     meanings: 
       - 
@@ -931,6 +1116,15 @@ words:
           - 'circuit'
           - 'race track'
           - 'lane'
+
+  - 
+    de: 'münze'
+    meanings: 
+      - 
+        src: 'Münze'
+        mark: 'Nf'
+        dest: 
+          - 'coin'
 
   - 
     de: 'schein'
@@ -965,6 +1159,42 @@ words:
         dest: 
           - 'timetable'
           - 'schedule'
+
+  - 
+    de: 'wechselgeld'
+    meanings: 
+      - 
+        src: 'Wechselgeld'
+        mark: 'n'
+        dest: 
+          - 'change'
+
+  - 
+    de: 'wählen'
+    meanings: 
+      - 
+        src: '[etw] wählen'
+        mark: 'Vt'
+        dest: 
+          - 'choose'
+      - 
+        src: 'jmdn/[etw] wählen'
+        mark: 'Vt'
+        dest: 
+          - 'vote'
+          - 'go to the polls'
+          - 'elect'
+
+  - 
+    de: 'auswählen'
+    meanings: 
+      - 
+        src: 'auswählen'
+        mark: 'Vt, sepa'
+        dest: 
+          - 'choose'
+          - 'select'
+          - 'pick'
 
   - 
     de: 'entscheiden'
@@ -1007,6 +1237,15 @@ words:
           - 'give'
 
   - 
+    de: 'entwerten'
+    meanings: 
+      - 
+        src: 'entwerten'
+        mark: 'v/t'
+        dest: 
+          - ':'
+
+  - 
     de: 'einzelzimmer'
     meanings: 
       - 
@@ -1015,6 +1254,56 @@ words:
         dest: 
           - 'single room'
           - 'single bedroom'
+
+  - 
+    de: 'doppelzimmer'
+    meanings: 
+      - 
+        src: 'Doppelzimmer'
+        mark: 'n'
+        dest: 
+          - 'double room'
+
+  - 
+    de: 'füllen'
+    meanings: 
+      - 
+        src: '[etw] füllen'
+        mark: 'Vt'
+        dest: 
+          - 'fill'
+          - 'occupy'
+      - 
+        src: '[etw] in [etw] füllen'
+        mark: 'Präp + Vt'
+        dest: 
+          - 'fill'
+          - 'pour'
+          - 'take'
+      - 
+        src: 'sich füllen'
+        mark: 'Vr'
+        dest: 
+          - 'fill'
+
+  - 
+    de: 'gepäck'
+    meanings: 
+      - 
+        src: 'Gepäck'
+        mark: 'Nn'
+        dest: 
+          - 'luggage'
+          - 'baggage'
+
+  - 
+    de: 'draußen'
+    meanings: 
+      - 
+        src: 'draußen'
+        mark: 'Adv'
+        dest: 
+          - 'outside'
 
   - 
     de: 'lage'
@@ -1062,6 +1351,15 @@ words:
           - 'for this purpose'
           - 'in addition'
           - 'to that'
+
+  - 
+    de: 'zubereiten'
+    meanings: 
+      - 
+        src: 'zubereiten'
+        mark: 'v/t (trennb, hat)'
+        dest: 
+          - 'prepare'
 
   - 
     de: 'ausflug'
@@ -1184,6 +1482,21 @@ words:
           - 'pie hole'
 
   - 
+    de: 'rücken'
+    meanings: 
+      - 
+        src: 'rücken'
+        mark: 'Vi'
+        dest: 
+          - 'move over'
+          - 'scoot over'
+      - 
+        src: '[etw] rücken'
+        mark: 'Vt'
+        dest: 
+          - 'move'
+
+  - 
     de: 'bauch'
     meanings: 
       - 
@@ -1250,6 +1563,17 @@ words:
           - 'strength, willpower'
           - 'strength'
           - 'performance'
+
+  - 
+    de: 'sußigkeit'
+    meanings: 
+      - 
+        src: 'Süßigkeit'
+        mark: 'Nf'
+        dest: 
+          - 'candy'
+          - 'sweets'
+          - 'lollies'
 
   - 
     de: 'passieren'
@@ -1346,6 +1670,39 @@ words:
           - 'be able to handle'
 
   - 
+    de: 'wohlfühlen'
+    meanings: 
+      - 
+        src: 'sich wohlfühlen'
+        mark: 'Vr, sepa'
+        dest: 
+          - 'feel good, feel happy, be comfortable'
+
+  - 
+    de: 'vorbeikommen'
+    meanings: 
+      - 
+        src: 'vorbeikommen'
+        mark: 'v/i (irr, trennb, ist -ge-)'
+        dest: 
+          - 'pass (by)'
+          - 'come past'
+
+  - 
+    de: 'ändern'
+    meanings: 
+      - 
+        src: '[etw]/jmdn ändern'
+        mark: 'Vt'
+        dest: 
+          - 'influence'
+      - 
+        src: 'ändern'
+        mark: 'Vr'
+        dest: 
+          - 'change'
+
+  - 
     de: 'absagen'
     meanings: 
       - 
@@ -1375,6 +1732,16 @@ words:
           - 'move'
           - 'move'
           - 'reschedule'
+
+  - 
+    de: 'verletzen'
+    meanings: 
+      - 
+        src: 'verletzen'
+        mark: 'v/t'
+        dest: 
+          - 'hurt'
+          - 'injure'
 
   - 
     de: 'husten'
@@ -1428,6 +1795,15 @@ words:
           - 'look forward to'
 
   - 
+    de: 'verlieben'
+    meanings: 
+      - 
+        src: 'verlieben'
+        mark: 'v/r'
+        dest: 
+          - 'fall in love'
+
+  - 
     de: 'entschuldigen'
     meanings: 
       - 
@@ -1446,6 +1822,15 @@ words:
         dest: 
           - 'in front'
           - 'front'
+
+  - 
+    de: 'drüben'
+    meanings: 
+      - 
+        src: 'drüben'
+        mark: 'Adv'
+        dest: 
+          - 'over there'
 
   - 
     de: 'oben'
@@ -1571,6 +1956,33 @@ words:
           - 'contact'
 
   - 
+    de: 'verspätung'
+    meanings: 
+      - 
+        src: 'Verspätung'
+        mark: 'Nf'
+        dest: 
+          - 'delay'
+
+  - 
+    de: 'Umstieg'
+    meanings: 
+      - 
+        src: 'Umstieg'
+        mark: 'm'
+        dest: 
+          - ';'
+
+  - 
+    de: 'aufstieg'
+    meanings: 
+      - 
+        src: 'Aufstieg'
+        mark: 'm'
+        dest: 
+          - ':'
+
+  - 
     de: 'vergessen'
     meanings: 
       - 
@@ -1676,6 +2088,17 @@ words:
         mark: 'Nf'
         dest: 
           - 'acquaintance'
+
+  - 
+    de: 'berühmt'
+    meanings: 
+      - 
+        src: 'berühmt'
+        mark: 'Adj'
+        dest: 
+          - 'famous'
+          - 'popular'
+          - 'well-known'
 
   - 
     de: 'verbinden'
@@ -1827,6 +2250,15 @@ words:
           - 'travel, trip'
 
   - 
+    de: 'getränk'
+    meanings: 
+      - 
+        src: 'Getränk'
+        mark: 'Nn'
+        dest: 
+          - 'drink'
+
+  - 
     de: 'brief'
     meanings: 
       - 
@@ -1940,6 +2372,21 @@ words:
           - 'not start'
           - 'not turn over'
           - 'not jump in'
+
+  - 
+    de: 'ungefähr'
+    meanings: 
+      - 
+        src: 'ungefähr'
+        mark: 'Adv'
+        dest: 
+          - 'about'
+          - 'approximately'
+      - 
+        src: 'ungefähr'
+        mark: 'Adj'
+        dest: 
+          - 'approximate'
 
   - 
     de: 'ersatzteile'
@@ -2109,69 +2556,189 @@ words:
           - 'tell apart'
           - 'distinguish'
 
+  - 
+    de: 'vertrautheit'
+    meanings: 
+      - 
+        src: 'Vertrautheit'
+        mark: 'f'
+        dest: 
+          - 'closeness'
+
+  - 
+    de: 'banknote'
+    meanings: 
+      - 
+        src: 'Banknote'
+        mark: 'f'
+        dest: 
+          - '(bank)note'
+
+  - 
+    de: 'entwickeln'
+    meanings: 
+      - 
+        src: '[etw] entwickeln'
+        mark: 'Vt'
+        dest: 
+          - 'come up with'
+          - 'develop'
+          - 'produce'
+          - 'design'
+      - 
+        src: 'entwickeln'
+        mark: 'Vr'
+        dest: 
+          - 'develop'
+          - 'mature'
+          - 'flourish'
+
+  - 
+    de: 'Umstieg'
+    meanings: 
+      - 
+        src: 'Umstieg'
+        mark: 'm'
+        dest: 
+          - ';'
+
+  - 
+    de: 'berühmt'
+    meanings: 
+      - 
+        src: 'berühmt'
+        mark: 'Adj'
+        dest: 
+          - 'famous'
+          - 'popular'
+          - 'well-known'
+
+  - 
+    de: 'bestimmt'
+    meanings: 
+      - 
+        src: 'bestimmt'
+        mark: 'Adv'
+        dest: 
+          - 'definitely'
+          - 'certainly'
+      - 
+        src: 'bestimmt'
+        mark: 'Adj'
+        dest: 
+          - 'certain'
+          - 'definite'
+      - 
+        src: 'bestimmt'
+        mark: 'V Part Perf'
+        dest: 
+          - 'predetermined'
+
+  - 
+    de: 'entwickeln'
+    meanings: 
+      - 
+        src: '[etw] entwickeln'
+        mark: 'Vt'
+        dest: 
+          - 'come up with'
+          - 'develop'
+          - 'produce'
+          - 'design'
+      - 
+        src: 'entwickeln'
+        mark: 'Vr'
+        dest: 
+          - 'develop'
+          - 'mature'
+          - 'flourish'
+
+  - 
+    de: 'Umstieg'
+    meanings: 
+      - 
+        src: 'Umstieg'
+        mark: 'm'
+        dest: 
+          - ';'
+
+  - 
+    de: 'berühmt'
+    meanings: 
+      - 
+        src: 'berühmt'
+        mark: 'Adj'
+        dest: 
+          - 'famous'
+          - 'popular'
+          - 'well-known'
+
+  - 
+    de: 'bestimmt'
+    meanings: 
+      - 
+        src: 'bestimmt'
+        mark: 'Adv'
+        dest: 
+          - 'definitely'
+          - 'certainly'
+      - 
+        src: 'bestimmt'
+        mark: 'Adj'
+        dest: 
+          - 'certain'
+          - 'definite'
+      - 
+        src: 'bestimmt'
+        mark: 'V Part Perf'
+        dest: 
+          - 'predetermined'
+
+  - 
+    de: 'erkältet'
+    meanings: 
+      - 
+        src: 'erkältet sein'
+        mark: 'adj'
+        dest: 
+          - 'have a cold'
+
+  - 
+    de: 'Umstieg'
+    meanings: 
+      - 
+        src: 'Umstieg'
+        mark: 'm'
+        dest: 
+          - ';'
+
+  - 
+    de: 'berühmt'
+    meanings: 
+      - 
+        src: 'berühmt'
+        mark: 'Adj'
+        dest: 
+          - 'famous'
+          - 'popular'
+          - 'well-known'
+
 
 broken: 
-  - 'küste'
-  - 'mütze'
-  - 'quatsch'
-  - 'vershieden'
-  - 'aufhören'
-  - 'mitkommen'
-  - 'wunderschön'
+  - 'verschieden'
   - 'änheln'
-  - 'befehlen'
-  - 'entgegnen'
-  - 'gehorchen'
-  - 'gehören'
-  - 'genügen'
   - 'gechehen'
-  - 'nützen'
-  - 'verzeihen'
   - 'wiedersprechen'
-  - 'straße'
-  - 'geschäft'
-  - 'brauhaus'
-  - 'Sehenswürdigkeit'
   - 'geradeaus'
-  - 'münze'
-  - 'banknite'
-  - 'wechselgeld'
-  - 'wählen'
-  - 'auswählen'
-  - 'entwerten'
   - 'stempelln'
-  - 'doppelzimmer'
-  - 'füllen'
-  - 'gepäck'
-  - 'draußen'
-  - 'zubereiten'
-  - 'rücken'
-  - 'sußigkeit'
-  - 'erkältet'
-  - 'wohlfühlen'
-  - 'vorbeikommen'
-  - 'ändern'
-  - 'verletzen'
   - 'gebrochen'
-  - 'aufhören'
-  - 'verlieben'
-  - 'drüben'
   - 'zusätlichen'
   - 'abfiegen'
-  - 'verspätung'
-  - 'umstiegen'
-  - 'aufstieg'
   - 'ausgestorben'
   - 'aufzulösen'
   - 'urknoll'
   - 'grundlegenden'
-  - 'berühmten'
-  - 'getränk'
   - 'buchstabieren'
   - 'nachshauen'
-  - 'ungefähr'
   - 'ingesamt'
-  - 'enwickeln'
-  - 'draußen'
   - 'urahn'
-  - 'vertrautheit'

@@ -6,21 +6,12 @@ import 'package:vocab/html/html_parser.dart';
 import 'package:vocab/network/wordreference.api.dart';
 import 'package:vocab/translator.dart';
 import 'package:vocab/dict/existing_dict.dart';
-import 'package:vocab/yaml/yaml.dart';
 
 void main(List<String> arguments) async {
-  // var f = await File('${Directory.current.path}/../vocabulary/index.html')
-  //     .readAsString();
-  // print(processHtml(f));
-  // f = await File('${Directory.current.path}/../vocabulary/index2.html')
-  //     .readAsString();
-  // print(processHtml(f));
-  // f = await File('${Directory.current.path}/../vocabulary/index3.html')
-  //     .readAsString();
-  // print(processHtml(f));
-
-  // var s = await WordReferenceApi().getHtml('de', 'en', 'münze');
-  // File('${Directory.current.path}/../vocabulary/index.html').writeAsString(s);
+  // var s = await WordReferenceApi().getHtml('de', 'en', 'quatsch');
+  // var s = File('${Directory.current.path}/../vocabulary/index.html')
+  //     .readAsStringSync();
+  // print(HtmlParser().processHtml(s));
 
   var existingDict = ExistingDict(
       '${Directory.current.path}/../vocabulary/vocabulary-de.yaml');

@@ -16,7 +16,7 @@ class Translator {
   Future loadTranslations() async {
     for (var term in existingDict.brokenWords) {
       print('fixing broken: $term');
-      loadTranslation(term);
+      await loadTranslation(term);
     }
 
     for (var term in _inputDict.terms) {

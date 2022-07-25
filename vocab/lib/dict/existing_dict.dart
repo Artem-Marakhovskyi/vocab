@@ -7,10 +7,12 @@ import 'package:yaml/yaml.dart';
 class ExistingDict {
   final Yaml _yaml = Yaml();
   final String _filePath;
-  final List<WordEntity> words = [];
-  final List<String> brokenWords = [];
+  final List<WordEntity> _words = [];
+  final List<String> _brokenWords = [];
   String? lastUpdated;
   ExistingDict(this._filePath);
+
+  List<String> get brokenWords => [..._brokenWords];
 
   Future load() async {
     var yaml = await Yaml().load(_filePath);
@@ -25,7 +27,7 @@ class ExistingDict {
     if (brokensYaml != null) {
       var brokens = (brokensYaml as YamlList);
       for (var brokenWord in brokens) {
-        brokenWords.add(brokenWord.toString());
+        _brokenWords.add(brokenWord.toString());
       }
     }
 
@@ -36,35 +38,40 @@ class ExistingDict {
         var src = meaningYaml['src'].toString();
         var mark = meaningYaml['mark'].toString();
         var engs = <String>[];
-        for (var eng in meaningYaml['dest']) {
-          engs.add(eng);
+        try {
+          for (var eng in meaningYaml['dest']) {
+            engs.add(eng);
+          }
+        } catch (r) {
+          print(r);
         }
         meanings.add(Meaning(src, engs, mark));
       }
 
-      words.add(WordEntity(word['de'], meanings));
+      _words.add(WordEntity(word['de'], meanings));
     }
   }
 
   void addBroken(String term) {
-    if (brokenWords.contains(term)) {
+    if (_brokenWords.contains(term)) {
       return;
     }
 
-    brokenWords.add(term);
+    _brokenWords.add(term);
   }
 
   void addWord(WordEntity wordEntity) {
-    brokenWords.remove(wordEntity.de);
-    words.add(wordEntity);
+    _brokenWords.remove(wordEntity.de);
+    _words.add(wordEntity);
   }
 
   bool containsTerm(String term) =>
-      words.any((element) => element.de == term) || brokenWords.contains(term);
+      _words.any((element) => element.de == term) ||
+      _brokenWords.contains(term);
 
   void flushToJson() {
     var wordsList = [];
-    for (var word in words) {
+    for (var word in _words) {
       wordsList.add({
         'de': word.de,
         'meanings': word.meanings
@@ -79,7 +86,7 @@ class ExistingDict {
     _yaml.write(_filePath, {
       'lastUpdated': DateTime.now().toString(),
       'words': wordsList,
-      'broken': brokenWords
+      'broken': _brokenWords
     });
   }
 }

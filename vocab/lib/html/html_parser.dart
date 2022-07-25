@@ -24,6 +24,17 @@ class HtmlParser {
       }
     }
 
+    var meanings = _getAlternativeMeaningInArablist(document.body!);
+    if (meanings != null) {
+      return WordEntity(de, meanings);
+    } else {
+      var meanings =
+          _getAlternativeMeaningInEntrySrcMarkMeaning(document.body!);
+      if (meanings != null) {
+        return WordEntity(de, meanings);
+      }
+    }
+
     return null;
   }
 
@@ -73,5 +84,44 @@ class HtmlParser {
     } while (line != null);
 
     return result;
+  }
+
+  List<Meaning>? _getAlternativeMeaningInArablist(Element body) {
+    var src = body.querySelector('strong.hw')?.text;
+    var mark = body.querySelector('div.entry > span.ital')?.text;
+    var dests =
+        body.querySelector('div.entry > ul > li.arablist > span.roman')?.text;
+    var destsList = dests
+        ?.split(',')
+        .where((element) => element.isNotEmpty)
+        .map((e) => e.trim())
+        .toList();
+    if (src != null &&
+        mark != null &&
+        destsList != null &&
+        destsList.isNotEmpty) {
+      return [Meaning(src, destsList, mark.trim())];
+    }
+
+    return null;
+  }
+
+  _getAlternativeMeaningInEntrySrcMarkMeaning(Element body) {
+    var src = body.querySelector('div.entry > strong.hw')?.text;
+    var mark = body.querySelector('div.entry > span.ital')?.text;
+    var dests = body.querySelector('div.entry > span.roman')?.text;
+    var destsList = dests
+        ?.split(',')
+        .where((element) => element.isNotEmpty)
+        .map((e) => e.trim())
+        .toList();
+    if (src != null &&
+        mark != null &&
+        destsList != null &&
+        destsList.isNotEmpty) {
+      return [Meaning(src, destsList, mark.trim())];
+    }
+
+    return null;
   }
 }
