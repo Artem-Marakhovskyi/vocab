@@ -1,3 +1,5 @@
+import 'dart:io';
+
 import 'package:args/args.dart';
 import 'package:vocab/cases/args/args.dart';
 
@@ -14,18 +16,21 @@ class ArgsParser {
   static const String wordscount = 'wordscount';
   final ArgParser _parser = ArgParser();
 
+  late final Map<String, String> _commandsHelp = <String, String>{};
   late final Map<String, Args? Function(ArgResults)> _matcher =
       <String, Args? Function(ArgResults)>{};
 
   ArgsParser() {
     _parser.addCommand(exitCommand);
+    _commandsHelp[exitCommand] = "exit -> Type to exit";
     _matcher[exitCommand] = (args) {
       return ExitArgs();
     };
 
-    _parser
-        .addCommand(doctorCommand)
-        .addOption(word, help: "Give a word to be fixed");
+    var doctorParser = _parser.addCommand(doctorCommand);
+    doctorParser.addOption(word, abbr: 'w', help: "Give a word to be fixed");
+    _commandsHelp[doctorCommand] =
+        '\r\n$doctorCommand -> Type to fix specific (all) terms \r\n${doctorParser.usage}';
     _matcher[doctorCommand] = (args) {
       if (!args.command!.wasParsed(word)) {
         return DoctorArgs();
@@ -34,15 +39,17 @@ class ArgsParser {
       }
     };
 
-    _parser.addCommand(addCommand)
-      ..addOption(file,
-          abbr: 'f',
-          defaultsTo: 'input/input.yaml',
-          help: 'Filepath to YAML file - batch method')
-      ..addOption(interactive,
-          abbr: 'i',
-          valueHelp: 'Provide the word you would like to search for',
-          help: 'Single word to be searched for');
+    var addParser = _parser.addCommand(addCommand);
+    addParser.addOption(file,
+        abbr: 'f',
+        defaultsTo: 'input/input.yaml',
+        help: 'Filepath to YAML file - batch method');
+    addParser.addOption(interactive,
+        abbr: 'i',
+        valueHelp: 'Provide the word you would like to search for',
+        help: 'Single word to be searched for');
+    _commandsHelp[addCommand] =
+        '\r\n$addCommand -> Type to add single (batch) words \r\n${addParser.usage}';
     _matcher[addCommand] = (args) {
       if (args.command!.wasParsed(file)) {
         return AddFilepathArgs(args.command![file]);
@@ -53,14 +60,16 @@ class ArgsParser {
       return null;
     };
 
-    _parser.addCommand(queryCommand)
-      ..addOption(word,
-          abbr: 'w',
-          help:
-              'Search locally and show the word on the screen. If the word does not exist locally -> search on the Web')
-      ..addOption(words,
-          help:
-              'Search locally and show the words on the screen. If the word does not exist locally -> search on the Web');
+    var queryParser = _parser.addCommand(queryCommand);
+    queryParser.addOption(word,
+        abbr: 'w',
+        help:
+            'Search locally and show the word on the screen. If the word does not exist locally -> search on the Web');
+    queryParser.addOption(words,
+        help:
+            'Search locally and show the words on the screen. If the word does not exist locally -> search on the Web');
+    _commandsHelp[queryCommand] =
+        '\r\n$queryCommand -> Type to query for a word(s) \r\n${queryParser.usage}';
     _matcher[queryCommand] = (args) {
       if (args.command!.wasParsed(word)) {
         return QueryWordArgs(args.command![word]);
@@ -70,10 +79,13 @@ class ArgsParser {
       return null;
     };
 
-    _parser.addCommand(trainingCommand).addOption(wordscount,
+    var trainingParser = _parser.addCommand(trainingCommand);
+    trainingParser.addOption(wordscount,
         abbr: 'w',
         defaultsTo: '30',
         help: 'Words count in this training session');
+    _commandsHelp[trainingCommand] =
+        '\r\n$trainingCommand -> Type to start training \r\n${trainingParser.usage}';
     _matcher[trainingCommand] = (args) {
       if (args.wasParsed(wordscount)) {
         var count = int.tryParse(args.command?[wordscount]);
@@ -96,6 +108,6 @@ class ArgsParser {
       }
     }
 
-    return IncorrectArgs(result, _parser.usage);
+    return IncorrectArgs(result, _commandsHelp.values.join('\r\n'));
   }
 }

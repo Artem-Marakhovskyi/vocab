@@ -1,3 +1,5 @@
+import 'dart:io';
+
 import 'package:vocab/cases/use_case.dart';
 
 class ExitUseCase extends UseCase {
@@ -5,7 +7,6 @@ class ExitUseCase extends UseCase {
 
   @override
   Future execute() {
-    // TODO: implement execute
-    throw UnimplementedError();
+    exit(0);
   }
 }

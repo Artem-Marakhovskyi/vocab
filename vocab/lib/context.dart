@@ -19,6 +19,6 @@ class Context {
   }
 
   Future load() async {
-    existingDict.load();
+    await existingDict.load();
   }
 }

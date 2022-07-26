@@ -27,6 +27,7 @@ class Yaml {
     }
     var tempFile = File(filePath + 'prev');
     await file.copy(tempFile.path);
-    (await file.create()).writeAsString(yaml);
+    file = (await file.create());
+    file = await file.writeAsString(yaml, mode: FileMode.write, flush: true);
   }
 }

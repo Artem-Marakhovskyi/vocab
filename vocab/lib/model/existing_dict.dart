@@ -7,7 +7,7 @@ import 'package:yaml/yaml.dart';
 class ExistingDict {
   final Yaml _yaml = Yaml();
   final String _filePath;
-  final List<WordEntity> _words = [];
+  final List<WordEntity> words = [];
   final List<String> _brokenWords = [];
   String? lastUpdated;
   ExistingDict(this._filePath);
@@ -48,7 +48,7 @@ class ExistingDict {
         meanings.add(Meaning(src, engs, mark));
       }
 
-      _words.add(WordEntity(word['de'], meanings));
+      words.add(WordEntity(word['de'], meanings));
     }
   }
 
@@ -60,18 +60,25 @@ class ExistingDict {
     _brokenWords.add(term);
   }
 
+  void add(WordEntity? wordEntity, String term) {
+    if (wordEntity == null) {
+      addBroken(term);
+    } else {
+      addWord(wordEntity);
+    }
+  }
+
   void addWord(WordEntity wordEntity) {
     _brokenWords.remove(wordEntity.de);
-    _words.add(wordEntity);
+    words.add(wordEntity);
   }
 
   bool containsTerm(String term) =>
-      _words.any((element) => element.de == term) ||
-      _brokenWords.contains(term);
+      words.any((element) => element.de == term) || _brokenWords.contains(term);
 
-  void flushToJson() {
+  Future commit() {
     var wordsList = [];
-    for (var word in _words) {
+    for (var word in words) {
       wordsList.add({
         'de': word.de,
         'meanings': word.meanings
@@ -83,7 +90,7 @@ class ExistingDict {
             .toList()
       });
     }
-    _yaml.write(_filePath, {
+    return _yaml.write(_filePath, {
       'lastUpdated': DateTime.now().toString(),
       'words': wordsList,
       'broken': _brokenWords

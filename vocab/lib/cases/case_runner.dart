@@ -8,6 +8,7 @@ import 'package:vocab/cases/query_words_use_case.dart';
 import 'package:vocab/cases/training_words_count_use_case.dart';
 import 'package:vocab/cases/use_case.dart';
 
+import '../context.dart';
 import 'add_filepath_use_case.dart';
 import 'add_interactive_use_case.dart';
 import 'args/args.dart';
@@ -16,9 +17,11 @@ import 'doctor_specific_use_case.dart';
 import 'exit_use_case.dart';
 
 class CaseRunner {
+  static final Context context = Context();
   final ArgsParser _parser = ArgsParser();
   List<String> _args = [];
   final Map<Type, UseCase Function(Args)> _argsMap = {
+    ExitArgs: (args) => ExitUseCase(args),
     DoctorArgs: (args) => DoctorUseCase(args),
     DoctorSpecificArgs: (args) => DoctorSpecificUseCase(args),
     IncorrectArgs: (args) => IncorrectArgsUseCase(args),
@@ -32,14 +35,17 @@ class CaseRunner {
   CaseRunner(List<String> initialArgs) {
     _args = initialArgs;
   }
+
   Future run() async {
+    await context.load();
     do {
       var argsResult = _parser.parse(_args);
       var useCase = _argsMap[argsResult.runtimeType]!(argsResult);
 
       await useCase.execute();
 
-      var input = stdin.readLineSync();
+      //var input = stdin.readLineSync();
+      var input = 'exit';
       if (input != null) {
         _args = input.split(' ');
       } else {

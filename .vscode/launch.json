@@ -10,7 +10,7 @@
             "request": "launch",
             "type": "dart",
             "program": "bin/vocab.dart",
-            "args": ["add", "--file=input.yaml"]
+            "args": ["add", "--file=input/input.yaml"]
         },
         {
             "name": "add_interactive",
@@ -59,6 +59,14 @@
             "type": "dart",
             "program": "bin/vocab.dart",
             "args": ["training", "--wordscount=15"]
-        },                          
+        }, 
+        {
+            "name": "incorrect args",
+            "cwd": "vocab",
+            "request": "launch",
+            "type": "dart",
+            "program": "bin/vocab.dart",
+            "args": ["query"]
+        },                                  
     ]
 }

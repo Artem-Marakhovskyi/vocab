@@ -1,41 +1,40 @@
+import 'package:colorize/colorize.dart';
 import 'package:vocab/model/input_dict.dart';
+import 'package:vocab/model/word_entity.dart';
 import 'package:vocab/services/wordreference.api.dart';
 
 import '../model/existing_dict.dart';
 import 'html_parser.dart';
 
 class Translator {
-  final ExistingDict existingDict;
-  final HtmlParser parser;
-  final WordReferenceApi api;
+  final ExistingDict _existingDict;
+  final HtmlParser _parser;
+  final WordReferenceApi _api;
 
-  Translator(this.existingDict, this.parser, this.api) {}
+  Translator(this._existingDict, this._parser, this._api) {}
 
   Future loadTranslations(InputDict inputDict) async {
-    for (var term in existingDict.brokenWords) {
-      print('fixing broken: $term');
-      await loadTranslation(inputDict, term);
-    }
-
     for (var term in inputDict.terms) {
-      if (existingDict.containsTerm(term)) {
+      if (_existingDict.containsTerm(term)) {
         continue;
       }
-      print('working on: $term');
-      await loadTranslation(inputDict, term);
-      existingDict.flushToJson();
+      await addTranslation(inputDict.srcLang, inputDict.destLang, term);
     }
   }
 
-  Future loadTranslation(InputDict inputDict, String term) async {
-    var html = await api.getHtml(inputDict.srcLang, inputDict.destLang, term);
-    var word = parser.processHtml(html);
+  Future<WordEntity?> addTranslation(
+      String srcLang, String destLang, String term) async {
+    var html = await _api.getHtml(srcLang, destLang, term);
+    var word = _parser.processHtml(html);
+    _existingDict.add(word, term);
+    await _existingDict.commit();
+
     if (word == null) {
-      print('\t$term - broken');
-      existingDict.addBroken(term);
+      color('Term $term cannot be translated', front: Styles.YELLOW);
     } else {
-      print('\t$term - success');
-      existingDict.addWord(word);
+      color(word.toString(), front: Styles.GREEN);
     }
+
+    return word;
   }
 }
