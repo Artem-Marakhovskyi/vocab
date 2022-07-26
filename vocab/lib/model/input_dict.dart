@@ -1,6 +1,6 @@
 import 'package:yaml/yaml.dart';
 
-import '../../yaml/yaml.dart';
+import '../yaml/yaml.dart';
 
 class InputDict {
   final String _filePath;

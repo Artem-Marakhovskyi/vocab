@@ -2744,9 +2744,18 @@ words:
         dest: 
           - 'predetermined'
 
+  - 
+    de: 'verschieden'
+    meanings: 
+      - 
+        src: 'verschieden'
+        mark: 'Adj'
+        dest: 
+          - 'different'
+          - 'certainly'      
+
 
 broken: 
-  - 'verschieden'
   - 'änheln'
   - 'gechehen'
   - 'wiedersprechen'

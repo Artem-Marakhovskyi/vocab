@@ -1,27 +1,22 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:vocab/dict/input/input_dict.dart';
-import 'package:vocab/html/html_parser.dart';
-import 'package:vocab/network/wordreference.api.dart';
-import 'package:vocab/translator.dart';
-import 'package:vocab/dict/existing_dict.dart';
+import 'package:args/args.dart';
+import 'package:vocab/cases/case_runner.dart';
+import 'package:vocab/model/existing_dict.dart';
+
+import '../lib/cases/args/args_parser.dart';
+import 'context.dart';
+
+Context context = Context();
 
 void main(List<String> arguments) async {
-  // var s = await WordReferenceApi().getHtml('de', 'en', 'quatsch');
-  // var s = File('${Directory.current.path}/../vocabulary/index.html')
-  //     .readAsStringSync();
-  // print(HtmlParser().processHtml(s));
+  await context.load();
 
-  var existingDict = ExistingDict(
-      '${Directory.current.path}/../vocabulary/vocabulary-de.yaml');
-  await existingDict.load();
+  // var inputDict =
+  //     InputDict('${Directory.current.path}/../vocabulary/input.yaml');
+  // await inputDict.load();
 
-  var inputDict =
-      InputDict('${Directory.current.path}/../vocabulary/input.yaml');
-  await inputDict.load();
-
-  var translator =
-      Translator(inputDict, existingDict, HtmlParser(), WordReferenceApi());
-  await translator.loadTranslations();
+  var runner = CaseRunner(arguments);
+  await runner.run();
 }

@@ -5,11 +5,60 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "vocab",
+            "name": "add_file",
             "cwd": "vocab",
             "request": "launch",
             "type": "dart",
-            "program": "bin/vocab.dart"
-        }
+            "program": "bin/vocab.dart",
+            "args": ["add", "--file=input.yaml"]
+        },
+        {
+            "name": "add_interactive",
+            "cwd": "vocab",
+            "request": "launch",
+            "type": "dart",
+            "program": "bin/vocab.dart",
+            "args": ["add", "--interactive=hallo"]
+        },
+        {
+            "name": "doctor",
+            "cwd": "vocab",
+            "request": "launch",
+            "type": "dart",
+            "program": "bin/vocab.dart",
+            "args": ["doctor"]
+        },   
+        {
+            "name": "doctor_specific_word",
+            "cwd": "vocab",
+            "request": "launch",
+            "type": "dart",
+            "program": "bin/vocab.dart",
+            "args": ["doctor", "--word=hallo"]
+        },           
+        {
+            "name": "query_single",
+            "cwd": "vocab",
+            "request": "launch",
+            "type": "dart",
+            "program": "bin/vocab.dart",
+            "args": ["query", "--word=hallo"]
+        },      
+        {
+            "name": "query_multiple",
+            "cwd": "vocab",
+            "request": "launch",
+            "type": "dart",
+            "program": "bin/vocab.dart",
+            "args": ["query", "--words=hallo,gesund"]
+        },    
+        {
+            "name": "training",
+            "cwd": "vocab",
+            "request": "launch",
+            "type": "dart",
+            "program": "bin/vocab.dart",
+            "args": ["training", "--wordscount=15"]
+        },                          
     ]
 }

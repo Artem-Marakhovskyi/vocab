@@ -1,6 +1,6 @@
 import 'package:html/parser.dart' show parse;
 import 'package:html/dom.dart';
-import 'package:vocab/dict/word_entity.dart';
+import 'package:vocab/model/word_entity.dart';
 
 class HtmlParser {
   List<String> priorities = [

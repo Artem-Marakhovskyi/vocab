@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:vocab/dict/word_entity.dart';
+import 'package:vocab/model/word_entity.dart';
 import 'package:vocab/yaml/yaml.dart';
 import 'package:yaml/yaml.dart';
 
