@@ -1,4 +1,4 @@
-lastUpdated: '2022-07-25 19:58:42.130349'
+lastUpdated: '2022-07-26 23:46:54.385384'
 words: 
   - 
     de: 'abholen'
@@ -2752,7 +2752,17 @@ words:
         mark: 'Adj'
         dest: 
           - 'different'
-          - 'certainly'      
+          - 'certainly'
+
+  - 
+    de: 'hallo'
+    meanings: 
+      - 
+        src: 'Hallo'
+        mark: 'Int'
+        dest: 
+          - 'Hi'
+          - 'Hello'
 
 
 broken: 

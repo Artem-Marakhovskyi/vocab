@@ -1,4 +1,4 @@
-lastUpdated: '2022-07-25 19:58:41.971194'
+lastUpdated: '2022-07-25 19:58:42.130349'
 words: 
   - 
     de: 'abholen'
@@ -2723,9 +2723,39 @@ words:
           - 'popular'
           - 'well-known'
 
+  - 
+    de: 'bestimmt'
+    meanings: 
+      - 
+        src: 'bestimmt'
+        mark: 'Adv'
+        dest: 
+          - 'definitely'
+          - 'certainly'
+      - 
+        src: 'bestimmt'
+        mark: 'Adj'
+        dest: 
+          - 'certain'
+          - 'definite'
+      - 
+        src: 'bestimmt'
+        mark: 'V Part Perf'
+        dest: 
+          - 'predetermined'
+
+  - 
+    de: 'verschieden'
+    meanings: 
+      - 
+        src: 'verschieden'
+        mark: 'Adj'
+        dest: 
+          - 'different'
+          - 'certainly'      
+
 
 broken: 
-  - 'verschieden'
   - 'änheln'
   - 'gechehen'
   - 'wiedersprechen'
