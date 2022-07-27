@@ -17,7 +17,7 @@ class QueryWordUseCase extends UseCase {
       await context.translator.addTranslation('de', 'en', arguments.word);
     } else {
       for (var word in similars) {
-        print(word);
+        color(word.toString(), front: Styles.BLUE);
       }
     }
   }

@@ -8,6 +8,7 @@ class ArgsParser {
   static const String addCommand = 'add';
   static const String doctorCommand = 'doctor';
   static const String queryCommand = 'query';
+  static const String helpCommand = 'help';
   static const String trainingCommand = 'training';
   static const String word = 'word';
   static const String words = 'words';
@@ -25,6 +26,11 @@ class ArgsParser {
     _commandsHelp[exitCommand] = "exit -> Type to exit";
     _matcher[exitCommand] = (args) {
       return ExitArgs();
+    };
+
+    _parser.addCommand(helpCommand);
+    _matcher[helpCommand] = (args) {
+      return IncorrectArgs(args, _commandsHelp.values.join('\r\n'));
     };
 
     var doctorParser = _parser.addCommand(doctorCommand);

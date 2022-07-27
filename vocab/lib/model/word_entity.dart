@@ -1,7 +1,7 @@
 class WordEntity {
   final String de;
   final List<Meaning> meanings;
-  WordEntity(this.de, this.meanings);
+  WordEntity(String de, this.meanings) : de = de.toLowerCase() {}
 
   @override
   String toString() {
@@ -13,7 +13,10 @@ class Meaning {
   final String src;
   final List<String> dests;
   final String mark;
-  Meaning(this.src, this.dests, this.mark);
+  Meaning(String src, List<String> dests, String mark)
+      : src = src.toLowerCase(),
+        dests = dests.map((e) => e.toLowerCase()).toList(),
+        mark = mark.toLowerCase() {}
 
   @override
   String toString() => '$src ($mark) - ${dests.join(', ')}';

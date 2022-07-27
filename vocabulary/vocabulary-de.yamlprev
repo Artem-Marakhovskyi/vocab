@@ -1,11 +1,11 @@
-lastUpdated: '2022-07-25 19:58:42.130349'
+lastUpdated: '2022-07-27 20:04:48.594080'
 words: 
   - 
     de: 'abholen'
     meanings: 
       - 
-        src: 'Ladung abholen'
-        mark: 'Nf + Vt'
+        src: 'ladung abholen'
+        mark: 'nf + vt'
         dest: 
           - 'collect cargo'
           - 'pick up cargo'
@@ -15,7 +15,7 @@ words:
     meanings: 
       - 
         src: '[etw] machen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'do'
           - 'complete'
@@ -29,7 +29,7 @@ words:
     meanings: 
       - 
         src: 'sein'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'be'
           - 'exist'
@@ -39,7 +39,7 @@ words:
     meanings: 
       - 
         src: 'aufstehen'
-        mark: 'Vi, sepa'
+        mark: 'vi, sepa'
         dest: 
           - 'stand up'
           - 'get up'
@@ -51,12 +51,12 @@ words:
     meanings: 
       - 
         src: 'aufräumen'
-        mark: 'Vi, sepa'
+        mark: 'vi, sepa'
         dest: 
           - 'tidy up'
       - 
         src: 'aufräumen'
-        mark: 'Vt, sepa'
+        mark: 'vt, sepa'
         dest: 
           - 'put'
           - 'straighten'
@@ -65,8 +65,8 @@ words:
     de: 'anziehen'
     meanings: 
       - 
-        src: 'einen Handschuh anziehen'
-        mark: 'Rdw'
+        src: 'einen handschuh anziehen'
+        mark: 'rdw'
         dest: 
           - 'put on a glove'
 
@@ -75,7 +75,7 @@ words:
     meanings: 
       - 
         src: 'jmdn/[etw] zu [etw] machen'
-        mark: 'Präp + Vt'
+        mark: 'präp + vt'
         dest: 
           - 'make'
 
@@ -84,7 +84,7 @@ words:
     meanings: 
       - 
         src: '[etw] verkaufen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'sell'
 
@@ -93,14 +93,14 @@ words:
     meanings: 
       - 
         src: 'einkaufen'
-        mark: 'Vi, sepa'
+        mark: 'vi, sepa'
         dest: 
           - 'shop'
           - 'do the shopping'
           - 'go to the supermarket'
       - 
         src: '[etw] einkaufen'
-        mark: 'Vt, sepa'
+        mark: 'vt, sepa'
         dest: 
           - 'buy'
           - 'shop'
@@ -110,13 +110,13 @@ words:
     meanings: 
       - 
         src: '[etw] kaufen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'buy'
           - 'purchase'
       - 
         src: 'jmdn kaufen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'buy'
 
@@ -125,13 +125,13 @@ words:
     meanings: 
       - 
         src: 'jmdn/[etw] tragen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'carry'
           - 'take'
       - 
         src: '[etw] tragen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'hold'
           - 'wear'
@@ -141,7 +141,7 @@ words:
     meanings: 
       - 
         src: '[etw] waschen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'wash, clean'
 
@@ -150,7 +150,7 @@ words:
     meanings: 
       - 
         src: 'fallen'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'fall'
           - 'trip'
@@ -166,12 +166,12 @@ words:
     meanings: 
       - 
         src: 'jmdn/[etw] treten'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'kick'
       - 
         src: 'zu [etw] treten'
-        mark: 'Präp + Vi'
+        mark: 'präp + vi'
         dest: 
           - 'head to'
           - 'move to'
@@ -181,20 +181,20 @@ words:
     meanings: 
       - 
         src: 'jmdn treffen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'meet'
           - 'encounter'
           - 'upset'
       - 
         src: 'jmdn/[etw] treffen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'hit'
           - 'hurt'
       - 
         src: '[etw] treffen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'make'
 
@@ -202,8 +202,8 @@ words:
     de: 'küste'
     meanings: 
       - 
-        src: 'Küste'
-        mark: 'Nf'
+        src: 'küste'
+        mark: 'nf'
         dest: 
           - 'coast'
 
@@ -212,7 +212,7 @@ words:
     meanings: 
       - 
         src: 'tauchen'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'dive'
 
@@ -220,8 +220,8 @@ words:
     de: 'mütze'
     meanings: 
       - 
-        src: 'Mütze'
-        mark: 'Nf'
+        src: 'mütze'
+        mark: 'nf'
         dest: 
           - 'cap'
           - 'beanie'
@@ -231,7 +231,7 @@ words:
     meanings: 
       - 
         src: 'langweilig'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'bored'
           - 'boring'
@@ -241,7 +241,7 @@ words:
     meanings: 
       - 
         src: 'leider'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'unfortunately'
 
@@ -249,8 +249,8 @@ words:
     de: 'unsinn'
     meanings: 
       - 
-        src: 'Unsinn'
-        mark: 'Nm'
+        src: 'unsinn'
+        mark: 'nm'
         dest: 
           - 'nonsense'
           - 'fool around'
@@ -261,7 +261,7 @@ words:
     de: 'quatsch'
     meanings: 
       - 
-        src: 'Quatsch'
+        src: 'quatsch'
         mark: 'm'
         dest: 
           - 'rubbish'
@@ -272,14 +272,14 @@ words:
     meanings: 
       - 
         src: '[etw] verbessern'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'improve'
           - 'correct'
           - 'improve'
       - 
         src: 'sich verbessern'
-        mark: 'Vr'
+        mark: 'vr'
         dest: 
           - 'do'
           - 'improve'
@@ -289,7 +289,7 @@ words:
     meanings: 
       - 
         src: '[etw] verbringen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'hang out'
           - 'spend time'
@@ -301,7 +301,7 @@ words:
     meanings: 
       - 
         src: 'vielleicht'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'maybe'
           - 'perhaps'
@@ -313,19 +313,19 @@ words:
     meanings: 
       - 
         src: 'eigentlich'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'main'
           - 'primary'
       - 
         src: 'eigentlich'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'actually'
           - 'really'
       - 
         src: 'eigentlich'
-        mark: 'Part'
+        mark: 'part'
         dest: 
           - 'actually'
 
@@ -334,7 +334,7 @@ words:
     meanings: 
       - 
         src: 'aufhören'
-        mark: 'Vi, sepa'
+        mark: 'vi, sepa'
         dest: 
           - 'stop'
           - 'end'
@@ -344,18 +344,18 @@ words:
     meanings: 
       - 
         src: 'jmdn kennen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'know'
       - 
         src: 'sich kennen'
-        mark: 'Vr'
+        mark: 'vr'
         dest: 
           - 'be acquainted'
           - 'know each other'
       - 
         src: '[etw] kennen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'be familiar with'
           - 'know'
@@ -365,7 +365,7 @@ words:
     meanings: 
       - 
         src: 'jmdn/[etw] kennenlernen'
-        mark: 'Vt, sepa'
+        mark: 'vt, sepa'
         dest: 
           - 'meet'
 
@@ -374,7 +374,7 @@ words:
     meanings: 
       - 
         src: 'bald'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'soon'
           - 'shortly'
@@ -392,14 +392,14 @@ words:
     de: 'ausbildung'
     meanings: 
       - 
-        src: 'Ausbildung'
-        mark: 'Nf'
+        src: 'ausbildung'
+        mark: 'nf'
         dest: 
           - 'apprenticeship'
           - 'training'
       - 
-        src: 'Ausbildung, schulische Ausbildung'
-        mark: 'Nf'
+        src: 'ausbildung, schulische ausbildung'
+        mark: 'nf'
         dest: 
           - 'education'
           - 'traineeship'
@@ -409,12 +409,12 @@ words:
     meanings: 
       - 
         src: '[jmd] über [etw] unterrichten'
-        mark: 'Rdw'
+        mark: 'rdw'
         dest: 
           - 'inform'
       - 
         src: 'privat unterrichten'
-        mark: 'Adv + Vt'
+        mark: 'adv + vt'
         dest: 
           - 'privately tutor'
           - 'tutor'
@@ -423,8 +423,8 @@ words:
     de: 'stelle'
     meanings: 
       - 
-        src: 'Stelle'
-        mark: 'Nf'
+        src: 'stelle'
+        mark: 'nf'
         dest: 
           - 'position'
           - 'job'
@@ -437,20 +437,20 @@ words:
     meanings: 
       - 
         src: '[etw] stellen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'put'
           - 'place'
       - 
         src: 'sich stellen'
-        mark: 'Vr'
+        mark: 'vr'
         dest: 
           - 'stand'
           - 'position'
           - 'display'
       - 
         src: 'jmdn/[etw] stellen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'provide'
 
@@ -458,8 +458,8 @@ words:
     de: 'hinsicht'
     meanings: 
       - 
-        src: 'Hinsicht'
-        mark: 'Nf'
+        src: 'hinsicht'
+        mark: 'nf'
         dest: 
           - 'regard, respect'
 
@@ -468,7 +468,7 @@ words:
     meanings: 
       - 
         src: 'weil'
-        mark: 'Konj'
+        mark: 'konj'
         dest: 
           - 'since'
           - 'because'
@@ -478,7 +478,7 @@ words:
     meanings: 
       - 
         src: 'damals'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'then'
           - 'back then'
@@ -488,7 +488,7 @@ words:
     meanings: 
       - 
         src: 'irgendwo'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'somewhere'
           - 'anywhere'
@@ -497,8 +497,8 @@ words:
     de: 'geschenk'
     meanings: 
       - 
-        src: 'Geschenk'
-        mark: 'Nn'
+        src: 'geschenk'
+        mark: 'nn'
         dest: 
           - 'present'
           - 'gift'
@@ -508,7 +508,7 @@ words:
     meanings: 
       - 
         src: 'wunderbar'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'wonderful'
 
@@ -527,7 +527,7 @@ words:
     meanings: 
       - 
         src: 'antworten'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'answer'
 
@@ -536,7 +536,7 @@ words:
     meanings: 
       - 
         src: 'auffallen'
-        mark: 'Vi, sepa'
+        mark: 'vi, sepa'
         dest: 
           - 'be seen'
           - 'get noticed'
@@ -549,7 +549,7 @@ words:
     meanings: 
       - 
         src: '[etw] ausweichen'
-        mark: 'Pron + Vi'
+        mark: 'pron + vi'
         dest: 
           - 'avoid'
           - 'evade'
@@ -568,7 +568,7 @@ words:
     meanings: 
       - 
         src: 'begegnen'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'meet'
           - 'encounter'
@@ -583,7 +583,7 @@ words:
     meanings: 
       - 
         src: '[jmd] beistehen'
-        mark: 'Pron + Vi'
+        mark: 'pron + vi'
         dest: 
           - 'stand by'
           - 'support'
@@ -593,12 +593,12 @@ words:
     meanings: 
       - 
         src: 'dienen'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'serve'
       - 
         src: 'als [etw] dienen'
-        mark: 'Konj + Vi'
+        mark: 'konj + vi'
         dest: 
           - 'serve as'
           - 'wait on'
@@ -608,7 +608,7 @@ words:
     meanings: 
       - 
         src: 'drohen'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'threaten'
           - 'seem to do'
@@ -619,7 +619,7 @@ words:
     meanings: 
       - 
         src: 'einfallen'
-        mark: 'Vi, sepa'
+        mark: 'vi, sepa'
         dest: 
           - 'think of'
           - 'remember'
@@ -641,20 +641,20 @@ words:
     meanings: 
       - 
         src: '[etw] erlauben'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'allow'
           - 'let'
           - 'make'
       - 
         src: 'sich [etw] erlauben'
-        mark: 'Vr'
+        mark: 'vr'
         dest: 
           - 'allow'
           - 'take the liberty of doing'
       - 
         src: 'sich erlauben'
-        mark: 'Vr'
+        mark: 'vr'
         dest: 
           - 'allow oneself doing something'
           - 'let oneself do'
@@ -664,7 +664,7 @@ words:
     meanings: 
       - 
         src: 'fehlen'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'missing'
           - 'miss'
@@ -675,8 +675,8 @@ words:
     de: 'folgen'
     meanings: 
       - 
-        src: 'Folge'
-        mark: 'Nf'
+        src: 'folge'
+        mark: 'nf'
         dest: 
           - 'result'
           - 'consequence'
@@ -687,18 +687,18 @@ words:
     meanings: 
       - 
         src: 'jmdm/[etw] glauben'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'trust'
       - 
         src: '[etw] glauben'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'think'
           - 'believe'
       - 
         src: 'an [etw] glauben'
-        mark: 'Präp + Vi'
+        mark: 'präp + vi'
         dest: 
           - 'believe in'
 
@@ -707,7 +707,7 @@ words:
     meanings: 
       - 
         src: 'gratulieren'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'congratulate'
 
@@ -715,8 +715,8 @@ words:
     de: 'gefallen'
     meanings: 
       - 
-        src: 'Gefallen finden an'
-        mark: 'Rdw'
+        src: 'gefallen finden an'
+        mark: 'rdw'
         dest: 
           - 'find joy in'
           - 'enjoy'
@@ -735,18 +735,18 @@ words:
     meanings: 
       - 
         src: 'jmdm gehören'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'belong to'
       - 
         src: 'zu jmdm/[etw] gehören'
-        mark: 'Präp + Vi'
+        mark: 'präp + vi'
         dest: 
           - 'belong with'
           - 'belong to'
       - 
         src: 'gehören'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'require'
           - 'need'
@@ -756,7 +756,7 @@ words:
     meanings: 
       - 
         src: 'gelingen'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'work'
           - 'succeed'
@@ -766,13 +766,13 @@ words:
     meanings: 
       - 
         src: 'genügen'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'suffice'
           - 'be enough'
       - 
         src: 'jmdm/[etw] genügen'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'satisfy'
           - 'fulfil'
@@ -781,8 +781,8 @@ words:
     de: 'nützen'
     meanings: 
       - 
-        src: 'Nutzen'
-        mark: 'Nm'
+        src: 'nutzen'
+        mark: 'nm'
         dest: 
           - 'advantage'
           - 'benefit'
@@ -793,12 +793,12 @@ words:
     meanings: 
       - 
         src: '[etw] benutzen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'use'
       - 
         src: '[jmd] benutzen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'use'
 
@@ -807,7 +807,7 @@ words:
     meanings: 
       - 
         src: 'passen'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'fit'
           - 'work'
@@ -819,13 +819,13 @@ words:
     meanings: 
       - 
         src: 'jmdm [etw] raten'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'recommend'
           - 'suggest'
       - 
         src: 'raten'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'make a guess'
           - 'take a guess'
@@ -835,7 +835,7 @@ words:
     meanings: 
       - 
         src: 'schaden'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'damage'
           - 'harm'
@@ -846,12 +846,12 @@ words:
     meanings: 
       - 
         src: 'schmecken'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'taste like'
       - 
         src: '[etw] schmecken'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'taste'
 
@@ -860,7 +860,7 @@ words:
     meanings: 
       - 
         src: 'vertrauen'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'trust'
           - 'rely on'
@@ -879,7 +879,7 @@ words:
     meanings: 
       - 
         src: 'winken'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'wave'
 
@@ -888,7 +888,7 @@ words:
     meanings: 
       - 
         src: 'zustimmen'
-        mark: 'Vi, sepa'
+        mark: 'vi, sepa'
         dest: 
           - 'agree'
           - 'concur'
@@ -900,7 +900,7 @@ words:
     meanings: 
       - 
         src: '[etw] beenden'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'finish'
           - 'complete'
@@ -909,28 +909,11 @@ words:
           - 'end'
 
   - 
-    de: 'abbiegen'
-    meanings: 
-      - 
-        src: 'abbiegen'
-        mark: 'Vi, sepa'
-        dest: 
-          - 'turn'
-          - 'make a turn'
-          - 'change direction'
-      - 
-        src: '[etw] abbiegen'
-        mark: 'Vt, sepa'
-        dest: 
-          - 'bend'
-          - 'twist'
-
-  - 
     de: 'werden'
     meanings: 
       - 
         src: 'werden'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'get'
           - 'become'
@@ -943,8 +926,8 @@ words:
     de: 'schlange'
     meanings: 
       - 
-        src: 'Schlange'
-        mark: 'Nf'
+        src: 'schlange'
+        mark: 'nf'
         dest: 
           - 'snake'
           - 'serpent'
@@ -955,8 +938,8 @@ words:
     de: 'hauptstadt'
     meanings: 
       - 
-        src: 'Hauptstadt'
-        mark: 'Nf'
+        src: 'hauptstadt'
+        mark: 'nf'
         dest: 
           - 'capital'
           - 'capital city'
@@ -965,8 +948,8 @@ words:
     de: 'straße'
     meanings: 
       - 
-        src: 'Straße'
-        mark: 'Nf'
+        src: 'straße'
+        mark: 'nf'
         dest: 
           - 'street, road'
           - 'street, neighborhood'
@@ -977,8 +960,8 @@ words:
     de: 'kreuzung'
     meanings: 
       - 
-        src: 'Kreuzung'
-        mark: 'Nf'
+        src: 'kreuzung'
+        mark: 'nf'
         dest: 
           - 'crossroad'
           - 'interbreeding'
@@ -989,8 +972,8 @@ words:
     de: 'bus'
     meanings: 
       - 
-        src: 'Bus'
-        mark: 'Nm'
+        src: 'bus'
+        mark: 'nm'
         dest: 
           - 'bus'
 
@@ -998,8 +981,8 @@ words:
     de: 'ecke'
     meanings: 
       - 
-        src: 'Ecke'
-        mark: 'Nf'
+        src: 'ecke'
+        mark: 'nf'
         dest: 
           - 'corner'
 
@@ -1007,8 +990,8 @@ words:
     de: 'ampel'
     meanings: 
       - 
-        src: 'Ampel'
-        mark: 'Nf'
+        src: 'ampel'
+        mark: 'nf'
         dest: 
           - 'traffic light'
 
@@ -1017,14 +1000,14 @@ words:
     meanings: 
       - 
         src: 'sich befinden'
-        mark: 'Vr'
+        mark: 'vr'
         dest: 
           - 'is'
           - 'is located'
           - 'is/are'
       - 
         src: '[etw] befinden'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'judge'
           - 'decide'
@@ -1035,8 +1018,8 @@ words:
     de: 'geschäft'
     meanings: 
       - 
-        src: 'Geschäft'
-        mark: 'Nn'
+        src: 'geschäft'
+        mark: 'nn'
         dest: 
           - 'shop'
           - 'store'
@@ -1047,8 +1030,8 @@ words:
     de: 'hotel'
     meanings: 
       - 
-        src: 'Hotel'
-        mark: 'Nn'
+        src: 'hotel'
+        mark: 'nn'
         dest: 
           - 'hotel'
 
@@ -1056,8 +1039,8 @@ words:
     de: 'fluss'
     meanings: 
       - 
-        src: 'Fluss'
-        mark: 'Nm'
+        src: 'fluss'
+        mark: 'nm'
         dest: 
           - 'river'
           - 'flow'
@@ -1067,8 +1050,8 @@ words:
     de: 'insel'
     meanings: 
       - 
-        src: 'Insel'
-        mark: 'Nf'
+        src: 'insel'
+        mark: 'nf'
         dest: 
           - 'island'
 
@@ -1076,17 +1059,17 @@ words:
     de: 'brauhaus'
     meanings: 
       - 
-        src: 'Brauhaus'
+        src: 'brauhaus'
         mark: 'n'
         dest: 
           - 'brewery'
 
   - 
-    de: 'Sehenswürdigkeit'
+    de: 'sehenswürdigkeit'
     meanings: 
       - 
-        src: 'Sehenswürdigkeit'
-        mark: 'Nf'
+        src: 'sehenswürdigkeit'
+        mark: 'nf'
         dest: 
           - 'sight'
           - 'place of interest, tourist attraction'
@@ -1095,8 +1078,8 @@ words:
     de: 'zug'
     meanings: 
       - 
-        src: 'Zug'
-        mark: 'Nm'
+        src: 'zug'
+        mark: 'nm'
         dest: 
           - 'train'
           - 'take'
@@ -1106,8 +1089,8 @@ words:
     de: 'bahn'
     meanings: 
       - 
-        src: 'Bahn'
-        mark: 'Nf'
+        src: 'bahn'
+        mark: 'nf'
         dest: 
           - 'train'
           - 'track'
@@ -1121,8 +1104,8 @@ words:
     de: 'münze'
     meanings: 
       - 
-        src: 'Münze'
-        mark: 'Nf'
+        src: 'münze'
+        mark: 'nf'
         dest: 
           - 'coin'
 
@@ -1130,8 +1113,8 @@ words:
     de: 'schein'
     meanings: 
       - 
-        src: 'Schein'
-        mark: 'Nm'
+        src: 'schein'
+        mark: 'nm'
         dest: 
           - 'certificate, document'
           - 'note, banknote'
@@ -1143,8 +1126,8 @@ words:
     de: 'erwachsene'
     meanings: 
       - 
-        src: 'Erwachsener'
-        mark: 'Nm'
+        src: 'erwachsener'
+        mark: 'nm'
         dest: 
           - 'adult'
           - 'grown-up, grownup'
@@ -1154,8 +1137,8 @@ words:
     de: 'fahrplan'
     meanings: 
       - 
-        src: 'Fahrplan'
-        mark: 'Nm'
+        src: 'fahrplan'
+        mark: 'nm'
         dest: 
           - 'timetable'
           - 'schedule'
@@ -1164,7 +1147,7 @@ words:
     de: 'wechselgeld'
     meanings: 
       - 
-        src: 'Wechselgeld'
+        src: 'wechselgeld'
         mark: 'n'
         dest: 
           - 'change'
@@ -1174,12 +1157,12 @@ words:
     meanings: 
       - 
         src: '[etw] wählen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'choose'
       - 
         src: 'jmdn/[etw] wählen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'vote'
           - 'go to the polls'
@@ -1190,7 +1173,7 @@ words:
     meanings: 
       - 
         src: 'auswählen'
-        mark: 'Vt, sepa'
+        mark: 'vt, sepa'
         dest: 
           - 'choose'
           - 'select'
@@ -1201,24 +1184,24 @@ words:
     meanings: 
       - 
         src: 'sich zwischen jmdm/[etw] entscheiden'
-        mark: 'Präp + Vr'
+        mark: 'präp + vr'
         dest: 
           - 'choose between'
       - 
         src: 'sich für [etw] entscheiden'
-        mark: 'Präp + Vr'
+        mark: 'präp + vr'
         dest: 
           - 'decide on'
           - 'choose'
           - 'pick'
       - 
         src: 'sich entscheiden'
-        mark: 'Vr'
+        mark: 'vr'
         dest: 
           - 'decide'
       - 
         src: '[etw] entscheiden'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'arrange'
           - 'organize'
@@ -1228,7 +1211,7 @@ words:
     meanings: 
       - 
         src: '[etw] eingeben'
-        mark: 'Vt, sepa'
+        mark: 'vt, sepa'
         dest: 
           - 'enter'
           - 'put in'
@@ -1249,8 +1232,8 @@ words:
     de: 'einzelzimmer'
     meanings: 
       - 
-        src: 'Einzelzimmer'
-        mark: 'Nn'
+        src: 'einzelzimmer'
+        mark: 'nn'
         dest: 
           - 'single room'
           - 'single bedroom'
@@ -1259,7 +1242,7 @@ words:
     de: 'doppelzimmer'
     meanings: 
       - 
-        src: 'Doppelzimmer'
+        src: 'doppelzimmer'
         mark: 'n'
         dest: 
           - 'double room'
@@ -1269,20 +1252,20 @@ words:
     meanings: 
       - 
         src: '[etw] füllen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'fill'
           - 'occupy'
       - 
         src: '[etw] in [etw] füllen'
-        mark: 'Präp + Vt'
+        mark: 'präp + vt'
         dest: 
           - 'fill'
           - 'pour'
           - 'take'
       - 
         src: 'sich füllen'
-        mark: 'Vr'
+        mark: 'vr'
         dest: 
           - 'fill'
 
@@ -1290,8 +1273,8 @@ words:
     de: 'gepäck'
     meanings: 
       - 
-        src: 'Gepäck'
-        mark: 'Nn'
+        src: 'gepäck'
+        mark: 'nn'
         dest: 
           - 'luggage'
           - 'baggage'
@@ -1301,7 +1284,7 @@ words:
     meanings: 
       - 
         src: 'draußen'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'outside'
 
@@ -1309,8 +1292,8 @@ words:
     de: 'lage'
     meanings: 
       - 
-        src: 'Lage'
-        mark: 'Nf'
+        src: 'lage'
+        mark: 'nf'
         dest: 
           - 'location'
           - 'situation'
@@ -1322,7 +1305,7 @@ words:
     meanings: 
       - 
         src: 'sauber'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'clean'
           - 'correct'
@@ -1333,7 +1316,7 @@ words:
     meanings: 
       - 
         src: '[etw] besichtigen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'look at'
           - 'inspect'
@@ -1346,7 +1329,7 @@ words:
     meanings: 
       - 
         src: 'dazu'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'for this purpose'
           - 'in addition'
@@ -1365,8 +1348,8 @@ words:
     de: 'ausflug'
     meanings: 
       - 
-        src: 'Ausflug'
-        mark: 'Nm'
+        src: 'ausflug'
+        mark: 'nm'
         dest: 
           - 'trip'
           - 'excursion'
@@ -1376,8 +1359,8 @@ words:
     de: 'erfahrung'
     meanings: 
       - 
-        src: 'Erfahrung'
-        mark: 'Nf'
+        src: 'erfahrung'
+        mark: 'nf'
         dest: 
           - 'experience'
           - 'know how'
@@ -1387,8 +1370,8 @@ words:
     de: 'gesicht'
     meanings: 
       - 
-        src: 'Gesicht'
-        mark: 'Nn'
+        src: 'gesicht'
+        mark: 'nn'
         dest: 
           - 'face'
           - 'make a face'
@@ -1398,13 +1381,13 @@ words:
     de: 'haar'
     meanings: 
       - 
-        src: 'Haar'
-        mark: 'Nn'
+        src: 'haar'
+        mark: 'nn'
         dest: 
           - 'hair'
       - 
-        src: 'Haar, Haare'
-        mark: 'Nn'
+        src: 'haar, haare'
+        mark: 'nn'
         dest: 
           - 'hair'
 
@@ -1412,14 +1395,14 @@ words:
     de: 'auge'
     meanings: 
       - 
-        src: 'Auge'
-        mark: 'Nn'
+        src: 'auge'
+        mark: 'nn'
         dest: 
           - 'eye'
           - 'pip'
       - 
-        src: 'Auge, ein Auge für etwas haben'
-        mark: 'Nn'
+        src: 'auge, ein auge für etwas haben'
+        mark: 'nn'
         dest: 
           - 'instinct'
           - 'have a nack for'
@@ -1430,8 +1413,8 @@ words:
     de: 'ohr'
     meanings: 
       - 
-        src: 'Ohr'
-        mark: 'Nn'
+        src: 'ohr'
+        mark: 'nn'
         dest: 
           - 'ear'
 
@@ -1439,8 +1422,8 @@ words:
     de: 'bein'
     meanings: 
       - 
-        src: 'Bein'
-        mark: 'Nn'
+        src: 'bein'
+        mark: 'nn'
         dest: 
           - 'leg'
 
@@ -1448,8 +1431,8 @@ words:
     de: 'kopf'
     meanings: 
       - 
-        src: 'Kopf'
-        mark: 'Nm'
+        src: 'kopf'
+        mark: 'nm'
         dest: 
           - 'head'
 
@@ -1457,13 +1440,13 @@ words:
     de: 'arm'
     meanings: 
       - 
-        src: 'Arm'
-        mark: 'Nm'
+        src: 'arm'
+        mark: 'nm'
         dest: 
           - 'arm'
       - 
         src: 'arm'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'poor'
           - 'needy'
@@ -1475,8 +1458,8 @@ words:
     de: 'mund'
     meanings: 
       - 
-        src: 'Mund'
-        mark: 'Nm'
+        src: 'mund'
+        mark: 'nm'
         dest: 
           - 'mouth'
           - 'pie hole'
@@ -1486,13 +1469,13 @@ words:
     meanings: 
       - 
         src: 'rücken'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'move over'
           - 'scoot over'
       - 
         src: '[etw] rücken'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'move'
 
@@ -1500,16 +1483,16 @@ words:
     de: 'bauch'
     meanings: 
       - 
-        src: 'Bauch'
-        mark: 'Nm'
+        src: 'bauch'
+        mark: 'nm'
         dest: 
           - 'abdomen'
           - 'stomach'
           - 'belly'
           - 'hold'
       - 
-        src: 'Bauch, aus dem Bauch heraus'
-        mark: 'Nm'
+        src: 'bauch, aus dem bauch heraus'
+        mark: 'nm'
         dest: 
           - 'gut feeling'
           - 'instinct'
@@ -1518,8 +1501,8 @@ words:
     de: 'hals'
     meanings: 
       - 
-        src: 'Hals'
-        mark: 'Nm'
+        src: 'hals'
+        mark: 'nm'
         dest: 
           - 'neck'
           - 'throat'
@@ -1528,8 +1511,8 @@ words:
     de: 'hand'
     meanings: 
       - 
-        src: 'Hand'
-        mark: 'Nf'
+        src: 'hand'
+        mark: 'nf'
         dest: 
           - 'hand'
 
@@ -1537,8 +1520,8 @@ words:
     de: 'finger'
     meanings: 
       - 
-        src: 'Finger'
-        mark: 'Nm'
+        src: 'finger'
+        mark: 'nm'
         dest: 
           - 'finger'
 
@@ -1546,8 +1529,8 @@ words:
     de: 'zahn'
     meanings: 
       - 
-        src: 'Zahn'
-        mark: 'Nm'
+        src: 'zahn'
+        mark: 'nm'
         dest: 
           - 'tooth'
 
@@ -1555,8 +1538,8 @@ words:
     de: 'starke'
     meanings: 
       - 
-        src: 'Stärke'
-        mark: 'Nf'
+        src: 'stärke'
+        mark: 'nf'
         dest: 
           - 'strength, vigor'
           - 'power'
@@ -1568,8 +1551,8 @@ words:
     de: 'sußigkeit'
     meanings: 
       - 
-        src: 'Süßigkeit'
-        mark: 'Nf'
+        src: 'süßigkeit'
+        mark: 'nf'
         dest: 
           - 'candy'
           - 'sweets'
@@ -1580,12 +1563,12 @@ words:
     meanings: 
       - 
         src: 'passieren'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'happen'
       - 
         src: '[etw] passieren'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'pass'
           - 'cross'
@@ -1595,7 +1578,7 @@ words:
     meanings: 
       - 
         src: 'schlimm'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'serious'
           - 'unpleasant'
@@ -1607,37 +1590,37 @@ words:
     meanings: 
       - 
         src: '[etw] brechen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'break'
           - 'violate'
       - 
         src: 'sich [etw] brechen'
-        mark: 'Vr'
+        mark: 'vr'
         dest: 
           - 'break'
       - 
         src: 'brechen'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'throw up'
           - 'vomit'
           - 'puke'
       - 
         src: 'mit jmdm/[etw] brechen'
-        mark: 'Adv + Vi'
+        mark: 'adv + vi'
         dest: 
           - 'break up with'
           - 'split up with'
       - 
         src: 'sich brechen'
-        mark: 'Vr'
+        mark: 'vr'
         dest: 
           - 'crash'
           - 'break'
       - 
         src: 'jmdn brechen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'break'
 
@@ -1646,7 +1629,7 @@ words:
     meanings: 
       - 
         src: 'los'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'separate'
           - 'free'
@@ -1656,14 +1639,14 @@ words:
     meanings: 
       - 
         src: '[etw] vereinbaren'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'agree on'
           - 'organize'
           - 'arrange'
       - 
         src: '[etw] mit [etw] vereinbaren'
-        mark: 'Adv + Vt'
+        mark: 'adv + vt'
         dest: 
           - 'reconcile'
           - 'manage'
@@ -1674,7 +1657,7 @@ words:
     meanings: 
       - 
         src: 'sich wohlfühlen'
-        mark: 'Vr, sepa'
+        mark: 'vr, sepa'
         dest: 
           - 'feel good, feel happy, be comfortable'
 
@@ -1693,12 +1676,12 @@ words:
     meanings: 
       - 
         src: '[etw]/jmdn ändern'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'influence'
       - 
         src: 'ändern'
-        mark: 'Vr'
+        mark: 'vr'
         dest: 
           - 'change'
 
@@ -1706,8 +1689,8 @@ words:
     de: 'absagen'
     meanings: 
       - 
-        src: 'Absage'
-        mark: 'Nf'
+        src: 'absage'
+        mark: 'nf'
         dest: 
           - 'rejection'
           - 'refusal'
@@ -1719,14 +1702,14 @@ words:
     meanings: 
       - 
         src: '[etw] verschieben'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'shift'
           - 'push'
           - 'postpone'
       - 
         src: 'sich verschieben'
-        mark: 'Vr'
+        mark: 'vr'
         dest: 
           - 'shift'
           - 'move'
@@ -1748,7 +1731,7 @@ words:
     meanings: 
       - 
         src: 'husten'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'cough'
 
@@ -1757,7 +1740,7 @@ words:
     meanings: 
       - 
         src: 'niesen'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'sneeze'
 
@@ -1765,8 +1748,8 @@ words:
     de: 'gesundheit'
     meanings: 
       - 
-        src: 'Gesundheit'
-        mark: 'Nf'
+        src: 'gesundheit'
+        mark: 'nf'
         dest: 
           - 'health'
 
@@ -1775,7 +1758,7 @@ words:
     meanings: 
       - 
         src: 'wandern'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'hike'
 
@@ -1784,13 +1767,13 @@ words:
     meanings: 
       - 
         src: 'freuen'
-        mark: 'Vr'
+        mark: 'vr'
         dest: 
           - 'be happy'
           - 'be pleased'
       - 
         src: 'sich auf [etw] freuen'
-        mark: 'Präp + Vr'
+        mark: 'präp + vr'
         dest: 
           - 'look forward to'
 
@@ -1808,7 +1791,7 @@ words:
     meanings: 
       - 
         src: 'sich entschuldigen'
-        mark: 'Vr'
+        mark: 'vr'
         dest: 
           - 'apologize'
           - 'excuse yourself'
@@ -1818,7 +1801,7 @@ words:
     meanings: 
       - 
         src: 'vorne, vorn'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'in front'
           - 'front'
@@ -1828,7 +1811,7 @@ words:
     meanings: 
       - 
         src: 'drüben'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'over there'
 
@@ -1837,7 +1820,7 @@ words:
     meanings: 
       - 
         src: 'oben'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'above'
           - 'upper'
@@ -1851,7 +1834,7 @@ words:
     meanings: 
       - 
         src: 'demselben'
-        mark: 'Pron'
+        mark: 'pron'
         dest: 
           - 'the same'
 
@@ -1860,7 +1843,7 @@ words:
     meanings: 
       - 
         src: 'unten'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'at the bottom'
           - 'below'
@@ -1873,7 +1856,7 @@ words:
     meanings: 
       - 
         src: '[etw] erhalten'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'get'
           - 'receive'
@@ -1882,14 +1865,14 @@ words:
           - 'preserve'
       - 
         src: 'sich erhalten'
-        mark: 'Vr'
+        mark: 'vr'
         dest: 
           - 'sustain'
           - 'conserve'
           - 'preserve'
       - 
         src: 'erhalten, replace. [etw]/jmdn erhalten'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'nourish'
           - 'care for'
@@ -1898,8 +1881,8 @@ words:
     de: 'koffer'
     meanings: 
       - 
-        src: 'Koffer'
-        mark: 'Nm'
+        src: 'koffer'
+        mark: 'nm'
         dest: 
           - 'suitcase'
           - 'case'
@@ -1909,7 +1892,7 @@ words:
     meanings: 
       - 
         src: 'ankommen (auf etwas)'
-        mark: 'Partv tr, sepa'
+        mark: 'partv tr, sepa'
         dest: 
           - 'depend'
 
@@ -1917,8 +1900,8 @@ words:
     de: 'abfahrt'
     meanings: 
       - 
-        src: 'Abfahrt'
-        mark: 'Nf'
+        src: 'abfahrt'
+        mark: 'nf'
         dest: 
           - 'departure'
           - 'start'
@@ -1928,8 +1911,8 @@ words:
     de: 'abflug'
     meanings: 
       - 
-        src: 'Abflug'
-        mark: 'Nm'
+        src: 'abflug'
+        mark: 'nm'
         dest: 
           - 'departure'
           - 'takeoff'
@@ -1938,8 +1921,8 @@ words:
     de: 'ankunft'
     meanings: 
       - 
-        src: 'Ankunft'
-        mark: 'Nf'
+        src: 'ankunft'
+        mark: 'nf'
         dest: 
           - 'arrival'
 
@@ -1947,8 +1930,8 @@ words:
     de: 'anschluss'
     meanings: 
       - 
-        src: 'Anschluss'
-        mark: 'Nm'
+        src: 'anschluss'
+        mark: 'nm'
         dest: 
           - 'connection'
           - 'keep up'
@@ -1959,16 +1942,16 @@ words:
     de: 'verspätung'
     meanings: 
       - 
-        src: 'Verspätung'
-        mark: 'Nf'
+        src: 'verspätung'
+        mark: 'nf'
         dest: 
           - 'delay'
 
   - 
-    de: 'Umstieg'
+    de: 'umstieg'
     meanings: 
       - 
-        src: 'Umstieg'
+        src: 'umstieg'
         mark: 'm'
         dest: 
           - ';'
@@ -1977,7 +1960,7 @@ words:
     de: 'aufstieg'
     meanings: 
       - 
-        src: 'Aufstieg'
+        src: 'aufstieg'
         mark: 'm'
         dest: 
           - ':'
@@ -1987,7 +1970,7 @@ words:
     meanings: 
       - 
         src: '[etw] vergessen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'forget'
           - 'suppress'
@@ -1997,7 +1980,7 @@ words:
     meanings: 
       - 
         src: 'verloren'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'lost'
           - 'doomed'
@@ -2007,7 +1990,7 @@ words:
     meanings: 
       - 
         src: 'entstehen'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'develop'
           - 'arise'
@@ -2019,14 +2002,14 @@ words:
     meanings: 
       - 
         src: 'rund'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'round, circular'
           - 'rounded'
           - 'busy, chaotic'
       - 
         src: 'rund'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'around, roughly'
 
@@ -2034,8 +2017,8 @@ words:
     de: 'raum'
     meanings: 
       - 
-        src: 'Raum'
-        mark: 'Nm'
+        src: 'raum'
+        mark: 'nm'
         dest: 
           - 'room'
           - 'chamber'
@@ -2048,8 +2031,8 @@ words:
     de: 'ereignis'
     meanings: 
       - 
-        src: 'Ereignis'
-        mark: 'Nn'
+        src: 'ereignis'
+        mark: 'nn'
         dest: 
           - 'event'
           - 'occurrence'
@@ -2059,8 +2042,8 @@ words:
     de: 'namen'
     meanings: 
       - 
-        src: 'Name'
-        mark: 'Nm'
+        src: 'name'
+        mark: 'nm'
         dest: 
           - 'name'
           - 'reputation'
@@ -2070,8 +2053,8 @@ words:
     de: 'eigenschaft'
     meanings: 
       - 
-        src: 'Eigenschaft'
-        mark: 'Nf'
+        src: 'eigenschaft'
+        mark: 'nf'
         dest: 
           - 'characteristic'
           - 'quality'
@@ -2084,8 +2067,8 @@ words:
     de: 'bekannte'
     meanings: 
       - 
-        src: 'Bekannte'
-        mark: 'Nf'
+        src: 'bekannte'
+        mark: 'nf'
         dest: 
           - 'acquaintance'
 
@@ -2094,7 +2077,7 @@ words:
     meanings: 
       - 
         src: 'berühmt'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'famous'
           - 'popular'
@@ -2105,7 +2088,7 @@ words:
     meanings: 
       - 
         src: '[etw] verbinden'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'bandage'
           - 'connect'
@@ -2118,7 +2101,7 @@ words:
     meanings: 
       - 
         src: 'fast'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'almost'
           - 'nearly'
@@ -2128,19 +2111,19 @@ words:
     meanings: 
       - 
         src: 'bestimmt'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'definitely'
           - 'certainly'
       - 
         src: 'bestimmt'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'certain'
           - 'definite'
       - 
         src: 'bestimmt'
-        mark: 'V Part Perf'
+        mark: 'v part perf'
         dest: 
           - 'predetermined'
 
@@ -2149,7 +2132,7 @@ words:
     meanings: 
       - 
         src: 'besonders'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'especially'
           - 'very'
@@ -2171,7 +2154,7 @@ words:
     meanings: 
       - 
         src: 'normalerweise'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'normally'
           - 'usually'
@@ -2181,7 +2164,7 @@ words:
     meanings: 
       - 
         src: 'reden'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'speak'
           - 'talk'
@@ -2194,23 +2177,23 @@ words:
     meanings: 
       - 
         src: 'sich [etw] vorstellen'
-        mark: 'Vr, sepa'
+        mark: 'vr, sepa'
         dest: 
           - 'imagine'
           - 'visualize'
       - 
         src: 'sich vorstellen'
-        mark: 'Vr, sepa'
+        mark: 'vr, sepa'
         dest: 
           - 'introduce'
       - 
         src: 'jmdn vorstellen'
-        mark: 'Vt, sepa'
+        mark: 'vt, sepa'
         dest: 
           - 'introduce'
       - 
         src: '[etw] vorstellen'
-        mark: 'Vt, sepa'
+        mark: 'vt, sepa'
         dest: 
           - 'move'
           - 'put'
@@ -2219,8 +2202,8 @@ words:
     de: 'leistung'
     meanings: 
       - 
-        src: 'Leistung'
-        mark: 'Nf'
+        src: 'leistung'
+        mark: 'nf'
         dest: 
           - 'performance'
           - 'achievement'
@@ -2231,7 +2214,7 @@ words:
     meanings: 
       - 
         src: 'kaputt'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'broken'
           - 'torn'
@@ -2242,8 +2225,8 @@ words:
     de: 'reise'
     meanings: 
       - 
-        src: 'Reise'
-        mark: 'Nf'
+        src: 'reise'
+        mark: 'nf'
         dest: 
           - 'journey, trip'
           - 'voyage'
@@ -2253,8 +2236,8 @@ words:
     de: 'getränk'
     meanings: 
       - 
-        src: 'Getränk'
-        mark: 'Nn'
+        src: 'getränk'
+        mark: 'nn'
         dest: 
           - 'drink'
 
@@ -2262,8 +2245,8 @@ words:
     de: 'brief'
     meanings: 
       - 
-        src: 'Brief'
-        mark: 'Nm'
+        src: 'brief'
+        mark: 'nm'
         dest: 
           - 'letter'
 
@@ -2272,7 +2255,7 @@ words:
     meanings: 
       - 
         src: 'dringend'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'urgent'
           - 'desperate'
@@ -2285,7 +2268,7 @@ words:
     meanings: 
       - 
         src: 'weit'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'extensive'
           - 'large'
@@ -2297,14 +2280,14 @@ words:
     meanings: 
       - 
         src: '[etw] versuchen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'try'
           - 'attempt'
           - 'taste'
       - 
         src: 'sich versuchen'
-        mark: 'Vr'
+        mark: 'vr'
         dest: 
           - 'dabble'
           - 'try'
@@ -2315,7 +2298,7 @@ words:
     meanings: 
       - 
         src: 'weg'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'far away, far off'
           - 'gone'
@@ -2325,7 +2308,7 @@ words:
     meanings: 
       - 
         src: 'liegen'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'lie'
           - 'located'
@@ -2336,7 +2319,7 @@ words:
     meanings: 
       - 
         src: 'einige'
-        mark: 'Pron'
+        mark: 'pron'
         dest: 
           - 'several'
           - 'some'
@@ -2347,12 +2330,12 @@ words:
     meanings: 
       - 
         src: 'jmdn/[etw] [etw] tun lassen'
-        mark: 'VP'
+        mark: 'vp'
         dest: 
           - 'let'
       - 
         src: '[etw] lassen'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'leave'
           - 'let'
@@ -2362,12 +2345,12 @@ words:
     meanings: 
       - 
         src: 'auf [etw] anspringen'
-        mark: 'Rdw'
+        mark: 'rdw'
         dest: 
           - 'jump at'
       - 
         src: 'nicht anspringen'
-        mark: 'Part + Vi'
+        mark: 'part + vi'
         dest: 
           - 'not start'
           - 'not turn over'
@@ -2378,13 +2361,13 @@ words:
     meanings: 
       - 
         src: 'ungefähr'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'about'
           - 'approximately'
       - 
         src: 'ungefähr'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'approximate'
 
@@ -2392,8 +2375,8 @@ words:
     de: 'ersatzteile'
     meanings: 
       - 
-        src: 'Ersatzteil'
-        mark: 'Nn'
+        src: 'ersatzteil'
+        mark: 'nn'
         dest: 
           - 'spare part'
 
@@ -2402,7 +2385,7 @@ words:
     meanings: 
       - 
         src: 'passend'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'appropriate amount'
           - 'suitable'
@@ -2413,7 +2396,7 @@ words:
     meanings: 
       - 
         src: 'entweder, entweder...oder'
-        mark: 'Konj'
+        mark: 'konj'
         dest: 
           - 'either'
 
@@ -2422,7 +2405,7 @@ words:
     meanings: 
       - 
         src: 'eher'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'earlier'
           - 'sooner'
@@ -2430,11 +2413,11 @@ words:
           - 'preferably'
 
   - 
-    de: 'Fortsetzung'
+    de: 'fortsetzung'
     meanings: 
       - 
-        src: 'Fortsetzung'
-        mark: 'Nf'
+        src: 'fortsetzung'
+        mark: 'nf'
         dest: 
           - 'continuation'
           - 'resumption'
@@ -2444,8 +2427,8 @@ words:
     de: 'ding'
     meanings: 
       - 
-        src: 'Ding'
-        mark: 'Nn'
+        src: 'ding'
+        mark: 'nn'
         dest: 
           - 'thing'
           - 'matter'
@@ -2455,8 +2438,8 @@ words:
     de: 'sache'
     meanings: 
       - 
-        src: 'Sache'
-        mark: 'Nf'
+        src: 'sache'
+        mark: 'nf'
         dest: 
           - 'thing'
           - 'matter'
@@ -2473,8 +2456,8 @@ words:
     de: 'gesetz'
     meanings: 
       - 
-        src: 'Gesetz'
-        mark: 'Nn'
+        src: 'gesetz'
+        mark: 'nn'
         dest: 
           - 'law'
 
@@ -2483,14 +2466,14 @@ words:
     meanings: 
       - 
         src: 'verhalten'
-        mark: 'Vr'
+        mark: 'vr'
         dest: 
           - 'react'
           - 'to be to'
           - 'behave'
       - 
         src: 'verhalten'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'restrained'
 
@@ -2499,12 +2482,12 @@ words:
     meanings: 
       - 
         src: 'ziemlich'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'seemly'
       - 
         src: 'ziemlich'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'fairly'
           - 'pretty'
@@ -2515,12 +2498,12 @@ words:
     meanings: 
       - 
         src: 'wirklich'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'real'
       - 
         src: 'wirklich'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'really'
 
@@ -2529,7 +2512,7 @@ words:
     meanings: 
       - 
         src: 'wirken'
-        mark: 'Vi'
+        mark: 'vi'
         dest: 
           - 'appear'
           - 'seem'
@@ -2541,7 +2524,7 @@ words:
     meanings: 
       - 
         src: '[etw]/jmdn unterscheiden'
-        mark: 'Vt, fix'
+        mark: 'vt, fix'
         dest: 
           - 'tell'
           - 'distinguish'
@@ -2549,7 +2532,7 @@ words:
           - 'identify'
       - 
         src: 'sich unterscheiden'
-        mark: 'Vr, fix'
+        mark: 'vr, fix'
         dest: 
           - 'differ'
           - 'be characteristic'
@@ -2560,7 +2543,7 @@ words:
     de: 'vertrautheit'
     meanings: 
       - 
-        src: 'Vertrautheit'
+        src: 'vertrautheit'
         mark: 'f'
         dest: 
           - 'closeness'
@@ -2569,7 +2552,7 @@ words:
     de: 'banknote'
     meanings: 
       - 
-        src: 'Banknote'
+        src: 'banknote'
         mark: 'f'
         dest: 
           - '(bank)note'
@@ -2579,7 +2562,7 @@ words:
     meanings: 
       - 
         src: '[etw] entwickeln'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'come up with'
           - 'develop'
@@ -2587,17 +2570,17 @@ words:
           - 'design'
       - 
         src: 'entwickeln'
-        mark: 'Vr'
+        mark: 'vr'
         dest: 
           - 'develop'
           - 'mature'
           - 'flourish'
 
   - 
-    de: 'Umstieg'
+    de: 'umstieg'
     meanings: 
       - 
-        src: 'Umstieg'
+        src: 'umstieg'
         mark: 'm'
         dest: 
           - ';'
@@ -2607,7 +2590,7 @@ words:
     meanings: 
       - 
         src: 'berühmt'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'famous'
           - 'popular'
@@ -2618,19 +2601,19 @@ words:
     meanings: 
       - 
         src: 'bestimmt'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'definitely'
           - 'certainly'
       - 
         src: 'bestimmt'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'certain'
           - 'definite'
       - 
         src: 'bestimmt'
-        mark: 'V Part Perf'
+        mark: 'v part perf'
         dest: 
           - 'predetermined'
 
@@ -2639,7 +2622,7 @@ words:
     meanings: 
       - 
         src: '[etw] entwickeln'
-        mark: 'Vt'
+        mark: 'vt'
         dest: 
           - 'come up with'
           - 'develop'
@@ -2647,17 +2630,17 @@ words:
           - 'design'
       - 
         src: 'entwickeln'
-        mark: 'Vr'
+        mark: 'vr'
         dest: 
           - 'develop'
           - 'mature'
           - 'flourish'
 
   - 
-    de: 'Umstieg'
+    de: 'umstieg'
     meanings: 
       - 
-        src: 'Umstieg'
+        src: 'umstieg'
         mark: 'm'
         dest: 
           - ';'
@@ -2667,7 +2650,7 @@ words:
     meanings: 
       - 
         src: 'berühmt'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'famous'
           - 'popular'
@@ -2678,19 +2661,19 @@ words:
     meanings: 
       - 
         src: 'bestimmt'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'definitely'
           - 'certainly'
       - 
         src: 'bestimmt'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'certain'
           - 'definite'
       - 
         src: 'bestimmt'
-        mark: 'V Part Perf'
+        mark: 'v part perf'
         dest: 
           - 'predetermined'
 
@@ -2704,10 +2687,10 @@ words:
           - 'have a cold'
 
   - 
-    de: 'Umstieg'
+    de: 'umstieg'
     meanings: 
       - 
-        src: 'Umstieg'
+        src: 'umstieg'
         mark: 'm'
         dest: 
           - ';'
@@ -2717,7 +2700,7 @@ words:
     meanings: 
       - 
         src: 'berühmt'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'famous'
           - 'popular'
@@ -2728,19 +2711,19 @@ words:
     meanings: 
       - 
         src: 'bestimmt'
-        mark: 'Adv'
+        mark: 'adv'
         dest: 
           - 'definitely'
           - 'certainly'
       - 
         src: 'bestimmt'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'certain'
           - 'definite'
       - 
         src: 'bestimmt'
-        mark: 'V Part Perf'
+        mark: 'v part perf'
         dest: 
           - 'predetermined'
 
@@ -2749,21 +2732,86 @@ words:
     meanings: 
       - 
         src: 'verschieden'
-        mark: 'Adj'
+        mark: 'adj'
         dest: 
           - 'different'
-          - 'certainly'      
+          - 'certainly'
+
+  - 
+    de: 'hallo'
+    meanings: 
+      - 
+        src: 'hallo'
+        mark: 'int'
+        dest: 
+          - 'hi'
+          - 'hello'
+
+  - 
+    de: 'geschehen'
+    meanings: 
+      - 
+        src: 'gern geschehen'
+        mark: 'int'
+        dest: 
+          - 'no problem'
+          - 'any time'
+
+  - 
+    de: 'urahn'
+    meanings: 
+      - 
+        src: 'urahn'
+        mark: 'nm'
+        dest: 
+          - 'ancestor'
+
+  - 
+    de: 'geradeaus'
+    meanings: 
+      - 
+        src: 'geradeaus'
+        mark: ''
+        dest: 
+          - 'straight on'
+
+  - 
+    de: 'abbiegen'
+    meanings: 
+      - 
+        src: 'abbiegen'
+        mark: 'vi, sepa'
+        dest: 
+          - 'turn'
+          - 'make a turn'
+          - 'change direction'
+      - 
+        src: '[etw] abbiegen'
+        mark: 'vt, sepa'
+        dest: 
+          - 'bend'
+          - 'twist'
+
+  - 
+    de: 'widersprechen'
+    meanings: 
+      - 
+        src: 'widersprechen'
+        mark: 'vi, fix'
+        dest: 
+          - 'contradict'
+      - 
+        src: 'sich widersprechen'
+        mark: 'vr, fix'
+        dest: 
+          - 'be contradictory'
 
 
 broken: 
   - 'änheln'
-  - 'gechehen'
-  - 'wiedersprechen'
-  - 'geradeaus'
-  - 'stempelln'
+  - 'stempeln'
   - 'gebrochen'
   - 'zusätlichen'
-  - 'abfiegen'
   - 'ausgestorben'
   - 'aufzulösen'
   - 'urknoll'
@@ -2771,4 +2819,3 @@ broken:
   - 'buchstabieren'
   - 'nachshauen'
   - 'ingesamt'
-  - 'urahn'

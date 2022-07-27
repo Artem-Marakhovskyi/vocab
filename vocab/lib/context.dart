@@ -1,6 +1,7 @@
 import 'dart:io';
 import 'package:vocab/model/existing_dict.dart';
 import 'package:vocab/services/html_parser.dart';
+import 'package:vocab/services/input_stream.dart';
 import 'package:vocab/services/translator.dart';
 import 'package:vocab/services/wordreference.api.dart';
 
@@ -9,6 +10,7 @@ class Context {
       '${Directory.current.path}/../vocabulary/vocabulary-de.yaml');
   final HtmlParser htmlParser = HtmlParser();
   final WordReferenceApi api = WordReferenceApi();
+  final InputStream input = InputStream();
 
   Translator? _translator;
   Translator get translator {
