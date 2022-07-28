@@ -44,8 +44,8 @@ class DoctorSpecificUseCase extends UseCase {
       }
     }
 
-    WordEntity wordEntity =
-        WordEntity(de, meanings, DateTime.fromMicrosecondsSinceEpoch(0), 0, 0);
+    WordEntity wordEntity = WordEntity(de, meanings,
+        DateTime.fromMicrosecondsSinceEpoch(0), 0, 0, DateTime.now());
     context.existingDict.add(wordEntity, wordEntity.de);
     await context.existingDict.commit();
   }

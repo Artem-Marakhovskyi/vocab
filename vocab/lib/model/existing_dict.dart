@@ -50,13 +50,17 @@ class ExistingDict {
 
       var lastAttempt = DateTime.fromMicrosecondsSinceEpoch(0);
       if (word['last_attempt'] != null) {
-        DateTime.parse(word['last_attempt']);
+        lastAttempt = DateTime.parse(word['last_attempt']);
+      }
+      var added = DateTime.now();
+      if (word['added'] != null) {
+        added = DateTime.parse(word['added']);
       }
       var success = word['success_attempts'] ?? 0;
       var totalAttempts = word['total_attempts'] ?? 0;
 
       words.add(WordEntity(
-          word['de'], meanings, lastAttempt, success, totalAttempts));
+          word['de'], meanings, lastAttempt, success, totalAttempts, added));
     }
   }
 
@@ -85,7 +89,9 @@ class ExistingDict {
 
   void addWord(WordEntity wordEntity) {
     _brokenWords.remove(wordEntity.de);
-    words.add(wordEntity);
+    if (!words.any((element) => element.de == wordEntity.de)) {
+      words.add(wordEntity);
+    }
   }
 
   bool containsTerm(String term) =>
@@ -97,6 +103,7 @@ class ExistingDict {
     for (var word in words) {
       wordsList.add({
         'de': word.de,
+        'added': word.added.toString(),
         'last_attempt': word.lastAttempt.toString(),
         'success_attempts': word.success,
         'total_attempts': word.totalAttempts,

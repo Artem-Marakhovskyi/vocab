@@ -42,7 +42,7 @@ class TrainingWordsCountUseCase extends UseCase {
 
   bool deen(WordEntity sessionWord, int idx) {
     color(
-        '${getProgress(idx)}${sessionWord.meanings.map((e) => '${e.src} (${e.mark})').toSet().toList().join(', ')}',
+        '${getProgress(idx)}${sessionWord.meanings.map((e) => e.isNoun ? '${e.nounArticle} ${e.src}' : '${e.src} (${e.mark})').toSet().toList().join(', ')}',
         front: Styles.BLUE);
     var input = context.input.read().trim();
     if (sessionWord.meanings
