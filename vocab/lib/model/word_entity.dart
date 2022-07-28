@@ -20,6 +20,23 @@ class Meaning {
         dests = dests.map((e) => e.toLowerCase()).toList(),
         mark = mark.toLowerCase() {}
 
+  bool get isNoun => mark.isNotEmpty && mark[0] == 'n';
+
+  String get nounArticle {
+    var article = '';
+    if (mark[0] == 'n') {
+      if (mark[1] == 'f') article = 'die';
+      if (mark[1] == 'm') article = 'der';
+      if (mark[1] == 'n') article = 'das';
+    }
+
+    return article;
+  }
+
   @override
-  String toString() => '$src ($mark) - ${dests.join(', ')}';
+  String toString() {
+    var article = '';
+    if (isNoun) article = '${nounArticle} ';
+    return '$article$src ($mark) - ${dests.join(', ')}';
+  }
 }

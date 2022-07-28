@@ -12,6 +12,7 @@ class HtmlParser {
   WordEntity? processHtml(String html) {
     var document = parse(html);
     var de = document.body!.querySelector('h3.headerWord')!.text;
+    var meanings = <Meaning>[];
 
     var tables = document.body!.querySelectorAll('table.WRD');
     if (tables.isNotEmpty) {
@@ -19,22 +20,27 @@ class HtmlParser {
         var priorityTable = tables.where(
             (element) => element.querySelector('td[title="$p"]') != null);
         if (priorityTable.isNotEmpty) {
-          return WordEntity(de, _processTable(priorityTable.first));
+          for (var t in priorityTable) {
+            meanings.addAll(
+                _processTable(t).where((element) => element.dests.isNotEmpty));
+          }
         }
       }
     }
 
-    var meanings = _getAlternativeMeaningInArablist(document.body!);
-    if (meanings != null) {
-      return WordEntity(de, meanings);
+    var means = _getAlternativeMeaningInArablist(document.body!);
+    if (means != null) {
+      meanings.addAll(means.where((element) => element.dests.isNotEmpty));
     } else {
-      var meanings =
-          _getAlternativeMeaningInEntrySrcMarkMeaning(document.body!);
-      if (meanings != null) {
-        return WordEntity(de, meanings);
+      var means = _getAlternativeMeaningInEntrySrcMarkMeaning(document.body!);
+      if (means != null) {
+        meanings.addAll(means.where((element) => element.dests.isNotEmpty));
       }
     }
 
+    if (meanings.isNotEmpty) {
+      return WordEntity(de, meanings);
+    }
     return null;
   }
 

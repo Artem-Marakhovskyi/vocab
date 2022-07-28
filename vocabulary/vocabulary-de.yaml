@@ -1,4 +1,4 @@
-lastUpdated: '2022-07-28 10:26:02.355134'
+lastUpdated: '2022-07-28 12:23:17.966517'
 words: 
   - 
     de: 'abholen'
@@ -2858,6 +2858,185 @@ words:
         mark: 'v'
         dest: 
           - 'slide'
+
+  - 
+    de: 'zeigen'
+    meanings: 
+      - 
+        src: 'auf [etw] zeigen'
+        mark: 'präp + vi'
+        dest: 
+          - 'point at'
+          - 'point on'
+      - 
+        src: '[etw] zeigen'
+        mark: 'vt'
+        dest: 
+          - 'explain, illustrate'
+          - 'point'
+          - 'show'
+      - 
+        src: 'zeigen'
+        mark: 'vr'
+        dest: 
+          - 'reveal'
+          - 'show oneself'
+
+  - 
+    de: 'zeit'
+    meanings: 
+      - 
+        src: 'zeit seines lebens'
+        mark: 'rdw'
+        dest: 
+          - 'as long as i live'
+      - 
+        src: 'zeit'
+        mark: 'nf'
+        dest: 
+          - 'time'
+      - 
+        src: 'zeit'
+        mark: 'nf'
+        dest: 
+          - 'time'
+      - 
+        src: 'zeit'
+        mark: 'nf'
+        dest: 
+          - 'point in time, moment in time'
+          - 'time period, time frame'
+      - 
+        src: 'zeit'
+        mark: 'nf'
+        dest: 
+          - 'tense'
+      - 
+        src: 'zeit'
+        mark: 'nf'
+        dest: 
+          - 'time, era'
+      - 
+        src: 'absehbare zeit'
+        mark: 'adj + nf'
+        dest: 
+          - 'foreseeable future'
+          - 'soon'
+      - 
+        src: 'an der zeit'
+        mark: 'rdw'
+        dest: 
+          - 'time'
+      - 
+        src: 'aus alter zeit stammend'
+        mark: 'rdw'
+        dest: 
+          - 'ancient'
+          - 'historical'
+      - 
+        src: 'beste zeit des lebens'
+        mark: 'rdw'
+        dest: 
+          - 'time of your life'
+      - 
+        src: 'die ganze zeit'
+        mark: 'rdw'
+        dest: 
+          - 'the whole time'
+      - 
+        src: 'die ganze zeit etwas tun'
+        mark: 'rdw'
+        dest: 
+          - 'do'
+          - 'do'
+      - 
+        src: 'die zeit messen'
+        mark: 'rdw'
+        dest: 
+          - 'time'
+      - 
+        src: 'eine lange zeit'
+        mark: 'rdw'
+        dest: 
+          - 'a long time'
+      - 
+        src: 'freie zeit'
+        mark: 'adj + nf'
+        dest: 
+          - 'free time'
+      - 
+        src: 'für alle zeit'
+        mark: 'rdw'
+        dest: 
+          - 'forever'
+          - 'for all time'
+      - 
+        src: 'für kurze zeit'
+        mark: 'rdw'
+        dest: 
+          - 'for a limited time, for a short time'
+      - 
+        src: 'gewisse zeit'
+        mark: 'adj + nf'
+        dest: 
+          - 'certain time'
+      - 
+        src: 'in letzter zeit'
+        mark: 'rdw'
+        dest: 
+          - 'recently'
+      - 
+        src: 'schönste zeit des lebens'
+        mark: 'rdw'
+        dest: 
+          - 'best time of your life'
+      - 
+        src: 'sturm und drang zeit'
+        mark: 'rdw'
+        dest: 
+          - 'sturm und drang period'
+          - 'Sturm and Stress period'
+      - 
+        src: 'von zeit zu zeit'
+        mark: 'rdw'
+        dest: 
+          - 'from time to time'
+          - 'now and then'
+      - 
+        src: 'vor langer zeit'
+        mark: 'rdw'
+        dest: 
+          - 'a long time ago'
+      - 
+        src: 'zeit des friedens'
+        mark: 'rdw'
+        dest: 
+          - 'peacetime'
+      - 
+        src: 'zeit haben'
+        mark: 'nf + vt'
+        dest: 
+          - 'have time'
+      - 
+        src: 'zeit miteinander verbringen'
+        mark: 'rdw'
+        dest: 
+          - 'spend time together'
+      - 
+        src: 'zeit sein'
+        mark: 'nf + vi'
+        dest: 
+          - 'be time'
+      - 
+        src: 'zeit sparen'
+        mark: 'nf + vt'
+        dest: 
+          - 'save time'
+      - 
+        src: 'zeit'
+        mark: 'präp (+gen)'
+        dest: 
+          - 'time'
 
 
 broken: 

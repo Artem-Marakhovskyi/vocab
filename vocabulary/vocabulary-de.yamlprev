@@ -1,4 +1,4 @@
-lastUpdated: '2022-07-28 10:25:15.096448'
+lastUpdated: '2022-07-28 12:14:40.226117'
 words: 
   - 
     de: 'abholen'
@@ -2850,8 +2850,39 @@ words:
           - 'belly'
           - 'stomach'
 
+  - 
+    de: 'gleiten'
+    meanings: 
+      - 
+        src: 'gleiten'
+        mark: 'v'
+        dest: 
+          - 'slide'
+
+  - 
+    de: 'zeigen'
+    meanings: 
+      - 
+        src: 'auf [etw] zeigen'
+        mark: 'präp + vi'
+        dest: 
+          - 'point at'
+          - 'point on'
+      - 
+        src: '[etw] zeigen'
+        mark: 'vt'
+        dest: 
+          - 'explain, illustrate'
+          - 'point'
+          - 'show'
+      - 
+        src: 'zeigen'
+        mark: 'vr'
+        dest: 
+          - 'reveal'
+          - 'show oneself'
+
 broken: 
-  - 'gleiten'
   - 'änheln'
   - 'stempeln'
   - 'gebrochen'
