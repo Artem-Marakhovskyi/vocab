@@ -48,7 +48,22 @@ class ExistingDict {
         meanings.add(Meaning(src, engs, mark));
       }
 
-      words.add(WordEntity(word['de'], meanings));
+      var lastAttempt = DateTime.fromMicrosecondsSinceEpoch(0);
+      if (word['last_attempt'] != null) {
+        DateTime.parse(word['last_attempt']);
+      }
+      var success = word['success_attempts'] ?? 0;
+      var totalAttempts = word['total_attempts'] ?? 0;
+
+      words.add(WordEntity(
+          word['de'], meanings, lastAttempt, success, totalAttempts));
+    }
+  }
+
+  void replace(WordEntity word) {
+    if (words.any((x) => x.de == word.de)) {
+      words.removeAt(words.indexWhere((element) => element.de == word.de));
+      words.add(word);
     }
   }
 
@@ -78,9 +93,13 @@ class ExistingDict {
 
   Future commit() {
     var wordsList = [];
+
     for (var word in words) {
       wordsList.add({
         'de': word.de,
+        'last_attempt': word.lastAttempt.toString(),
+        'success_attempts': word.success,
+        'total_attempts': word.totalAttempts,
         'meanings': word.meanings
             .map((e) => {
                   'src': e.src,

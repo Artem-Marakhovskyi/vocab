@@ -34,12 +34,12 @@ class HtmlParser {
     } else {
       var means = _getAlternativeMeaningInEntrySrcMarkMeaning(document.body!);
       if (means != null) {
-        meanings.addAll(means.where((element) => element.dests.isNotEmpty));
+        meanings.add(means);
       }
     }
 
     if (meanings.isNotEmpty) {
-      return WordEntity(de, meanings);
+      return WordEntity.neverTrained(de, meanings);
     }
     return null;
   }
@@ -112,7 +112,7 @@ class HtmlParser {
     return null;
   }
 
-  _getAlternativeMeaningInEntrySrcMarkMeaning(Element body) {
+  Meaning? _getAlternativeMeaningInEntrySrcMarkMeaning(Element body) {
     var src = body.querySelector('div.entry > strong.hw')?.text;
     var mark = body.querySelector('div.entry > span.ital')?.text;
     var dests = body.querySelector('div.entry > span.roman')?.text;
@@ -125,9 +125,10 @@ class HtmlParser {
         mark != null &&
         destsList != null &&
         destsList.isNotEmpty) {
-      return [Meaning(src, destsList, mark.trim())];
+      return Meaning(src, destsList, mark.trim());
     }
 
     return null;
+    ;
   }
 }

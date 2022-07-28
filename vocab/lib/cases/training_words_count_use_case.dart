@@ -21,17 +21,23 @@ class TrainingWordsCountUseCase extends UseCase {
     for (var sessionWord in sessionWords) {
       idx++;
       if (arguments.direction == ArgsParser.directionEnDe) {
-        if (ende(sessionWord, idx)) {
+        var success = ende(sessionWord, idx);
+        sessionWord.attempt(success);
+        if (success) {
           successCount++;
         }
+        context.existingDict.replace(sessionWord);
       } else if (arguments.direction == ArgsParser.directionDeEn) {
-        if (deen(sessionWord, idx)) {
+        var success = deen(sessionWord, idx);
+        sessionWord.attempt(success);
+        if (success) {
           successCount++;
         }
+        context.existingDict.replace(sessionWord);
       }
     }
-
     print('✅: $successCount, attempts: ${arguments.wordscount}');
+    await context.existingDict.commit();
   }
 
   bool deen(WordEntity sessionWord, int idx) {

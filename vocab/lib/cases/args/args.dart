@@ -8,6 +8,10 @@ class DoctorArgs extends Args {
   DoctorArgs();
 }
 
+class DoctorForceArgs extends Args {
+  DoctorForceArgs();
+}
+
 class DoctorSpecificArgs extends Args {
   final String word;
   DoctorSpecificArgs(this.word);
@@ -42,5 +46,6 @@ class QueryWordsArgs extends Args {
 class TrainingWordsCountArgs extends Args {
   final String direction;
   final int wordscount;
-  TrainingWordsCountArgs(this.wordscount, this.direction);
+  final bool takeWorst;
+  TrainingWordsCountArgs(this.wordscount, this.direction, this.takeWorst);
 }

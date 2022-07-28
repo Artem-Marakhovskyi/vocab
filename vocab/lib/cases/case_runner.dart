@@ -13,6 +13,7 @@ import 'add_filepath_use_case.dart';
 import 'add_interactive_use_case.dart';
 import 'args/args.dart';
 import 'args/args_parser.dart';
+import 'doctor_force_use_case.dart';
 import 'doctor_specific_use_case.dart';
 import 'exit_use_case.dart';
 
@@ -23,6 +24,7 @@ class CaseRunner {
   final Map<Type, UseCase Function(Args)> _argsMap = {
     ExitArgs: (args) => ExitUseCase(args),
     DoctorArgs: (args) => DoctorUseCase(args),
+    DoctorForceArgs: (args) => DoctorForceUseCase(args),
     DoctorSpecificArgs: (args) => DoctorSpecificUseCase(args),
     IncorrectArgs: (args) => IncorrectArgsUseCase(args),
     AddInteractiveArgs: (args) => AddInteractiveUseCase(args),

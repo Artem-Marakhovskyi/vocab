@@ -14,6 +14,8 @@ class ArgsParser {
   static const String words = 'words';
   static const String interactive = 'interactive';
   static const String file = 'file';
+  static const String force = 'force';
+  static const String worst = 'worst';
   static const String wordscount = 'wordscount';
   static const String direction = 'direction';
   static const String directionDeEn = 'deen';
@@ -38,13 +40,16 @@ class ArgsParser {
 
     var doctorParser = _parser.addCommand(doctorCommand);
     doctorParser.addOption(word, abbr: 'w', help: "Give a word to be fixed");
+    doctorParser.addFlag(force, abbr: 'f', help: "Force fix dictionary");
     _commandsHelp[doctorCommand] =
         '\r\n$doctorCommand -> Type to fix specific (all) terms \r\n${doctorParser.usage}';
     _matcher[doctorCommand] = (args) {
-      if (!args.command!.wasParsed(word)) {
-        return DoctorArgs();
-      } else {
+      if (args.command!.wasParsed(word)) {
         return DoctorSpecificArgs(args.command![word]);
+      } else if (args.command!.wasParsed(force)) {
+        return DoctorForceArgs();
+      } else {
+        return DoctorArgs();
       }
     };
 
@@ -91,22 +96,25 @@ class ArgsParser {
     var trainingParser = _parser.addCommand(trainingCommand);
     trainingParser
       ..addOption(wordscount,
-          abbr: 'w',
+          abbr: 'c',
           defaultsTo: '30',
           help: 'Words count in this training session')
       ..addOption(direction,
           defaultsTo: 'ende',
           abbr: 'd',
-          help: 'Direction: "$directionDeEn" or "$directionEnDe"');
+          help: 'Direction: "$directionDeEn" or "$directionEnDe"')
+      ..addFlag(worst,
+          abbr: 'm', defaultsTo: true, help: "Take worst known words");
     _commandsHelp[trainingCommand] =
         '\r\n$trainingCommand -> Type to start training \r\n${trainingParser.usage}';
     _matcher[trainingCommand] = (args) {
       if (args.command!.wasParsed(wordscount) &&
           args.command!.wasParsed(direction)) {
         var count = int.tryParse(args.command?[wordscount]);
+        var shallTakeWorst = args.command?[worst] ?? true;
         var dir = args.command?[direction];
         if (count != null) {
-          return TrainingWordsCountArgs(count, dir);
+          return TrainingWordsCountArgs(count, dir, shallTakeWorst);
         }
       }
       return null;

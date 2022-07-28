@@ -29,6 +29,14 @@
             "args": ["doctor"]
         },   
         {
+            "name": "doctor force",
+            "cwd": "vocab",
+            "request": "launch",
+            "type": "dart",
+            "program": "bin/vocab.dart",
+            "args": ["doctor", "-f"]
+        },           
+        {
             "name": "doctor_specific_word",
             "cwd": "vocab",
             "request": "launch",
@@ -58,7 +66,7 @@
             "request": "launch",
             "type": "dart",
             "program": "bin/vocab.dart",
-            "args": ["training", "--wordscount=15"]
+            "args": ["training", "-c", "1", "-d", "deen", "-m"]
         }, 
         {
             "name": "incorrect args",
