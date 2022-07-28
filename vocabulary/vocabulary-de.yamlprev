@@ -1,4 +1,4 @@
-lastUpdated: '2022-07-27 20:04:48.594080'
+lastUpdated: '2022-07-28 10:25:15.096448'
 words: 
   - 
     de: 'abholen'
@@ -1948,15 +1948,6 @@ words:
           - 'delay'
 
   - 
-    de: 'umstieg'
-    meanings: 
-      - 
-        src: 'umstieg'
-        mark: 'm'
-        dest: 
-          - ';'
-
-  - 
     de: 'aufstieg'
     meanings: 
       - 
@@ -2806,8 +2797,61 @@ words:
         dest: 
           - 'be contradictory'
 
+  - 
+    de: 'fragen'
+    meanings: 
+      - 
+        src: '[etw] fragen'
+        mark: 'vt'
+        dest: 
+          - 'ask'
+      - 
+        src: 'jmdn [etw] fragen'
+        mark: 'vt'
+        dest: 
+          - 'ask'
+          - 'ask'
+      - 
+        src: 'sich [etw] fragen'
+        mark: 'vt'
+        dest: 
+          - 'wonder'
+
+  - 
+    de: 'einmal'
+    meanings: 
+      - 
+        src: 'einmal'
+        mark: 'adv'
+        dest: 
+          - 'once'
+          - 'one time'
+      - 
+        src: 'einmal'
+        mark: 'adv'
+        dest: 
+          - 'once upon a time'
+          - 'one day'
+          - 'once'
+      - 
+        src: 'einmal'
+        mark: 'adv'
+        dest: 
+          - 'suddenly'
+
+  - 
+    de: 'magen'
+    meanings: 
+      - 
+        src: 'magen'
+        mark: 'nm'
+        dest: 
+          - 'tummy'
+          - 'belly'
+          - 'stomach'
 
 broken: 
+  - 'gleiten'
   - 'änheln'
   - 'stempeln'
   - 'gebrochen'

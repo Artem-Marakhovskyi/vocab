@@ -1,4 +1,4 @@
-lastUpdated: '2022-07-27 20:04:48.737944'
+lastUpdated: '2022-07-28 10:26:02.355134'
 words: 
   - 
     de: 'abholen'
@@ -2796,6 +2796,68 @@ words:
         mark: 'vr, fix'
         dest: 
           - 'be contradictory'
+
+  - 
+    de: 'fragen'
+    meanings: 
+      - 
+        src: '[etw] fragen'
+        mark: 'vt'
+        dest: 
+          - 'ask'
+      - 
+        src: 'jmdn [etw] fragen'
+        mark: 'vt'
+        dest: 
+          - 'ask'
+          - 'ask'
+      - 
+        src: 'sich [etw] fragen'
+        mark: 'vt'
+        dest: 
+          - 'wonder'
+
+  - 
+    de: 'einmal'
+    meanings: 
+      - 
+        src: 'einmal'
+        mark: 'adv'
+        dest: 
+          - 'once'
+          - 'one time'
+      - 
+        src: 'einmal'
+        mark: 'adv'
+        dest: 
+          - 'once upon a time'
+          - 'one day'
+          - 'once'
+      - 
+        src: 'einmal'
+        mark: 'adv'
+        dest: 
+          - 'suddenly'
+
+  - 
+    de: 'magen'
+    meanings: 
+      - 
+        src: 'magen'
+        mark: 'nm'
+        dest: 
+          - 'tummy'
+          - 'belly'
+          - 'stomach'
+
+  - 
+    de: 'gleiten'
+    meanings: 
+      - 
+        src: 'gleiten'
+        mark: 'v'
+        dest: 
+          - 'slide'
 
 
 broken: 

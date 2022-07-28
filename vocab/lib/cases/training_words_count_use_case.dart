@@ -26,10 +26,12 @@ class TrainingWordsCountUseCase extends UseCase {
         var input = context.input.read().trim();
         if (input == sessionWord.de) {
           successCount++;
-          print('✅ - ${}');
+          print('✅ - ${<String>{
+            sessionWord.de
+          }.union(sessionWord.meanings.map((e) => '${e.src} (${e.mark})').toSet()).join(', ')}');
         } else {
           print(
-              '❌ - ${sessionWord.meanings.map((e) => e.src).toSet().toList().join(', ')}}');
+              '❌ - ${sessionWord.meanings.map((e) => e.src).toSet().toList().join(', ')}');
         }
       } else if (arguments.direction == ArgsParser.directionDeEn) {
         color(
@@ -39,7 +41,7 @@ class TrainingWordsCountUseCase extends UseCase {
         if (sessionWord.meanings
             .any((element) => element.dests.any((x) => x == input))) {
           print(
-              '✅ - ${sessionWord.meanings.map((element) => element.dests.join(', ')).join('; ')}}');
+              '✅ - ${sessionWord.meanings.map((element) => element.dests.join(', ')).join('; ')}');
           successCount++;
         } else {
           print(
