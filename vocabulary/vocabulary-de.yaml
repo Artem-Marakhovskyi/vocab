@@ -1948,15 +1948,6 @@ words:
           - 'delay'
 
   - 
-    de: 'umstieg'
-    meanings: 
-      - 
-        src: 'umstieg'
-        mark: 'm'
-        dest: 
-          - ';'
-
-  - 
     de: 'aufstieg'
     meanings: 
       - 

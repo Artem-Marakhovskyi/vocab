@@ -40,6 +40,7 @@ class QueryWordsArgs extends Args {
 }
 
 class TrainingWordsCountArgs extends Args {
-  final num wordscount;
-  TrainingWordsCountArgs(this.wordscount);
+  final String direction;
+  final int wordscount;
+  TrainingWordsCountArgs(this.wordscount, this.direction);
 }

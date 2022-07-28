@@ -15,6 +15,9 @@ class ArgsParser {
   static const String interactive = 'interactive';
   static const String file = 'file';
   static const String wordscount = 'wordscount';
+  static const String direction = 'direction';
+  static const String directionDeEn = 'deen';
+  static const String directionEnDe = 'ende';
   final ArgParser _parser = ArgParser();
 
   late final Map<String, String> _commandsHelp = <String, String>{};
@@ -86,17 +89,24 @@ class ArgsParser {
     };
 
     var trainingParser = _parser.addCommand(trainingCommand);
-    trainingParser.addOption(wordscount,
-        abbr: 'w',
-        defaultsTo: '30',
-        help: 'Words count in this training session');
+    trainingParser
+      ..addOption(wordscount,
+          abbr: 'w',
+          defaultsTo: '30',
+          help: 'Words count in this training session')
+      ..addOption(direction,
+          defaultsTo: 'ende',
+          abbr: 'd',
+          help: 'Direction: "$directionDeEn" or "$directionEnDe"');
     _commandsHelp[trainingCommand] =
         '\r\n$trainingCommand -> Type to start training \r\n${trainingParser.usage}';
     _matcher[trainingCommand] = (args) {
-      if (args.wasParsed(wordscount)) {
+      if (args.command!.wasParsed(wordscount) &&
+          args.command!.wasParsed(direction)) {
         var count = int.tryParse(args.command?[wordscount]);
+        var dir = args.command?[direction];
         if (count != null) {
-          return TrainingWordsCountArgs(count);
+          return TrainingWordsCountArgs(count, dir);
         }
       }
       return null;

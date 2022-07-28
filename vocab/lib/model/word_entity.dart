@@ -7,6 +7,8 @@ class WordEntity {
   String toString() {
     return '$de - \n\t${meanings.map((e) => e.toString()).join('\n\t')}';
   }
+
+  List<String> dests() => meanings.expand((e) => e.dests).toList();
 }
 
 class Meaning {
