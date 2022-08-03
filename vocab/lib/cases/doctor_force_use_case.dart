@@ -13,6 +13,25 @@ class DoctorForceUseCase extends UseCase {
       await context.translator.addTranslation('de', 'en', term.de);
     }
 
+    for (var w in context.existingDict.words) {
+      w.cleanup();
+    }
+
+    var actuallyBroken = <String>[];
+    for (var w in context.existingDict.words) {
+      if (w.meanings.any((element) =>
+          element.dests.isEmpty ||
+          element.dests
+              .any((dest) => dest.contains(':') || dest.contains(';')))) {
+        actuallyBroken.add(w.de);
+        color('${w.de} is broken', front: Styles.YELLOW);
+      }
+    }
+    for (var de in actuallyBroken) {
+      context.existingDict.breakWord(de);
+    }
+
+    await context.existingDict.commit();
     if (context.existingDict.brokenWords.isEmpty) {
       color('--------------------------', front: Styles.GREEN);
       color('All broken terms are fixed', front: Styles.GREEN);

@@ -26,6 +26,7 @@ class Translator {
       String srcLang, String destLang, String term) async {
     var html = await _api.getHtml(srcLang, destLang, term);
     var word = _parser.processHtml(html);
+    if (word != null) word.cleanup();
     _existingDict.add(word, term);
     await _existingDict.commit();
 

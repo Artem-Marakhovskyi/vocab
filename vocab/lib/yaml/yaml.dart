@@ -22,12 +22,17 @@ class Yaml {
   Future write(String filePath, Object json) async {
     var yaml = YAMLWriter().write(json);
     var file = File(filePath);
-    if (!await file.exists()) {
-      await file.create();
+    print('writing');
+    try {
+      if (!await file.exists()) {
+        await file.create();
+      }
+      var tempFile = File(filePath + 'prev');
+      await file.copy(tempFile.path);
+      file = (await file.create());
+      file = await file.writeAsString(yaml, mode: FileMode.write, flush: true);
+    } on Exception catch (e) {
+      print(e);
     }
-    var tempFile = File(filePath + 'prev');
-    await file.copy(tempFile.path);
-    file = (await file.create());
-    file = await file.writeAsString(yaml, mode: FileMode.write, flush: true);
   }
 }

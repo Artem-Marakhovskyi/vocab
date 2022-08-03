@@ -8,11 +8,8 @@ class QueryWordUseCase extends UseCase {
 
   @override
   Future execute() async {
-    var similars = context.existingDict.words.where((element) =>
-        element.de == arguments.word ||
-        element.de.contains(arguments.word) ||
-        element.meanings.any((x) => x.dests
-            .any((z) => z == arguments.word || z.contains(arguments.word))));
+    var similars = context.existingDict.words
+        .where((element) => element.de == arguments.word);
     if (similars.isEmpty) {
       await context.translator.addTranslation('de', 'en', arguments.word);
     } else {

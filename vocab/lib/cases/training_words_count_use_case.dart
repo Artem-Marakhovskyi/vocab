@@ -12,6 +12,10 @@ class TrainingWordsCountUseCase extends UseCase {
   @override
   Future execute() async {
     var allWords = [...context.existingDict.words];
+    if (arguments.takeWorst) {
+      allWords.sort((f, s) => f.getRatio().compareTo(s.getRatio()));
+      allWords = allWords.take(arguments.wordscount).toList();
+    }
     allWords.shuffle();
 
     var successCount = 0;
@@ -35,6 +39,7 @@ class TrainingWordsCountUseCase extends UseCase {
         }
         context.existingDict.replace(sessionWord);
       }
+      print('');
     }
     print('✅: $successCount, attempts: ${arguments.wordscount}');
     await context.existingDict.commit();

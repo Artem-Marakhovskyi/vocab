@@ -1,0 +1,61 @@
+lastUpdated: '2022-08-03 19:39:44.097254'
+words: 
+  - 
+    de: 'wissen'
+    added: '2022-08-03 19:38:27.780477'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'wissen'
+        mark: ''
+        dest: 
+          - 'знать'
+          - 'уметь'
+
+  - 
+    de: 'fahren'
+    added: '2022-08-03 19:38:27.780596'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'fahren'
+        mark: ''
+        dest: 
+          - 'водить машину'
+          - 'везти'
+          - 'катать'
+
+  - 
+    de: 'hängen'
+    added: '2022-08-03 19:38:27.780602'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'hängen'
+        mark: ''
+        dest: 
+          - 'вешать'
+          - 'висеть'
+
+  - 
+    de: 'schlafen'
+    added: '2022-08-03 19:38:27.779707'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 1
+    meanings: 
+      - 
+        src: 'schlafen'
+        mark: ''
+        dest: 
+          - 'спать'
+
+
+broken: 
+

@@ -17,7 +17,7 @@ class WordEntity {
 
   @override
   String toString() {
-    return '$de - \n\t${meanings.map((e) => e.toString()).join('\n\t')}';
+    return '$de (ratio: ${getRatio()})- \n\t${meanings.map((e) => e.toString()).join('\n\t')}';
   }
 
   void attempt(bool isSuccess) {
@@ -27,7 +27,24 @@ class WordEntity {
     }
   }
 
+  void cleanup() {
+    for (var m in meanings) {
+      m.dests.removeWhere(
+          (e) => e.trim() == '' || e.trim() == ';' || e.trim() == ':');
+    }
+
+    meanings.removeWhere((element) => element.dests.isEmpty);
+  }
+
   List<String> dests() => meanings.expand((e) => e.dests).toList();
+
+  double getRatio() {
+    if (totalAttempts == 0) {
+      return 0;
+    }
+
+    return success.toDouble() / totalAttempts.toDouble();
+  }
 }
 
 class Meaning {

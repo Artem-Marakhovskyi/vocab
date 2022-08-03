@@ -12,6 +12,13 @@ class DoctorForceArgs extends Args {
   DoctorForceArgs();
 }
 
+class ListArgs extends Args {
+  final bool listBest;
+  final bool listWorst;
+  final int count;
+  ListArgs(this.listBest, this.listWorst, this.count);
+}
+
 class DoctorSpecificArgs extends Args {
   final String word;
   DoctorSpecificArgs(this.word);
@@ -31,6 +38,11 @@ class AddInteractiveArgs extends Args {
 class AddFilepathArgs extends Args {
   final String filepath;
   AddFilepathArgs(this.filepath);
+}
+
+class AddKeyValueFilepathArgs extends Args {
+  final String filepath;
+  AddKeyValueFilepathArgs(this.filepath);
 }
 
 class QueryWordArgs extends Args {

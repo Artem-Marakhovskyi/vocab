@@ -5,13 +5,21 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "add_file",
+            "name": "add_file_key",
             "cwd": "vocab",
             "request": "launch",
             "type": "dart",
             "program": "bin/vocab.dart",
             "args": ["add", "--file=input/input.yaml"]
         },
+        {
+            "name": "add_file_keyvalue",
+            "cwd": "vocab",
+            "request": "launch",
+            "type": "dart",
+            "program": "bin/vocab.dart",
+            "args": ["add", "--file=input/input-ru.txt", "--keyvalue"]
+        },        
         {
             "name": "add_interactive",
             "cwd": "vocab",
@@ -50,7 +58,7 @@
             "request": "launch",
             "type": "dart",
             "program": "bin/vocab.dart",
-            "args": ["query", "--word=hallo"]
+            "args": ["query", "--word=leiter"]
         },      
         {
             "name": "query_multiple",

@@ -17,6 +17,8 @@ class ArgsParser {
   static const String force = 'force';
   static const String worst = 'worst';
   static const String wordscount = 'wordscount';
+  static const String listCommand = 'list';
+  static const String best = 'best';
   static const String direction = 'direction';
   static const String directionDeEn = 'deen';
   static const String directionEnDe = 'ende';
@@ -53,6 +55,22 @@ class ArgsParser {
       }
     };
 
+    var listParser = _parser.addCommand(listCommand);
+    listParser.addOption(wordscount, abbr: 'c', help: "Words count");
+    listParser.addFlag(worst, abbr: 'w', help: "Show worst known");
+    listParser.addFlag(best, abbr: 'b', help: "Show best known");
+    _commandsHelp[listCommand] =
+        '\r\n$listCommand -> List words \r\n${listParser.usage}';
+    _matcher[listCommand] = (args) {
+      if (!args.command!.wasParsed(wordscount)) {
+        return null;
+      } else if (args.command!.wasParsed(worst)) {
+        return ListArgs(false, true, args.command![wordscount]);
+      } else if (args.command!.wasParsed(best)) {
+        return ListArgs(true, false, int.parse(args.command![wordscount]));
+      }
+    };
+
     var addParser = _parser.addCommand(addCommand);
     addParser.addOption(file,
         abbr: 'f',
@@ -62,10 +80,14 @@ class ArgsParser {
         abbr: 'i',
         valueHelp: 'Provide the word you would like to search for',
         help: 'Single word to be searched for');
+    addParser.addFlag('keyvalue', abbr: 'k', help: 'For key-value file');
     _commandsHelp[addCommand] =
         '\r\n$addCommand -> Type to add single (batch) words \r\n${addParser.usage}';
     _matcher[addCommand] = (args) {
       if (args.command!.wasParsed(file)) {
+        if (args.command!.wasParsed('keyvalue')) {
+          return AddKeyValueFilepathArgs(args.command![file]);
+        }
         return AddFilepathArgs(args.command![file]);
       }
       if (args.command!.wasParsed(interactive)) {

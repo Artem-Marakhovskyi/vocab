@@ -3,16 +3,16 @@ import 'package:yaml/yaml.dart';
 import '../yaml/yaml.dart';
 
 class InputDict {
-  final String _filePath;
+  final String filePath;
   final List<String> terms = [];
 
   String destLang = '';
   String srcLang = '';
 
-  InputDict(this._filePath);
+  InputDict(this.filePath);
 
   Future load() async {
-    var yaml = await Yaml().load(_filePath);
+    var yaml = await Yaml().load(filePath);
     YamlList words = yaml['words'];
     for (var word in words) {
       terms.add(word);

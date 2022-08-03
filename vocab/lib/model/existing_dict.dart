@@ -122,4 +122,9 @@ class ExistingDict {
       'broken': _brokenWords
     });
   }
+
+  void breakWord(String de) {
+    words.removeWhere((x) => x.de == de);
+    brokenWords.add(de);
+  }
 }

@@ -1,6 +1,7 @@
 import 'dart:io';
 
 import 'package:args/args.dart';
+import 'package:vocab/cases/add_key_valye_filepath_use_case.dart';
 import 'package:vocab/cases/doctor_use_case.dart';
 import 'package:vocab/cases/incorrect_args_use_case.dart';
 import 'package:vocab/cases/query_word_use_case.dart';
@@ -16,6 +17,7 @@ import 'args/args_parser.dart';
 import 'doctor_force_use_case.dart';
 import 'doctor_specific_use_case.dart';
 import 'exit_use_case.dart';
+import 'list_use_case.dart';
 
 class CaseRunner {
   static final Context context = Context();
@@ -23,6 +25,8 @@ class CaseRunner {
   List<String> _args = [];
   final Map<Type, UseCase Function(Args)> _argsMap = {
     ExitArgs: (args) => ExitUseCase(args),
+    ListArgs: (args) => ListUseCase(args),
+    AddKeyValueFilepathArgs: (args) => AddKeyValueFilepathUseCase(args),
     DoctorArgs: (args) => DoctorUseCase(args),
     DoctorForceArgs: (args) => DoctorForceUseCase(args),
     DoctorSpecificArgs: (args) => DoctorSpecificUseCase(args),
