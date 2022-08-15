@@ -7,7 +7,7 @@ import 'package:vocab/services/wordreference.api.dart';
 
 class Context {
   final ExistingDict existingDict = ExistingDict(
-      '${Directory.current.path}/../vocabulary/vocabulary-de1.yaml');
+      '${Directory.current.path}/../vocabulary/vocabulary-de.yaml');
   final HtmlParser htmlParser = HtmlParser();
   final WordReferenceApi api = WordReferenceApi();
   final InputStream input = InputStream();

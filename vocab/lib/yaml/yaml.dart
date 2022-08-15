@@ -22,7 +22,6 @@ class Yaml {
   Future write(String filePath, Object json) async {
     var yaml = YAMLWriter().write(json);
     var file = File(filePath);
-    print('writing');
     try {
       if (!await file.exists()) {
         await file.create();

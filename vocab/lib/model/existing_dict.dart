@@ -80,7 +80,9 @@ class ExistingDict {
   }
 
   void add(WordEntity? wordEntity, String term) {
-    if (wordEntity == null) {
+    if (wordEntity == null ||
+        wordEntity.meanings.isEmpty ||
+        wordEntity.meanings.every((element) => element.dests.isEmpty)) {
       addBroken(term);
     } else {
       addWord(wordEntity);
