@@ -1,4 +1,4 @@
-lastUpdated: '2022-08-15 17:49:51.068212'
+lastUpdated: '2022-08-15 17:53:28.457604'
 words: 
   - 
     de: 'stelle'
@@ -10485,6 +10485,159 @@ words:
         dest: 
           - 'caucasian appearance'
 
+  - 
+    de: 'rt'
+    added: '2022-08-15 17:51:52.133001'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'rt'
+        mark: 'pl.'
+        dest: 
+          - 'register ton'
+
+  - 
+    de: 'art'
+    added: '2022-08-15 17:52:01.218510'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'art'
+        mark: 'nf'
+        dest: 
+          - 'type'
+          - 'kind'
+          - 'way'
+          - 'manner'
+      - 
+        src: 'art'
+        mark: 'nf'
+        dest: 
+          - 'way'
+          - 'manner'
+      - 
+        src: 'art'
+        mark: 'nf'
+        dest: 
+          - 'species'
+      - 
+        src: 'art und weise'
+        mark: 'rdw'
+        dest: 
+          - 'how'
+          - 'manner'
+          - 'way'
+      - 
+        src: 'art und weise'
+        mark: 'rdw'
+        dest: 
+          - 'behave'
+          - 'manner'
+      - 
+        src: 'art von mensch'
+        mark: 'rdw'
+        dest: 
+          - 'type of person'
+      - 
+        src: 'art zu reden'
+        mark: 'rdw'
+        dest: 
+          - 'way of speaking'
+      - 
+        src: 'auf diese art und weise'
+        mark: 'rdw'
+        dest: 
+          - 'this way'
+      - 
+        src: 'in solcher art und weise'
+        mark: 'rdw'
+        dest: 
+          - 'in this way'
+      - 
+        src: 'modern art'
+        mark: ''
+        dest: 
+          - 'modern art'
+      - 
+        src: 'nail art'
+        mark: ''
+        dest: 
+          - 'nail art'
+      - 
+        src: 'pop-art'
+        mark: ''
+        dest: 
+          - 'pop art'
+      - 
+        src: 'art'
+        mark: 'f'
+        dest: 
+          - 'nature'
+          - 'kind'
+          - 'way'
+
+  - 
+    de: 'seltsam'
+    added: '2022-08-15 17:52:24.391367'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'seltsam'
+        mark: 'adj'
+        dest: 
+          - 'strange'
+          - 'weird'
+
+  - 
+    de: 'schliesslich'
+    added: '2022-08-15 17:52:57.692209'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'schließlich'
+        mark: 'adv'
+        dest: 
+          - 'finally'
+      - 
+        src: 'schließlich'
+        mark: 'adv'
+        dest: 
+          - 'after all'
+      - 
+        src: 'schließlich'
+        mark: 'adv'
+        dest: 
+          - 'finally'
+          - 'eventually'
+          - 'in the end'
+
+  - 
+    de: 'ameisen'
+    added: '2022-08-15 17:53:28.449940'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'ameise'
+        mark: 'nf'
+        dest: 
+          - 'ant'
+      - 
+        src: 'ameise'
+        mark: 'nf'
+        dest: 
+          - 'electric stacker'
+          - 'pallet jack'
+
 
 broken: 
   - 'verschieden'
@@ -10521,3 +10674,4 @@ broken:
   - 'leucht'
   - 'eroben'
   - 'ausging'
+  - 'amesien'
