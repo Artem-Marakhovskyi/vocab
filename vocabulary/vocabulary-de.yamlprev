@@ -1,4 +1,4 @@
-lastUpdated: '2022-09-02 18:04:30.550315'
+lastUpdated: '2022-09-02 18:06:49.744469'
 words: 
   - 
     de: 'stelle'
@@ -16831,70 +16831,6 @@ words:
           - 'propose'
 
   - 
-    de: 'gehören'
-    added: '2022-07-28 19:55:01.714958'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 6
-    meanings: 
-      - 
-        src: 'jmdm gehören'
-        mark: 'vi'
-        dest: 
-          - 'belong to'
-      - 
-        src: 'zu jmdm/[etw] gehören'
-        mark: 'präp + vi'
-        dest: 
-          - 'belong with'
-          - 'belong to'
-      - 
-        src: 'gehören'
-        mark: 'vi'
-        dest: 
-          - 'require'
-          - 'need'
-      - 
-        src: 'sich gehören'
-        mark: 'vr'
-        dest: 
-          - 'be appropriate'
-          - 'be proper'
-      - 
-        src: 'dazu gehören'
-        mark: 'adv + vi'
-        dest: 
-          - 'take'
-          - 'require'
-      - 
-        src: 'zu [etw] gehören'
-        mark: 'präp + vi'
-        dest: 
-          - 'fit'
-          - 'belong to'
-      - 
-        src: 'zu [etw]/jmdm gehören'
-        mark: 'präp + vi'
-        dest: 
-          - 'belong to'
-          - 'be a part of'
-      - 
-        src: 'nicht gehören'
-        mark: 'part + vi'
-        dest: 
-          - 'not belong'
-      - 
-        src: 'nicht zu etwas gehören'
-        mark: 'rdw'
-        dest: 
-          - 'not belong to anything'
-      - 
-        src: 'zu [etw] gehören'
-        mark: 'präp + vi'
-        dest: 
-          - 'belong to'
-
-  - 
     de: 'danach'
     added: '2022-08-13 18:24:13.208739'
     last_attempt: '1970-01-01 01:00:00.000'
@@ -18230,59 +18166,6 @@ words:
           - 'candle'
 
   - 
-    de: 'verdienen'
-    added: '2022-08-30 22:28:36.377749'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 1
-    meanings: 
-      - 
-        src: '[etw] verdienen'
-        mark: 'vt'
-        dest: 
-          - 'earn'
-      - 
-        src: '[etw] verdienen'
-        mark: 'vt'
-        dest: 
-          - 'deserve'
-          - 'earn'
-      - 
-        src: 'brötchen verdienen'
-        mark: 'npl + vt'
-        dest: 
-          - 'keep the lights on'
-          - 'pay the bills'
-      - 
-        src: 'die brötchen verdienen'
-        mark: 'rdw'
-        dest: 
-          - 'earn your bread'
-      - 
-        src: 'geld verdienen'
-        mark: 'nn + vt'
-        dest: 
-          - 'earn money'
-          - 'earn a living'
-          - 'make money'
-          - 'make a living'
-      - 
-        src: 'mit [etw] sein geld verdienen'
-        mark: 'rdw'
-        dest: 
-          - 'earn a living doing'
-      - 
-        src: 'nach abzug verdienen'
-        mark: 'rdw'
-        dest: 
-          - 'wage after tax'
-      - 
-        src: 'netto verdienen'
-        mark: 'adj + vt'
-        dest: 
-          - 'net earnings'
-
-  - 
     de: 'krach'
     added: '2022-08-30 21:35:54.903630'
     last_attempt: '1970-01-01 01:00:00.000'
@@ -18761,54 +18644,6 @@ words:
           - 'beech'
 
   - 
-    de: 'quallen'
-    added: '2022-08-15 17:31:33.740542'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 1
-    meanings: 
-      - 
-        src: 'qualle'
-        mark: 'nf'
-        dest: 
-          - 'jellyfish'
-
-  - 
-    de: 'wahrheit'
-    added: '2022-08-15 17:28:10.053849'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 1
-    meanings: 
-      - 
-        src: 'wahrheit'
-        mark: 'nf'
-        dest: 
-          - 'reality'
-          - 'truth'
-      - 
-        src: 'wahrheit'
-        mark: 'nf'
-        dest: 
-          - 'truth'
-          - 'accuracy'
-      - 
-        src: 'nackte wahrheit'
-        mark: 'rdw'
-        dest: 
-          - 'naked truth, cold truth, hard truth, bitter truth'
-      - 
-        src: 'reine wahrheit'
-        mark: 'adj + nf'
-        dest: 
-          - 'honest truth'
-      - 
-        src: 'wahrheit'
-        mark: 'f'
-        dest: 
-          - 'truth'
-
-  - 
     de: 'mieten'
     added: '2022-08-15 16:33:22.578490'
     last_attempt: '1970-01-01 01:00:00.000'
@@ -18832,51 +18667,6 @@ words:
         mark: 'v/t (haus)'
         dest: 
           - 'rent'
-
-  - 
-    de: 'verhalten'
-    added: '2022-08-15 17:25:25.120074'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 1
-    meanings: 
-      - 
-        src: 'verhalten'
-        mark: 'vr'
-        dest: 
-          - 'react'
-      - 
-        src: 'verhalten'
-        mark: 'vr'
-        dest: 
-          - 'to be to'
-      - 
-        src: 'verhalten'
-        mark: 'adj'
-        dest: 
-          - 'restrained'
-      - 
-        src: 'verhalten'
-        mark: 'vr'
-        dest: 
-          - 'behave'
-      - 
-        src: 'verhalten'
-        mark: 'nn'
-        dest: 
-          - 'behavior'
-          - 'behaviour'
-      - 
-        src: 'normales verhalten'
-        mark: 'adj + nn'
-        dest: 
-          - 'normal behavior'
-      - 
-        src: 'sich jmdm gegenüber verhalten'
-        mark: 'rdw'
-        dest: 
-          - 'treat'
-          - 'behave'
 
   - 
     de: 'entspannen'
@@ -18925,72 +18715,6 @@ words:
         dest: 
           - 'be influenced'
           - 'be guided'
-
-  - 
-    de: 'unwichtig'
-    added: '2022-08-15 17:29:19.774837'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 1
-    meanings: 
-      - 
-        src: 'unwichtig'
-        mark: 'adj'
-        dest: 
-          - 'not important'
-          - 'insignificant'
-
-  - 
-    de: 'meinen'
-    added: '2022-08-30 22:32:26.351034'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 2
-    meanings: 
-      - 
-        src: '[etw] meinen'
-        mark: 'vt'
-        dest: 
-          - 'think'
-          - 'mean'
-      - 
-        src: '[etw] meinen'
-        mark: 'vt'
-        dest: 
-          - 'say'
-      - 
-        src: '[etw] meinen'
-        mark: 'vt'
-        dest: 
-          - 'intend'
-          - 'mean'
-      - 
-        src: '[etw]/jmdn meinen'
-        mark: 'vt'
-        dest: 
-          - 'mean'
-      - 
-        src: '[etw] ernst meinen'
-        mark: 'adj + vt'
-        dest: 
-          - 'be serious about'
-          - 'be serious'
-      - 
-        src: '[etw] gut meinen'
-        mark: 'rdw'
-        dest: 
-          - 'have good intentions'
-          - 'mean'
-      - 
-        src: 'etwas nicht ernst meinen'
-        mark: 'rdw'
-        dest: 
-          - 'not mean'
-      - 
-        src: 'gut meinen mit [jmd]'
-        mark: 'rdw'
-        dest: 
-          - 'mean well'
 
   - 
     de: 'oder'
@@ -19062,87 +18786,6 @@ words:
           - 'or'
 
   - 
-    de: 'vertraut'
-    added: '2022-08-15 17:26:02.506284'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 1
-    meanings: 
-      - 
-        src: 'vertraut'
-        mark: 'adj'
-        dest: 
-          - 'familiar'
-          - 'acquainted'
-      - 
-        src: 'vertraut'
-        mark: 'adj'
-        dest: 
-          - 'familiar'
-          - 'used to'
-          - 'experienced'
-      - 
-        src: 'nicht vertraut'
-        mark: 'part + adj'
-        dest: 
-          - 'not close'
-      - 
-        src: 'nicht vertraut'
-        mark: 'part + adj'
-        dest: 
-          - 'not familiar'
-      - 
-        src: 'nicht vertraut'
-        mark: 'part + adj'
-        dest: 
-          - 'not familiar'
-      - 
-        src: 'mit [etw] vertraut sein'
-        mark: 'vp'
-        dest: 
-          - 'be familiar with'
-      - 
-        src: 'vertraut sein'
-        mark: 'adj + vi'
-        dest: 
-          - 'be familiar'
-      - 
-        src: 'vertraut sein'
-        mark: 'adj + vi'
-        dest: 
-          - 'be acquainted'
-          - 'know'
-
-  - 
-    de: 'erobern'
-    added: '2022-08-15 17:38:01.678308'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 1
-    meanings: 
-      - 
-        src: '[etw] erobern'
-        mark: 'vt'
-        dest: 
-          - 'conquer'
-      - 
-        src: '[etw] erorbern'
-        mark: 'vt'
-        dest: 
-          - 'conquer'
-          - 'achieve'
-      - 
-        src: 'jmdn erorbern'
-        mark: 'vt'
-        dest: 
-          - 'win'
-      - 
-        src: 'erobern'
-        mark: 'v/t'
-        dest: 
-          - 'conquer'
-
-  - 
     de: 'wirken'
     added: '2022-08-15 17:25:36.656308'
     last_attempt: '1970-01-01 01:00:00.000'
@@ -19189,127 +18832,6 @@ words:
         dest: 
           - 'hold stable at a low level'
           - 'keep at a low boil'
-
-  - 
-    de: 'ausgehen'
-    added: '2022-08-15 17:40:25.982770'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 1
-    meanings: 
-      - 
-        src: 'ausgehen'
-        mark: 'vi, sepa'
-        dest: 
-          - 'malfunction'
-          - 'break down'
-          - 'go out'
-      - 
-        src: 'ausgehen'
-        mark: 'vi, sepa'
-        dest: 
-          - 'go out'
-          - 'go clubbing'
-      - 
-        src: 'ausgehen'
-        mark: 'vi, sepa'
-        dest: 
-          - 'run out of'
-          - 'finish up'
-      - 
-        src: 'ausgehen'
-        mark: 'vi, sepa'
-        dest: 
-          - 'assume'
-      - 
-        src: 'ausgehen'
-        mark: 'vi, sepa'
-        dest: 
-          - 'go out'
-      - 
-        src: 'ausgehen'
-        mark: 'vi, sepa'
-        dest: 
-          - 'die'
-          - 'crash'
-      - 
-        src: 'ausgehen'
-        mark: 'vi, sepa'
-        dest: 
-          - 'go out'
-      - 
-        src: 'ausgehen'
-        mark: 'vi, sepa'
-        dest: 
-          - 'end'
-      - 
-        src: 'ausgehen'
-        mark: 'vi, sepa'
-        dest: 
-          - 'turn out'
-          - 'end up'
-      - 
-        src: 'mit jmdm ausgehen'
-        mark: 'adv + vi, sepa'
-        dest: 
-          - 'go out'
-          - 'date'
-      - 
-        src: 'sich ausgehen'
-        mark: 'vr, sepa'
-        dest: 
-          - 'be enough'
-      - 
-        src: 'ausgehen von etwas'
-        mark: 'rdw'
-        dest: 
-          - 'assume'
-          - 'proceed from the assumption'
-      - 
-        src: 'davon ausgehen'
-        mark: 'adv + vi, sepa'
-        dest: 
-          - 'to assume that'
-          - 'expect'
-      - 
-        src: 'mit leuten ausgehen'
-        mark: 'rdw'
-        dest: 
-          - 'go out with people'
-      - 
-        src: 'mit leuten ausgehen'
-        mark: 'rdw'
-        dest: 
-          - 'go out with people'
-      - 
-        src: 'unentschieden ausgehen'
-        mark: 'adj + vi, sepa'
-        dest: 
-          - 'end in a draw'
-          - 'tie'
-      - 
-        src: 'von [etw] ausgehen'
-        mark: 'rdw'
-        dest: 
-          - 'assume'
-      - 
-        src: 'ausgehen'
-        mark: 'v/i (irr, trennb, ist -ge-)'
-        dest: 
-          - 'go out'
-
-  - 
-    de: 'leuchtkäfer'
-    added: '2022-08-15 17:31:57.058719'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 1
-    meanings: 
-      - 
-        src: 'leuchtkäfer'
-        mark: 'm'
-        dest: 
-          - 'glow-worm'
 
   - 
     de: 'zeigen'
@@ -19418,31 +18940,6 @@ words:
         mark: 'nf + vt'
         dest: 
           - 'show strength'
-
-  - 
-    de: 'anzeichen'
-    added: '2022-08-15 17:36:58.438043'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 1
-    meanings: 
-      - 
-        src: 'anzeichen'
-        mark: 'nn'
-        dest: 
-          - 'indication'
-          - 'sign'
-      - 
-        src: 'anzeichen'
-        mark: 'nn'
-        dest: 
-          - 'symptom'
-      - 
-        src: 'anzeichen'
-        mark: 'n'
-        dest: 
-          - 'sign'
-          - 'indication'
 
   - 
     de: 'stärke'
@@ -19908,31 +19405,6 @@ words:
           - 'be difficult'
 
   - 
-    de: 'schliesslich'
-    added: '2022-08-15 17:52:57.692209'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 1
-    meanings: 
-      - 
-        src: 'schließlich'
-        mark: 'adv'
-        dest: 
-          - 'finally'
-      - 
-        src: 'schließlich'
-        mark: 'adv'
-        dest: 
-          - 'after all'
-      - 
-        src: 'schließlich'
-        mark: 'adv'
-        dest: 
-          - 'finally'
-          - 'eventually'
-          - 'in the end'
-
-  - 
     de: 'sprung'
     added: '2022-08-15 17:42:51.628355'
     last_attempt: '1970-01-01 01:00:00.000'
@@ -19984,31 +19456,6 @@ words:
           - 'jump'
 
   - 
-    de: 'aussprache'
-    added: '2022-08-30 21:41:14.251574'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 2
-    meanings: 
-      - 
-        src: 'aussprache'
-        mark: 'nf'
-        dest: 
-          - 'pronunciation'
-          - 'articulation'
-          - 'voicing'
-      - 
-        src: 'eine gute aussprache haben'
-        mark: 'rdw'
-        dest: 
-          - 'have good pronunciation'
-      - 
-        src: 'aussprache'
-        mark: 'f'
-        dest: 
-          - 'pronunciation'
-
-  - 
     de: 'sondern'
     added: '2022-08-30 21:51:14.616886'
     last_attempt: '1970-01-01 01:00:00.000'
@@ -20051,67 +19498,6 @@ words:
           - 'try to break in'
 
   - 
-    de: 'sinn'
-    added: '2022-08-30 21:32:13.537231'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 2
-    meanings: 
-      - 
-        src: 'sinn'
-        mark: 'nm'
-        dest: 
-          - 'sense'
-      - 
-        src: 'sinn'
-        mark: 'nm'
-        dest: 
-          - 'sense, meaning'
-      - 
-        src: 'sinn'
-        mark: 'nm'
-        dest: 
-          - 'sense'
-      - 
-        src: 'sinn'
-        mark: 'nm'
-        dest: 
-          - 'understanding'
-      - 
-        src: 'in den sinn kommen'
-        mark: 'rdw'
-        dest: 
-          - 'think of'
-          - 'cross your mind'
-      - 
-        src: 'keinen sinn ergeben'
-        mark: 'rdw'
-        dest: 
-          - 'not make any sense'
-          - 'make no sense'
-      - 
-        src: 'keinen sinn ergeben'
-        mark: 'rdw'
-        dest: 
-          - 'not make any sense'
-          - 'make no sense'
-      - 
-        src: 'keinen sinn machen'
-        mark: 'rdw'
-        dest: 
-          - 'make no sense'
-      - 
-        src: 'keinen sinn machen'
-        mark: 'rdw'
-        dest: 
-          - 'be out of your mind'
-      - 
-        src: 'sinn'
-        mark: 'm'
-        dest: 
-          - 'sense'
-
-  - 
     de: 'unterschiedlich'
     added: '2022-08-15 17:49:13.012008'
     last_attempt: '1970-01-01 01:00:00.000'
@@ -20124,30 +19510,6 @@ words:
         dest: 
           - 'different'
           - 'various'
-
-  - 
-    de: 'leuchten'
-    added: '2022-08-15 17:35:11.288856'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 2
-    meanings: 
-      - 
-        src: 'leuchten'
-        mark: 'vi'
-        dest: 
-          - 'glow'
-          - 'shimmer'
-      - 
-        src: 'leuchte'
-        mark: 'nf'
-        dest: 
-          - 'light, lamp'
-      - 
-        src: 'leuchte'
-        mark: 'nf'
-        dest: 
-          - 'genius'
 
   - 
     de: 'seltsam'
@@ -20282,80 +19644,6 @@ words:
           - 'baden-wuerttemberg'
 
   - 
-    de: 'zwar'
-    added: '2022-08-15 17:48:49.556652'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 2
-    meanings: 
-      - 
-        src: 'und zwar'
-        mark: 'konj + adv'
-        dest: 
-          - 'specifically'
-      - 
-        src: 'zwar'
-        mark: 'adv'
-        dest: 
-          - 'certainly …'
-          - 'but …'
-
-  - 
-    de: 'anfängen'
-    added: '2022-08-14 00:10:03.198429'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 3
-    meanings: 
-      - 
-        src: 'anfangen'
-        mark: 'vi, sepa'
-        dest: 
-          - 'begin'
-      - 
-        src: 'anfangen'
-        mark: 'vi, sepa'
-        dest: 
-          - 'do'
-          - 'use'
-      - 
-        src: 'anfangen zu brennen'
-        mark: 'rdw'
-        dest: 
-          - 'catch fire'
-          - 'ignite'
-      - 
-        src: 'zu trinken anfangen'
-        mark: 'rdw'
-        dest: 
-          - 'start drinking'
-
-  - 
-    de: 'mitmachen'
-    added: '2022-08-30 21:31:14.238029'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 2
-    meanings: 
-      - 
-        src: 'bei [etw] mitmachen'
-        mark: 'präp + vi, sepa'
-        dest: 
-          - 'take part in'
-          - 'participate in'
-      - 
-        src: 'mitmachen'
-        mark: 'vi, sepa'
-        dest: 
-          - 'suffer'
-          - 'experience'
-      - 
-        src: 'mitmachen'
-        mark: 'vi, sepa'
-        dest: 
-          - 'work'
-
-  - 
     de: 'verrückt'
     added: '2022-08-30 21:31:46.297649'
     last_attempt: '1970-01-01 01:00:00.000'
@@ -20405,25 +19693,6 @@ words:
         mark: 'rdw'
         dest: 
           - 'crazy worried'
-
-  - 
-    de: 'momentan'
-    added: '2022-08-30 21:53:26.946515'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 2
-    meanings: 
-      - 
-        src: 'momentan'
-        mark: 'adj'
-        dest: 
-          - 'presently'
-          - 'currently'
-      - 
-        src: 'momentan'
-        mark: 'adj'
-        dest: 
-          - 'current'
 
   - 
     de: 'viel'
@@ -20564,6 +19833,737 @@ words:
         mark: 'adj + vr'
         dest: 
           - 'be very excited about'
+
+  - 
+    de: 'quallen'
+    added: '2022-08-15 17:31:33.740542'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 2
+    meanings: 
+      - 
+        src: 'qualle'
+        mark: 'nf'
+        dest: 
+          - 'jellyfish'
+
+  - 
+    de: 'leuchten'
+    added: '2022-08-15 17:35:11.288856'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 3
+    meanings: 
+      - 
+        src: 'leuchten'
+        mark: 'vi'
+        dest: 
+          - 'glow'
+          - 'shimmer'
+      - 
+        src: 'leuchte'
+        mark: 'nf'
+        dest: 
+          - 'light, lamp'
+      - 
+        src: 'leuchte'
+        mark: 'nf'
+        dest: 
+          - 'genius'
+
+  - 
+    de: 'sinn'
+    added: '2022-08-30 21:32:13.537231'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 3
+    meanings: 
+      - 
+        src: 'sinn'
+        mark: 'nm'
+        dest: 
+          - 'sense'
+      - 
+        src: 'sinn'
+        mark: 'nm'
+        dest: 
+          - 'sense, meaning'
+      - 
+        src: 'sinn'
+        mark: 'nm'
+        dest: 
+          - 'sense'
+      - 
+        src: 'sinn'
+        mark: 'nm'
+        dest: 
+          - 'understanding'
+      - 
+        src: 'in den sinn kommen'
+        mark: 'rdw'
+        dest: 
+          - 'think of'
+          - 'cross your mind'
+      - 
+        src: 'keinen sinn ergeben'
+        mark: 'rdw'
+        dest: 
+          - 'not make any sense'
+          - 'make no sense'
+      - 
+        src: 'keinen sinn ergeben'
+        mark: 'rdw'
+        dest: 
+          - 'not make any sense'
+          - 'make no sense'
+      - 
+        src: 'keinen sinn machen'
+        mark: 'rdw'
+        dest: 
+          - 'make no sense'
+      - 
+        src: 'keinen sinn machen'
+        mark: 'rdw'
+        dest: 
+          - 'be out of your mind'
+      - 
+        src: 'sinn'
+        mark: 'm'
+        dest: 
+          - 'sense'
+
+  - 
+    de: 'anfängen'
+    added: '2022-08-14 00:10:03.198429'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 4
+    meanings: 
+      - 
+        src: 'anfangen'
+        mark: 'vi, sepa'
+        dest: 
+          - 'begin'
+      - 
+        src: 'anfangen'
+        mark: 'vi, sepa'
+        dest: 
+          - 'do'
+          - 'use'
+      - 
+        src: 'anfangen zu brennen'
+        mark: 'rdw'
+        dest: 
+          - 'catch fire'
+          - 'ignite'
+      - 
+        src: 'zu trinken anfangen'
+        mark: 'rdw'
+        dest: 
+          - 'start drinking'
+
+  - 
+    de: 'ausgehen'
+    added: '2022-08-15 17:40:25.982770'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 2
+    meanings: 
+      - 
+        src: 'ausgehen'
+        mark: 'vi, sepa'
+        dest: 
+          - 'malfunction'
+          - 'break down'
+          - 'go out'
+      - 
+        src: 'ausgehen'
+        mark: 'vi, sepa'
+        dest: 
+          - 'go out'
+          - 'go clubbing'
+      - 
+        src: 'ausgehen'
+        mark: 'vi, sepa'
+        dest: 
+          - 'run out of'
+          - 'finish up'
+      - 
+        src: 'ausgehen'
+        mark: 'vi, sepa'
+        dest: 
+          - 'assume'
+      - 
+        src: 'ausgehen'
+        mark: 'vi, sepa'
+        dest: 
+          - 'go out'
+      - 
+        src: 'ausgehen'
+        mark: 'vi, sepa'
+        dest: 
+          - 'die'
+          - 'crash'
+      - 
+        src: 'ausgehen'
+        mark: 'vi, sepa'
+        dest: 
+          - 'go out'
+      - 
+        src: 'ausgehen'
+        mark: 'vi, sepa'
+        dest: 
+          - 'end'
+      - 
+        src: 'ausgehen'
+        mark: 'vi, sepa'
+        dest: 
+          - 'turn out'
+          - 'end up'
+      - 
+        src: 'mit jmdm ausgehen'
+        mark: 'adv + vi, sepa'
+        dest: 
+          - 'go out'
+          - 'date'
+      - 
+        src: 'sich ausgehen'
+        mark: 'vr, sepa'
+        dest: 
+          - 'be enough'
+      - 
+        src: 'ausgehen von etwas'
+        mark: 'rdw'
+        dest: 
+          - 'assume'
+          - 'proceed from the assumption'
+      - 
+        src: 'davon ausgehen'
+        mark: 'adv + vi, sepa'
+        dest: 
+          - 'to assume that'
+          - 'expect'
+      - 
+        src: 'mit leuten ausgehen'
+        mark: 'rdw'
+        dest: 
+          - 'go out with people'
+      - 
+        src: 'mit leuten ausgehen'
+        mark: 'rdw'
+        dest: 
+          - 'go out with people'
+      - 
+        src: 'unentschieden ausgehen'
+        mark: 'adj + vi, sepa'
+        dest: 
+          - 'end in a draw'
+          - 'tie'
+      - 
+        src: 'von [etw] ausgehen'
+        mark: 'rdw'
+        dest: 
+          - 'assume'
+      - 
+        src: 'ausgehen'
+        mark: 'v/i (irr, trennb, ist -ge-)'
+        dest: 
+          - 'go out'
+
+  - 
+    de: 'meinen'
+    added: '2022-08-30 22:32:26.351034'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 3
+    meanings: 
+      - 
+        src: '[etw] meinen'
+        mark: 'vt'
+        dest: 
+          - 'think'
+          - 'mean'
+      - 
+        src: '[etw] meinen'
+        mark: 'vt'
+        dest: 
+          - 'say'
+      - 
+        src: '[etw] meinen'
+        mark: 'vt'
+        dest: 
+          - 'intend'
+          - 'mean'
+      - 
+        src: '[etw]/jmdn meinen'
+        mark: 'vt'
+        dest: 
+          - 'mean'
+      - 
+        src: '[etw] ernst meinen'
+        mark: 'adj + vt'
+        dest: 
+          - 'be serious about'
+          - 'be serious'
+      - 
+        src: '[etw] gut meinen'
+        mark: 'rdw'
+        dest: 
+          - 'have good intentions'
+          - 'mean'
+      - 
+        src: 'etwas nicht ernst meinen'
+        mark: 'rdw'
+        dest: 
+          - 'not mean'
+      - 
+        src: 'gut meinen mit [jmd]'
+        mark: 'rdw'
+        dest: 
+          - 'mean well'
+
+  - 
+    de: 'mitmachen'
+    added: '2022-08-30 21:31:14.238029'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 3
+    meanings: 
+      - 
+        src: 'bei [etw] mitmachen'
+        mark: 'präp + vi, sepa'
+        dest: 
+          - 'take part in'
+          - 'participate in'
+      - 
+        src: 'mitmachen'
+        mark: 'vi, sepa'
+        dest: 
+          - 'suffer'
+          - 'experience'
+      - 
+        src: 'mitmachen'
+        mark: 'vi, sepa'
+        dest: 
+          - 'work'
+
+  - 
+    de: 'vertraut'
+    added: '2022-08-15 17:26:02.506284'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 2
+    meanings: 
+      - 
+        src: 'vertraut'
+        mark: 'adj'
+        dest: 
+          - 'familiar'
+          - 'acquainted'
+      - 
+        src: 'vertraut'
+        mark: 'adj'
+        dest: 
+          - 'familiar'
+          - 'used to'
+          - 'experienced'
+      - 
+        src: 'nicht vertraut'
+        mark: 'part + adj'
+        dest: 
+          - 'not close'
+      - 
+        src: 'nicht vertraut'
+        mark: 'part + adj'
+        dest: 
+          - 'not familiar'
+      - 
+        src: 'nicht vertraut'
+        mark: 'part + adj'
+        dest: 
+          - 'not familiar'
+      - 
+        src: 'mit [etw] vertraut sein'
+        mark: 'vp'
+        dest: 
+          - 'be familiar with'
+      - 
+        src: 'vertraut sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be familiar'
+      - 
+        src: 'vertraut sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be acquainted'
+          - 'know'
+
+  - 
+    de: 'wahrheit'
+    added: '2022-08-15 17:28:10.053849'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 2
+    meanings: 
+      - 
+        src: 'wahrheit'
+        mark: 'nf'
+        dest: 
+          - 'reality'
+          - 'truth'
+      - 
+        src: 'wahrheit'
+        mark: 'nf'
+        dest: 
+          - 'truth'
+          - 'accuracy'
+      - 
+        src: 'nackte wahrheit'
+        mark: 'rdw'
+        dest: 
+          - 'naked truth, cold truth, hard truth, bitter truth'
+      - 
+        src: 'reine wahrheit'
+        mark: 'adj + nf'
+        dest: 
+          - 'honest truth'
+      - 
+        src: 'wahrheit'
+        mark: 'f'
+        dest: 
+          - 'truth'
+
+  - 
+    de: 'erobern'
+    added: '2022-08-15 17:38:01.678308'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 2
+    meanings: 
+      - 
+        src: '[etw] erobern'
+        mark: 'vt'
+        dest: 
+          - 'conquer'
+      - 
+        src: '[etw] erorbern'
+        mark: 'vt'
+        dest: 
+          - 'conquer'
+          - 'achieve'
+      - 
+        src: 'jmdn erorbern'
+        mark: 'vt'
+        dest: 
+          - 'win'
+      - 
+        src: 'erobern'
+        mark: 'v/t'
+        dest: 
+          - 'conquer'
+
+  - 
+    de: 'verhalten'
+    added: '2022-08-15 17:25:25.120074'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 2
+    meanings: 
+      - 
+        src: 'verhalten'
+        mark: 'vr'
+        dest: 
+          - 'react'
+      - 
+        src: 'verhalten'
+        mark: 'vr'
+        dest: 
+          - 'to be to'
+      - 
+        src: 'verhalten'
+        mark: 'adj'
+        dest: 
+          - 'restrained'
+      - 
+        src: 'verhalten'
+        mark: 'vr'
+        dest: 
+          - 'behave'
+      - 
+        src: 'verhalten'
+        mark: 'nn'
+        dest: 
+          - 'behavior'
+          - 'behaviour'
+      - 
+        src: 'normales verhalten'
+        mark: 'adj + nn'
+        dest: 
+          - 'normal behavior'
+      - 
+        src: 'sich jmdm gegenüber verhalten'
+        mark: 'rdw'
+        dest: 
+          - 'treat'
+          - 'behave'
+
+  - 
+    de: 'zwar'
+    added: '2022-08-15 17:48:49.556652'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 3
+    meanings: 
+      - 
+        src: 'und zwar'
+        mark: 'konj + adv'
+        dest: 
+          - 'specifically'
+      - 
+        src: 'zwar'
+        mark: 'adv'
+        dest: 
+          - 'certainly …'
+          - 'but …'
+
+  - 
+    de: 'verdienen'
+    added: '2022-08-30 22:28:36.377749'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 2
+    meanings: 
+      - 
+        src: '[etw] verdienen'
+        mark: 'vt'
+        dest: 
+          - 'earn'
+      - 
+        src: '[etw] verdienen'
+        mark: 'vt'
+        dest: 
+          - 'deserve'
+          - 'earn'
+      - 
+        src: 'brötchen verdienen'
+        mark: 'npl + vt'
+        dest: 
+          - 'keep the lights on'
+          - 'pay the bills'
+      - 
+        src: 'die brötchen verdienen'
+        mark: 'rdw'
+        dest: 
+          - 'earn your bread'
+      - 
+        src: 'geld verdienen'
+        mark: 'nn + vt'
+        dest: 
+          - 'earn money'
+          - 'earn a living'
+          - 'make money'
+          - 'make a living'
+      - 
+        src: 'mit [etw] sein geld verdienen'
+        mark: 'rdw'
+        dest: 
+          - 'earn a living doing'
+      - 
+        src: 'nach abzug verdienen'
+        mark: 'rdw'
+        dest: 
+          - 'wage after tax'
+      - 
+        src: 'netto verdienen'
+        mark: 'adj + vt'
+        dest: 
+          - 'net earnings'
+
+  - 
+    de: 'momentan'
+    added: '2022-08-30 21:53:26.946515'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 3
+    meanings: 
+      - 
+        src: 'momentan'
+        mark: 'adj'
+        dest: 
+          - 'presently'
+          - 'currently'
+      - 
+        src: 'momentan'
+        mark: 'adj'
+        dest: 
+          - 'current'
+
+  - 
+    de: 'schliesslich'
+    added: '2022-08-15 17:52:57.692209'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 2
+    meanings: 
+      - 
+        src: 'schließlich'
+        mark: 'adv'
+        dest: 
+          - 'finally'
+      - 
+        src: 'schließlich'
+        mark: 'adv'
+        dest: 
+          - 'after all'
+      - 
+        src: 'schließlich'
+        mark: 'adv'
+        dest: 
+          - 'finally'
+          - 'eventually'
+          - 'in the end'
+
+  - 
+    de: 'leuchtkäfer'
+    added: '2022-08-15 17:31:57.058719'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 2
+    meanings: 
+      - 
+        src: 'leuchtkäfer'
+        mark: 'm'
+        dest: 
+          - 'glow-worm'
+
+  - 
+    de: 'unwichtig'
+    added: '2022-08-15 17:29:19.774837'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 2
+    meanings: 
+      - 
+        src: 'unwichtig'
+        mark: 'adj'
+        dest: 
+          - 'not important'
+          - 'insignificant'
+
+  - 
+    de: 'anzeichen'
+    added: '2022-08-15 17:36:58.438043'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 2
+    meanings: 
+      - 
+        src: 'anzeichen'
+        mark: 'nn'
+        dest: 
+          - 'indication'
+          - 'sign'
+      - 
+        src: 'anzeichen'
+        mark: 'nn'
+        dest: 
+          - 'symptom'
+      - 
+        src: 'anzeichen'
+        mark: 'n'
+        dest: 
+          - 'sign'
+          - 'indication'
+
+  - 
+    de: 'aussprache'
+    added: '2022-08-30 21:41:14.251574'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 3
+    meanings: 
+      - 
+        src: 'aussprache'
+        mark: 'nf'
+        dest: 
+          - 'pronunciation'
+          - 'articulation'
+          - 'voicing'
+      - 
+        src: 'eine gute aussprache haben'
+        mark: 'rdw'
+        dest: 
+          - 'have good pronunciation'
+      - 
+        src: 'aussprache'
+        mark: 'f'
+        dest: 
+          - 'pronunciation'
+
+  - 
+    de: 'gehören'
+    added: '2022-07-28 19:55:01.714958'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 7
+    meanings: 
+      - 
+        src: 'jmdm gehören'
+        mark: 'vi'
+        dest: 
+          - 'belong to'
+      - 
+        src: 'zu jmdm/[etw] gehören'
+        mark: 'präp + vi'
+        dest: 
+          - 'belong with'
+          - 'belong to'
+      - 
+        src: 'gehören'
+        mark: 'vi'
+        dest: 
+          - 'require'
+          - 'need'
+      - 
+        src: 'sich gehören'
+        mark: 'vr'
+        dest: 
+          - 'be appropriate'
+          - 'be proper'
+      - 
+        src: 'dazu gehören'
+        mark: 'adv + vi'
+        dest: 
+          - 'take'
+          - 'require'
+      - 
+        src: 'zu [etw] gehören'
+        mark: 'präp + vi'
+        dest: 
+          - 'fit'
+          - 'belong to'
+      - 
+        src: 'zu [etw]/jmdm gehören'
+        mark: 'präp + vi'
+        dest: 
+          - 'belong to'
+          - 'be a part of'
+      - 
+        src: 'nicht gehören'
+        mark: 'part + vi'
+        dest: 
+          - 'not belong'
+      - 
+        src: 'nicht zu etwas gehören'
+        mark: 'rdw'
+        dest: 
+          - 'not belong to anything'
+      - 
+        src: 'zu [etw] gehören'
+        mark: 'präp + vi'
+        dest: 
+          - 'belong to'
 
 
 broken: 
