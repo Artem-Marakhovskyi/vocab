@@ -1,4 +1,4 @@
-class WordEntity {
+class TranslationWordEntity {
   final String de;
   final List<Meaning> meanings;
   final DateTime added;
@@ -7,12 +7,12 @@ class WordEntity {
   int success;
   int totalAttempts;
 
-  WordEntity.neverTrained(String de, List<Meaning> meanings)
+  TranslationWordEntity.neverTrained(String de, List<Meaning> meanings)
       : this(de, meanings, DateTime.fromMicrosecondsSinceEpoch(0), 0, 0,
             DateTime.now());
 
-  WordEntity(String de, this.meanings, this.lastAttempt, this.success,
-      this.totalAttempts, this.added)
+  TranslationWordEntity(String de, this.meanings, this.lastAttempt,
+      this.success, this.totalAttempts, this.added)
       : de = de.toLowerCase();
 
   @override

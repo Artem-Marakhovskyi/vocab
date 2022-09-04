@@ -1,13 +1,13 @@
 import 'package:colorize/colorize.dart';
-import 'package:vocab/model/input_dict.dart';
-import 'package:vocab/model/word_entity.dart';
+import 'package:vocab/model/input/input_dict.dart';
+import 'package:vocab/model/translation/existing_dict.dart';
+import 'package:vocab/model/translation/word_entity.dart';
 import 'package:vocab/services/wordreference.api.dart';
 
-import '../model/existing_dict.dart';
 import 'html_parser.dart';
 
 class Translator {
-  final ExistingDict _existingDict;
+  final ExistingTranslationDict _existingDict;
   final HtmlParser _parser;
   final WordReferenceApi _api;
 
@@ -22,7 +22,7 @@ class Translator {
     }
   }
 
-  Future<WordEntity?> addTranslation(
+  Future<TranslationWordEntity?> addTranslation(
       String srcLang, String destLang, String term) async {
     var html = await _api.getHtml(srcLang, destLang, term);
     var word = _parser.processHtml(html);

@@ -1,6 +1,6 @@
 import 'package:html/parser.dart' show parse;
 import 'package:html/dom.dart';
-import 'package:vocab/model/word_entity.dart';
+import 'package:vocab/model/translation/word_entity.dart';
 
 class HtmlParser {
   List<String> priorities = [
@@ -9,7 +9,7 @@ class HtmlParser {
     "Compound Forms"
   ];
 
-  WordEntity? processHtml(String html) {
+  TranslationWordEntity? processHtml(String html) {
     var document = parse(html);
     var de = document.body!.querySelector('h3.headerWord')!.text;
     var meanings = <Meaning>[];
@@ -39,7 +39,7 @@ class HtmlParser {
     }
 
     if (meanings.isNotEmpty) {
-      return WordEntity.neverTrained(de, meanings);
+      return TranslationWordEntity.neverTrained(de, meanings);
     }
     return null;
   }

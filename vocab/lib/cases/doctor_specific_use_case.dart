@@ -1,7 +1,7 @@
 import 'package:colorize/colorize.dart';
 import 'package:vocab/cases/args/args_parser.dart';
 import 'package:vocab/cases/use_case.dart';
-import 'package:vocab/model/word_entity.dart';
+import 'package:vocab/model/translation/word_entity.dart';
 
 import 'args/args.dart';
 
@@ -44,7 +44,7 @@ class DoctorSpecificUseCase extends UseCase {
       }
     }
 
-    WordEntity wordEntity = WordEntity(de, meanings,
+    TranslationWordEntity wordEntity = TranslationWordEntity(de, meanings,
         DateTime.fromMicrosecondsSinceEpoch(0), 0, 0, DateTime.now());
     context.existingDict.add(wordEntity, wordEntity.de);
     await context.existingDict.commit();

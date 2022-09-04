@@ -1,16 +1,16 @@
 import 'dart:convert';
 
-import 'package:vocab/model/word_entity.dart';
+import 'package:vocab/model/translation/word_entity.dart';
 import 'package:vocab/yaml/yaml.dart';
 import 'package:yaml/yaml.dart';
 
-class ExistingDict {
+class ExistingTranslationDict {
   final Yaml _yaml = Yaml();
   final String _filePath;
-  final List<WordEntity> words = [];
+  final List<TranslationWordEntity> words = [];
   final List<String> _brokenWords = [];
   String? lastUpdated;
-  ExistingDict(this._filePath);
+  ExistingTranslationDict(this._filePath);
 
   List<String> get brokenWords => [..._brokenWords];
 
@@ -59,12 +59,12 @@ class ExistingDict {
       var success = word['success_attempts'] ?? 0;
       var totalAttempts = word['total_attempts'] ?? 0;
 
-      words.add(WordEntity(
+      words.add(TranslationWordEntity(
           word['de'], meanings, lastAttempt, success, totalAttempts, added));
     }
   }
 
-  void replace(WordEntity word) {
+  void replace(TranslationWordEntity word) {
     if (words.any((x) => x.de == word.de)) {
       words.removeAt(words.indexWhere((element) => element.de == word.de));
       words.add(word);
@@ -79,7 +79,7 @@ class ExistingDict {
     _brokenWords.add(term);
   }
 
-  void add(WordEntity? wordEntity, String term) {
+  void add(TranslationWordEntity? wordEntity, String term) {
     if (wordEntity == null ||
         wordEntity.meanings.isEmpty ||
         wordEntity.meanings.every((element) => element.dests.isEmpty)) {
@@ -89,7 +89,7 @@ class ExistingDict {
     }
   }
 
-  void addWord(WordEntity wordEntity) {
+  void addWord(TranslationWordEntity wordEntity) {
     _brokenWords.remove(wordEntity.de);
     if (!words.any((element) => element.de == wordEntity.de)) {
       words.add(wordEntity);

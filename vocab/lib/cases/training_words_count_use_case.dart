@@ -1,7 +1,7 @@
 import 'package:colorize/colorize.dart';
 import 'package:vocab/cases/args/args_parser.dart';
 import 'package:vocab/cases/use_case.dart';
-import 'package:vocab/model/word_entity.dart';
+import 'package:vocab/model/translation/word_entity.dart';
 
 import 'args/args.dart';
 
@@ -45,7 +45,7 @@ class TrainingWordsCountUseCase extends UseCase {
     await context.existingDict.commit();
   }
 
-  bool deen(WordEntity sessionWord, int idx) {
+  bool deen(TranslationWordEntity sessionWord, int idx) {
     color(
         '${getProgress(idx)}${sessionWord.meanings.map((e) => e.isNoun ? '${e.nounArticle} ${e.src}' : '${e.src} (${e.mark})').toSet().toList().join(', ')}',
         front: Styles.BLUE);
@@ -62,7 +62,7 @@ class TrainingWordsCountUseCase extends UseCase {
     }
   }
 
-  bool ende(WordEntity sessionWord, int idx) {
+  bool ende(TranslationWordEntity sessionWord, int idx) {
     color(
         '${getProgress(idx)}${sessionWord.meanings.map((e) => e.dests.join(', ')).join('; ')}',
         front: Styles.BLUE);

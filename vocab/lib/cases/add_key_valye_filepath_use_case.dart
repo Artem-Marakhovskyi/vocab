@@ -2,8 +2,8 @@ import 'dart:io';
 
 import 'package:vocab/cases/args/args.dart';
 import 'package:vocab/cases/use_case.dart';
-import 'package:vocab/model/input_dict_key_value.dart';
-import 'package:vocab/services/key_value_translator.dart';
+import 'package:vocab/model/input/input_dict_key_value.dart';
+import 'package:vocab/services/translation/key_value_translator.dart';
 
 class AddKeyValueFilepathUseCase extends UseCase {
   AddKeyValueFilepathArgs get arguments => args as AddKeyValueFilepathArgs;

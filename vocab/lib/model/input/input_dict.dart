@@ -1,6 +1,5 @@
+import 'package:vocab/yaml/yaml.dart';
 import 'package:yaml/yaml.dart';
-
-import '../yaml/yaml.dart';
 
 class InputDict {
   final String filePath;
