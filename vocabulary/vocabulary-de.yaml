@@ -1,4 +1,4 @@
-lastUpdated: '2022-09-04 19:17:21.751364'
+lastUpdated: '2022-09-04 23:36:14.146977'
 words: 
   - 
     de: 'stelle'
@@ -20535,6 +20535,922 @@ words:
           - 'order now!'
           - 'buy now!'
 
+  - 
+    de: 'verwenden'
+    added: '2022-09-04 22:41:46.810678'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: '[etw] verwenden'
+        mark: 'vt'
+        dest: 
+          - 'use'
+      - 
+        src: '[etw] verwenden'
+        mark: 'vt'
+        dest: 
+          - 'use'
+      - 
+        src: 'sich für jmdn/[etw] verwenden'
+        mark: 'präp + vr'
+        dest: 
+          - 'work on behalf of'
+          - 'intercede'
+      - 
+        src: 'falsch verwenden'
+        mark: 'adv + vt'
+        dest: 
+          - 'misuse'
+          - 'use incorrectly'
+
+  - 
+    de: 'hassen'
+    added: '2022-09-04 22:42:17.227046'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'hassen'
+        mark: 'v/t'
+        dest: 
+          - 'hate'
+
+  - 
+    de: 'mülleimer'
+    added: '2022-09-04 22:42:47.079795'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'mülleimer'
+        mark: 'nm'
+        dest: 
+          - 'garbage can, trash can'
+          - 'bin, rubbish bin'
+          - 'dustbin'
+          - 'bin, garbage bin'
+      - 
+        src: 'mülleimer'
+        mark: 'm'
+        dest: 
+          - 'rubbish'
+
+  - 
+    de: 'eimer'
+    added: '2022-09-04 22:42:54.844234'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'eimer'
+        mark: 'nm'
+        dest: 
+          - 'bucket'
+          - 'pail'
+      - 
+        src: 'eimer'
+        mark: 'nm'
+        dest: 
+          - 'to be done for'
+          - 'to have had it'
+      - 
+        src: 'eimer'
+        mark: 'm'
+        dest: 
+          - 'bucket'
+
+  - 
+    de: 'schild'
+    added: '2022-09-04 22:43:21.713084'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'schild'
+        mark: 'nn'
+        dest: 
+          - 'sign'
+          - 'plate'
+      - 
+        src: 'schild'
+        mark: 'nn'
+        dest: 
+          - 'label, tag'
+      - 
+        src: 'schild'
+        mark: 'nn'
+        dest: 
+          - 'shield'
+      - 
+        src: 'schild'
+        mark: 'n'
+        dest: 
+          - 'sign'
+
+  - 
+    de: 'aufzug'
+    added: '2022-09-04 22:43:37.947623'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'aufzug'
+        mark: 'nm'
+        dest: 
+          - 'elevator'
+          - 'lift'
+      - 
+        src: 'aufzug'
+        mark: 'nm'
+        dest: 
+          - 'outfit'
+          - 'clothing'
+      - 
+        src: 'aufzug'
+        mark: 'nm'
+        dest: 
+          - 'act'
+      - 
+        src: 'aufzug'
+        mark: 'nm'
+        dest: 
+          - 'procession'
+          - 'parade'
+      - 
+        src: 'aufzug'
+        mark: 'm'
+        dest: 
+          - 'lift'
+
+  - 
+    de: 'türknauf'
+    added: '2022-09-04 22:44:18.284094'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'türknauf'
+        mark: 'm'
+        dest: 
+          - 'doorknob'
+
+  - 
+    de: 'knauf'
+    added: '2022-09-04 22:44:27.172813'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'knauf'
+        mark: 'm'
+        dest: 
+          - 'knob'
+
+  - 
+    de: 'werfen'
+    added: '2022-09-04 22:45:24.206685'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: '[etw] werfen'
+        mark: 'vt'
+        dest: 
+          - 'throw'
+      - 
+        src: 'sich werfen'
+        mark: 'vr'
+        dest: 
+          - 'lie down'
+      - 
+        src: 'an den kopf werfen'
+        mark: 'rdw'
+        dest: 
+          - 'throw accusations around'
+          - 'accuse'
+      - 
+        src: 'an den kopf werfen'
+        mark: 'rdw'
+        dest: 
+          - 'throw at the head'
+      - 
+        src: 'blasen werfen'
+        mark: 'npl + vt'
+        dest: 
+          - 'blow bubbles'
+      - 
+        src: 'das handtuch werfen'
+        mark: 'rdw'
+        dest: 
+          - 'throw in the towel'
+      - 
+        src: 'einen ball weit werfen'
+        mark: 'rdw'
+        dest: 
+          - 'throw a ball far'
+      - 
+        src: 'einen blick auf [etw] werfen'
+        mark: 'vp'
+        dest: 
+          - 'take a quick look at'
+          - 'check'
+      - 
+        src: 'einen blick auf [etw] werfen'
+        mark: 'vp'
+        dest: 
+          - 'look after'
+      - 
+        src: 'geld zum fenster raus werfen'
+        mark: 'rdw'
+        dest: 
+          - 'throwing money away'
+          - 'throw money out the window'
+      - 
+        src: 'in die höhe werfen'
+        mark: 'rdw'
+        dest: 
+          - 'throw into the air'
+      - 
+        src: 'in einen topf werfen'
+        mark: 'rdw'
+        dest: 
+          - 'lump together'
+      - 
+        src: 'in einen topf werfen'
+        mark: 'rdw'
+        dest: 
+          - 'lump together'
+      - 
+        src: 'licht auf eine sache werfen'
+        mark: 'rdw'
+        dest: 
+          - 'cast light on'
+      - 
+        src: 'schatten werfen'
+        mark: 'npl + vt'
+        dest: 
+          - 'throw a shadow'
+          - 'cast a shadow'
+      - 
+        src: 'über den haufen werfen'
+        mark: 'rdw'
+        dest: 
+          - 'throw'
+          - 'nix'
+
+  - 
+    de: 'warnlampe'
+    added: '2022-09-04 22:45:45.469997'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'warnlampe'
+        mark: 'f'
+        dest: 
+          - 'warning light'
+
+  - 
+    de: 'tannenbaum'
+    added: '2022-09-04 22:46:06.298125'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'tannenbaum'
+        mark: 'nm'
+        dest: 
+          - 'christmas tree'
+          - 'fir tree'
+      - 
+        src: 'tannenbaum'
+        mark: 'm'
+        dest: 
+          - 'fir (tree)'
+
+  - 
+    de: 'tannen'
+    added: '2022-09-04 22:46:12.580166'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'tanne'
+        mark: 'nf'
+        dest: 
+          - 'fir'
+          - 'fir tree'
+
+  - 
+    de: 'berühren'
+    added: '2022-09-04 22:48:38.345523'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'sich berühren'
+        mark: 'pron + vr'
+        dest: 
+          - 'touch'
+      - 
+        src: 'sich berühren'
+        mark: 'pron + vr'
+        dest: 
+          - 'brush against each other'
+      - 
+        src: 'berühren'
+        mark: 'v/t'
+        dest: 
+          - 'touch'
+
+  - 
+    de: 'verschenken'
+    added: '2022-09-04 22:49:09.621126'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'verschenken'
+        mark: 'v/t'
+        dest: 
+          - 'give away'
+
+  - 
+    de: 'skulptur'
+    added: '2022-09-04 23:17:37.859187'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'skulptur'
+        mark: 'nf'
+        dest: 
+          - 'sculpture'
+      - 
+        src: 'eine skulptur anfertigen'
+        mark: 'rdw'
+        dest: 
+          - 'make a sculpture'
+          - 'sculpt'
+
+  - 
+    de: 'lehnen'
+    added: '2022-09-04 23:17:49.031883'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'sich lehnen'
+        mark: 'vr'
+        dest: 
+          - 'lean against'
+          - 'lean on'
+      - 
+        src: 'lehnen'
+        mark: 'f'
+        dest: 
+          - 'back'
+
+  - 
+    de: 'briefkasten'
+    added: '2022-09-04 23:18:18.914014'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'briefkasten'
+        mark: 'nm'
+        dest: 
+          - 'postbox'
+      - 
+        src: 'briefkasten'
+        mark: 'nm'
+        dest: 
+          - 'mailbox'
+          - 'letter box'
+      - 
+        src: 'briefkasten'
+        mark: 'm'
+        dest: 
+          - 'letterbox'
+          - 'postbox'
+
+  - 
+    de: 'bank'
+    added: '2022-09-04 23:19:26.561880'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'bank'
+        mark: 'nf'
+        dest: 
+          - 'bench'
+      - 
+        src: 'bank'
+        mark: 'nf'
+        dest: 
+          - 'bank'
+      - 
+        src: 'bank'
+        mark: 'nf'
+        dest: 
+          - 'bank'
+      - 
+        src: 'bank'
+        mark: 'nf'
+        dest: 
+          - 'reef'
+      - 
+        src: 'werkbank'
+        mark: 'nf'
+        dest: 
+          - 'workbench'
+      - 
+        src: 'durch die bank weg'
+        mark: 'rdw'
+        dest: 
+          - 'across the board'
+          - 'everyone'
+      - 
+        src: 'bank'
+        mark: 'f'
+        dest: 
+          - 'bench'
+          - 'seat'
+
+  - 
+    de: 'klingel'
+    added: '2022-09-04 23:20:46.597546'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'klingel'
+        mark: 'nf'
+        dest: 
+          - 'bell'
+
+  - 
+    de: 'bilden'
+    added: '2022-09-04 23:22:57.737986'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'sich bilden'
+        mark: 'vr'
+        dest: 
+          - 'develop'
+          - 'arise'
+      - 
+        src: 'sich bilden'
+        mark: 'vr'
+        dest: 
+          - 'learn'
+          - 'educate yourself'
+      - 
+        src: '[etw] bilden'
+        mark: 'vt'
+        dest: 
+          - 'make up'
+          - 'put together'
+          - 'create'
+      - 
+        src: 'jmdn bilden'
+        mark: 'vt'
+        dest: 
+          - 'teach'
+          - 'educate'
+      - 
+        src: '[etw] bilden'
+        mark: 'vt'
+        dest: 
+          - 'sculpt'
+          - 'mold'
+          - 'create'
+          - 'produce'
+      - 
+        src: 'ein team bilden'
+        mark: 'rdw'
+        dest: 
+          - 'build a team'
+          - 'put a team together'
+      - 
+        src: 'ein team bilden'
+        mark: 'rdw'
+        dest: 
+          - 'build a team'
+      - 
+        src: 'ein team bilden'
+        mark: 'rdw'
+        dest: 
+          - 'be a team'
+      - 
+        src: 'eine gruppe bilden'
+        mark: 'rdw'
+        dest: 
+          - 'form a group'
+      - 
+        src: 'eine meinung über [etw] bilden'
+        mark: 'rdw'
+        dest: 
+          - 'form an opinion on'
+      - 
+        src: 'eine reihe bilden'
+        mark: 'rdw'
+        dest: 
+          - 'form a line, form a queue'
+      - 
+        src: 'gruppen bilden'
+        mark: 'npl + vt'
+        dest: 
+          - 'split into teams'
+          - 'form teams'
+      - 
+        src: 'gruppen bilden'
+        mark: 'npl + vt'
+        dest: 
+          - 'form groupings'
+          - 'break into groups'
+      - 
+        src: 'klumpen bilden'
+        mark: 'npl + vt'
+        dest: 
+          - 'forming lumps'
+          - 'developing lumps'
+      - 
+        src: 'masse bilden'
+        mark: 'nf + vt'
+        dest: 
+          - 'develop a mass'
+          - 'form a lump'
+      - 
+        src: 'masse bilden'
+        mark: 'nf + vt'
+        dest: 
+          - 'form a mass of people'
+      - 
+        src: 'tropfen bilden'
+        mark: 'npl + vt'
+        dest: 
+          - 'form drops'
+
+  - 
+    de: 'umarmen'
+    added: '2022-09-04 23:24:17.620521'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'jmdn umarmen'
+        mark: 'vt, fix'
+        dest: 
+          - 'hug'
+          - 'hold'
+      - 
+        src: 'umarmen'
+        mark: 'v/t (untrennb, hat)'
+        dest: 
+          - 'embrace'
+
+  - 
+    de: 'deswegen'
+    added: '2022-09-04 23:25:09.880226'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'deswegen'
+        mark: 'adv'
+        dest: 
+          - 'hence'
+          - 'therefore'
+
+  - 
+    de: 'stumpf'
+    added: '2022-09-04 23:26:06.593572'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'stumpf machen'
+        mark: 'adj + vt'
+        dest: 
+          - 'dull'
+      - 
+        src: 'stumpf machen'
+        mark: 'adj + vt'
+        dest: 
+          - 'dull'
+
+  - 
+    de: 'lieb'
+    added: '2022-09-04 23:27:41.219830'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: '[etw]/jmdn lieb haben'
+        mark: 'adj + vt'
+        dest: 
+          - 'love'
+
+  - 
+    de: 'aufpassen'
+    added: '2022-09-04 23:29:50.076281'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'auf [jmd] aufpassen'
+        mark: 'rdw'
+        dest: 
+          - 'protect'
+      - 
+        src: 'auf [jmd] aufpassen'
+        mark: 'rdw'
+        dest: 
+          - 'look after'
+      - 
+        src: 'auf [etw]/jmdn aufpassen'
+        mark: 'präp + vi, sepa'
+        dest: 
+          - 'watch'
+      - 
+        src: 'auf [etw]/jmdn aufpassen'
+        mark: 'präp + vi, sepa'
+        dest: 
+          - 'pay attention to'
+          - 'watch'
+
+  - 
+    de: 'schachtel'
+    added: '2022-09-04 23:30:55.274688'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'schachtel'
+        mark: 'nf'
+        dest: 
+          - 'box, case'
+      - 
+        src: 'alte schachtel'
+        mark: 'nf'
+        dest: 
+          - 'old bag'
+          - 'old hag'
+
+  - 
+    de: 'reihe'
+    added: '2022-09-04 23:32:18.241165'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'reihe'
+        mark: 'nf'
+        dest: 
+          - 'row'
+          - 'rank'
+      - 
+        src: 'reihe'
+        mark: 'nf'
+        dest: 
+          - 'row'
+      - 
+        src: 'reihe'
+        mark: 'nf'
+        dest: 
+          - 'assortment'
+          - 'series'
+      - 
+        src: 'reihe'
+        mark: 'nf'
+        dest: 
+          - 'line'
+          - 'queue'
+      - 
+        src: 'an der reihe sein'
+        mark: 'rdw'
+        dest: 
+          - 'be'
+          - 'be next'
+      - 
+        src: '[etw] auf die reihe kriegen'
+        mark: 'rdw'
+        dest: 
+          - 'handle'
+          - 'bring'
+      - 
+        src: 'eine reihe bilden'
+        mark: 'rdw'
+        dest: 
+          - 'form a line, form a queue'
+      - 
+        src: 'erste reihe'
+        mark: 'adj + nf'
+        dest: 
+          - 'first row'
+          - 'front row'
+      - 
+        src: 'in einer reihe'
+        mark: 'rdw'
+        dest: 
+          - 'in a row'
+      - 
+        src: 'in einer reihe aufstellen'
+        mark: 'rdw'
+        dest: 
+          - 'set up in a row'
+      - 
+        src: 'in einer reihe laufen'
+        mark: 'rdw'
+        dest: 
+          - 'run in a line'
+      - 
+        src: 'zuerst an der reihe sein'
+        mark: 'rdw'
+        dest: 
+          - 'first in line'
+      - 
+        src: 'reihe'
+        mark: 'f'
+        dest: 
+          - 'row'
+          - 'line'
+
+  - 
+    de: 'zufrieden'
+    added: '2022-09-04 23:33:44.390303'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'zufrieden'
+        mark: 'adj'
+        dest: 
+          - 'satisfied, content'
+      - 
+        src: 'zufriedenstellen'
+        mark: 'vt, sepa'
+        dest: 
+          - 'satisfy'
+      - 
+        src: 'zufrieden'
+        mark: 'adj'
+        dest: 
+          - 'content(ed)'
+          - 'satisfied'
+
+  - 
+    de: 'beschäftigt'
+    added: '2022-09-04 23:34:20.184053'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'beschäftigt'
+        mark: 'adj'
+        dest: 
+          - 'busy'
+      - 
+        src: 'beschäftigt'
+        mark: 'adj'
+        dest: 
+          - 'employed'
+      - 
+        src: 'sehr beschäftigt'
+        mark: 'adv + adj'
+        dest: 
+          - 'very busy'
+
+  - 
+    de: 'nachdenklich'
+    added: '2022-09-04 23:34:54.426222'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'nachdenklich'
+        mark: 'adj'
+        dest: 
+          - 'thoughtful'
+          - 'reflective'
+          - 'meditative'
+          - 'contemplative'
+      - 
+        src: 'nachdenklich machen'
+        mark: 'adj + vt'
+        dest: 
+          - 'provoke thought'
+          - 'be thought-provoking'
+
+  - 
+    de: 'aufgeregt'
+    added: '2022-09-04 23:35:20.972721'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'aufgeregt sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be nervous'
+      - 
+        src: 'aufgeregt sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be irritated'
+
+  - 
+    de: 'regen'
+    added: '2022-09-04 23:35:29.668769'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'regen'
+        mark: 'vr'
+        dest: 
+          - 'stir'
+          - 'move'
+      - 
+        src: 'regen'
+        mark: 'vr'
+        dest: 
+          - 'move'
+      - 
+        src: 'regen'
+        mark: 'nm'
+        dest: 
+          - 'rain'
+          - 'rainfall'
+      - 
+        src: 'regen'
+        mark: 'vr'
+        dest: 
+          - 'stir up'
+      - 
+        src: 'regen'
+        mark: 'nm'
+        dest: 
+          - 'windfall'
+
+  - 
+    de: 'überrascht'
+    added: '2022-09-04 23:36:14.130364'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'überrascht'
+        mark: 'adj'
+        dest: 
+          - 'surprised'
+
 
 broken: 
-
+  - 'werven'
+  - 'behrünen'
+  - 'behrunen'
+  - 'berührunen'
+  - 'berürunen'
+  - 'klinngel'
+  - 'biulden'
+  - 'beshäftigt'

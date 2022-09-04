@@ -1,4 +1,4 @@
-lastUpdated: '2022-09-02 18:15:43.272868'
+lastUpdated: '2022-09-04 23:35:29.682957'
 words: 
   - 
     de: 'stelle'
@@ -7845,2449 +7845,6 @@ words:
         mark: 'int'
         dest: 
           - 'for sale'
-
-  - 
-    de: 'schneiden'
-    added: '2022-08-30 21:55:21.174426'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: '[etw] schneiden'
-        mark: 'vt'
-        dest: 
-          - 'cut'
-      - 
-        src: 'sich schneiden'
-        mark: 'vr'
-        dest: 
-          - 'cut'
-          - 'slit'
-      - 
-        src: '[etw] schneiden'
-        mark: 'vt'
-        dest: 
-          - 'edit'
-      - 
-        src: 'abschneiden'
-        mark: 'partv tr, sepa'
-        dest: 
-          - 'x'
-      - 
-        src: 'schneidend'
-        mark: 'v part präs'
-        dest: 
-          - 'sharp, harsh'
-          - 'piercing'
-      - 
-        src: 'schneiden'
-        mark: 'vr'
-        dest: 
-          - 'intersect'
-      - 
-        src: 'die spitzen schneiden'
-        mark: 'rdw'
-        dest: 
-          - 'trim the ends'
-          - 'cut the tips'
-      - 
-        src: 'förmlich auseinander schneiden'
-        mark: 'rdw'
-        dest: 
-          - 'separate'
-      - 
-        src: 'grimasse schneiden'
-        mark: 'nf + vt'
-        dest: 
-          - 'grimace'
-          - 'make a face'
-      - 
-        src: 'haare schneiden'
-        mark: 'npl + vt'
-        dest: 
-          - "cut one's hair"
-      - 
-        src: 'hecke schneiden'
-        mark: 'rdw'
-        dest: 
-          - 'cut a hedge, clip a hedge, trim a hedge'
-      - 
-        src: 'in dünne scheiben schneiden'
-        mark: 'rdw'
-        dest: 
-          - 'cut into thin slices'
-      - 
-        src: 'in ringe schneiden'
-        mark: 'rdw'
-        dest: 
-          - 'cut into rings'
-      - 
-        src: '[etw] in scheiben schneiden'
-        mark: 'vp'
-        dest: 
-          - 'cut'
-          - 'slice'
-      - 
-        src: '[etw] in stücke schneiden'
-        mark: 'vp'
-        dest: 
-          - 'cut'
-      - 
-        src: '[etw] in würfel schneiden'
-        mark: 'rdw'
-        dest: 
-          - 'cut'
-      - 
-        src: 'klein schneiden'
-        mark: 'adv + vt'
-        dest: 
-          - 'cut into small pieces'
-          - 'chop'
-      - 
-        src: 'schneiden lassen'
-        mark: 'vt + hv'
-        dest: 
-          - 'have cut'
-      - 
-        src: 'sich die haare schneiden lassen'
-        mark: 'rdw'
-        dest: 
-          - 'get your hair cut'
-
-  - 
-    de: 'ringe'
-    added: '2022-08-30 21:55:42.956218'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: 'ring'
-        mark: 'nm'
-        dest: 
-          - 'ring'
-      - 
-        src: 'ring'
-        mark: 'nm'
-        dest: 
-          - 'circle'
-      - 
-        src: 'ring'
-        mark: 'nm'
-        dest: 
-          - 'ring'
-          - 'syndicate'
-      - 
-        src: 'ring'
-        mark: 'nm'
-        dest: 
-          - 'ring'
-      - 
-        src: 'ring'
-        mark: 'nm'
-        dest: 
-          - 'ring'
-      - 
-        src: 'hochzeitsring'
-        mark: 'nm'
-        dest: 
-          - 'wedding ring'
-          - 'ring'
-
-  - 
-    de: 'abschließen'
-    added: '2022-08-30 21:57:36.702838'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: 'abschließen'
-        mark: 'vt, sepa'
-        dest: 
-          - 'lock'
-      - 
-        src: 'abschließen'
-        mark: 'vt, sepa'
-        dest: 
-          - 'complete'
-      - 
-        src: 'abschließen'
-        mark: 'vt, sepa'
-        dest: 
-          - 'finalize'
-      - 
-        src: 'eine wette abschließen'
-        mark: 'rdw'
-        dest: 
-          - 'bet'
-          - 'make a bet, place a bet'
-      - 
-        src: 'erfolgreich abschließen'
-        mark: 'adv + vt'
-        dest: 
-          - 'successfully complete'
-      - 
-        src: 'wette abschließen'
-        mark: 'rdw'
-        dest: 
-          - 'make a bet'
-          - 'place a bet'
-
-  - 
-    de: 'zeichnen'
-    added: '2022-08-30 21:58:41.513716'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: '[etw] zeichnen'
-        mark: 'vt'
-        dest: 
-          - 'draw'
-      - 
-        src: 'eine linie zeichnen'
-        mark: 'rdw'
-        dest: 
-          - 'draw a line'
-      - 
-        src: 'eine linie zeichnen'
-        mark: 'rdw'
-        dest: 
-          - 'plot a curve'
-          - 'plot a line'
-      - 
-        src: 'perspektivisches zeichnen'
-        mark: 'adj + nn'
-        dest: 
-          - 'perspective drawing'
-      - 
-        src: 'zeichnen'
-        mark: 'n'
-        dest: 
-          - 'drawing'
-
-  - 
-    de: 'klettern'
-    added: '2022-08-30 21:59:40.919603'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: 'auf [etw] klettern'
-        mark: 'präp + vi'
-        dest: 
-          - 'climb up on'
-      - 
-        src: 'klettern'
-        mark: 'vi'
-        dest: 
-          - 'climb'
-      - 
-        src: 'klettern'
-        mark: 'vi'
-        dest: 
-          - 'climb'
-          - 'rise'
-
-  - 
-    de: 'solch'
-    added: '2022-08-30 22:03:17.142008'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: 'solch'
-        mark: 'pron'
-        dest: 
-          - 'such'
-      - 
-        src: 'solch'
-        mark: 'pron & adj'
-        dest: 
-          - 'such'
-          - 'that kind'
-
-  - 
-    de: 'abfahren'
-    added: '2022-08-30 22:19:16.443023'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: 'abfahren auf etwas'
-        mark: 'rdw'
-        dest: 
-          - 'go for'
-      - 
-        src: 'auf [etw] abfahren'
-        mark: 'rdw'
-        dest: 
-          - 'go for'
-          - 'dig'
-      - 
-        src: 'auf [etw] abfahren'
-        mark: 'rdw'
-        dest: 
-          - 'get off on doing'
-
-  - 
-    de: 'abgeben'
-    added: '2022-08-30 22:21:05.009596'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: '[etw] abgeben'
-        mark: 'vt, sepa'
-        dest: 
-          - 'deliver'
-      - 
-        src: 'abgeben'
-        mark: 'vr, sepa'
-        dest: 
-          - 'get involved with'
-          - 'spend time with'
-      - 
-        src: '[etw] abgeben'
-        mark: 'vt, sepa'
-        dest: 
-          - 'pass'
-      - 
-        src: '[etw] abgeben'
-        mark: 'vt, sepa'
-        dest: 
-          - 'make'
-          - 'express yourself'
-      - 
-        src: '[etw] abgeben'
-        mark: 'vt, sepa'
-        dest: 
-          - 'resign from'
-          - 'withdraw from'
-          - 'hand over'
-      - 
-        src: 'schätzung abgeben'
-        mark: 'nf + vt'
-        dest: 
-          - 'give an estimate'
-
-  - 
-    de: 'anmachen'
-    added: '2022-08-30 22:23:28.689746'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: 'sexuelle anmache im internet'
-        mark: 'rdw'
-        dest: 
-          - 'online sexual harassment'
-      - 
-        src: 'anmachen'
-        mark: 'v/t (trennb, hat -ge-)'
-        dest: 
-          - 'switch on'
-          - 'turn on'
-
-  - 
-    de: 'anmelden'
-    added: '2022-08-30 22:23:28.918798'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: 'anmelden'
-        mark: 'vt, sepa'
-        dest: 
-          - 'give notice'
-          - 'register'
-      - 
-        src: 'anmelden'
-        mark: 'vt, sepa'
-        dest: 
-          - 'announce'
-      - 
-        src: 'anmelden'
-        mark: 'vr, sepa'
-        dest: 
-          - 'log in'
-          - 'log on'
-      - 
-        src: 'anmelden'
-        mark: 'vt, sepa'
-        dest: 
-          - 'declare'
-      - 
-        src: 'insolvenz anmelden'
-        mark: 'nf + vt'
-        dest: 
-          - 'declare bankruptcy'
-          - 'file for bankruptcy'
-      - 
-        src: 'jetzt anmelden'
-        mark: 'rdw'
-        dest: 
-          - 'register now'
-          - 'sign up now'
-          - 'subscribe now'
-
-  - 
-    de: 'anrufen'
-    added: '2022-08-30 22:23:29.100068'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: 'anrufen'
-        mark: 'vt, sepa'
-        dest: 
-          - 'call'
-          - 'ring'
-          - 'give'
-      - 
-        src: 'anrufen'
-        mark: 'vt, sepa'
-        dest: 
-          - 'call for help'
-
-  - 
-    de: 'antworten'
-    added: '2022-08-30 22:23:29.282256'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: 'antworten'
-        mark: 'vi'
-        dest: 
-          - 'answer'
-      - 
-        src: 'antwort'
-        mark: 'nf'
-        dest: 
-          - 'answer'
-          - 'reply'
-          - 'response'
-          - 'feedback'
-
-  - 
-    de: 'aufstehen'
-    added: '2022-08-30 22:24:33.087298'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: 'aufstehen'
-        mark: 'vi, sepa'
-        dest: 
-          - 'stand up'
-      - 
-        src: 'aufstehen'
-        mark: 'vi, sepa'
-        dest: 
-          - 'get up'
-          - 'wake up'
-      - 
-        src: 'aufstehen'
-        mark: 'vi, sepa'
-        dest: 
-          - 'get back up'
-      - 
-        src: 'auf [etw] stehen'
-        mark: 'präp + vi'
-        dest: 
-          - 'stand on'
-      - 
-        src: 'auf [etw] stehen'
-        mark: 'präp + vi'
-        dest: 
-          - 'dig'
-          - 'like'
-      - 
-        src: 'auf jmdn stehen'
-        mark: 'präp + vi'
-        dest: 
-          - 'be into'
-      - 
-        src: 'stehen'
-        mark: 'vi'
-        dest: 
-          - 'stand'
-      - 
-        src: 'stehen'
-        mark: 'vi'
-        dest: 
-          - 'be'
-      - 
-        src: 'stehen'
-        mark: 'vi'
-        dest: 
-          - 'be'
-      - 
-        src: 'auf [etw] stehen'
-        mark: 'präp + vi'
-        dest: 
-          - 'like'
-          - 'be into'
-      - 
-        src: 'auf jmdn stehen'
-        mark: 'präp + vi'
-        dest: 
-          - 'be into'
-      - 
-        src: 'früh aufstehen'
-        mark: 'adj + vi, sepa'
-        dest: 
-          - 'be no fool'
-      - 
-        src: 'aufstehen'
-        mark: 'vi, sepa'
-        dest: 
-          - 'be open'
-      - 
-        src: 'aufstehen'
-        mark: 'vi, sepa'
-        dest: 
-          - 'get well'
-          - 'recover'
-      - 
-        src: 'auf [etw] stehen'
-        mark: 'präp + vi'
-        dest: 
-          - 'be interested in'
-          - 'like'
-      - 
-        src: 'zu [etw] stehen'
-        mark: 'präp + vi'
-        dest: 
-          - 'think of'
-          - 'support'
-      - 
-        src: 'zu jmdm stehen'
-        mark: 'präp + vi'
-        dest: 
-          - 'stand by'
-          - 'support'
-      - 
-        src: 'stehen'
-        mark: 'vi'
-        dest: 
-          - 'stop'
-          - 'stand still'
-      - 
-        src: 'stehen'
-        mark: 'vi'
-        dest: 
-          - 'be settled'
-      - 
-        src: 'stehen'
-        mark: 'vi'
-        dest: 
-          - 'be locked in'
-      - 
-        src: 'stehen'
-        mark: 'vi'
-        dest: 
-          - 'suit'
-
-  - 
-    de: 'ausfüllen'
-    added: '2022-08-30 22:24:33.283318'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: 'ausfüllen'
-        mark: 'v/t (trennb, hat -ge-)'
-        dest: 
-          - 'fill'
-
-  - 
-    de: 'aussteigen'
-    added: '2022-08-30 22:24:33.481068'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: 'aussteigen'
-        mark: 'v/i (irr, trennb, ist -ge-)'
-        dest: 
-          - 'get out'
-
-  - 
-    de: 'beginnen'
-    added: '2022-08-30 22:25:40.682615'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: 'beginnen'
-        mark: 'vi'
-        dest: 
-          - 'start'
-          - 'begin'
-      - 
-        src: 'beginnen'
-        mark: 'vt'
-        dest: 
-          - 'start'
-          - 'begin'
-
-  - 
-    de: 'bestellen'
-    added: '2022-08-30 22:25:41.116800'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: '[etw] bestellen'
-        mark: 'vt'
-        dest: 
-          - 'order'
-      - 
-        src: 'bestellen'
-        mark: 'vi'
-        dest: 
-          - 'commission'
-          - 'order'
-      - 
-        src: '[etw] bestellen'
-        mark: 'vt'
-        dest: 
-          - 'summon'
-      - 
-        src: '[etw] bestellen'
-        mark: 'vt'
-        dest: 
-          - 'book'
-          - 'reserve'
-      - 
-        src: '[etw] bestellen'
-        mark: 'vt'
-        dest: 
-          - 'cultivate'
-      - 
-        src: 'jetzt bestellen'
-        mark: 'rdw'
-        dest: 
-          - 'order now!'
-          - 'buy now!'
-
-  - 
-    de: 'bezahlen'
-    added: '2022-08-30 22:25:41.451261'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: '[etw] bezahlen'
-        mark: 'vt'
-        dest: 
-          - 'pay'
-      - 
-        src: '[etw] bezahlen'
-        mark: 'vt'
-        dest: 
-          - 'pay'
-          - 'remunerate'
-      - 
-        src: 'bezahlen'
-        mark: 'vi'
-        dest: 
-          - 'pay for'
-      - 
-        src: 'wettschulden bezahlen'
-        mark: 'npl + vt'
-        dest: 
-          - 'pay gambling debts'
-
-  - 
-    de: 'bitten'
-    added: '2022-08-30 22:25:41.617131'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: 'jmdn bitten'
-        mark: 'vt'
-        dest: 
-          - 'ask'
-          - 'request'
-      - 
-        src: 'jmdn bitten'
-        mark: 'vt'
-        dest: 
-          - 'ask'
-      - 
-        src: 'bitte'
-        mark: 'nf'
-        dest: 
-          - 'request'
-          - 'wish'
-          - 'appeal'
-      - 
-        src: 'um [etw] bitten'
-        mark: 'präp + vi'
-        dest: 
-          - 'ask for'
-      - 
-        src: 'bitten'
-        mark: 'v/t & v/i'
-        dest: 
-          - 'ask'
-
-  - 
-    de: 'bleiben'
-    added: '2022-08-30 22:25:41.795635'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: 'bleiben'
-        mark: 'vi'
-        dest: 
-          - 'stay'
-      - 
-        src: 'bleiben'
-        mark: 'vi'
-        dest: 
-          - 'remain'
-      - 
-        src: 'bleiben'
-        mark: 'vi'
-        dest: 
-          - 'stay'
-          - 'hold'
-          - 'stick with'
-      - 
-        src: 'bleiben'
-        mark: 'vi'
-        dest: 
-          - 'left'
-          - 'remaining'
-      - 
-        src: 'bestehen bleiben'
-        mark: 'vi + vi'
-        dest: 
-          - 'persist'
-          - 'remain'
-      - 
-        src: 'fit bleiben'
-        mark: 'adj + vi'
-        dest: 
-          - 'stay fit, stay healthy'
-      - 
-        src: 'in form bleiben'
-        mark: 'rdw'
-        dest: 
-          - 'stay in shape'
-      - 
-        src: 'konstant bleiben'
-        mark: 'adv + vi'
-        dest: 
-          - 'remain stable'
-          - 'be stable'
-      - 
-        src: 'nichts anderes übrig bleiben'
-        mark: 'rdw'
-        dest: 
-          - 'nothing remains except'
-          - 'not other option left'
-      - 
-        src: 'steckenbleiben'
-        mark: 'vi, sepa'
-        dest: 
-          - 'stick'
-          - 'get stuck'
-      - 
-        src: 'steckenbleiben'
-        mark: 'vi, sepa'
-        dest: 
-          - 'get stuck'
-      - 
-        src: 'stehenbleiben'
-        mark: 'vi, sepa'
-        dest: 
-          - 'stand still'
-      - 
-        src: 'stehenbleiben'
-        mark: 'vi, sepa'
-        dest: 
-          - 'stop working'
-          - 'break'
-      - 
-        src: 'stehenbleiben'
-        mark: 'vi, sepa'
-        dest: 
-          - 'halt progress'
-          - 'stand still'
-      - 
-        src: 'stehenbleiben'
-        mark: 'int'
-        dest: 
-          - 'stop!'
-      - 
-        src: 'über bleiben'
-        mark: 'adj + vi'
-        dest: 
-          - 'remain'
-      - 
-        src: 'über bleiben'
-        mark: 'adj + vi'
-        dest: 
-          - 'be left over'
-      - 
-        src: 'übrig bleiben'
-        mark: 'adj + vi'
-        dest: 
-          - 'be left over'
-      - 
-        src: 'bleiben'
-        mark: 'v/i'
-        dest: 
-          - 'stay'
-
-  - 
-    de: 'bloggen'
-    added: '2022-08-30 22:27:02.158637'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: 'bloggen'
-        mark: 'v/i'
-        dest: 
-          - 'blog'
-
-  - 
-    de: 'bringen'
-    added: '2022-08-30 22:27:02.668503'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: '[etw]/jmdn bringen'
-        mark: 'vt'
-        dest: 
-          - 'bring'
-          - 'take'
-      - 
-        src: 'jmdn bringen'
-        mark: 'vt'
-        dest: 
-          - 'walk'
-          - 'accompany'
-      - 
-        src: '[etw] bringen'
-        mark: 'vt'
-        dest: 
-          - 'cause'
-      - 
-        src: 'zu etwas bringen'
-        mark: 'präp + vi'
-        dest: 
-          - 'achieve'
-          - 'reach'
-      - 
-        src: 'jmdn um [etw] bringen'
-        mark: 'präp + vi'
-        dest: 
-          - 'cut'
-          - 'cheat out of'
-      - 
-        src: '[etw] bringen'
-        mark: 'vt'
-        dest: 
-          - 'do it'
-      - 
-        src: '[etw] an den mann bringen'
-        mark: 'rdw'
-        dest: 
-          - 'sell'
-          - 'get rid of'
-      - 
-        src: 'ans tageslicht bringen'
-        mark: 'rdw'
-        dest: 
-          - 'bring to light'
-      - 
-        src: 'auf den neuesten stand bringen'
-        mark: 'rdw'
-        dest: 
-          - 'bring up to date'
-          - 'bring up to speed'
-      - 
-        src: 'jmdn/[etw] auf die palme bringen'
-        mark: 'rdw'
-        dest: 
-          - 'drive'
-      - 
-        src: 'auf hochglanz bringen'
-        mark: 'rdw'
-        dest: 
-          - 'polish to a high shine'
-      - 
-        src: 'auf segelstellung bringen'
-        mark: 'rdw'
-        dest: 
-          - 'hoist the sail'
-      - 
-        src: 'auf vordermann bringen'
-        mark: 'rdw'
-        dest: 
-          - 'clean up'
-          - 'make'
-      - 
-        src: 'auf vordermann bringen'
-        mark: 'rdw'
-        dest: 
-          - 'renovate'
-          - 'bring up to speed'
-      - 
-        src: 'jmdn/[etw] aus dem konzept bringen'
-        mark: 'rdw'
-        dest: 
-          - 'throw'
-      - 
-        src: 'jmdn/[etw] aus der fassung bringen'
-        mark: 'rdw'
-        dest: 
-          - 'throw'
-      - 
-        src: 'jmdn/[etw] aus der fassung bringen'
-        mark: 'rdw'
-        dest: 
-          - 'provoke'
-          - 'make'
-      - 
-        src: 'jmdn/[etw] aus der ruhe bringen'
-        mark: 'rdw'
-        dest: 
-          - 'distract'
-          - 'disconcert'
-      - 
-        src: 'jmdn/[etw] dazu bringen'
-        mark: 'adv + vt'
-        dest: 
-          - 'persuade'
-      - 
-        src: 'jmdn/[etw] durcheinander bringen'
-        mark: 'adv + vt'
-        dest: 
-          - 'confuse'
-      - 
-        src: '[etw] durcheinander bringen'
-        mark: 'adv + vt'
-        dest: 
-          - 'confuse'
-      - 
-        src: 'einen kommentar bringen'
-        mark: 'rdw'
-        dest: 
-          - 'conduct an interview'
-      - 
-        src: 'einen kommentar bringen'
-        mark: 'rdw'
-        dest: 
-          - 'make a comment'
-      - 
-        src: 'einen nutzen bringen'
-        mark: 'rdw'
-        dest: 
-          - 'be of use'
-      - 
-        src: 'frischen wind in [etw] bringen'
-        mark: 'rdw'
-        dest: 
-          - 'breathe new life into'
-      - 
-        src: 'hinter gitter bringen'
-        mark: 'rdw'
-        dest: 
-          - 'put behind bars'
-      - 
-        src: 'in eine position bringen'
-        mark: 'rdw'
-        dest: 
-          - 'put into a pose'
-      - 
-        src: 'in eine position bringen'
-        mark: 'rdw'
-        dest: 
-          - 'put into a position'
-      - 
-        src: 'in eine reihenfolge bringen'
-        mark: 'rdw'
-        dest: 
-          - 'put into order'
-      - 
-        src: 'in einklang bringen'
-        mark: 'rdw'
-        dest: 
-          - 'get everyone onto the same page'
-          - 'bring in line'
-      - 
-        src: 'in form bringen'
-        mark: 'rdw'
-        dest: 
-          - 'get in shape'
-      - 
-        src: 'in form bringen'
-        mark: 'rdw'
-        dest: 
-          - 'give shape to'
-          - 'shape'
-      - 
-        src: '[etw] in ordnung bringen'
-        mark: 'vp'
-        dest: 
-          - 'tidy up'
-          - 'clean up'
-      - 
-        src: '[etw] in ordnung bringen'
-        mark: 'vp'
-        dest: 
-          - 'put'
-      - 
-        src: '[etw] in ordnung bringen'
-        mark: 'vp'
-        dest: 
-          - 'compensate for'
-      - 
-        src: 'in schwung bringen'
-        mark: 'rdw'
-        dest: 
-          - 'get moving'
-          - 'motivate'
-      - 
-        src: 'in stimmung bringen'
-        mark: 'rdw'
-        dest: 
-          - 'cheer up'
-      - 
-        src: 'in stimmung bringen'
-        mark: 'rdw'
-        dest: 
-          - 'get in the mood'
-      - 
-        src: '[etw]/jmdn mit [etw]/jmdm in verbindung bringen'
-        mark: 'vp'
-        dest: 
-          - 'associate'
-          - 'link'
-      - 
-        src: 'jmdn in verlegenheit bringen'
-        mark: 'rdw'
-        dest: 
-          - 'embarrass'
-      - 
-        src: 'ins bett bringen'
-        mark: 'rdw'
-        dest: 
-          - 'put to bed'
-      - 
-        src: 'ins gefängnis bringen'
-        mark: 'rdw'
-        dest: 
-          - 'imprison'
-          - 'put in jail'
-      - 
-        src: 'ins schleudern bringen'
-        mark: 'rdw'
-        dest: 
-          - 'cause'
-          - 'cause'
-      - 
-        src: 'ins schleudern bringen'
-        mark: 'rdw'
-        dest: 
-          - 'throw'
-      - 
-        src: '[jmd] auf den neusten stand bringen'
-        mark: 'rdw'
-        dest: 
-          - 'bring'
-      - 
-        src: '[jmd] aus dem konzept bringen'
-        mark: 'rdw'
-        dest: 
-          - 'rattle'
-          - 'throw'
-      - 
-        src: '[jmd] mit dem bus bringen'
-        mark: 'rdw'
-        dest: 
-          - 'transport'
-          - 'bus'
-      - 
-        src: '[jmd] um die ecke bringen'
-        mark: 'rdw'
-        dest: 
-          - 'take'
-      - 
-        src: '[jmd] zu [etw] bringen'
-        mark: 'rdw'
-        dest: 
-          - 'bring'
-      - 
-        src: '[jmd] zum schweigen bringen'
-        mark: 'rdw'
-        dest: 
-          - 'silence'
-      - 
-        src: '[jmd] zum schweigen bringen'
-        mark: 'rdw'
-        dest: 
-          - 'silence'
-      - 
-        src: 'kinder zur schule bringen'
-        mark: 'rdw'
-        dest: 
-          - 'taking the kids to school'
-      - 
-        src: 'leistung bringen'
-        mark: 'nf + vt'
-        dest: 
-          - 'perform'
-      - 
-        src: 'licht in die sache bringen'
-        mark: 'rdw'
-        dest: 
-          - 'cast light on'
-      - 
-        src: 'mit sich bringen'
-        mark: 'vp'
-        dest: 
-          - 'bring along'
-      - 
-        src: 'jmdn/[etw] nach hause bringen'
-        mark: 'vp'
-        dest: 
-          - 'take'
-      - 
-        src: 'nichts bringen'
-        mark: 'pron + vt'
-        dest: 
-          - 'bring nothing'
-      - 
-        src: 'nichts bringen'
-        mark: 'pron + vt'
-        dest: 
-          - 'not do any good'
-      - 
-        src: 'profit bringen'
-        mark: 'nm + vt'
-        dest: 
-          - 'produce a profit'
-      - 
-        src: 'schande über jemanden bringen'
-        mark: 'rdw'
-        dest: 
-          - 'bring shame on'
-      - 
-        src: 'sich in positur bringen'
-        mark: 'rdw'
-        dest: 
-          - 'assume good posture'
-      - 
-        src: 'unordnung rein bringen'
-        mark: 'rdw'
-        dest: 
-          - 'put in disarray'
-      - 
-        src: 'unordnung rein bringen'
-        mark: 'rdw'
-        dest: 
-          - 'put in disarray'
-      - 
-        src: 'unter dach und fach bringen'
-        mark: 'rdw'
-        dest: 
-          - 'close a deal'
-      - 
-        src: 'unter den hammer bringen'
-        mark: 'rdw'
-        dest: 
-          - 'go under the hammer'
-          - 'auction'
-      - 
-        src: 'unter kontrolle bringen'
-        mark: 'rdw'
-        dest: 
-          - 'get under control'
-      - 
-        src: 'vor gericht bringen'
-        mark: 'rdw'
-        dest: 
-          - 'take'
-      - 
-        src: '[etw] zu ende bringen'
-        mark: 'rdw'
-        dest: 
-          - 'finish'
-          - 'complete'
-          - 'bring'
-      - 
-        src: 'zu tage bringen'
-        mark: 'rdw'
-        dest: 
-          - 'bring to light'
-      - 
-        src: 'zum abschluss bringen'
-        mark: 'rdw'
-        dest: 
-          - 'close'
-      - 
-        src: '[etw] zum ausdruck bringen'
-        mark: 'vp'
-        dest: 
-          - 'express'
-      - 
-        src: '[etw] zum einsatz bringen'
-        mark: 'vp'
-        dest: 
-          - 'put'
-          - 'deploy'
-          - 'put'
-      - 
-        src: '[etw] zu ende bringen'
-        mark: 'vp'
-        dest: 
-          - 'bring'
-          - 'finish'
-      - 
-        src: 'zum hüpfen bringen'
-        mark: 'rdw'
-        dest: 
-          - '-'
-      - 
-        src: 'zum schaukeln bringen'
-        mark: 'rdw'
-        dest: 
-          - 'make'
-      - 
-        src: 'zum schweigen bringen'
-        mark: 'rdw'
-        dest: 
-          - 'silence'
-      - 
-        src: 'zum schweigen bringen'
-        mark: 'rdw'
-        dest: 
-          - 'silence'
-      - 
-        src: 'zum stillstand bringen'
-        mark: 'rdw'
-        dest: 
-          - 'bring to a standstill'
-      - 
-        src: 'zum stillstand bringen'
-        mark: 'rdw'
-        dest: 
-          - 'bring to a standstill'
-      - 
-        src: 'zum strahlen bringen'
-        mark: 'rdw'
-        dest: 
-          - 'cheer up'
-      - 
-        src: 'zum verstummen bringen'
-        mark: 'rdw'
-        dest: 
-          - 'silence'
-      - 
-        src: 'zum verstummen bringen'
-        mark: 'rdw'
-        dest: 
-          - 'silence'
-      - 
-        src: 'zum vorschein bringen'
-        mark: 'rdw'
-        dest: 
-          - 'reveal'
-      - 
-        src: 'zur anwendung bringen'
-        mark: 'rdw'
-        dest: 
-          - 'make use of'
-          - 'use'
-      - 
-        src: 'zur reife bringen'
-        mark: 'rdw'
-        dest: 
-          - 'bring to fruition'
-      - 
-        src: 'zur ruhe bringen'
-        mark: 'rdw'
-        dest: 
-          - 'calm down'
-      - 
-        src: 'zur strecke bringen'
-        mark: 'rdw'
-        dest: 
-          - 'run'
-      - 
-        src: '[etw] zustande bringen,[etw] zu stande bringen'
-        mark: 'adv'
-        dest: 
-          - 'bring'
-          - 'achieve'
-      - 
-        src: 'bringen'
-        mark: 'bringt, brachte, hat gebracht'
-        dest: 
-          - '('
-
-  - 
-    de: 'zahlen'
-    added: '2022-08-30 22:28:34.760731'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: '[etw] zahlen'
-        mark: 'vt'
-        dest: 
-          - 'pay'
-      - 
-        src: 'zahl'
-        mark: 'nf'
-        dest: 
-          - 'number'
-      - 
-        src: 'zahl'
-        mark: 'nf'
-        dest: 
-          - 'amount'
-          - 'figure'
-          - 'level'
-      - 
-        src: 'jmdn/[etw] zahlen'
-        mark: 'vt'
-        dest: 
-          - 'compensate'
-      - 
-        src: 'kaution zahlen'
-        mark: 'nf + vt'
-        dest: 
-          - 'pay a deposit'
-          - 'put down a deposit'
-      - 
-        src: 'kaution zahlen'
-        mark: 'nf + vt'
-        dest: 
-          - 'post bail'
-      - 
-        src: 'römische zahlen'
-        mark: 'adj + npl'
-        dest: 
-          - 'roman numerals'
-      - 
-        src: 'rote zahlen'
-        mark: 'adj + npl'
-        dest: 
-          - 'in the red'
-      - 
-        src: 'schritte zählen'
-        mark: 'npl + vt'
-        dest: 
-          - 'count steps'
-      - 
-        src: 'schritte zählen'
-        mark: 'npl + vt'
-        dest: 
-          - 'count steps'
-      - 
-        src: 'zu [etw] zählen'
-        mark: 'präp + vi'
-        dest: 
-          - 'belong to'
-      - 
-        src: 'zahlen'
-        mark: 'v/t & v/i'
-        dest: 
-          - 'number'
-
-  - 
-    de: 'wiederholen'
-    added: '2022-08-30 22:28:35.350630'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: 'ein spiel wiederholen'
-        mark: 'rdw'
-        dest: 
-          - 'play again'
-      - 
-        src: "wieder'holen"
-        mark: '(untrennb, hat)'
-        dest: 
-          - 'get back'
-
-  - 
-    de: 'werden'
-    added: '2022-08-30 22:28:35.606525'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: 'werden'
-        mark: 'vi'
-        dest: 
-          - 'get'
-      - 
-        src: 'werden'
-        mark: 'vi'
-        dest: 
-          - 'become'
-          - 'get'
-      - 
-        src: 'werden'
-        mark: 'vi'
-        dest: 
-          - 'become'
-          - 'train'
-      - 
-        src: 'werden'
-        mark: 'vi'
-        dest: 
-          - 'turn'
-          - 'become'
-      - 
-        src: 'werden'
-        mark: 'hv'
-        dest: 
-          - 'will'
-      - 
-        src: 'werden'
-        mark: 'hv'
-        dest: 
-          - 'will'
-      - 
-        src: 'werden'
-        mark: 'hv'
-        dest: 
-          - 'will'
-      - 
-        src: 'älter werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'get older'
-          - 'age'
-      - 
-        src: 'angenommen werden'
-        mark: 'v part perf + hv'
-        dest: 
-          - 'be accepted'
-      - 
-        src: 'angenommen werden'
-        mark: 'v part perf + hv'
-        dest: 
-          - 'be accepted'
-      - 
-        src: 'auf dem rücken getragen werden'
-        mark: 'rdw'
-        dest: 
-          - 'be carried piggyback'
-      - 
-        src: 'aufbrausend werden'
-        mark: 'v part präs + vi'
-        dest: 
-          - 'lose your temper'
-      - 
-        src: 'aufgeführt werden'
-        mark: 'v part perf + hv'
-        dest: 
-          - 'be presented'
-          - 'be put on'
-          - 'be performed'
-      - 
-        src: 'aufgeführt werden'
-        mark: 'v part perf + hv'
-        dest: 
-          - 'be listed'
-          - 'be itemized'
-          - 'be itemised'
-      - 
-        src: 'aufrecht erhalten werden'
-        mark: 'rdw'
-        dest: 
-          - 'be maintained'
-      - 
-        src: 'aufrecht erhalten werden'
-        mark: 'rdw'
-        dest: 
-          - 'be maintained'
-      - 
-        src: 'ausgelöst werden'
-        mark: 'v part perf + hv'
-        dest: 
-          - 'be triggered'
-          - 'be caused'
-      - 
-        src: 'ausgesprochen werden'
-        mark: 'v part perf + hv'
-        dest: 
-          - 'be stated'
-          - 'be articulated'
-      - 
-        src: 'ausgestrahlt werden'
-        mark: 'v part perf + hv'
-        dest: 
-          - 'be broadcast'
-      - 
-        src: 'ausgestrahlt werden'
-        mark: 'v part perf + hv'
-        dest: 
-          - 'radiate'
-      - 
-        src: 'begleitet werden von'
-        mark: 'rdw'
-        dest: 
-          - 'be accompanied by'
-      - 
-        src: 'begleitet werden von'
-        mark: 'rdw'
-        dest: 
-          - 'be accompanied by'
-      - 
-        src: 'bemerkbar machen'
-        mark: 'adj + vt'
-        dest: 
-          - 'get noticed'
-      - 
-        src: 'besser werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'improve'
-          - 'get better'
-      - 
-        src: 'besser werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'get better'
-      - 
-        src: 'besser werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'get better'
-      - 
-        src: 'besser werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'get better'
-          - 'improve'
-      - 
-        src: 'betätigt werden'
-        mark: 'v part perf + hv'
-        dest: 
-          - 'be operated'
-      - 
-        src: 'betätigt werden'
-        mark: 'v part perf + hv'
-        dest: 
-          - 'be initiated'
-      - 
-        src: 'sich [etw] bewusst werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'become aware of'
-          - 'realize'
-      - 
-        src: 'bewusstlos werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'pass out'
-          - 'lose consciousness'
-      - 
-        src: 'blass werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'get pale, turn pale'
-      - 
-        src: 'blau werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'turn blue'
-      - 
-        src: 'bleich werden'
-        mark: 'adj + hv'
-        dest: 
-          - 'turn pale'
-      - 
-        src: 'braun werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'get tanned'
-      - 
-        src: 'braun werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'go brown'
-      - 
-        src: 'dem konto gutgeschrieben werden'
-        mark: 'rdw'
-        dest: 
-          - 'be credited to the account'
-          - 'will be transferred'
-          - 'be deposited into the account'
-      - 
-        src: 'dicker werden'
-        mark: 'adj + hv'
-        dest: 
-          - 'get bigger, get fatter'
-          - 'gain weight'
-      - 
-        src: 'dicker werden'
-        mark: 'adj + hv'
-        dest: 
-          - 'get bigger'
-      - 
-        src: 'dreckig werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'get dirty'
-      - 
-        src: 'dumpfer werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'get softer, get quieter'
-      - 
-        src: 'dunkel werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'get dark'
-      - 
-        src: 'dunkel werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'get dark'
-      - 
-        src: 'dunkler werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'get darker'
-          - 'become darker'
-      - 
-        src: 'dunkler werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'get darker'
-          - 'become darker'
-      - 
-        src: 'eins werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'become one'
-      - 
-        src: 'enger werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'get closer'
-      - 
-        src: 'enger werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'get tighter'
-      - 
-        src: 'enger werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'get tighter'
-      - 
-        src: 'entlassen werden'
-        mark: 'vi + hv'
-        dest: 
-          - 'be fired, get fired'
-          - 'be let go'
-      - 
-        src: 'entlassen werden'
-        mark: 'vi + hv'
-        dest: 
-          - 'be released'
-      - 
-        src: 'entlohnt werden'
-        mark: 'v part perf + hv'
-        dest: 
-          - 'get paid'
-      - 
-        src: 'ernannt werden'
-        mark: 'v part perf + hv'
-        dest: 
-          - 'be appointed, be named'
-      - 
-        src: 'errichtet werden'
-        mark: 'v part perf + hv'
-        dest: 
-          - 'be established'
-      - 
-        src: 'errichtet werden'
-        mark: 'v part perf + hv'
-        dest: 
-          - 'be built, be constructed, be erected'
-      - 
-        src: 'erwachsen werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'grow up'
-      - 
-        src: 'erwachsen werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'mature'
-      - 
-        src: 'etwas bewusst werden'
-        mark: 'rdw'
-        dest: 
-          - 'become aware of'
-      - 
-        src: 'etwas gerecht werden'
-        mark: 'vp'
-        dest: 
-          - 'comply with'
-          - 'fulfill'
-      - 
-        src: 'etwas gerecht werden'
-        mark: 'vp'
-        dest: 
-          - 'rise to the occasion'
-          - 'fulfill'
-      - 
-        src: 'etwas werden'
-        mark: 'pron + vi'
-        dest: 
-          - 'become'
-      - 
-        src: 'etwas werden'
-        mark: 'pron + vi'
-        dest: 
-          - 'become'
-          - 'do'
-      - 
-        src: 'etwas werden'
-        mark: 'pron + vi'
-        dest: 
-          - 'become'
-          - 'achieve'
-      - 
-        src: 'etwas werden'
-        mark: 'pron + vi'
-        dest: 
-          - 'work'
-      - 
-        src: 'experte werden in [etw]'
-        mark: 'vp'
-        dest: 
-          - 'become an expert in something'
-      - 
-        src: 'fertig werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'get done'
-          - 'complete'
-          - 'be done'
-      - 
-        src: 'mit [etw] fertig werden'
-        mark: 'vp'
-        dest: 
-          - 'cope with'
-          - 'get over'
-      - 
-        src: 'fest werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'set'
-          - 'get hard'
-      - 
-        src: 'fit werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'get fit, get healthy'
-      - 
-        src: 'flüssig werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'liquefy'
-      - 
-        src: 'gelb werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'turn yellow'
-      - 
-        src: '[etw]/jmdm gerecht werden'
-        mark: 'adv + vi'
-        dest: 
-          - 'meet'
-      - 
-        src: '[etw] gerecht werden'
-        mark: 'adv + vi'
-        dest: 
-          - 'be up to'
-      - 
-        src: 'gereicht werden'
-        mark: 'v part perf + vi'
-        dest: 
-          - 'be handed'
-      - 
-        src: 'gesehen werden'
-        mark: 'v part perf + vi'
-        dest: 
-          - 'be seen'
-      - 
-        src: 'gesehen werden'
-        mark: 'v part perf + vi'
-        dest: 
-          - 'get caught'
-      - 
-        src: 'gestürzt werden'
-        mark: 'v part perf + hv'
-        dest: 
-          - 'be toppled'
-      - 
-        src: 'gesund werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'heal'
-          - 'get better'
-      - 
-        src: 'getragen werden'
-        mark: 'v part perf  + hv'
-        dest: 
-          - 'be carried'
-          - 'get carried'
-      - 
-        src: 'getragen werden'
-        mark: 'v part perf + hv'
-        dest: 
-          - 'be worn'
-      - 
-        src: 'getrieben werden'
-        mark: 'v part perf + hv'
-        dest: 
-          - 'be driven'
-      - 
-        src: 'getrieben werden'
-        mark: 'v part perf + hv'
-        dest: 
-          - 'be forced'
-          - 'be coerced'
-      - 
-        src: 'getroffen werden'
-        mark: 'v part perf + hv'
-        dest: 
-          - 'be hit'
-      - 
-        src: 'glasig werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'get glassy'
-      - 
-        src: 'grau werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'turn gray'
-      - 
-        src: 'grau werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'go gray'
-      - 
-        src: 'größer werden, komparativ: groß'
-        mark: 'adj + vi'
-        dest: 
-          - 'grow'
-          - 'age'
-          - 'grow up'
-      - 
-        src: 'größer werden, komparativ: groß'
-        mark: 'adj + vi'
-        dest: 
-          - 'grow'
-          - 'get bigger'
-      - 
-        src: 'größer werden, komparativ: groß'
-        mark: 'adj + vi'
-        dest: 
-          - 'expand'
-          - 'grow'
-          - 'become bigger'
-      - 
-        src: 'größer werden, komparativ: groß'
-        mark: 'adj + vi'
-        dest: 
-          - 'grow'
-          - 'appreciate'
-          - 'increase'
-      - 
-        src: 'grün werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'turn green'
-      - 
-        src: 'grün werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'turn green'
-      - 
-        src: 'hart werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'harden'
-      - 
-        src: 'hart werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'harden'
-      - 
-        src: 'hart werden lassen'
-        mark: 'rdw'
-        dest: 
-          - 'let yourself be hardened'
-      - 
-        src: 'heller werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'get lighter'
-      - 
-        src: 'huckepack genommen werden'
-        mark: 'rdw'
-        dest: 
-          - 'ride piggyback'
-      - 
-        src: 'immer leiser werden'
-        mark: 'rdw'
-        dest: 
-          - 'get quieter and quieter'
-          - 'get ever more quiet'
-      - 
-        src: 'in die nationalmannschaft berufen werden'
-        mark: 'rdw'
-        dest: 
-          - 'selected for the national team'
-      - 
-        src: 'kahl werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'go bald'
-      - 
-        src: 'langsamer werden'
-        mark: 'adv + vi'
-        dest: 
-          - 'slow down'
-          - 'become slower'
-      - 
-        src: 'leer werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'empty'
-      - 
-        src: 'leise werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'get quiet'
-      - 
-        src: 'leise werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'get quiet'
-      - 
-        src: 'locker werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'limber up'
-      - 
-        src: 'locker werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'relax'
-          - 'take a breath'
-      - 
-        src: 'marode werden'
-        mark: 'adj + vi'
-        dest: 
-          - 'decay'
-          - 'get decrepit'
-          - 'wear out'
-
-  - 
-    de: 'waschen'
-    added: '2022-08-30 22:28:35.770537'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: '[etw] waschen'
-        mark: 'vt'
-        dest: 
-          - 'wash, clean'
-      - 
-        src: 'wäsche'
-        mark: 'nf'
-        dest: 
-          - 'laundry, washing'
-      - 
-        src: 'wäsche'
-        mark: 'nf'
-        dest: 
-          - 'wash'
-          - 'launder'
-      - 
-        src: 'geld waschen'
-        mark: 'rdw'
-        dest: 
-          - 'launder money'
-      - 
-        src: 'wäsche'
-        mark: 'nf'
-        dest: 
-          - 'sheets, linen'
-      - 
-        src: 'auto waschen'
-        mark: 'rdw'
-        dest: 
-          - 'wash a car, clean a car'
-      - 
-        src: 'geld waschen'
-        mark: 'nn + vt'
-        dest: 
-          - 'launder money'
-      - 
-        src: 'gold waschen'
-        mark: 'nn + vt'
-        dest: 
-          - 'gold panning'
-          - 'pan for gold'
-      - 
-        src: 'haare waschen'
-        mark: 'rdw'
-        dest: 
-          - 'wash hair'
-      - 
-        src: 'mit dem schwamm waschen'
-        mark: 'rdw'
-        dest: 
-          - 'clean with a sponge'
-      - 
-        src: 'sich waschen'
-        mark: 'vr'
-        dest: 
-          - 'wash oneself'
-      - 
-        src: 'wäsche waschen'
-        mark: 'nf + vt'
-        dest: 
-          - 'do the laundry'
-          - 'do the washing'
-          - 'wash'
-      - 
-        src: 'waschen'
-        mark: 'wäscht, wusch, hat gewaschen'
-        dest: 
-          - 'washing'
-          - 'laundry'
-
-  - 
-    de: 'wandern'
-    added: '2022-08-30 22:28:36.069095'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: 'wandern'
-        mark: 'vi'
-        dest: 
-          - 'hike'
-
-  - 
-    de: 'verstehen'
-    added: '2022-08-30 22:28:36.228651'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: 'jmdn/[etw] verstehen'
-        mark: 'vt'
-        dest: 
-          - 'understand'
-      - 
-        src: '[etw] verstehen'
-        mark: 'vt'
-        dest: 
-          - 'understand'
-      - 
-        src: '[etw] verstehen'
-        mark: 'vt'
-        dest: 
-          - 'understand'
-      - 
-        src: 'sich mit jmdm verstehen'
-        mark: 'adv + vr'
-        dest: 
-          - 'get along with'
-      - 
-        src: '[etw] verstehen'
-        mark: 'vt'
-        dest: 
-          - 'master'
-          - 'be good in'
-      - 
-        src: 'nicht mehr verstehen'
-        mark: 'rdw'
-        dest: 
-          - 'not understand anymore'
-      - 
-        src: 'nicht mehr verstehen'
-        mark: 'rdw'
-        dest: 
-          - 'not understand anymore'
-      - 
-        src: '[etw]/jmdn nicht verstehen'
-        mark: 'part + vt'
-        dest: 
-          - 'not understand'
-      - 
-        src: '[etw]/jmdn nicht verstehen'
-        mark: 'part + vt'
-        dest: 
-          - 'not understand'
-      - 
-        src: 'sich gut mit jemandem verstehen'
-        mark: 'vp'
-        dest: 
-          - 'get along well with'
-      - 
-        src: 'jmdm [etw] zu verstehen geben'
-        mark: 'vp'
-        dest: 
-          - 'indicate'
-          - 'make'
-
-  - 
-    de: 'unterschreiben'
-    added: '2022-08-30 22:30:43.809107'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: '[etw] unterschreiben'
-        mark: 'vt, fix'
-        dest: 
-          - 'sign'
-      - 
-        src: 'mit den anfangsbuchstaben unterschreiben'
-        mark: 'rdw'
-        dest: 
-          - 'initial'
-          - 'sign with initial letters'
-      - 
-        src: 'mit den initialen unterschreiben'
-        mark: 'rdw'
-        dest: 
-          - 'initial'
-      - 
-        src: 'unterschreiben'
-        mark: 'v/t & v/i (irr, untrennb, hat)'
-        dest: 
-          - 'sign'
-
-  - 
-    de: 'umziehen'
-    added: '2022-08-30 22:30:44.029536'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: 'umziehen'
-        mark: 'vr, sepa'
-        dest: 
-          - 'change'
-      - 
-        src: 'umziehen'
-        mark: 'vi, sepa'
-        dest: 
-          - 'move'
-          - 'relocate'
-
-  - 
-    de: 'überweisen'
-    added: '2022-08-30 22:30:44.247184'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: 'überweisen'
-        mark: 'v/t (irr, untrennb, hat)'
-        dest: 
-          - 'transfer'
-
-  - 
-    de: 'übernachten'
-    added: '2022-08-30 22:30:44.405787'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: 'übernachten'
-        mark: 'v/i (untrennb, hat)'
-        dest: 
-          - 'spend the night'
-
-  - 
-    de: 'tun'
-    added: '2022-08-30 22:30:44.641400'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 0
-    meanings: 
-      - 
-        src: '[etw] tun'
-        mark: 'vt'
-        dest: 
-          - 'do'
-          - 'act'
-          - 'deal'
-      - 
-        src: '[etw] tun'
-        mark: 'vt'
-        dest: 
-          - 'do'
-      - 
-        src: '[etw] tun'
-        mark: 'vt'
-        dest: 
-          - 'do'
-      - 
-        src: '[etw] tun'
-        mark: 'vt'
-        dest: 
-          - 'do'
-      - 
-        src: 'so tun'
-        mark: 'adv + vt'
-        dest: 
-          - 'pretend to do'
-          - 'act like'
-      - 
-        src: '[etw] für jmdn/[etw] tun'
-        mark: 'präp + vt'
-        dest: 
-          - 'do something for'
-          - 'help'
-      - 
-        src: 'alle hände voll zu tun haben'
-        mark: 'rdw'
-        dest: 
-          - 'have your hands full'
-          - 'be up to your eyeballs'
-      - 
-        src: 'dabei sein [etw] zu tun'
-        mark: 'rdw'
-        dest: 
-          - 'be there for'
-      - 
-        src: 'die absicht haben [etw] zu tun'
-        mark: 'vp'
-        dest: 
-          - 'have the intention to do'
-      - 
-        src: 'die ganze zeit etwas tun'
-        mark: 'rdw'
-        dest: 
-          - 'do'
-          - 'do'
-      - 
-        src: '[etw] äußerst ungern tun'
-        mark: 'vp'
-        dest: 
-          - 'not want to do'
-          - 'be reluctant to do'
-      - 
-        src: '[etw] gerne tun'
-        mark: 'rdw'
-        dest: 
-          - 'do'
-      - 
-        src: '[etw] wirklich ungern tun'
-        mark: 'rdw'
-        dest: 
-          - 'do'
-      - 
-        src: '[etw] zu schnell tun'
-        mark: 'rdw'
-        dest: 
-          - 'do'
-      - 
-        src: '[etw] zu tun'
-        mark: 'konj + vi'
-        dest: 
-          - 'to do'
-          - 'be busy'
-      - 
-        src: 'etwas ständig tun'
-        mark: 'rdw'
-        dest: 
-          - 'do'
-      - 
-        src: 'gerade dabei sein [etw] zu tun'
-        mark: 'vp'
-        dest: 
-          - 'be doing'
-          - 'be right in the middle of'
-      - 
-        src: 'gerade [etw] tun'
-        mark: 'rdw'
-        dest: 
-          - 'be doing'
-          - 'be doing'
-      - 
-        src: 'gerne [etw] tun'
-        mark: 'adv + vt'
-        dest: 
-          - 'like to do'
-          - "to be someone's pleasure"
-      - 
-        src: 'jdm/[etw] gut tun'
-        mark: 'rdw'
-        dest: 
-          - 'be good for'
-          - 'be a good influence'
-      - 
-        src: '[etw] tun können'
-        mark: 'hv'
-        dest: 
-          - 'be allowed to do'
-          - 'can do'
-      - 
-        src: 'jmdn/[etw] [etw] tun lassen'
-        mark: 'vp'
-        dest: 
-          - 'let'
-      - 
-        src: 'mit [etw] zu tun haben'
-        mark: 'vp'
-        dest: 
-          - 'be involved in'
-          - 'be busy with'
-      - 
-        src: 'mit [etw] zu tun haben'
-        mark: 'vp'
-        dest: 
-          - 'be involved in'
-      - 
-        src: 'nicht gut tun'
-        mark: 'rdw'
-        dest: 
-          - '-'
-      - 
-        src: 'nicht gut tun'
-        mark: 'rdw'
-        dest: 
-          - 'misbehave'
-      - 
-        src: 'nichts zur sache tun'
-        mark: 'rdw'
-        dest: 
-          - 'make no difference'
-      - 
-        src: 'nur so tun'
-        mark: 'rdw'
-        dest: 
-          - 'pretend'
-      - 
-        src: 'sich mit [etw] schwer tun'
-        mark: 'vp'
-        dest: 
-          - 'struggle'
-      - 
-        src: 'sich mit [etw] schwer tun'
-        mark: 'vp'
-        dest: 
-          - 'struggle'
-      - 
-        src: 'so tun'
-        mark: 'adv + vi'
-        dest: 
-          - 'pretend'
-      - 
-        src: 'viel zu tun haben'
-        mark: 'vp'
-        dest: 
-          - 'have much to do'
-          - 'have a lot to do'
-      - 
-        src: 'weh tun'
-        mark: 'adj + vi'
-        dest: 
-          - 'hurt'
-      - 
-        src: 'weh tun'
-        mark: 'adj + vi'
-        dest: 
-          - 'hurt'
-      - 
-        src: 'wissen [etw] zu tun'
-        mark: 'vp'
-        dest: 
-          - 'know how to do'
-      - 
-        src: 'mit [etw]/jmdm zu tun haben'
-        mark: 'rdw'
-        dest: 
-          - 'have to do with'
-      - 
-        src: 'zu tun haben mit jdm'
-        mark: 'rdw'
-        dest: 
-          - 'have to do with'
-      - 
-        src: 'zufällig [etw] tun'
-        mark: 'rdw'
-        dest: 
-          - 'coincidentally do'
-      - 
-        src: 'jmdn zwingen [etw] zu tun'
-        mark: 'vp'
-        dest: 
-          - 'force'
-          - 'coerce'
-          - 'make'
-      - 
-        src: 'sich zwingen [etw] zu tun'
-        mark: 'vp'
-        dest: 
-          - 'force yourself to do'
 
   - 
     de: 'trinken'
@@ -19654,19 +17211,6 @@ words:
           - 'belong to'
 
   - 
-    de: 'riesig'
-    added: '2022-08-15 17:42:28.807748'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 3
-    meanings: 
-      - 
-        src: 'sich riesig freuen'
-        mark: 'adj + vr'
-        dest: 
-          - 'be very excited about'
-
-  - 
     de: 'wohnen'
     added: '2022-08-30 22:28:34.972824'
     last_attempt: '1970-01-01 01:00:00.000'
@@ -19953,98 +17497,6 @@ words:
           - 'put down roots'
 
   - 
-    de: 'gedacht'
-    added: '2022-08-14 00:06:11.491230'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 4
-    meanings: 
-      - 
-        src: 'für [etw] gedacht'
-        mark: 'rdw'
-        dest: 
-          - 'intended for'
-
-  - 
-    de: 'gucken'
-    added: '2022-08-31 19:36:46.553469'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 4
-    meanings: 
-      - 
-        src: 'jmdn böse angucken'
-        mark: 'adj + vt, sepa'
-        dest: 
-          - 'give a dirty look'
-      - 
-        src: 'böse gucken'
-        mark: 'adj + vi'
-        dest: 
-          - 'frown'
-      - 
-        src: 'jmdm über die schulter gucken'
-        mark: 'rdw'
-        dest: 
-          - 'look over'
-
-  - 
-    de: 'behalten'
-    added: '2022-08-30 22:25:40.903451'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 3
-    meanings: 
-      - 
-        src: '[etw] behalten'
-        mark: 'vt'
-        dest: 
-          - 'keep'
-          - 'hold on to'
-          - 'hang on to'
-      - 
-        src: '[etw] behalten'
-        mark: 'vt'
-        dest: 
-          - 'keep'
-          - 'retain'
-      - 
-        src: '[etw] behalten'
-        mark: 'vt'
-        dest: 
-          - 'memorize'
-          - 'memorise'
-          - 'keep'
-      - 
-        src: '[etw] behalten'
-        mark: 'vt'
-        dest: 
-          - 'keep'
-          - 'hold on to'
-          - 'hang on to'
-      - 
-        src: '[etw] bei sich behalten'
-        mark: 'präp + vt'
-        dest: 
-          - 'keep'
-      - 
-        src: '[etw] für sich behalten'
-        mark: 'vp'
-        dest: 
-          - 'keep to yourself'
-      - 
-        src: 'um es zu behalten'
-        mark: 'rdw'
-        dest: 
-          - 'to keep it'
-          - 'in order to keep it'
-      - 
-        src: 'behalten'
-        mark: 'v/t (irr)'
-        dest: 
-          - 'keep'
-
-  - 
     de: 'ausgehen'
     added: '2022-08-15 17:40:25.982770'
     last_attempt: '1970-01-01 01:00:00.000'
@@ -20242,11 +17694,727 @@ words:
           - 'voice'
 
   - 
+    de: 'sonst'
+    added: '2022-08-14 00:08:09.134026'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 4
+    meanings: 
+      - 
+        src: 'sonst'
+        mark: 'adv'
+        dest: 
+          - 'moreover'
+      - 
+        src: 'sonst'
+        mark: 'adv'
+        dest: 
+          - 'otherwise'
+      - 
+        src: 'schlechter als sonst'
+        mark: 'rdw'
+        dest: 
+          - 'worse than usual'
+
+  - 
+    de: 'verdienen'
+    added: '2022-08-30 22:28:36.377749'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 3
+    meanings: 
+      - 
+        src: '[etw] verdienen'
+        mark: 'vt'
+        dest: 
+          - 'earn'
+      - 
+        src: '[etw] verdienen'
+        mark: 'vt'
+        dest: 
+          - 'deserve'
+          - 'earn'
+      - 
+        src: 'brötchen verdienen'
+        mark: 'npl + vt'
+        dest: 
+          - 'keep the lights on'
+          - 'pay the bills'
+      - 
+        src: 'die brötchen verdienen'
+        mark: 'rdw'
+        dest: 
+          - 'earn your bread'
+      - 
+        src: 'geld verdienen'
+        mark: 'nn + vt'
+        dest: 
+          - 'earn money'
+          - 'earn a living'
+          - 'make money'
+          - 'make a living'
+      - 
+        src: 'mit [etw] sein geld verdienen'
+        mark: 'rdw'
+        dest: 
+          - 'earn a living doing'
+      - 
+        src: 'nach abzug verdienen'
+        mark: 'rdw'
+        dest: 
+          - 'wage after tax'
+      - 
+        src: 'netto verdienen'
+        mark: 'adj + vt'
+        dest: 
+          - 'net earnings'
+
+  - 
+    de: 'mitnehmen'
+    added: '2022-08-30 22:32:09.140768'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 3
+    meanings: 
+      - 
+        src: 'essen zum mitnehmen'
+        mark: 'rdw'
+        dest: 
+          - 'takeout food'
+          - 'takeaway food'
+      - 
+        src: 'mitnehmen'
+        mark: 'v/t (irr, trennb, hat -ge-)'
+        dest: 
+          - 'take along'
+
+  - 
+    de: 'verhalten'
+    added: '2022-08-15 17:25:25.120074'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 3
+    meanings: 
+      - 
+        src: 'verhalten'
+        mark: 'vr'
+        dest: 
+          - 'react'
+      - 
+        src: 'verhalten'
+        mark: 'vr'
+        dest: 
+          - 'to be to'
+      - 
+        src: 'verhalten'
+        mark: 'adj'
+        dest: 
+          - 'restrained'
+      - 
+        src: 'verhalten'
+        mark: 'vr'
+        dest: 
+          - 'behave'
+      - 
+        src: 'verhalten'
+        mark: 'nn'
+        dest: 
+          - 'behavior'
+          - 'behaviour'
+      - 
+        src: 'normales verhalten'
+        mark: 'adj + nn'
+        dest: 
+          - 'normal behavior'
+      - 
+        src: 'sich jmdm gegenüber verhalten'
+        mark: 'rdw'
+        dest: 
+          - 'treat'
+          - 'behave'
+
+  - 
+    de: 'wiederholen'
+    added: '2022-08-30 22:28:35.350630'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 1
+    meanings: 
+      - 
+        src: 'ein spiel wiederholen'
+        mark: 'rdw'
+        dest: 
+          - 'play again'
+      - 
+        src: "wieder'holen"
+        mark: '(untrennb, hat)'
+        dest: 
+          - 'get back'
+
+  - 
+    de: 'vertraut'
+    added: '2022-08-15 17:26:02.506284'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 4
+    meanings: 
+      - 
+        src: 'vertraut'
+        mark: 'adj'
+        dest: 
+          - 'familiar'
+          - 'acquainted'
+      - 
+        src: 'vertraut'
+        mark: 'adj'
+        dest: 
+          - 'familiar'
+          - 'used to'
+          - 'experienced'
+      - 
+        src: 'nicht vertraut'
+        mark: 'part + adj'
+        dest: 
+          - 'not close'
+      - 
+        src: 'nicht vertraut'
+        mark: 'part + adj'
+        dest: 
+          - 'not familiar'
+      - 
+        src: 'nicht vertraut'
+        mark: 'part + adj'
+        dest: 
+          - 'not familiar'
+      - 
+        src: 'mit [etw] vertraut sein'
+        mark: 'vp'
+        dest: 
+          - 'be familiar with'
+      - 
+        src: 'vertraut sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be familiar'
+      - 
+        src: 'vertraut sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be acquainted'
+          - 'know'
+
+  - 
+    de: 'riesig'
+    added: '2022-08-15 17:42:28.807748'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 4
+    meanings: 
+      - 
+        src: 'sich riesig freuen'
+        mark: 'adj + vr'
+        dest: 
+          - 'be very excited about'
+
+  - 
+    de: 'beginnen'
+    added: '2022-08-30 22:25:40.682615'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 1
+    meanings: 
+      - 
+        src: 'beginnen'
+        mark: 'vi'
+        dest: 
+          - 'start'
+          - 'begin'
+      - 
+        src: 'beginnen'
+        mark: 'vt'
+        dest: 
+          - 'start'
+          - 'begin'
+
+  - 
+    de: 'waschen'
+    added: '2022-08-30 22:28:35.770537'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 1
+    meanings: 
+      - 
+        src: '[etw] waschen'
+        mark: 'vt'
+        dest: 
+          - 'wash, clean'
+      - 
+        src: 'wäsche'
+        mark: 'nf'
+        dest: 
+          - 'laundry, washing'
+      - 
+        src: 'wäsche'
+        mark: 'nf'
+        dest: 
+          - 'wash'
+          - 'launder'
+      - 
+        src: 'geld waschen'
+        mark: 'rdw'
+        dest: 
+          - 'launder money'
+      - 
+        src: 'wäsche'
+        mark: 'nf'
+        dest: 
+          - 'sheets, linen'
+      - 
+        src: 'auto waschen'
+        mark: 'rdw'
+        dest: 
+          - 'wash a car, clean a car'
+      - 
+        src: 'geld waschen'
+        mark: 'nn + vt'
+        dest: 
+          - 'launder money'
+      - 
+        src: 'gold waschen'
+        mark: 'nn + vt'
+        dest: 
+          - 'gold panning'
+          - 'pan for gold'
+      - 
+        src: 'haare waschen'
+        mark: 'rdw'
+        dest: 
+          - 'wash hair'
+      - 
+        src: 'mit dem schwamm waschen'
+        mark: 'rdw'
+        dest: 
+          - 'clean with a sponge'
+      - 
+        src: 'sich waschen'
+        mark: 'vr'
+        dest: 
+          - 'wash oneself'
+      - 
+        src: 'wäsche waschen'
+        mark: 'nf + vt'
+        dest: 
+          - 'do the laundry'
+          - 'do the washing'
+          - 'wash'
+      - 
+        src: 'waschen'
+        mark: 'wäscht, wusch, hat gewaschen'
+        dest: 
+          - 'washing'
+          - 'laundry'
+
+  - 
+    de: 'aussteigen'
+    added: '2022-08-30 22:24:33.481068'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 1
+    meanings: 
+      - 
+        src: 'aussteigen'
+        mark: 'v/i (irr, trennb, ist -ge-)'
+        dest: 
+          - 'get out'
+
+  - 
+    de: 'klettern'
+    added: '2022-08-30 21:59:40.919603'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 1
+    meanings: 
+      - 
+        src: 'auf [etw] klettern'
+        mark: 'präp + vi'
+        dest: 
+          - 'climb up on'
+      - 
+        src: 'klettern'
+        mark: 'vi'
+        dest: 
+          - 'climb'
+      - 
+        src: 'klettern'
+        mark: 'vi'
+        dest: 
+          - 'climb'
+          - 'rise'
+
+  - 
+    de: 'tun'
+    added: '2022-08-30 22:30:44.641400'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 1
+    meanings: 
+      - 
+        src: '[etw] tun'
+        mark: 'vt'
+        dest: 
+          - 'do'
+          - 'act'
+          - 'deal'
+      - 
+        src: '[etw] tun'
+        mark: 'vt'
+        dest: 
+          - 'do'
+      - 
+        src: '[etw] tun'
+        mark: 'vt'
+        dest: 
+          - 'do'
+      - 
+        src: '[etw] tun'
+        mark: 'vt'
+        dest: 
+          - 'do'
+      - 
+        src: 'so tun'
+        mark: 'adv + vt'
+        dest: 
+          - 'pretend to do'
+          - 'act like'
+      - 
+        src: '[etw] für jmdn/[etw] tun'
+        mark: 'präp + vt'
+        dest: 
+          - 'do something for'
+          - 'help'
+      - 
+        src: 'alle hände voll zu tun haben'
+        mark: 'rdw'
+        dest: 
+          - 'have your hands full'
+          - 'be up to your eyeballs'
+      - 
+        src: 'dabei sein [etw] zu tun'
+        mark: 'rdw'
+        dest: 
+          - 'be there for'
+      - 
+        src: 'die absicht haben [etw] zu tun'
+        mark: 'vp'
+        dest: 
+          - 'have the intention to do'
+      - 
+        src: 'die ganze zeit etwas tun'
+        mark: 'rdw'
+        dest: 
+          - 'do'
+          - 'do'
+      - 
+        src: '[etw] äußerst ungern tun'
+        mark: 'vp'
+        dest: 
+          - 'not want to do'
+          - 'be reluctant to do'
+      - 
+        src: '[etw] gerne tun'
+        mark: 'rdw'
+        dest: 
+          - 'do'
+      - 
+        src: '[etw] wirklich ungern tun'
+        mark: 'rdw'
+        dest: 
+          - 'do'
+      - 
+        src: '[etw] zu schnell tun'
+        mark: 'rdw'
+        dest: 
+          - 'do'
+      - 
+        src: '[etw] zu tun'
+        mark: 'konj + vi'
+        dest: 
+          - 'to do'
+          - 'be busy'
+      - 
+        src: 'etwas ständig tun'
+        mark: 'rdw'
+        dest: 
+          - 'do'
+      - 
+        src: 'gerade dabei sein [etw] zu tun'
+        mark: 'vp'
+        dest: 
+          - 'be doing'
+          - 'be right in the middle of'
+      - 
+        src: 'gerade [etw] tun'
+        mark: 'rdw'
+        dest: 
+          - 'be doing'
+          - 'be doing'
+      - 
+        src: 'gerne [etw] tun'
+        mark: 'adv + vt'
+        dest: 
+          - 'like to do'
+          - "to be someone's pleasure"
+      - 
+        src: 'jdm/[etw] gut tun'
+        mark: 'rdw'
+        dest: 
+          - 'be good for'
+          - 'be a good influence'
+      - 
+        src: '[etw] tun können'
+        mark: 'hv'
+        dest: 
+          - 'be allowed to do'
+          - 'can do'
+      - 
+        src: 'jmdn/[etw] [etw] tun lassen'
+        mark: 'vp'
+        dest: 
+          - 'let'
+      - 
+        src: 'mit [etw] zu tun haben'
+        mark: 'vp'
+        dest: 
+          - 'be involved in'
+          - 'be busy with'
+      - 
+        src: 'mit [etw] zu tun haben'
+        mark: 'vp'
+        dest: 
+          - 'be involved in'
+      - 
+        src: 'nicht gut tun'
+        mark: 'rdw'
+        dest: 
+          - '-'
+      - 
+        src: 'nicht gut tun'
+        mark: 'rdw'
+        dest: 
+          - 'misbehave'
+      - 
+        src: 'nichts zur sache tun'
+        mark: 'rdw'
+        dest: 
+          - 'make no difference'
+      - 
+        src: 'nur so tun'
+        mark: 'rdw'
+        dest: 
+          - 'pretend'
+      - 
+        src: 'sich mit [etw] schwer tun'
+        mark: 'vp'
+        dest: 
+          - 'struggle'
+      - 
+        src: 'sich mit [etw] schwer tun'
+        mark: 'vp'
+        dest: 
+          - 'struggle'
+      - 
+        src: 'so tun'
+        mark: 'adv + vi'
+        dest: 
+          - 'pretend'
+      - 
+        src: 'viel zu tun haben'
+        mark: 'vp'
+        dest: 
+          - 'have much to do'
+          - 'have a lot to do'
+      - 
+        src: 'weh tun'
+        mark: 'adj + vi'
+        dest: 
+          - 'hurt'
+      - 
+        src: 'weh tun'
+        mark: 'adj + vi'
+        dest: 
+          - 'hurt'
+      - 
+        src: 'wissen [etw] zu tun'
+        mark: 'vp'
+        dest: 
+          - 'know how to do'
+      - 
+        src: 'mit [etw]/jmdm zu tun haben'
+        mark: 'rdw'
+        dest: 
+          - 'have to do with'
+      - 
+        src: 'zu tun haben mit jdm'
+        mark: 'rdw'
+        dest: 
+          - 'have to do with'
+      - 
+        src: 'zufällig [etw] tun'
+        mark: 'rdw'
+        dest: 
+          - 'coincidentally do'
+      - 
+        src: 'jmdn zwingen [etw] zu tun'
+        mark: 'vp'
+        dest: 
+          - 'force'
+          - 'coerce'
+          - 'make'
+      - 
+        src: 'sich zwingen [etw] zu tun'
+        mark: 'vp'
+        dest: 
+          - 'force yourself to do'
+
+  - 
+    de: 'antworten'
+    added: '2022-08-30 22:23:29.282256'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 1
+    meanings: 
+      - 
+        src: 'antworten'
+        mark: 'vi'
+        dest: 
+          - 'answer'
+      - 
+        src: 'antwort'
+        mark: 'nf'
+        dest: 
+          - 'answer'
+          - 'reply'
+          - 'response'
+          - 'feedback'
+
+  - 
+    de: 'bleiben'
+    added: '2022-08-30 22:25:41.795635'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 1
+    meanings: 
+      - 
+        src: 'bleiben'
+        mark: 'vi'
+        dest: 
+          - 'stay'
+      - 
+        src: 'bleiben'
+        mark: 'vi'
+        dest: 
+          - 'remain'
+      - 
+        src: 'bleiben'
+        mark: 'vi'
+        dest: 
+          - 'stay'
+          - 'hold'
+          - 'stick with'
+      - 
+        src: 'bleiben'
+        mark: 'vi'
+        dest: 
+          - 'left'
+          - 'remaining'
+      - 
+        src: 'bestehen bleiben'
+        mark: 'vi + vi'
+        dest: 
+          - 'persist'
+          - 'remain'
+      - 
+        src: 'fit bleiben'
+        mark: 'adj + vi'
+        dest: 
+          - 'stay fit, stay healthy'
+      - 
+        src: 'in form bleiben'
+        mark: 'rdw'
+        dest: 
+          - 'stay in shape'
+      - 
+        src: 'konstant bleiben'
+        mark: 'adv + vi'
+        dest: 
+          - 'remain stable'
+          - 'be stable'
+      - 
+        src: 'nichts anderes übrig bleiben'
+        mark: 'rdw'
+        dest: 
+          - 'nothing remains except'
+          - 'not other option left'
+      - 
+        src: 'steckenbleiben'
+        mark: 'vi, sepa'
+        dest: 
+          - 'stick'
+          - 'get stuck'
+      - 
+        src: 'steckenbleiben'
+        mark: 'vi, sepa'
+        dest: 
+          - 'get stuck'
+      - 
+        src: 'stehenbleiben'
+        mark: 'vi, sepa'
+        dest: 
+          - 'stand still'
+      - 
+        src: 'stehenbleiben'
+        mark: 'vi, sepa'
+        dest: 
+          - 'stop working'
+          - 'break'
+      - 
+        src: 'stehenbleiben'
+        mark: 'vi, sepa'
+        dest: 
+          - 'halt progress'
+          - 'stand still'
+      - 
+        src: 'stehenbleiben'
+        mark: 'int'
+        dest: 
+          - 'stop!'
+      - 
+        src: 'über bleiben'
+        mark: 'adj + vi'
+        dest: 
+          - 'remain'
+      - 
+        src: 'über bleiben'
+        mark: 'adj + vi'
+        dest: 
+          - 'be left over'
+      - 
+        src: 'übrig bleiben'
+        mark: 'adj + vi'
+        dest: 
+          - 'be left over'
+      - 
+        src: 'bleiben'
+        mark: 'v/i'
+        dest: 
+          - 'stay'
+
+  - 
     de: 'dran'
     added: '2022-08-30 21:39:44.092565'
     last_attempt: '1970-01-01 01:00:00.000'
     success_attempts: 0
-    total_attempts: 2
+    total_attempts: 3
     meanings: 
       - 
         src: 'dran'
@@ -20325,11 +18493,800 @@ words:
           - 'there’s something/nothing special about it'
 
   - 
+    de: 'abfahren'
+    added: '2022-08-30 22:19:16.443023'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 1
+    meanings: 
+      - 
+        src: 'abfahren auf etwas'
+        mark: 'rdw'
+        dest: 
+          - 'go for'
+      - 
+        src: 'auf [etw] abfahren'
+        mark: 'rdw'
+        dest: 
+          - 'go for'
+          - 'dig'
+      - 
+        src: 'auf [etw] abfahren'
+        mark: 'rdw'
+        dest: 
+          - 'get off on doing'
+
+  - 
+    de: 'zeichnen'
+    added: '2022-08-30 21:58:41.513716'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 1
+    meanings: 
+      - 
+        src: '[etw] zeichnen'
+        mark: 'vt'
+        dest: 
+          - 'draw'
+      - 
+        src: 'eine linie zeichnen'
+        mark: 'rdw'
+        dest: 
+          - 'draw a line'
+      - 
+        src: 'eine linie zeichnen'
+        mark: 'rdw'
+        dest: 
+          - 'plot a curve'
+          - 'plot a line'
+      - 
+        src: 'perspektivisches zeichnen'
+        mark: 'adj + nn'
+        dest: 
+          - 'perspective drawing'
+      - 
+        src: 'zeichnen'
+        mark: 'n'
+        dest: 
+          - 'drawing'
+
+  - 
+    de: 'bitten'
+    added: '2022-08-30 22:25:41.617131'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 1
+    meanings: 
+      - 
+        src: 'jmdn bitten'
+        mark: 'vt'
+        dest: 
+          - 'ask'
+          - 'request'
+      - 
+        src: 'jmdn bitten'
+        mark: 'vt'
+        dest: 
+          - 'ask'
+      - 
+        src: 'bitte'
+        mark: 'nf'
+        dest: 
+          - 'request'
+          - 'wish'
+          - 'appeal'
+      - 
+        src: 'um [etw] bitten'
+        mark: 'präp + vi'
+        dest: 
+          - 'ask for'
+      - 
+        src: 'bitten'
+        mark: 'v/t & v/i'
+        dest: 
+          - 'ask'
+
+  - 
+    de: 'anrufen'
+    added: '2022-08-30 22:23:29.100068'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 1
+    meanings: 
+      - 
+        src: 'anrufen'
+        mark: 'vt, sepa'
+        dest: 
+          - 'call'
+          - 'ring'
+          - 'give'
+      - 
+        src: 'anrufen'
+        mark: 'vt, sepa'
+        dest: 
+          - 'call for help'
+
+  - 
+    de: 'bringen'
+    added: '2022-08-30 22:27:02.668503'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 1
+    meanings: 
+      - 
+        src: '[etw]/jmdn bringen'
+        mark: 'vt'
+        dest: 
+          - 'bring'
+          - 'take'
+      - 
+        src: 'jmdn bringen'
+        mark: 'vt'
+        dest: 
+          - 'walk'
+          - 'accompany'
+      - 
+        src: '[etw] bringen'
+        mark: 'vt'
+        dest: 
+          - 'cause'
+      - 
+        src: 'zu etwas bringen'
+        mark: 'präp + vi'
+        dest: 
+          - 'achieve'
+          - 'reach'
+      - 
+        src: 'jmdn um [etw] bringen'
+        mark: 'präp + vi'
+        dest: 
+          - 'cut'
+          - 'cheat out of'
+      - 
+        src: '[etw] bringen'
+        mark: 'vt'
+        dest: 
+          - 'do it'
+      - 
+        src: '[etw] an den mann bringen'
+        mark: 'rdw'
+        dest: 
+          - 'sell'
+          - 'get rid of'
+      - 
+        src: 'ans tageslicht bringen'
+        mark: 'rdw'
+        dest: 
+          - 'bring to light'
+      - 
+        src: 'auf den neuesten stand bringen'
+        mark: 'rdw'
+        dest: 
+          - 'bring up to date'
+          - 'bring up to speed'
+      - 
+        src: 'jmdn/[etw] auf die palme bringen'
+        mark: 'rdw'
+        dest: 
+          - 'drive'
+      - 
+        src: 'auf hochglanz bringen'
+        mark: 'rdw'
+        dest: 
+          - 'polish to a high shine'
+      - 
+        src: 'auf segelstellung bringen'
+        mark: 'rdw'
+        dest: 
+          - 'hoist the sail'
+      - 
+        src: 'auf vordermann bringen'
+        mark: 'rdw'
+        dest: 
+          - 'clean up'
+          - 'make'
+      - 
+        src: 'auf vordermann bringen'
+        mark: 'rdw'
+        dest: 
+          - 'renovate'
+          - 'bring up to speed'
+      - 
+        src: 'jmdn/[etw] aus dem konzept bringen'
+        mark: 'rdw'
+        dest: 
+          - 'throw'
+      - 
+        src: 'jmdn/[etw] aus der fassung bringen'
+        mark: 'rdw'
+        dest: 
+          - 'throw'
+      - 
+        src: 'jmdn/[etw] aus der fassung bringen'
+        mark: 'rdw'
+        dest: 
+          - 'provoke'
+          - 'make'
+      - 
+        src: 'jmdn/[etw] aus der ruhe bringen'
+        mark: 'rdw'
+        dest: 
+          - 'distract'
+          - 'disconcert'
+      - 
+        src: 'jmdn/[etw] dazu bringen'
+        mark: 'adv + vt'
+        dest: 
+          - 'persuade'
+      - 
+        src: 'jmdn/[etw] durcheinander bringen'
+        mark: 'adv + vt'
+        dest: 
+          - 'confuse'
+      - 
+        src: '[etw] durcheinander bringen'
+        mark: 'adv + vt'
+        dest: 
+          - 'confuse'
+      - 
+        src: 'einen kommentar bringen'
+        mark: 'rdw'
+        dest: 
+          - 'conduct an interview'
+      - 
+        src: 'einen kommentar bringen'
+        mark: 'rdw'
+        dest: 
+          - 'make a comment'
+      - 
+        src: 'einen nutzen bringen'
+        mark: 'rdw'
+        dest: 
+          - 'be of use'
+      - 
+        src: 'frischen wind in [etw] bringen'
+        mark: 'rdw'
+        dest: 
+          - 'breathe new life into'
+      - 
+        src: 'hinter gitter bringen'
+        mark: 'rdw'
+        dest: 
+          - 'put behind bars'
+      - 
+        src: 'in eine position bringen'
+        mark: 'rdw'
+        dest: 
+          - 'put into a pose'
+      - 
+        src: 'in eine position bringen'
+        mark: 'rdw'
+        dest: 
+          - 'put into a position'
+      - 
+        src: 'in eine reihenfolge bringen'
+        mark: 'rdw'
+        dest: 
+          - 'put into order'
+      - 
+        src: 'in einklang bringen'
+        mark: 'rdw'
+        dest: 
+          - 'get everyone onto the same page'
+          - 'bring in line'
+      - 
+        src: 'in form bringen'
+        mark: 'rdw'
+        dest: 
+          - 'get in shape'
+      - 
+        src: 'in form bringen'
+        mark: 'rdw'
+        dest: 
+          - 'give shape to'
+          - 'shape'
+      - 
+        src: '[etw] in ordnung bringen'
+        mark: 'vp'
+        dest: 
+          - 'tidy up'
+          - 'clean up'
+      - 
+        src: '[etw] in ordnung bringen'
+        mark: 'vp'
+        dest: 
+          - 'put'
+      - 
+        src: '[etw] in ordnung bringen'
+        mark: 'vp'
+        dest: 
+          - 'compensate for'
+      - 
+        src: 'in schwung bringen'
+        mark: 'rdw'
+        dest: 
+          - 'get moving'
+          - 'motivate'
+      - 
+        src: 'in stimmung bringen'
+        mark: 'rdw'
+        dest: 
+          - 'cheer up'
+      - 
+        src: 'in stimmung bringen'
+        mark: 'rdw'
+        dest: 
+          - 'get in the mood'
+      - 
+        src: '[etw]/jmdn mit [etw]/jmdm in verbindung bringen'
+        mark: 'vp'
+        dest: 
+          - 'associate'
+          - 'link'
+      - 
+        src: 'jmdn in verlegenheit bringen'
+        mark: 'rdw'
+        dest: 
+          - 'embarrass'
+      - 
+        src: 'ins bett bringen'
+        mark: 'rdw'
+        dest: 
+          - 'put to bed'
+      - 
+        src: 'ins gefängnis bringen'
+        mark: 'rdw'
+        dest: 
+          - 'imprison'
+          - 'put in jail'
+      - 
+        src: 'ins schleudern bringen'
+        mark: 'rdw'
+        dest: 
+          - 'cause'
+          - 'cause'
+      - 
+        src: 'ins schleudern bringen'
+        mark: 'rdw'
+        dest: 
+          - 'throw'
+      - 
+        src: '[jmd] auf den neusten stand bringen'
+        mark: 'rdw'
+        dest: 
+          - 'bring'
+      - 
+        src: '[jmd] aus dem konzept bringen'
+        mark: 'rdw'
+        dest: 
+          - 'rattle'
+          - 'throw'
+      - 
+        src: '[jmd] mit dem bus bringen'
+        mark: 'rdw'
+        dest: 
+          - 'transport'
+          - 'bus'
+      - 
+        src: '[jmd] um die ecke bringen'
+        mark: 'rdw'
+        dest: 
+          - 'take'
+      - 
+        src: '[jmd] zu [etw] bringen'
+        mark: 'rdw'
+        dest: 
+          - 'bring'
+      - 
+        src: '[jmd] zum schweigen bringen'
+        mark: 'rdw'
+        dest: 
+          - 'silence'
+      - 
+        src: '[jmd] zum schweigen bringen'
+        mark: 'rdw'
+        dest: 
+          - 'silence'
+      - 
+        src: 'kinder zur schule bringen'
+        mark: 'rdw'
+        dest: 
+          - 'taking the kids to school'
+      - 
+        src: 'leistung bringen'
+        mark: 'nf + vt'
+        dest: 
+          - 'perform'
+      - 
+        src: 'licht in die sache bringen'
+        mark: 'rdw'
+        dest: 
+          - 'cast light on'
+      - 
+        src: 'mit sich bringen'
+        mark: 'vp'
+        dest: 
+          - 'bring along'
+      - 
+        src: 'jmdn/[etw] nach hause bringen'
+        mark: 'vp'
+        dest: 
+          - 'take'
+      - 
+        src: 'nichts bringen'
+        mark: 'pron + vt'
+        dest: 
+          - 'bring nothing'
+      - 
+        src: 'nichts bringen'
+        mark: 'pron + vt'
+        dest: 
+          - 'not do any good'
+      - 
+        src: 'profit bringen'
+        mark: 'nm + vt'
+        dest: 
+          - 'produce a profit'
+      - 
+        src: 'schande über jemanden bringen'
+        mark: 'rdw'
+        dest: 
+          - 'bring shame on'
+      - 
+        src: 'sich in positur bringen'
+        mark: 'rdw'
+        dest: 
+          - 'assume good posture'
+      - 
+        src: 'unordnung rein bringen'
+        mark: 'rdw'
+        dest: 
+          - 'put in disarray'
+      - 
+        src: 'unordnung rein bringen'
+        mark: 'rdw'
+        dest: 
+          - 'put in disarray'
+      - 
+        src: 'unter dach und fach bringen'
+        mark: 'rdw'
+        dest: 
+          - 'close a deal'
+      - 
+        src: 'unter den hammer bringen'
+        mark: 'rdw'
+        dest: 
+          - 'go under the hammer'
+          - 'auction'
+      - 
+        src: 'unter kontrolle bringen'
+        mark: 'rdw'
+        dest: 
+          - 'get under control'
+      - 
+        src: 'vor gericht bringen'
+        mark: 'rdw'
+        dest: 
+          - 'take'
+      - 
+        src: '[etw] zu ende bringen'
+        mark: 'rdw'
+        dest: 
+          - 'finish'
+          - 'complete'
+          - 'bring'
+      - 
+        src: 'zu tage bringen'
+        mark: 'rdw'
+        dest: 
+          - 'bring to light'
+      - 
+        src: 'zum abschluss bringen'
+        mark: 'rdw'
+        dest: 
+          - 'close'
+      - 
+        src: '[etw] zum ausdruck bringen'
+        mark: 'vp'
+        dest: 
+          - 'express'
+      - 
+        src: '[etw] zum einsatz bringen'
+        mark: 'vp'
+        dest: 
+          - 'put'
+          - 'deploy'
+          - 'put'
+      - 
+        src: '[etw] zu ende bringen'
+        mark: 'vp'
+        dest: 
+          - 'bring'
+          - 'finish'
+      - 
+        src: 'zum hüpfen bringen'
+        mark: 'rdw'
+        dest: 
+          - '-'
+      - 
+        src: 'zum schaukeln bringen'
+        mark: 'rdw'
+        dest: 
+          - 'make'
+      - 
+        src: 'zum schweigen bringen'
+        mark: 'rdw'
+        dest: 
+          - 'silence'
+      - 
+        src: 'zum schweigen bringen'
+        mark: 'rdw'
+        dest: 
+          - 'silence'
+      - 
+        src: 'zum stillstand bringen'
+        mark: 'rdw'
+        dest: 
+          - 'bring to a standstill'
+      - 
+        src: 'zum stillstand bringen'
+        mark: 'rdw'
+        dest: 
+          - 'bring to a standstill'
+      - 
+        src: 'zum strahlen bringen'
+        mark: 'rdw'
+        dest: 
+          - 'cheer up'
+      - 
+        src: 'zum verstummen bringen'
+        mark: 'rdw'
+        dest: 
+          - 'silence'
+      - 
+        src: 'zum verstummen bringen'
+        mark: 'rdw'
+        dest: 
+          - 'silence'
+      - 
+        src: 'zum vorschein bringen'
+        mark: 'rdw'
+        dest: 
+          - 'reveal'
+      - 
+        src: 'zur anwendung bringen'
+        mark: 'rdw'
+        dest: 
+          - 'make use of'
+          - 'use'
+      - 
+        src: 'zur reife bringen'
+        mark: 'rdw'
+        dest: 
+          - 'bring to fruition'
+      - 
+        src: 'zur ruhe bringen'
+        mark: 'rdw'
+        dest: 
+          - 'calm down'
+      - 
+        src: 'zur strecke bringen'
+        mark: 'rdw'
+        dest: 
+          - 'run'
+      - 
+        src: '[etw] zustande bringen,[etw] zu stande bringen'
+        mark: 'adv'
+        dest: 
+          - 'bring'
+          - 'achieve'
+      - 
+        src: 'bringen'
+        mark: 'bringt, brachte, hat gebracht'
+        dest: 
+          - '('
+
+  - 
+    de: 'abgeben'
+    added: '2022-08-30 22:21:05.009596'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 1
+    meanings: 
+      - 
+        src: '[etw] abgeben'
+        mark: 'vt, sepa'
+        dest: 
+          - 'deliver'
+      - 
+        src: 'abgeben'
+        mark: 'vr, sepa'
+        dest: 
+          - 'get involved with'
+          - 'spend time with'
+      - 
+        src: '[etw] abgeben'
+        mark: 'vt, sepa'
+        dest: 
+          - 'pass'
+      - 
+        src: '[etw] abgeben'
+        mark: 'vt, sepa'
+        dest: 
+          - 'make'
+          - 'express yourself'
+      - 
+        src: '[etw] abgeben'
+        mark: 'vt, sepa'
+        dest: 
+          - 'resign from'
+          - 'withdraw from'
+          - 'hand over'
+      - 
+        src: 'schätzung abgeben'
+        mark: 'nf + vt'
+        dest: 
+          - 'give an estimate'
+
+  - 
+    de: 'abschließen'
+    added: '2022-08-30 21:57:36.702838'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 1
+    meanings: 
+      - 
+        src: 'abschließen'
+        mark: 'vt, sepa'
+        dest: 
+          - 'lock'
+      - 
+        src: 'abschließen'
+        mark: 'vt, sepa'
+        dest: 
+          - 'complete'
+      - 
+        src: 'abschließen'
+        mark: 'vt, sepa'
+        dest: 
+          - 'finalize'
+      - 
+        src: 'eine wette abschließen'
+        mark: 'rdw'
+        dest: 
+          - 'bet'
+          - 'make a bet, place a bet'
+      - 
+        src: 'erfolgreich abschließen'
+        mark: 'adv + vt'
+        dest: 
+          - 'successfully complete'
+      - 
+        src: 'wette abschließen'
+        mark: 'rdw'
+        dest: 
+          - 'make a bet'
+          - 'place a bet'
+
+  - 
+    de: 'unterschreiben'
+    added: '2022-08-30 22:30:43.809107'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 1
+    meanings: 
+      - 
+        src: '[etw] unterschreiben'
+        mark: 'vt, fix'
+        dest: 
+          - 'sign'
+      - 
+        src: 'mit den anfangsbuchstaben unterschreiben'
+        mark: 'rdw'
+        dest: 
+          - 'initial'
+          - 'sign with initial letters'
+      - 
+        src: 'mit den initialen unterschreiben'
+        mark: 'rdw'
+        dest: 
+          - 'initial'
+      - 
+        src: 'unterschreiben'
+        mark: 'v/t & v/i (irr, untrennb, hat)'
+        dest: 
+          - 'sign'
+
+  - 
+    de: 'zahlen'
+    added: '2022-08-30 22:28:34.760731'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 1
+    meanings: 
+      - 
+        src: '[etw] zahlen'
+        mark: 'vt'
+        dest: 
+          - 'pay'
+      - 
+        src: 'zahl'
+        mark: 'nf'
+        dest: 
+          - 'number'
+      - 
+        src: 'zahl'
+        mark: 'nf'
+        dest: 
+          - 'amount'
+          - 'figure'
+          - 'level'
+      - 
+        src: 'jmdn/[etw] zahlen'
+        mark: 'vt'
+        dest: 
+          - 'compensate'
+      - 
+        src: 'kaution zahlen'
+        mark: 'nf + vt'
+        dest: 
+          - 'pay a deposit'
+          - 'put down a deposit'
+      - 
+        src: 'kaution zahlen'
+        mark: 'nf + vt'
+        dest: 
+          - 'post bail'
+      - 
+        src: 'römische zahlen'
+        mark: 'adj + npl'
+        dest: 
+          - 'roman numerals'
+      - 
+        src: 'rote zahlen'
+        mark: 'adj + npl'
+        dest: 
+          - 'in the red'
+      - 
+        src: 'schritte zählen'
+        mark: 'npl + vt'
+        dest: 
+          - 'count steps'
+      - 
+        src: 'schritte zählen'
+        mark: 'npl + vt'
+        dest: 
+          - 'count steps'
+      - 
+        src: 'zu [etw] zählen'
+        mark: 'präp + vi'
+        dest: 
+          - 'belong to'
+      - 
+        src: 'zahlen'
+        mark: 'v/t & v/i'
+        dest: 
+          - 'number'
+
+  - 
+    de: 'wandern'
+    added: '2022-08-30 22:28:36.069095'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 1
+    meanings: 
+      - 
+        src: 'wandern'
+        mark: 'vi'
+        dest: 
+          - 'hike'
+
+  - 
     de: 'zwar'
     added: '2022-08-15 17:48:49.556652'
     last_attempt: '1970-01-01 01:00:00.000'
     success_attempts: 0
-    total_attempts: 4
+    total_attempts: 5
     meanings: 
       - 
         src: 'und zwar'
@@ -20344,197 +19301,2143 @@ words:
           - 'but …'
 
   - 
-    de: 'sonst'
-    added: '2022-08-14 00:08:09.134026'
+    de: 'anmachen'
+    added: '2022-08-30 22:23:28.689746'
     last_attempt: '1970-01-01 01:00:00.000'
     success_attempts: 0
+    total_attempts: 1
+    meanings: 
+      - 
+        src: 'sexuelle anmache im internet'
+        mark: 'rdw'
+        dest: 
+          - 'online sexual harassment'
+      - 
+        src: 'anmachen'
+        mark: 'v/t (trennb, hat -ge-)'
+        dest: 
+          - 'switch on'
+          - 'turn on'
+
+  - 
+    de: 'anmelden'
+    added: '2022-08-30 22:23:28.918798'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 1
+    meanings: 
+      - 
+        src: 'anmelden'
+        mark: 'vt, sepa'
+        dest: 
+          - 'give notice'
+          - 'register'
+      - 
+        src: 'anmelden'
+        mark: 'vt, sepa'
+        dest: 
+          - 'announce'
+      - 
+        src: 'anmelden'
+        mark: 'vr, sepa'
+        dest: 
+          - 'log in'
+          - 'log on'
+      - 
+        src: 'anmelden'
+        mark: 'vt, sepa'
+        dest: 
+          - 'declare'
+      - 
+        src: 'insolvenz anmelden'
+        mark: 'nf + vt'
+        dest: 
+          - 'declare bankruptcy'
+          - 'file for bankruptcy'
+      - 
+        src: 'jetzt anmelden'
+        mark: 'rdw'
+        dest: 
+          - 'register now'
+          - 'sign up now'
+          - 'subscribe now'
+
+  - 
+    de: 'aufstehen'
+    added: '2022-08-30 22:24:33.087298'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 1
+    meanings: 
+      - 
+        src: 'aufstehen'
+        mark: 'vi, sepa'
+        dest: 
+          - 'stand up'
+      - 
+        src: 'aufstehen'
+        mark: 'vi, sepa'
+        dest: 
+          - 'get up'
+          - 'wake up'
+      - 
+        src: 'aufstehen'
+        mark: 'vi, sepa'
+        dest: 
+          - 'get back up'
+      - 
+        src: 'auf [etw] stehen'
+        mark: 'präp + vi'
+        dest: 
+          - 'stand on'
+      - 
+        src: 'auf [etw] stehen'
+        mark: 'präp + vi'
+        dest: 
+          - 'dig'
+          - 'like'
+      - 
+        src: 'auf jmdn stehen'
+        mark: 'präp + vi'
+        dest: 
+          - 'be into'
+      - 
+        src: 'stehen'
+        mark: 'vi'
+        dest: 
+          - 'stand'
+      - 
+        src: 'stehen'
+        mark: 'vi'
+        dest: 
+          - 'be'
+      - 
+        src: 'stehen'
+        mark: 'vi'
+        dest: 
+          - 'be'
+      - 
+        src: 'auf [etw] stehen'
+        mark: 'präp + vi'
+        dest: 
+          - 'like'
+          - 'be into'
+      - 
+        src: 'auf jmdn stehen'
+        mark: 'präp + vi'
+        dest: 
+          - 'be into'
+      - 
+        src: 'früh aufstehen'
+        mark: 'adj + vi, sepa'
+        dest: 
+          - 'be no fool'
+      - 
+        src: 'aufstehen'
+        mark: 'vi, sepa'
+        dest: 
+          - 'be open'
+      - 
+        src: 'aufstehen'
+        mark: 'vi, sepa'
+        dest: 
+          - 'get well'
+          - 'recover'
+      - 
+        src: 'auf [etw] stehen'
+        mark: 'präp + vi'
+        dest: 
+          - 'be interested in'
+          - 'like'
+      - 
+        src: 'zu [etw] stehen'
+        mark: 'präp + vi'
+        dest: 
+          - 'think of'
+          - 'support'
+      - 
+        src: 'zu jmdm stehen'
+        mark: 'präp + vi'
+        dest: 
+          - 'stand by'
+          - 'support'
+      - 
+        src: 'stehen'
+        mark: 'vi'
+        dest: 
+          - 'stop'
+          - 'stand still'
+      - 
+        src: 'stehen'
+        mark: 'vi'
+        dest: 
+          - 'be settled'
+      - 
+        src: 'stehen'
+        mark: 'vi'
+        dest: 
+          - 'be locked in'
+      - 
+        src: 'stehen'
+        mark: 'vi'
+        dest: 
+          - 'suit'
+
+  - 
+    de: 'ausfüllen'
+    added: '2022-08-30 22:24:33.283318'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 1
+    meanings: 
+      - 
+        src: 'ausfüllen'
+        mark: 'v/t (trennb, hat -ge-)'
+        dest: 
+          - 'fill'
+
+  - 
+    de: 'behalten'
+    added: '2022-08-30 22:25:40.903451'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
     total_attempts: 4
     meanings: 
       - 
-        src: 'sonst'
-        mark: 'adv'
-        dest: 
-          - 'moreover'
-      - 
-        src: 'sonst'
-        mark: 'adv'
-        dest: 
-          - 'otherwise'
-      - 
-        src: 'schlechter als sonst'
-        mark: 'rdw'
-        dest: 
-          - 'worse than usual'
-
-  - 
-    de: 'verdienen'
-    added: '2022-08-30 22:28:36.377749'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 1
-    total_attempts: 3
-    meanings: 
-      - 
-        src: '[etw] verdienen'
+        src: '[etw] behalten'
         mark: 'vt'
         dest: 
-          - 'earn'
+          - 'keep'
+          - 'hold on to'
+          - 'hang on to'
       - 
-        src: '[etw] verdienen'
+        src: '[etw] behalten'
         mark: 'vt'
         dest: 
-          - 'deserve'
-          - 'earn'
+          - 'keep'
+          - 'retain'
       - 
-        src: 'brötchen verdienen'
-        mark: 'npl + vt'
+        src: '[etw] behalten'
+        mark: 'vt'
         dest: 
-          - 'keep the lights on'
-          - 'pay the bills'
+          - 'memorize'
+          - 'memorise'
+          - 'keep'
       - 
-        src: 'die brötchen verdienen'
-        mark: 'rdw'
+        src: '[etw] behalten'
+        mark: 'vt'
         dest: 
-          - 'earn your bread'
+          - 'keep'
+          - 'hold on to'
+          - 'hang on to'
       - 
-        src: 'geld verdienen'
-        mark: 'nn + vt'
+        src: '[etw] bei sich behalten'
+        mark: 'präp + vt'
         dest: 
-          - 'earn money'
-          - 'earn a living'
-          - 'make money'
-          - 'make a living'
+          - 'keep'
       - 
-        src: 'mit [etw] sein geld verdienen'
-        mark: 'rdw'
-        dest: 
-          - 'earn a living doing'
-      - 
-        src: 'nach abzug verdienen'
-        mark: 'rdw'
-        dest: 
-          - 'wage after tax'
-      - 
-        src: 'netto verdienen'
-        mark: 'adj + vt'
-        dest: 
-          - 'net earnings'
-
-  - 
-    de: 'vertraut'
-    added: '2022-08-15 17:26:02.506284'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 0
-    total_attempts: 3
-    meanings: 
-      - 
-        src: 'vertraut'
-        mark: 'adj'
-        dest: 
-          - 'familiar'
-          - 'acquainted'
-      - 
-        src: 'vertraut'
-        mark: 'adj'
-        dest: 
-          - 'familiar'
-          - 'used to'
-          - 'experienced'
-      - 
-        src: 'nicht vertraut'
-        mark: 'part + adj'
-        dest: 
-          - 'not close'
-      - 
-        src: 'nicht vertraut'
-        mark: 'part + adj'
-        dest: 
-          - 'not familiar'
-      - 
-        src: 'nicht vertraut'
-        mark: 'part + adj'
-        dest: 
-          - 'not familiar'
-      - 
-        src: 'mit [etw] vertraut sein'
+        src: '[etw] für sich behalten'
         mark: 'vp'
         dest: 
-          - 'be familiar with'
+          - 'keep to yourself'
       - 
-        src: 'vertraut sein'
-        mark: 'adj + vi'
-        dest: 
-          - 'be familiar'
-      - 
-        src: 'vertraut sein'
-        mark: 'adj + vi'
-        dest: 
-          - 'be acquainted'
-          - 'know'
-
-  - 
-    de: 'mitnehmen'
-    added: '2022-08-30 22:32:09.140768'
-    last_attempt: '1970-01-01 01:00:00.000'
-    success_attempts: 1
-    total_attempts: 3
-    meanings: 
-      - 
-        src: 'essen zum mitnehmen'
+        src: 'um es zu behalten'
         mark: 'rdw'
         dest: 
-          - 'takeout food'
-          - 'takeaway food'
+          - 'to keep it'
+          - 'in order to keep it'
       - 
-        src: 'mitnehmen'
-        mark: 'v/t (irr, trennb, hat -ge-)'
+        src: 'behalten'
+        mark: 'v/t (irr)'
         dest: 
-          - 'take along'
+          - 'keep'
 
   - 
-    de: 'verhalten'
-    added: '2022-08-15 17:25:25.120074'
+    de: 'umziehen'
+    added: '2022-08-30 22:30:44.029536'
     last_attempt: '1970-01-01 01:00:00.000'
     success_attempts: 0
-    total_attempts: 3
+    total_attempts: 1
     meanings: 
       - 
-        src: 'verhalten'
-        mark: 'vr'
+        src: 'umziehen'
+        mark: 'vr, sepa'
         dest: 
-          - 'react'
+          - 'change'
       - 
-        src: 'verhalten'
-        mark: 'vr'
+        src: 'umziehen'
+        mark: 'vi, sepa'
         dest: 
-          - 'to be to'
+          - 'move'
+          - 'relocate'
+
+  - 
+    de: 'gedacht'
+    added: '2022-08-14 00:06:11.491230'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 5
+    meanings: 
       - 
-        src: 'verhalten'
-        mark: 'adj'
-        dest: 
-          - 'restrained'
-      - 
-        src: 'verhalten'
-        mark: 'vr'
-        dest: 
-          - 'behave'
-      - 
-        src: 'verhalten'
-        mark: 'nn'
-        dest: 
-          - 'behavior'
-          - 'behaviour'
-      - 
-        src: 'normales verhalten'
-        mark: 'adj + nn'
-        dest: 
-          - 'normal behavior'
-      - 
-        src: 'sich jmdm gegenüber verhalten'
+        src: 'für [etw] gedacht'
         mark: 'rdw'
         dest: 
-          - 'treat'
-          - 'behave'
+          - 'intended for'
+
+  - 
+    de: 'gucken'
+    added: '2022-08-31 19:36:46.553469'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 5
+    meanings: 
+      - 
+        src: 'jmdn böse angucken'
+        mark: 'adj + vt, sepa'
+        dest: 
+          - 'give a dirty look'
+      - 
+        src: 'böse gucken'
+        mark: 'adj + vi'
+        dest: 
+          - 'frown'
+      - 
+        src: 'jmdm über die schulter gucken'
+        mark: 'rdw'
+        dest: 
+          - 'look over'
+
+  - 
+    de: 'bezahlen'
+    added: '2022-08-30 22:25:41.451261'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 1
+    meanings: 
+      - 
+        src: '[etw] bezahlen'
+        mark: 'vt'
+        dest: 
+          - 'pay'
+      - 
+        src: '[etw] bezahlen'
+        mark: 'vt'
+        dest: 
+          - 'pay'
+          - 'remunerate'
+      - 
+        src: 'bezahlen'
+        mark: 'vi'
+        dest: 
+          - 'pay for'
+      - 
+        src: 'wettschulden bezahlen'
+        mark: 'npl + vt'
+        dest: 
+          - 'pay gambling debts'
+
+  - 
+    de: 'schneiden'
+    added: '2022-08-30 21:55:21.174426'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 1
+    meanings: 
+      - 
+        src: '[etw] schneiden'
+        mark: 'vt'
+        dest: 
+          - 'cut'
+      - 
+        src: 'sich schneiden'
+        mark: 'vr'
+        dest: 
+          - 'cut'
+          - 'slit'
+      - 
+        src: '[etw] schneiden'
+        mark: 'vt'
+        dest: 
+          - 'edit'
+      - 
+        src: 'abschneiden'
+        mark: 'partv tr, sepa'
+        dest: 
+          - 'x'
+      - 
+        src: 'schneidend'
+        mark: 'v part präs'
+        dest: 
+          - 'sharp, harsh'
+          - 'piercing'
+      - 
+        src: 'schneiden'
+        mark: 'vr'
+        dest: 
+          - 'intersect'
+      - 
+        src: 'die spitzen schneiden'
+        mark: 'rdw'
+        dest: 
+          - 'trim the ends'
+          - 'cut the tips'
+      - 
+        src: 'förmlich auseinander schneiden'
+        mark: 'rdw'
+        dest: 
+          - 'separate'
+      - 
+        src: 'grimasse schneiden'
+        mark: 'nf + vt'
+        dest: 
+          - 'grimace'
+          - 'make a face'
+      - 
+        src: 'haare schneiden'
+        mark: 'npl + vt'
+        dest: 
+          - "cut one's hair"
+      - 
+        src: 'hecke schneiden'
+        mark: 'rdw'
+        dest: 
+          - 'cut a hedge, clip a hedge, trim a hedge'
+      - 
+        src: 'in dünne scheiben schneiden'
+        mark: 'rdw'
+        dest: 
+          - 'cut into thin slices'
+      - 
+        src: 'in ringe schneiden'
+        mark: 'rdw'
+        dest: 
+          - 'cut into rings'
+      - 
+        src: '[etw] in scheiben schneiden'
+        mark: 'vp'
+        dest: 
+          - 'cut'
+          - 'slice'
+      - 
+        src: '[etw] in stücke schneiden'
+        mark: 'vp'
+        dest: 
+          - 'cut'
+      - 
+        src: '[etw] in würfel schneiden'
+        mark: 'rdw'
+        dest: 
+          - 'cut'
+      - 
+        src: 'klein schneiden'
+        mark: 'adv + vt'
+        dest: 
+          - 'cut into small pieces'
+          - 'chop'
+      - 
+        src: 'schneiden lassen'
+        mark: 'vt + hv'
+        dest: 
+          - 'have cut'
+      - 
+        src: 'sich die haare schneiden lassen'
+        mark: 'rdw'
+        dest: 
+          - 'get your hair cut'
+
+  - 
+    de: 'ringe'
+    added: '2022-08-30 21:55:42.956218'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 1
+    meanings: 
+      - 
+        src: 'ring'
+        mark: 'nm'
+        dest: 
+          - 'ring'
+      - 
+        src: 'ring'
+        mark: 'nm'
+        dest: 
+          - 'circle'
+      - 
+        src: 'ring'
+        mark: 'nm'
+        dest: 
+          - 'ring'
+          - 'syndicate'
+      - 
+        src: 'ring'
+        mark: 'nm'
+        dest: 
+          - 'ring'
+      - 
+        src: 'ring'
+        mark: 'nm'
+        dest: 
+          - 'ring'
+      - 
+        src: 'hochzeitsring'
+        mark: 'nm'
+        dest: 
+          - 'wedding ring'
+          - 'ring'
+
+  - 
+    de: 'überweisen'
+    added: '2022-08-30 22:30:44.247184'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 1
+    meanings: 
+      - 
+        src: 'überweisen'
+        mark: 'v/t (irr, untrennb, hat)'
+        dest: 
+          - 'transfer'
+
+  - 
+    de: 'werden'
+    added: '2022-08-30 22:28:35.606525'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 1
+    meanings: 
+      - 
+        src: 'werden'
+        mark: 'vi'
+        dest: 
+          - 'get'
+      - 
+        src: 'werden'
+        mark: 'vi'
+        dest: 
+          - 'become'
+          - 'get'
+      - 
+        src: 'werden'
+        mark: 'vi'
+        dest: 
+          - 'become'
+          - 'train'
+      - 
+        src: 'werden'
+        mark: 'vi'
+        dest: 
+          - 'turn'
+          - 'become'
+      - 
+        src: 'werden'
+        mark: 'hv'
+        dest: 
+          - 'will'
+      - 
+        src: 'werden'
+        mark: 'hv'
+        dest: 
+          - 'will'
+      - 
+        src: 'werden'
+        mark: 'hv'
+        dest: 
+          - 'will'
+      - 
+        src: 'älter werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'get older'
+          - 'age'
+      - 
+        src: 'angenommen werden'
+        mark: 'v part perf + hv'
+        dest: 
+          - 'be accepted'
+      - 
+        src: 'angenommen werden'
+        mark: 'v part perf + hv'
+        dest: 
+          - 'be accepted'
+      - 
+        src: 'auf dem rücken getragen werden'
+        mark: 'rdw'
+        dest: 
+          - 'be carried piggyback'
+      - 
+        src: 'aufbrausend werden'
+        mark: 'v part präs + vi'
+        dest: 
+          - 'lose your temper'
+      - 
+        src: 'aufgeführt werden'
+        mark: 'v part perf + hv'
+        dest: 
+          - 'be presented'
+          - 'be put on'
+          - 'be performed'
+      - 
+        src: 'aufgeführt werden'
+        mark: 'v part perf + hv'
+        dest: 
+          - 'be listed'
+          - 'be itemized'
+          - 'be itemised'
+      - 
+        src: 'aufrecht erhalten werden'
+        mark: 'rdw'
+        dest: 
+          - 'be maintained'
+      - 
+        src: 'aufrecht erhalten werden'
+        mark: 'rdw'
+        dest: 
+          - 'be maintained'
+      - 
+        src: 'ausgelöst werden'
+        mark: 'v part perf + hv'
+        dest: 
+          - 'be triggered'
+          - 'be caused'
+      - 
+        src: 'ausgesprochen werden'
+        mark: 'v part perf + hv'
+        dest: 
+          - 'be stated'
+          - 'be articulated'
+      - 
+        src: 'ausgestrahlt werden'
+        mark: 'v part perf + hv'
+        dest: 
+          - 'be broadcast'
+      - 
+        src: 'ausgestrahlt werden'
+        mark: 'v part perf + hv'
+        dest: 
+          - 'radiate'
+      - 
+        src: 'begleitet werden von'
+        mark: 'rdw'
+        dest: 
+          - 'be accompanied by'
+      - 
+        src: 'begleitet werden von'
+        mark: 'rdw'
+        dest: 
+          - 'be accompanied by'
+      - 
+        src: 'bemerkbar machen'
+        mark: 'adj + vt'
+        dest: 
+          - 'get noticed'
+      - 
+        src: 'besser werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'improve'
+          - 'get better'
+      - 
+        src: 'besser werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'get better'
+      - 
+        src: 'besser werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'get better'
+      - 
+        src: 'besser werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'get better'
+          - 'improve'
+      - 
+        src: 'betätigt werden'
+        mark: 'v part perf + hv'
+        dest: 
+          - 'be operated'
+      - 
+        src: 'betätigt werden'
+        mark: 'v part perf + hv'
+        dest: 
+          - 'be initiated'
+      - 
+        src: 'sich [etw] bewusst werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'become aware of'
+          - 'realize'
+      - 
+        src: 'bewusstlos werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'pass out'
+          - 'lose consciousness'
+      - 
+        src: 'blass werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'get pale, turn pale'
+      - 
+        src: 'blau werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'turn blue'
+      - 
+        src: 'bleich werden'
+        mark: 'adj + hv'
+        dest: 
+          - 'turn pale'
+      - 
+        src: 'braun werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'get tanned'
+      - 
+        src: 'braun werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'go brown'
+      - 
+        src: 'dem konto gutgeschrieben werden'
+        mark: 'rdw'
+        dest: 
+          - 'be credited to the account'
+          - 'will be transferred'
+          - 'be deposited into the account'
+      - 
+        src: 'dicker werden'
+        mark: 'adj + hv'
+        dest: 
+          - 'get bigger, get fatter'
+          - 'gain weight'
+      - 
+        src: 'dicker werden'
+        mark: 'adj + hv'
+        dest: 
+          - 'get bigger'
+      - 
+        src: 'dreckig werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'get dirty'
+      - 
+        src: 'dumpfer werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'get softer, get quieter'
+      - 
+        src: 'dunkel werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'get dark'
+      - 
+        src: 'dunkel werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'get dark'
+      - 
+        src: 'dunkler werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'get darker'
+          - 'become darker'
+      - 
+        src: 'dunkler werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'get darker'
+          - 'become darker'
+      - 
+        src: 'eins werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'become one'
+      - 
+        src: 'enger werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'get closer'
+      - 
+        src: 'enger werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'get tighter'
+      - 
+        src: 'enger werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'get tighter'
+      - 
+        src: 'entlassen werden'
+        mark: 'vi + hv'
+        dest: 
+          - 'be fired, get fired'
+          - 'be let go'
+      - 
+        src: 'entlassen werden'
+        mark: 'vi + hv'
+        dest: 
+          - 'be released'
+      - 
+        src: 'entlohnt werden'
+        mark: 'v part perf + hv'
+        dest: 
+          - 'get paid'
+      - 
+        src: 'ernannt werden'
+        mark: 'v part perf + hv'
+        dest: 
+          - 'be appointed, be named'
+      - 
+        src: 'errichtet werden'
+        mark: 'v part perf + hv'
+        dest: 
+          - 'be established'
+      - 
+        src: 'errichtet werden'
+        mark: 'v part perf + hv'
+        dest: 
+          - 'be built, be constructed, be erected'
+      - 
+        src: 'erwachsen werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'grow up'
+      - 
+        src: 'erwachsen werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'mature'
+      - 
+        src: 'etwas bewusst werden'
+        mark: 'rdw'
+        dest: 
+          - 'become aware of'
+      - 
+        src: 'etwas gerecht werden'
+        mark: 'vp'
+        dest: 
+          - 'comply with'
+          - 'fulfill'
+      - 
+        src: 'etwas gerecht werden'
+        mark: 'vp'
+        dest: 
+          - 'rise to the occasion'
+          - 'fulfill'
+      - 
+        src: 'etwas werden'
+        mark: 'pron + vi'
+        dest: 
+          - 'become'
+      - 
+        src: 'etwas werden'
+        mark: 'pron + vi'
+        dest: 
+          - 'become'
+          - 'do'
+      - 
+        src: 'etwas werden'
+        mark: 'pron + vi'
+        dest: 
+          - 'become'
+          - 'achieve'
+      - 
+        src: 'etwas werden'
+        mark: 'pron + vi'
+        dest: 
+          - 'work'
+      - 
+        src: 'experte werden in [etw]'
+        mark: 'vp'
+        dest: 
+          - 'become an expert in something'
+      - 
+        src: 'fertig werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'get done'
+          - 'complete'
+          - 'be done'
+      - 
+        src: 'mit [etw] fertig werden'
+        mark: 'vp'
+        dest: 
+          - 'cope with'
+          - 'get over'
+      - 
+        src: 'fest werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'set'
+          - 'get hard'
+      - 
+        src: 'fit werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'get fit, get healthy'
+      - 
+        src: 'flüssig werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'liquefy'
+      - 
+        src: 'gelb werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'turn yellow'
+      - 
+        src: '[etw]/jmdm gerecht werden'
+        mark: 'adv + vi'
+        dest: 
+          - 'meet'
+      - 
+        src: '[etw] gerecht werden'
+        mark: 'adv + vi'
+        dest: 
+          - 'be up to'
+      - 
+        src: 'gereicht werden'
+        mark: 'v part perf + vi'
+        dest: 
+          - 'be handed'
+      - 
+        src: 'gesehen werden'
+        mark: 'v part perf + vi'
+        dest: 
+          - 'be seen'
+      - 
+        src: 'gesehen werden'
+        mark: 'v part perf + vi'
+        dest: 
+          - 'get caught'
+      - 
+        src: 'gestürzt werden'
+        mark: 'v part perf + hv'
+        dest: 
+          - 'be toppled'
+      - 
+        src: 'gesund werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'heal'
+          - 'get better'
+      - 
+        src: 'getragen werden'
+        mark: 'v part perf  + hv'
+        dest: 
+          - 'be carried'
+          - 'get carried'
+      - 
+        src: 'getragen werden'
+        mark: 'v part perf + hv'
+        dest: 
+          - 'be worn'
+      - 
+        src: 'getrieben werden'
+        mark: 'v part perf + hv'
+        dest: 
+          - 'be driven'
+      - 
+        src: 'getrieben werden'
+        mark: 'v part perf + hv'
+        dest: 
+          - 'be forced'
+          - 'be coerced'
+      - 
+        src: 'getroffen werden'
+        mark: 'v part perf + hv'
+        dest: 
+          - 'be hit'
+      - 
+        src: 'glasig werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'get glassy'
+      - 
+        src: 'grau werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'turn gray'
+      - 
+        src: 'grau werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'go gray'
+      - 
+        src: 'größer werden, komparativ: groß'
+        mark: 'adj + vi'
+        dest: 
+          - 'grow'
+          - 'age'
+          - 'grow up'
+      - 
+        src: 'größer werden, komparativ: groß'
+        mark: 'adj + vi'
+        dest: 
+          - 'grow'
+          - 'get bigger'
+      - 
+        src: 'größer werden, komparativ: groß'
+        mark: 'adj + vi'
+        dest: 
+          - 'expand'
+          - 'grow'
+          - 'become bigger'
+      - 
+        src: 'größer werden, komparativ: groß'
+        mark: 'adj + vi'
+        dest: 
+          - 'grow'
+          - 'appreciate'
+          - 'increase'
+      - 
+        src: 'grün werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'turn green'
+      - 
+        src: 'grün werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'turn green'
+      - 
+        src: 'hart werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'harden'
+      - 
+        src: 'hart werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'harden'
+      - 
+        src: 'hart werden lassen'
+        mark: 'rdw'
+        dest: 
+          - 'let yourself be hardened'
+      - 
+        src: 'heller werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'get lighter'
+      - 
+        src: 'huckepack genommen werden'
+        mark: 'rdw'
+        dest: 
+          - 'ride piggyback'
+      - 
+        src: 'immer leiser werden'
+        mark: 'rdw'
+        dest: 
+          - 'get quieter and quieter'
+          - 'get ever more quiet'
+      - 
+        src: 'in die nationalmannschaft berufen werden'
+        mark: 'rdw'
+        dest: 
+          - 'selected for the national team'
+      - 
+        src: 'kahl werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'go bald'
+      - 
+        src: 'langsamer werden'
+        mark: 'adv + vi'
+        dest: 
+          - 'slow down'
+          - 'become slower'
+      - 
+        src: 'leer werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'empty'
+      - 
+        src: 'leise werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'get quiet'
+      - 
+        src: 'leise werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'get quiet'
+      - 
+        src: 'locker werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'limber up'
+      - 
+        src: 'locker werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'relax'
+          - 'take a breath'
+      - 
+        src: 'marode werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'decay'
+          - 'get decrepit'
+          - 'wear out'
+
+  - 
+    de: 'solch'
+    added: '2022-08-30 22:03:17.142008'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 1
+    meanings: 
+      - 
+        src: 'solch'
+        mark: 'pron'
+        dest: 
+          - 'such'
+      - 
+        src: 'solch'
+        mark: 'pron & adj'
+        dest: 
+          - 'such'
+          - 'that kind'
+
+  - 
+    de: 'verstehen'
+    added: '2022-08-30 22:28:36.228651'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 1
+    meanings: 
+      - 
+        src: 'jmdn/[etw] verstehen'
+        mark: 'vt'
+        dest: 
+          - 'understand'
+      - 
+        src: '[etw] verstehen'
+        mark: 'vt'
+        dest: 
+          - 'understand'
+      - 
+        src: '[etw] verstehen'
+        mark: 'vt'
+        dest: 
+          - 'understand'
+      - 
+        src: 'sich mit jmdm verstehen'
+        mark: 'adv + vr'
+        dest: 
+          - 'get along with'
+      - 
+        src: '[etw] verstehen'
+        mark: 'vt'
+        dest: 
+          - 'master'
+          - 'be good in'
+      - 
+        src: 'nicht mehr verstehen'
+        mark: 'rdw'
+        dest: 
+          - 'not understand anymore'
+      - 
+        src: 'nicht mehr verstehen'
+        mark: 'rdw'
+        dest: 
+          - 'not understand anymore'
+      - 
+        src: '[etw]/jmdn nicht verstehen'
+        mark: 'part + vt'
+        dest: 
+          - 'not understand'
+      - 
+        src: '[etw]/jmdn nicht verstehen'
+        mark: 'part + vt'
+        dest: 
+          - 'not understand'
+      - 
+        src: 'sich gut mit jemandem verstehen'
+        mark: 'vp'
+        dest: 
+          - 'get along well with'
+      - 
+        src: 'jmdm [etw] zu verstehen geben'
+        mark: 'vp'
+        dest: 
+          - 'indicate'
+          - 'make'
+
+  - 
+    de: 'übernachten'
+    added: '2022-08-30 22:30:44.405787'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 1
+    meanings: 
+      - 
+        src: 'übernachten'
+        mark: 'v/i (untrennb, hat)'
+        dest: 
+          - 'spend the night'
+
+  - 
+    de: 'bloggen'
+    added: '2022-08-30 22:27:02.158637'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 1
+    total_attempts: 1
+    meanings: 
+      - 
+        src: 'bloggen'
+        mark: 'v/i'
+        dest: 
+          - 'blog'
+
+  - 
+    de: 'bestellen'
+    added: '2022-08-30 22:25:41.116800'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 1
+    meanings: 
+      - 
+        src: '[etw] bestellen'
+        mark: 'vt'
+        dest: 
+          - 'order'
+      - 
+        src: 'bestellen'
+        mark: 'vi'
+        dest: 
+          - 'commission'
+          - 'order'
+      - 
+        src: '[etw] bestellen'
+        mark: 'vt'
+        dest: 
+          - 'summon'
+      - 
+        src: '[etw] bestellen'
+        mark: 'vt'
+        dest: 
+          - 'book'
+          - 'reserve'
+      - 
+        src: '[etw] bestellen'
+        mark: 'vt'
+        dest: 
+          - 'cultivate'
+      - 
+        src: 'jetzt bestellen'
+        mark: 'rdw'
+        dest: 
+          - 'order now!'
+          - 'buy now!'
+
+  - 
+    de: 'verwenden'
+    added: '2022-09-04 22:41:46.810678'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: '[etw] verwenden'
+        mark: 'vt'
+        dest: 
+          - 'use'
+      - 
+        src: '[etw] verwenden'
+        mark: 'vt'
+        dest: 
+          - 'use'
+      - 
+        src: 'sich für jmdn/[etw] verwenden'
+        mark: 'präp + vr'
+        dest: 
+          - 'work on behalf of'
+          - 'intercede'
+      - 
+        src: 'falsch verwenden'
+        mark: 'adv + vt'
+        dest: 
+          - 'misuse'
+          - 'use incorrectly'
+
+  - 
+    de: 'hassen'
+    added: '2022-09-04 22:42:17.227046'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'hassen'
+        mark: 'v/t'
+        dest: 
+          - 'hate'
+
+  - 
+    de: 'mülleimer'
+    added: '2022-09-04 22:42:47.079795'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'mülleimer'
+        mark: 'nm'
+        dest: 
+          - 'garbage can, trash can'
+          - 'bin, rubbish bin'
+          - 'dustbin'
+          - 'bin, garbage bin'
+      - 
+        src: 'mülleimer'
+        mark: 'm'
+        dest: 
+          - 'rubbish'
+
+  - 
+    de: 'eimer'
+    added: '2022-09-04 22:42:54.844234'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'eimer'
+        mark: 'nm'
+        dest: 
+          - 'bucket'
+          - 'pail'
+      - 
+        src: 'eimer'
+        mark: 'nm'
+        dest: 
+          - 'to be done for'
+          - 'to have had it'
+      - 
+        src: 'eimer'
+        mark: 'm'
+        dest: 
+          - 'bucket'
+
+  - 
+    de: 'schild'
+    added: '2022-09-04 22:43:21.713084'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'schild'
+        mark: 'nn'
+        dest: 
+          - 'sign'
+          - 'plate'
+      - 
+        src: 'schild'
+        mark: 'nn'
+        dest: 
+          - 'label, tag'
+      - 
+        src: 'schild'
+        mark: 'nn'
+        dest: 
+          - 'shield'
+      - 
+        src: 'schild'
+        mark: 'n'
+        dest: 
+          - 'sign'
+
+  - 
+    de: 'aufzug'
+    added: '2022-09-04 22:43:37.947623'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'aufzug'
+        mark: 'nm'
+        dest: 
+          - 'elevator'
+          - 'lift'
+      - 
+        src: 'aufzug'
+        mark: 'nm'
+        dest: 
+          - 'outfit'
+          - 'clothing'
+      - 
+        src: 'aufzug'
+        mark: 'nm'
+        dest: 
+          - 'act'
+      - 
+        src: 'aufzug'
+        mark: 'nm'
+        dest: 
+          - 'procession'
+          - 'parade'
+      - 
+        src: 'aufzug'
+        mark: 'm'
+        dest: 
+          - 'lift'
+
+  - 
+    de: 'türknauf'
+    added: '2022-09-04 22:44:18.284094'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'türknauf'
+        mark: 'm'
+        dest: 
+          - 'doorknob'
+
+  - 
+    de: 'knauf'
+    added: '2022-09-04 22:44:27.172813'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'knauf'
+        mark: 'm'
+        dest: 
+          - 'knob'
+
+  - 
+    de: 'werfen'
+    added: '2022-09-04 22:45:24.206685'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: '[etw] werfen'
+        mark: 'vt'
+        dest: 
+          - 'throw'
+      - 
+        src: 'sich werfen'
+        mark: 'vr'
+        dest: 
+          - 'lie down'
+      - 
+        src: 'an den kopf werfen'
+        mark: 'rdw'
+        dest: 
+          - 'throw accusations around'
+          - 'accuse'
+      - 
+        src: 'an den kopf werfen'
+        mark: 'rdw'
+        dest: 
+          - 'throw at the head'
+      - 
+        src: 'blasen werfen'
+        mark: 'npl + vt'
+        dest: 
+          - 'blow bubbles'
+      - 
+        src: 'das handtuch werfen'
+        mark: 'rdw'
+        dest: 
+          - 'throw in the towel'
+      - 
+        src: 'einen ball weit werfen'
+        mark: 'rdw'
+        dest: 
+          - 'throw a ball far'
+      - 
+        src: 'einen blick auf [etw] werfen'
+        mark: 'vp'
+        dest: 
+          - 'take a quick look at'
+          - 'check'
+      - 
+        src: 'einen blick auf [etw] werfen'
+        mark: 'vp'
+        dest: 
+          - 'look after'
+      - 
+        src: 'geld zum fenster raus werfen'
+        mark: 'rdw'
+        dest: 
+          - 'throwing money away'
+          - 'throw money out the window'
+      - 
+        src: 'in die höhe werfen'
+        mark: 'rdw'
+        dest: 
+          - 'throw into the air'
+      - 
+        src: 'in einen topf werfen'
+        mark: 'rdw'
+        dest: 
+          - 'lump together'
+      - 
+        src: 'in einen topf werfen'
+        mark: 'rdw'
+        dest: 
+          - 'lump together'
+      - 
+        src: 'licht auf eine sache werfen'
+        mark: 'rdw'
+        dest: 
+          - 'cast light on'
+      - 
+        src: 'schatten werfen'
+        mark: 'npl + vt'
+        dest: 
+          - 'throw a shadow'
+          - 'cast a shadow'
+      - 
+        src: 'über den haufen werfen'
+        mark: 'rdw'
+        dest: 
+          - 'throw'
+          - 'nix'
+
+  - 
+    de: 'warnlampe'
+    added: '2022-09-04 22:45:45.469997'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'warnlampe'
+        mark: 'f'
+        dest: 
+          - 'warning light'
+
+  - 
+    de: 'tannenbaum'
+    added: '2022-09-04 22:46:06.298125'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'tannenbaum'
+        mark: 'nm'
+        dest: 
+          - 'christmas tree'
+          - 'fir tree'
+      - 
+        src: 'tannenbaum'
+        mark: 'm'
+        dest: 
+          - 'fir (tree)'
+
+  - 
+    de: 'tannen'
+    added: '2022-09-04 22:46:12.580166'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'tanne'
+        mark: 'nf'
+        dest: 
+          - 'fir'
+          - 'fir tree'
+
+  - 
+    de: 'berühren'
+    added: '2022-09-04 22:48:38.345523'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'sich berühren'
+        mark: 'pron + vr'
+        dest: 
+          - 'touch'
+      - 
+        src: 'sich berühren'
+        mark: 'pron + vr'
+        dest: 
+          - 'brush against each other'
+      - 
+        src: 'berühren'
+        mark: 'v/t'
+        dest: 
+          - 'touch'
+
+  - 
+    de: 'verschenken'
+    added: '2022-09-04 22:49:09.621126'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'verschenken'
+        mark: 'v/t'
+        dest: 
+          - 'give away'
+
+  - 
+    de: 'skulptur'
+    added: '2022-09-04 23:17:37.859187'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'skulptur'
+        mark: 'nf'
+        dest: 
+          - 'sculpture'
+      - 
+        src: 'eine skulptur anfertigen'
+        mark: 'rdw'
+        dest: 
+          - 'make a sculpture'
+          - 'sculpt'
+
+  - 
+    de: 'lehnen'
+    added: '2022-09-04 23:17:49.031883'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'sich lehnen'
+        mark: 'vr'
+        dest: 
+          - 'lean against'
+          - 'lean on'
+      - 
+        src: 'lehnen'
+        mark: 'f'
+        dest: 
+          - 'back'
+
+  - 
+    de: 'briefkasten'
+    added: '2022-09-04 23:18:18.914014'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'briefkasten'
+        mark: 'nm'
+        dest: 
+          - 'postbox'
+      - 
+        src: 'briefkasten'
+        mark: 'nm'
+        dest: 
+          - 'mailbox'
+          - 'letter box'
+      - 
+        src: 'briefkasten'
+        mark: 'm'
+        dest: 
+          - 'letterbox'
+          - 'postbox'
+
+  - 
+    de: 'bank'
+    added: '2022-09-04 23:19:26.561880'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'bank'
+        mark: 'nf'
+        dest: 
+          - 'bench'
+      - 
+        src: 'bank'
+        mark: 'nf'
+        dest: 
+          - 'bank'
+      - 
+        src: 'bank'
+        mark: 'nf'
+        dest: 
+          - 'bank'
+      - 
+        src: 'bank'
+        mark: 'nf'
+        dest: 
+          - 'reef'
+      - 
+        src: 'werkbank'
+        mark: 'nf'
+        dest: 
+          - 'workbench'
+      - 
+        src: 'durch die bank weg'
+        mark: 'rdw'
+        dest: 
+          - 'across the board'
+          - 'everyone'
+      - 
+        src: 'bank'
+        mark: 'f'
+        dest: 
+          - 'bench'
+          - 'seat'
+
+  - 
+    de: 'klingel'
+    added: '2022-09-04 23:20:46.597546'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'klingel'
+        mark: 'nf'
+        dest: 
+          - 'bell'
+
+  - 
+    de: 'bilden'
+    added: '2022-09-04 23:22:57.737986'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'sich bilden'
+        mark: 'vr'
+        dest: 
+          - 'develop'
+          - 'arise'
+      - 
+        src: 'sich bilden'
+        mark: 'vr'
+        dest: 
+          - 'learn'
+          - 'educate yourself'
+      - 
+        src: '[etw] bilden'
+        mark: 'vt'
+        dest: 
+          - 'make up'
+          - 'put together'
+          - 'create'
+      - 
+        src: 'jmdn bilden'
+        mark: 'vt'
+        dest: 
+          - 'teach'
+          - 'educate'
+      - 
+        src: '[etw] bilden'
+        mark: 'vt'
+        dest: 
+          - 'sculpt'
+          - 'mold'
+          - 'create'
+          - 'produce'
+      - 
+        src: 'ein team bilden'
+        mark: 'rdw'
+        dest: 
+          - 'build a team'
+          - 'put a team together'
+      - 
+        src: 'ein team bilden'
+        mark: 'rdw'
+        dest: 
+          - 'build a team'
+      - 
+        src: 'ein team bilden'
+        mark: 'rdw'
+        dest: 
+          - 'be a team'
+      - 
+        src: 'eine gruppe bilden'
+        mark: 'rdw'
+        dest: 
+          - 'form a group'
+      - 
+        src: 'eine meinung über [etw] bilden'
+        mark: 'rdw'
+        dest: 
+          - 'form an opinion on'
+      - 
+        src: 'eine reihe bilden'
+        mark: 'rdw'
+        dest: 
+          - 'form a line, form a queue'
+      - 
+        src: 'gruppen bilden'
+        mark: 'npl + vt'
+        dest: 
+          - 'split into teams'
+          - 'form teams'
+      - 
+        src: 'gruppen bilden'
+        mark: 'npl + vt'
+        dest: 
+          - 'form groupings'
+          - 'break into groups'
+      - 
+        src: 'klumpen bilden'
+        mark: 'npl + vt'
+        dest: 
+          - 'forming lumps'
+          - 'developing lumps'
+      - 
+        src: 'masse bilden'
+        mark: 'nf + vt'
+        dest: 
+          - 'develop a mass'
+          - 'form a lump'
+      - 
+        src: 'masse bilden'
+        mark: 'nf + vt'
+        dest: 
+          - 'form a mass of people'
+      - 
+        src: 'tropfen bilden'
+        mark: 'npl + vt'
+        dest: 
+          - 'form drops'
+
+  - 
+    de: 'umarmen'
+    added: '2022-09-04 23:24:17.620521'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'jmdn umarmen'
+        mark: 'vt, fix'
+        dest: 
+          - 'hug'
+          - 'hold'
+      - 
+        src: 'umarmen'
+        mark: 'v/t (untrennb, hat)'
+        dest: 
+          - 'embrace'
+
+  - 
+    de: 'deswegen'
+    added: '2022-09-04 23:25:09.880226'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'deswegen'
+        mark: 'adv'
+        dest: 
+          - 'hence'
+          - 'therefore'
+
+  - 
+    de: 'stumpf'
+    added: '2022-09-04 23:26:06.593572'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'stumpf machen'
+        mark: 'adj + vt'
+        dest: 
+          - 'dull'
+      - 
+        src: 'stumpf machen'
+        mark: 'adj + vt'
+        dest: 
+          - 'dull'
+
+  - 
+    de: 'lieb'
+    added: '2022-09-04 23:27:41.219830'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: '[etw]/jmdn lieb haben'
+        mark: 'adj + vt'
+        dest: 
+          - 'love'
+
+  - 
+    de: 'aufpassen'
+    added: '2022-09-04 23:29:50.076281'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'auf [jmd] aufpassen'
+        mark: 'rdw'
+        dest: 
+          - 'protect'
+      - 
+        src: 'auf [jmd] aufpassen'
+        mark: 'rdw'
+        dest: 
+          - 'look after'
+      - 
+        src: 'auf [etw]/jmdn aufpassen'
+        mark: 'präp + vi, sepa'
+        dest: 
+          - 'watch'
+      - 
+        src: 'auf [etw]/jmdn aufpassen'
+        mark: 'präp + vi, sepa'
+        dest: 
+          - 'pay attention to'
+          - 'watch'
+
+  - 
+    de: 'schachtel'
+    added: '2022-09-04 23:30:55.274688'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'schachtel'
+        mark: 'nf'
+        dest: 
+          - 'box, case'
+      - 
+        src: 'alte schachtel'
+        mark: 'nf'
+        dest: 
+          - 'old bag'
+          - 'old hag'
+
+  - 
+    de: 'reihe'
+    added: '2022-09-04 23:32:18.241165'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'reihe'
+        mark: 'nf'
+        dest: 
+          - 'row'
+          - 'rank'
+      - 
+        src: 'reihe'
+        mark: 'nf'
+        dest: 
+          - 'row'
+      - 
+        src: 'reihe'
+        mark: 'nf'
+        dest: 
+          - 'assortment'
+          - 'series'
+      - 
+        src: 'reihe'
+        mark: 'nf'
+        dest: 
+          - 'line'
+          - 'queue'
+      - 
+        src: 'an der reihe sein'
+        mark: 'rdw'
+        dest: 
+          - 'be'
+          - 'be next'
+      - 
+        src: '[etw] auf die reihe kriegen'
+        mark: 'rdw'
+        dest: 
+          - 'handle'
+          - 'bring'
+      - 
+        src: 'eine reihe bilden'
+        mark: 'rdw'
+        dest: 
+          - 'form a line, form a queue'
+      - 
+        src: 'erste reihe'
+        mark: 'adj + nf'
+        dest: 
+          - 'first row'
+          - 'front row'
+      - 
+        src: 'in einer reihe'
+        mark: 'rdw'
+        dest: 
+          - 'in a row'
+      - 
+        src: 'in einer reihe aufstellen'
+        mark: 'rdw'
+        dest: 
+          - 'set up in a row'
+      - 
+        src: 'in einer reihe laufen'
+        mark: 'rdw'
+        dest: 
+          - 'run in a line'
+      - 
+        src: 'zuerst an der reihe sein'
+        mark: 'rdw'
+        dest: 
+          - 'first in line'
+      - 
+        src: 'reihe'
+        mark: 'f'
+        dest: 
+          - 'row'
+          - 'line'
+
+  - 
+    de: 'zufrieden'
+    added: '2022-09-04 23:33:44.390303'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'zufrieden'
+        mark: 'adj'
+        dest: 
+          - 'satisfied, content'
+      - 
+        src: 'zufriedenstellen'
+        mark: 'vt, sepa'
+        dest: 
+          - 'satisfy'
+      - 
+        src: 'zufrieden'
+        mark: 'adj'
+        dest: 
+          - 'content(ed)'
+          - 'satisfied'
+
+  - 
+    de: 'beschäftigt'
+    added: '2022-09-04 23:34:20.184053'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'beschäftigt'
+        mark: 'adj'
+        dest: 
+          - 'busy'
+      - 
+        src: 'beschäftigt'
+        mark: 'adj'
+        dest: 
+          - 'employed'
+      - 
+        src: 'sehr beschäftigt'
+        mark: 'adv + adj'
+        dest: 
+          - 'very busy'
+
+  - 
+    de: 'nachdenklich'
+    added: '2022-09-04 23:34:54.426222'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'nachdenklich'
+        mark: 'adj'
+        dest: 
+          - 'thoughtful'
+          - 'reflective'
+          - 'meditative'
+          - 'contemplative'
+      - 
+        src: 'nachdenklich machen'
+        mark: 'adj + vt'
+        dest: 
+          - 'provoke thought'
+          - 'be thought-provoking'
+
+  - 
+    de: 'aufgeregt'
+    added: '2022-09-04 23:35:20.972721'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'aufgeregt sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be nervous'
+      - 
+        src: 'aufgeregt sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be irritated'
+
+  - 
+    de: 'regen'
+    added: '2022-09-04 23:35:29.668769'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'regen'
+        mark: 'vr'
+        dest: 
+          - 'stir'
+          - 'move'
+      - 
+        src: 'regen'
+        mark: 'vr'
+        dest: 
+          - 'move'
+      - 
+        src: 'regen'
+        mark: 'nm'
+        dest: 
+          - 'rain'
+          - 'rainfall'
+      - 
+        src: 'regen'
+        mark: 'vr'
+        dest: 
+          - 'stir up'
+      - 
+        src: 'regen'
+        mark: 'nm'
+        dest: 
+          - 'windfall'
 
 
 broken: 
-
+  - 'werven'
+  - 'behrünen'
+  - 'behrunen'
+  - 'berührunen'
+  - 'berürunen'
+  - 'klinngel'
+  - 'biulden'
+  - 'beshäftigt'
