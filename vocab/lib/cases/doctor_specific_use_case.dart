@@ -7,7 +7,7 @@ import 'args/args.dart';
 
 class DoctorSpecificUseCase extends UseCase {
   DoctorSpecificArgs get arguments => (args as DoctorSpecificArgs);
-  DoctorSpecificUseCase(super.args);
+  DoctorSpecificUseCase(args) : super(args);
 
   @override
   Future execute() async {

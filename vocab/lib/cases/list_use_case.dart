@@ -6,7 +6,7 @@ import 'package:vocab/cases/use_case.dart';
 
 class ListUseCase extends UseCase {
   ListArgs get arguments => args as ListArgs;
-  ListUseCase(super.args);
+  ListUseCase(args) : super(args);
 
   @override
   Future execute() {

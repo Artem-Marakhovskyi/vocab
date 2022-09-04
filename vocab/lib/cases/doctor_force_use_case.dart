@@ -2,7 +2,7 @@ import 'package:colorize/colorize.dart';
 import 'package:vocab/cases/use_case.dart';
 
 class DoctorForceUseCase extends UseCase {
-  DoctorForceUseCase(super.args);
+  DoctorForceUseCase(args) : super(args);
 
   @override
   Future execute() async {

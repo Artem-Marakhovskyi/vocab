@@ -7,7 +7,7 @@ import 'args/args.dart';
 
 class TrainingWordsCountUseCase extends UseCase {
   TrainingWordsCountArgs get arguments => args as TrainingWordsCountArgs;
-  TrainingWordsCountUseCase(super.args);
+  TrainingWordsCountUseCase(args) : super(args);
 
   @override
   Future execute() async {

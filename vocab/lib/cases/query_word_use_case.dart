@@ -4,7 +4,7 @@ import 'package:vocab/cases/use_case.dart';
 
 class QueryWordUseCase extends UseCase {
   QueryWordArgs get arguments => args as QueryWordArgs;
-  QueryWordUseCase(super.args);
+  QueryWordUseCase(args) : super(args);
 
   @override
   Future execute() async {

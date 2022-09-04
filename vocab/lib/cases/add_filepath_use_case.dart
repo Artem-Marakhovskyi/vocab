@@ -7,7 +7,7 @@ import '../model/input_dict.dart';
 
 class AddFilepathUseCase extends UseCase {
   AddFilepathArgs get arguments => args as AddFilepathArgs;
-  AddFilepathUseCase(super.args);
+  AddFilepathUseCase(args) : super(args);
 
   @override
   Future execute() async {

@@ -3,7 +3,7 @@ import 'package:vocab/cases/args/args.dart';
 import 'package:vocab/cases/use_case.dart';
 
 class IncorrectArgsUseCase extends UseCase {
-  IncorrectArgsUseCase(super.args);
+  IncorrectArgsUseCase(args) : super(args);
 
   @override
   Future execute() {

@@ -5,7 +5,7 @@ import 'args/args.dart';
 
 class QueryWordsUseCase extends UseCase {
   QueryWordsArgs get arguments => args as QueryWordsArgs;
-  QueryWordsUseCase(super.args);
+  QueryWordsUseCase(args) : super(args);
 
   @override
   Future execute() async {

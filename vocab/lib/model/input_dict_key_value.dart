@@ -4,7 +4,7 @@ import 'input_dict.dart';
 
 class InputDictKeyValue extends InputDict {
   Map<String, List<String>> dict = <String, List<String>>{};
-  InputDictKeyValue(super.filePath);
+  InputDictKeyValue(args) : super(args);
   @override
   Future load() async {
     var lines = await File(filePath).readAsLines();
