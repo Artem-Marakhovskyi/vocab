@@ -1,4 +1,4 @@
-lastUpdated: '2022-09-04 23:36:14.146977'
+lastUpdated: '2022-09-04 23:57:02.477493'
 words: 
   - 
     de: 'stelle'
@@ -21444,6 +21444,556 @@ words:
         dest: 
           - 'surprised'
 
+  - 
+    de: 'einmal'
+    added: '2022-09-04 23:37:19.911518'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'einmal'
+        mark: 'adv'
+        dest: 
+          - 'once'
+          - 'one time'
+      - 
+        src: 'einmal'
+        mark: 'adv'
+        dest: 
+          - 'once upon a time'
+          - 'one day'
+          - 'once'
+      - 
+        src: 'einmal'
+        mark: 'adv'
+        dest: 
+          - 'suddenly'
+      - 
+        src: 'einmal'
+        mark: 'part'
+        dest: 
+          - 'first off'
+          - 'for starters'
+      - 
+        src: 'einmal die woche'
+        mark: 'rdw'
+        dest: 
+          - 'once a week'
+          - 'weekly'
+      - 
+        src: 'einmal im monat'
+        mark: 'rdw'
+        dest: 
+          - 'once a month'
+          - 'monthly'
+      - 
+        src: 'einmal im quartal'
+        mark: 'rdw'
+        dest: 
+          - 'once per quarter'
+          - 'quarterly'
+      - 
+        src: 'einmal in der woche'
+        mark: 'rdw'
+        dest: 
+          - 'once a week'
+          - 'weekly'
+      - 
+        src: 'erst einmal'
+        mark: 'adv + part'
+        dest: 
+          - 'first of all'
+          - 'firstly'
+      - 
+        src: 'früher einmal'
+        mark: 'adv + adv'
+        dest: 
+          - 'once upon a time'
+          - 'back in the day'
+      - 
+        src: 'schon einmal'
+        mark: 'adv + adv'
+        dest: 
+          - 'once already'
+      - 
+        src: 'zuerst einmal'
+        mark: 'adv + adv'
+        dest: 
+          - 'first off'
+      - 
+        src: 'einmal'
+        mark: 'adv'
+        dest: 
+          - 'once'
+
+  - 
+    de: 'wütend'
+    added: '2022-09-04 23:37:42.794022'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'wütend'
+        mark: 'adj'
+        dest: 
+          - 'angry'
+          - 'mad'
+          - 'furious'
+      - 
+        src: 'wütend machen'
+        mark: 'adj + vt'
+        dest: 
+          - 'piss off'
+          - 'make angry'
+
+  - 
+    de: 'vorbei'
+    added: '2022-09-04 23:38:01.880601'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'vorbei'
+        mark: 'adv'
+        dest: 
+          - 'over'
+          - 'past'
+      - 
+        src: 'vorbei'
+        mark: 'adv'
+        dest: 
+          - 'past'
+          - 'by'
+      - 
+        src: 'am ziel vorbei'
+        mark: 'rdw'
+        dest: 
+          - 'miss the target'
+          - 'miss the mark'
+      - 
+        src: 'am ziel vorbei'
+        mark: 'rdw'
+        dest: 
+          - 'miss the point'
+      - 
+        src: 'an [etw] vorbei'
+        mark: 'rdw'
+        dest: 
+          - 'pass by'
+          - 'beside'
+      - 
+        src: 'an [etw] vorbei'
+        mark: 'rdw'
+        dest: 
+          - 'pass'
+          - 'pass by'
+      - 
+        src: 'schnell vorbei gehen'
+        mark: 'rdw'
+        dest: 
+          - 'be over quickly'
+      - 
+        src: 'schnell vorbeigehen'
+        mark: 'adv + vi'
+        dest: 
+          - 'walk by quickly'
+      - 
+        src: 'vorbei gehen'
+        mark: 'adv + vi'
+        dest: 
+          - 'end'
+          - 'be over'
+      - 
+        src: 'vorbeigehen'
+        mark: 'vi, sepa'
+        dest: 
+          - 'pass'
+
+  - 
+    de: 'begeistert'
+    added: '2022-09-04 23:38:48.888462'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'begeistert'
+        mark: 'adj'
+        dest: 
+          - 'enthralled'
+          - 'fascinated'
+      - 
+        src: 'begeistert'
+        mark: 'adj'
+        dest: 
+          - 'excited'
+          - 'delighted'
+          - 'enthusiastic'
+      - 
+        src: 'begeistert'
+        mark: 'im adj'
+        dest: 
+          - '…-mad'
+          - '…-crazy'
+
+  - 
+    de: 'erstaunt'
+    added: '2022-09-04 23:44:20.616957'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'erstaunt'
+        mark: 'adj'
+        dest: 
+          - 'astonished'
+          - 'taken aback'
+      - 
+        src: 'erstaunt'
+        mark: 'adj'
+        dest: 
+          - 'amazed'
+      - 
+        src: 'erstaunt sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be amazed'
+
+  - 
+    de: 'lage'
+    added: '2022-09-04 23:45:01.228112'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'lage'
+        mark: 'nf'
+        dest: 
+          - 'location'
+      - 
+        src: 'lage'
+        mark: 'nf'
+        dest: 
+          - 'situation'
+      - 
+        src: 'lage'
+        mark: 'nf'
+        dest: 
+          - 'position'
+      - 
+        src: 'lage'
+        mark: 'nf'
+        dest: 
+          - 'layer'
+      - 
+        src: 'in der lage'
+        mark: 'rdw'
+        dest: 
+          - 'in this situation'
+      - 
+        src: 'in der lage'
+        mark: 'rdw'
+        dest: 
+          - 'in the position'
+      - 
+        src: 'nicht in der lage'
+        mark: 'rdw'
+        dest: 
+          - 'not in a position'
+      - 
+        src: 'nicht mehr in der lage'
+        mark: 'rdw'
+        dest: 
+          - 'no longer in the position'
+      - 
+        src: 'zugespitzte lage'
+        mark: 'adj + nf'
+        dest: 
+          - 'sensitive situation'
+
+  - 
+    de: 'unterhalten'
+    added: '2022-09-04 23:45:20.670270'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'sich unterhalten'
+        mark: 'vr, fix'
+        dest: 
+          - 'chat'
+          - 'converse'
+      - 
+        src: "'unterhalten"
+        mark: 'v/t (irr, trennb, hat -ge-)'
+        dest: 
+          - 'hold'
+
+  - 
+    de: 'beeindrucken'
+    added: '2022-09-04 23:45:50.968760'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'beeindrucken'
+        mark: 'v/t'
+        dest: 
+          - 'impress'
+
+  - 
+    de: 'stolz'
+    added: '2022-09-04 23:46:08.896466'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'stolz'
+        mark: 'adj'
+        dest: 
+          - 'proud'
+          - 'conceited'
+      - 
+        src: 'stolz'
+        mark: 'adj'
+        dest: 
+          - 'proud'
+          - 'elated'
+      - 
+        src: 'stolz'
+        mark: 'nm'
+        dest: 
+          - 'pride'
+          - 'ego'
+      - 
+        src: 'stolz'
+        mark: 'nm'
+        dest: 
+          - 'pride'
+          - 'conceit'
+      - 
+        src: 'stolz'
+        mark: 'adj'
+        dest: 
+          - 'impressive'
+          - 'imposing'
+      - 
+        src: 'stolz'
+        mark: 'adj'
+        dest: 
+          - 'impressive'
+          - 'large, substantial'
+
+  - 
+    de: 'steinmetz'
+    added: '2022-09-04 23:47:02.688758'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'steinmetz'
+        mark: 'nm'
+        dest: 
+          - 'mason'
+          - 'stonemason'
+
+  - 
+    de: 'lustig'
+    added: '2022-09-04 23:48:26.645285'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'lustig'
+        mark: 'adj'
+        dest: 
+          - 'funny'
+          - 'amusing'
+      - 
+        src: 'lustig'
+        mark: 'adj'
+        dest: 
+          - 'funny'
+          - 'amusing'
+      - 
+        src: 'sehr lustig'
+        mark: 'adv + adj'
+        dest: 
+          - 'very funny'
+      - 
+        src: 'sich über [etw]/jmdn lustig machen'
+        mark: 'vp'
+        dest: 
+          - 'mock'
+          - 'make fun of'
+      - 
+        src: 'sich über [etw/jmd] lustig machen'
+        mark: 'rdw'
+        dest: 
+          - 'make fun of'
+      - 
+        src: 'sich über [etw/jmd] lustig machen'
+        mark: 'rdw'
+        dest: 
+          - 'scoff at'
+          - 'laugh at'
+          - 'make fun of'
+      - 
+        src: 'lustig'
+        mark: 'im adj'
+        dest: 
+          - 'fond of …'
+
+  - 
+    de: 'angeln'
+    added: '2022-09-04 23:48:54.066836'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'angeln'
+        mark: 'vi'
+        dest: 
+          - 'fish'
+      - 
+        src: 'angeln'
+        mark: 'vt'
+        dest: 
+          - 'catch'
+      - 
+        src: 'angeln'
+        mark: 'vt'
+        dest: 
+          - 'find a partner'
+          - 'look for a partner'
+      - 
+        src: 'angel'
+        mark: 'nf'
+        dest: 
+          - 'angel'
+          - 'spirit'
+          - 'cherub'
+
+  - 
+    de: 'beibringen'
+    added: '2022-09-04 23:52:44.576486'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: '[jmd] [etw] beibringen'
+        mark: 'rdw'
+        dest: 
+          - 'teach'
+      - 
+        src: 'beibringen'
+        mark: 'v/t (irr, trennb, hat -ge-)'
+        dest: 
+          - 'break sth to sb'
+
+  - 
+    de: 'grund'
+    added: '2022-09-04 23:56:45.321336'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'grund'
+        mark: 'nm'
+        dest: 
+          - 'reason'
+          - 'cause'
+      - 
+        src: 'grund'
+        mark: 'nm'
+        dest: 
+          - 'bed'
+          - 'seafloor'
+      - 
+        src: 'grund'
+        mark: 'nm'
+        dest: 
+          - 'ground'
+      - 
+        src: '[etw] auf den grund gehen'
+        mark: 'rdw'
+        dest: 
+          - 'get to the bottom of'
+      - 
+        src: 'aus diesem grund'
+        mark: 'rdw'
+        dest: 
+          - 'for this reason'
+      - 
+        src: 'grund sein für'
+        mark: 'rdw'
+        dest: 
+          - 'be the reason for'
+      - 
+        src: 'grund und boden'
+        mark: 'rdw'
+        dest: 
+          - 'land'
+          - 'patch of land'
+          - 'property'
+      - 
+        src: 'in grund und boden spielen'
+        mark: 'rdw'
+        dest: 
+          - 'drive'
+
+  - 
+    de: 'hintergrund'
+    added: '2022-09-04 23:57:02.463872'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'hintergrund'
+        mark: 'nm'
+        dest: 
+          - 'background'
+      - 
+        src: 'hintergrund'
+        mark: 'nm'
+        dest: 
+          - 'background'
+      - 
+        src: 'hintergrund'
+        mark: 'nm'
+        dest: 
+          - 'background'
+      - 
+        src: 'hintergrund'
+        mark: 'nm'
+        dest: 
+          - 'back'
+          - 'backside'
+      - 
+        src: 'hintergrundpapier'
+        mark: 'nn'
+        dest: 
+          - 'paper template'
+      - 
+        src: 'hintergrund'
+        mark: 'm'
+        dest: 
+          - 'background'
+
 
 broken: 
   - 'werven'
@@ -21454,3 +22004,6 @@ broken:
   - 'klinngel'
   - 'biulden'
   - 'beshäftigt'
+  - 'fleißig'
+  - 'metz'
+  - 'intergrund'
