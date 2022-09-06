@@ -1,4 +1,4 @@
-lastUpdated: '2022-09-04 23:57:02.477493'
+lastUpdated: '2022-09-06 19:05:39.271886'
 words: 
   - 
     de: 'stelle'
@@ -21994,6 +21994,2619 @@ words:
         dest: 
           - 'background'
 
+  - 
+    de: 'ansagen'
+    added: '2022-09-05 17:49:06.306652'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'ansage'
+        mark: 'nf'
+        dest: 
+          - 'announcement'
+          - 'declaration'
+      - 
+        src: 'ansage'
+        mark: 'nf'
+        dest: 
+          - 'challenge'
+          - 'declaration'
+      - 
+        src: 'angesagt'
+        mark: 'adj'
+        dest: 
+          - 'popular'
+          - 'hot'
+      - 
+        src: '[etw] ansagen'
+        mark: 'partv tr, sepa'
+        dest: 
+          - 'announce'
+      - 
+        src: 'ansage'
+        mark: 'f'
+        dest: 
+          - 'announcement'
+
+  - 
+    de: 'durchsagen'
+    added: '2022-09-05 17:49:25.558236'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'durchsage'
+        mark: 'nf'
+        dest: 
+          - 'announcement'
+
+  - 
+    de: 'nachrichten'
+    added: '2022-09-05 17:49:53.756007'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'nachrichten'
+        mark: 'npl'
+        dest: 
+          - 'news'
+      - 
+        src: 'nachricht'
+        mark: 'nf'
+        dest: 
+          - 'message'
+          - 'news'
+      - 
+        src: 'neueste nachrichten'
+        mark: 'adj + npl'
+        dest: 
+          - 'latest news'
+
+  - 
+    de: 'bericht'
+    added: '2022-09-05 17:50:05.487333'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'bericht'
+        mark: 'nm'
+        dest: 
+          - 'report'
+      - 
+        src: 'bericht'
+        mark: 'nm'
+        dest: 
+          - 'memorandum'
+          - 'statement'
+          - 'report'
+
+  - 
+    de: 'verkehrsmeldungen'
+    added: '2022-09-05 17:50:35.622011'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'verkehrsmeldung'
+        mark: 'f'
+        dest: 
+          - 'traffic report'
+
+  - 
+    de: 'verkehr'
+    added: '2022-09-05 17:50:43.853551'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'verkehr'
+        mark: 'nm'
+        dest: 
+          - 'traffic'
+      - 
+        src: 'verkehr'
+        mark: 'nm'
+        dest: 
+          - 'circulation'
+      - 
+        src: 'verkehr'
+        mark: 'nm'
+        dest: 
+          - 'contact'
+          - 'dealings'
+      - 
+        src: 'verkehr'
+        mark: 'nm'
+        dest: 
+          - 'sex'
+          - 'coitus'
+      - 
+        src: 'e-mail verkehr'
+        mark: 'nf + nm'
+        dest: 
+          - 'email communication'
+          - 'emails'
+      - 
+        src: 'verkehr'
+        mark: 'm'
+        dest: 
+          - 'traffic'
+
+  - 
+    de: 'meinung'
+    added: '2022-09-05 17:51:16.776566'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'meinung'
+        mark: 'nf'
+        dest: 
+          - 'opinion'
+          - 'view'
+          - 'point of view'
+      - 
+        src: 'der meinung sein, dass'
+        mark: 'rdw'
+        dest: 
+          - 'be of the opinion'
+      - 
+        src: 'eine meinung über [etw] bilden'
+        mark: 'rdw'
+        dest: 
+          - 'form an opinion on'
+      - 
+        src: 'meinung einholen'
+        mark: 'nf + vt'
+        dest: 
+          - 'take a poll'
+          - 'ask for opinions'
+      - 
+        src: 'nach der meinung fragen'
+        mark: 'rdw'
+        dest: 
+          - 'poll'
+      - 
+        src: 'unterschiedlicher meinung sein'
+        mark: 'rdw'
+        dest: 
+          - 'be of different opinions'
+          - 'disagree'
+      - 
+        src: 'meinung'
+        mark: 'f'
+        dest: 
+          - 'opinion'
+
+  - 
+    de: 'erkennen'
+    added: '2022-09-05 17:51:29.431596'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: '[etw] erkennen'
+        mark: 'vt'
+        dest: 
+          - 'see'
+          - 'perceive'
+          - 'discern'
+      - 
+        src: '[etw]/jmdn erkennen'
+        mark: 'vt'
+        dest: 
+          - 'recognize'
+          - 'recognise'
+          - 'identify'
+      - 
+        src: 'sich als [jmd/etw] zu erkennen geben'
+        mark: 'vp'
+        dest: 
+          - 'reveal oneself as'
+      - 
+        src: '[etw] erkennen'
+        mark: 'vt'
+        dest: 
+          - 'recognize'
+          - 'understand'
+      - 
+        src: '[etw] erkennen lassen'
+        mark: 'vt + vt'
+        dest: 
+          - 'reveal'
+          - 'show'
+      - 
+        src: '[etw] erkennen lassen'
+        mark: 'vt + vt'
+        dest: 
+          - 'indicate'
+
+  - 
+    de: 'übersicht'
+    added: '2022-09-05 17:51:56.706825'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'übersicht'
+        mark: 'nf'
+        dest: 
+          - 'overview'
+          - 'outline'
+          - 'summary'
+      - 
+        src: 'übersicht'
+        mark: 'nf'
+        dest: 
+          - 'overview'
+      - 
+        src: 'übersicht'
+        mark: 'f nur sg'
+        dest: 
+          - 'overall view'
+
+  - 
+    de: 'anzeigen'
+    added: '2022-09-05 17:55:18.526650'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'anzeigen'
+        mark: 'vt, sepa'
+        dest: 
+          - 'report'
+      - 
+        src: 'anzeigen'
+        mark: 'vt, sepa'
+        dest: 
+          - 'show'
+          - 'display'
+      - 
+        src: 'anzeigen'
+        mark: 'vt, sepa'
+        dest: 
+          - 'announce'
+      - 
+        src: 'anzeige'
+        mark: 'nf'
+        dest: 
+          - 'ad'
+          - 'advertisement'
+          - 'announcement'
+          - 'complaint'
+
+  - 
+    de: 'meldungen'
+    added: '2022-09-05 17:56:41.595710'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'meldung'
+        mark: 'nf'
+        dest: 
+          - 'report'
+          - 'announcement'
+      - 
+        src: 'meldung'
+        mark: 'nf'
+        dest: 
+          - 'message'
+      - 
+        src: 'meldung machen'
+        mark: 'nf + vt'
+        dest: 
+          - 'declare'
+          - 'notify'
+          - 'register'
+      - 
+        src: 'meldung'
+        mark: 'f'
+        dest: 
+          - 'announcement'
+
+  - 
+    de: 'mitteilungen'
+    added: '2022-09-05 17:56:59.680208'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'mitteilung'
+        mark: 'nf'
+        dest: 
+          - 'message'
+      - 
+        src: 'eine mitteilung schicken'
+        mark: 'rdw'
+        dest: 
+          - 'send a text'
+          - 'send a text message'
+          - 'send an sms'
+      - 
+        src: 'mitteilung senden'
+        mark: 'nf + vt'
+        dest: 
+          - 'send notice'
+
+  - 
+    de: 'vorbereitung'
+    added: '2022-09-05 18:01:29.800887'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'vorbereitung'
+        mark: 'nf'
+        dest: 
+          - 'preparation'
+      - 
+        src: 'vorbereitung'
+        mark: 'f'
+        dest: 
+          - 'preparation'
+
+  - 
+    de: 'achten'
+    added: '2022-09-05 18:02:03.592476'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'auf [etw]/jmdn achten'
+        mark: 'präp + vi'
+        dest: 
+          - 'take care of'
+          - 'look after'
+          - 'look out for'
+      - 
+        src: 'jmdn/[etw] achten'
+        mark: 'vt'
+        dest: 
+          - 'respect'
+          - 'pay attention to'
+      - 
+        src: 'auf [etw] achten'
+        mark: 'vi + präp'
+        dest: 
+          - 'take'
+          - 'pay attention to'
+      - 
+        src: 'auf [etw] achten'
+        mark: 'rdw'
+        dest: 
+          - 'take'
+      - 
+        src: 'auf [etw] achten'
+        mark: 'rdw'
+        dest: 
+          - 'pay attention to'
+      - 
+        src: 'auf [jmd] achten'
+        mark: 'rdw'
+        dest: 
+          - 'take care of'
+      - 
+        src: 'jdn achten'
+        mark: 'pron + vt'
+        dest: 
+          - 'respect'
+      - 
+        src: 'achten'
+        mark: 'v/t'
+        dest: 
+          - 'outlaw'
+
+  - 
+    de: 'sendungen'
+    added: '2022-09-05 18:02:52.550452'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'sendung'
+        mark: 'nf'
+        dest: 
+          - 'package, parcel'
+          - 'shipment'
+      - 
+        src: 'sendung'
+        mark: 'nf'
+        dest: 
+          - 'transmission'
+      - 
+        src: 'sendung'
+        mark: 'nf'
+        dest: 
+          - 'show'
+      - 
+        src: 'sendung'
+        mark: 'nf'
+        dest: 
+          - 'broadcast'
+          - 'radio show'
+      - 
+        src: 'sendung'
+        mark: 'nf'
+        dest: 
+          - 'mission'
+      - 
+        src: 'eine sendung moderieren'
+        mark: 'rdw'
+        dest: 
+          - 'host a tv show'
+      - 
+        src: 'sendung'
+        mark: 'f'
+        dest: 
+          - 'parcel'
+
+  - 
+    de: 'gewöhnen'
+    added: '2022-09-05 18:03:13.710998'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'an blut gewöhnen'
+        mark: 'rdw'
+        dest: 
+          - 'get used to blood'
+
+  - 
+    de: 'klang'
+    added: '2022-09-05 18:03:29.118291'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'klang'
+        mark: 'nm'
+        dest: 
+          - 'tone'
+      - 
+        src: 'klang'
+        mark: 'nm'
+        dest: 
+          - 'sound'
+      - 
+        src: 'klang'
+        mark: 'm'
+        dest: 
+          - 'sound'
+
+  - 
+    de: 'gelegenheit'
+    added: '2022-09-05 18:03:49.308533'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'gelegenheit'
+        mark: 'nf'
+        dest: 
+          - 'opportunity'
+          - 'chance'
+      - 
+        src: 'gelegenheit'
+        mark: 'nf'
+        dest: 
+          - 'occasion'
+          - 'opportunity'
+      - 
+        src: 'bei gelegenheit'
+        mark: 'präp + nf'
+        dest: 
+          - 'occasionally'
+          - 'on occasion'
+      - 
+        src: 'gelegenheit'
+        mark: 'f'
+        dest: 
+          - 'opportunity'
+          - 'chance'
+
+  - 
+    de: 'je'
+    added: '2022-09-05 18:04:00.650447'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'je'
+        mark: 'präp'
+        dest: 
+          - 'per'
+      - 
+        src: 'je'
+        mark: 'adv'
+        dest: 
+          - 'each'
+      - 
+        src: 'je'
+        mark: 'adv'
+        dest: 
+          - 'ever'
+      - 
+        src: 'je...umso'
+        mark: ''
+        dest: 
+          - 'the...the'
+
+  - 
+    de: 'öfter'
+    added: '2022-09-05 18:04:09.557134'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'öfter'
+        mark: 'adv'
+        dest: 
+          - 'repeatedly'
+          - 'more often'
+      - 
+        src: 'öfter'
+        mark: 'adv'
+        dest: 
+          - 'more often'
+
+  - 
+    de: 'desto'
+    added: '2022-09-05 18:04:36.538191'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'desto'
+        mark: 'konj'
+        dest: 
+          - 'the'
+      - 
+        src: 'desto'
+        mark: 'konj'
+        dest: 
+          - '(all) the'
+
+  - 
+    de: 'überall'
+    added: '2022-09-05 18:05:00.095252'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'überall'
+        mark: 'adv'
+        dest: 
+          - 'everywhere'
+      - 
+        src: 'überall'
+        mark: 'adv'
+        dest: 
+          - 'everywhere'
+
+  - 
+    de: 'zeitungen'
+    added: '2022-09-05 18:05:38.550102'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'zeitung'
+        mark: 'nf'
+        dest: 
+          - 'newspaper'
+          - 'paper'
+      - 
+        src: 'zeitung lesen'
+        mark: 'rdw'
+        dest: 
+          - 'read the newspaper'
+      - 
+        src: 'zeitung'
+        mark: 'f'
+        dest: 
+          - '(news)paper'
+
+  - 
+    de: 'werbung'
+    added: '2022-09-05 18:05:55.372719'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'werbung'
+        mark: 'nf'
+        dest: 
+          - 'publicity'
+          - 'advertising'
+      - 
+        src: 'werbung'
+        mark: 'nf'
+        dest: 
+          - 'advertising'
+      - 
+        src: 'werbung'
+        mark: 'nf'
+        dest: 
+          - 'advertising'
+          - 'public relations'
+      - 
+        src: 'werbung'
+        mark: 'nf'
+        dest: 
+          - 'advertising media, advertising material'
+      - 
+        src: 'werbung'
+        mark: 'nf'
+        dest: 
+          - 'advertisement, commercial'
+          - 'ad'
+      - 
+        src: 'in der werbung anpreisen'
+        mark: 'rdw'
+        dest: 
+          - 'advertise in the commercial'
+      - 
+        src: 'werbung machen'
+        mark: 'nf + vt'
+        dest: 
+          - 'advertise'
+      - 
+        src: 'werbung'
+        mark: 'f'
+        dest: 
+          - 'advertising'
+          - 'publicity'
+
+  - 
+    de: 'hinein'
+    added: '2022-09-05 18:06:13.102650'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'hinein'
+        mark: 'adv'
+        dest: 
+          - 'in'
+          - 'inside'
+          - 'into'
+      - 
+        src: 'hinein'
+        mark: 'adv'
+        dest: 
+          - 'until'
+          - 'till'
+      - 
+        src: 'da hinein'
+        mark: 'adv + adv'
+        dest: 
+          - 'in there'
+      - 
+        src: 'hinein'
+        mark: 'adv'
+        dest: 
+          - 'in'
+
+  - 
+    de: 'schauen'
+    added: '2022-09-05 18:06:25.138304'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'schauen'
+        mark: 'vi'
+        dest: 
+          - 'look'
+      - 
+        src: 'schauen'
+        mark: 'vi'
+        dest: 
+          - 'look after somebody'
+          - 'care for somebody'
+      - 
+        src: 'schauen'
+        mark: 'vi'
+        dest: 
+          - 'try'
+      - 
+        src: 'kurz schauen'
+        mark: 'adv + vi'
+        dest: 
+          - 'look quickly'
+          - 'look briefly'
+      - 
+        src: 'kurz schauen'
+        mark: 'adv + vi'
+        dest: 
+          - 'check real quick'
+
+  - 
+    de: 'zeitschriften'
+    added: '2022-09-05 18:07:10.297096'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'zeitschrift'
+        mark: 'nf'
+        dest: 
+          - 'magazine, journal'
+      - 
+        src: 'monatlich erscheinende zeitschrift'
+        mark: 'rdw'
+        dest: 
+          - 'monthly publication'
+          - 'magazine'
+      - 
+        src: 'zeitschrift'
+        mark: 'f'
+        dest: 
+          - 'magazine'
+
+  - 
+    de: 'wortschatz'
+    added: '2022-09-05 18:07:31.881225'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'wortschatz'
+        mark: 'm'
+        dest: 
+          - 'vocabulary'
+
+  - 
+    de: 'schatz'
+    added: '2022-09-05 18:07:44.957344'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'schatz'
+        mark: 'nm'
+        dest: 
+          - 'treasure, hoard'
+      - 
+        src: 'schatz'
+        mark: 'int'
+        dest: 
+          - 'honey, hon, sweetie, precious'
+      - 
+        src: 'schatz'
+        mark: 'nm'
+        dest: 
+          - 'treasure trove'
+      - 
+        src: 'schatz'
+        mark: 'm'
+        dest: 
+          - 'treasure'
+
+  - 
+    de: 'verständlich'
+    added: '2022-09-05 18:09:03.177679'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'verständlich'
+        mark: 'adj'
+        dest: 
+          - 'intelligible'
+          - 'understandable'
+          - 'clear'
+      - 
+        src: 'verständlich'
+        mark: 'adj'
+        dest: 
+          - 'understandable'
+          - 'coherent'
+          - 'comprehensible'
+      - 
+        src: 'verständlich'
+        mark: 'adj'
+        dest: 
+          - 'concise'
+          - 'clear'
+
+  - 
+    de: 'mitglied'
+    added: '2022-09-05 18:10:07.902060'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'mitglied'
+        mark: 'nn'
+        dest: 
+          - 'member'
+      - 
+        src: 'mitglied'
+        mark: 'nn'
+        dest: 
+          - 'member'
+      - 
+        src: 'mitglied in einem club sein, mitglied in einem verein sein'
+        mark: 'rdw'
+        dest: 
+          - 'be a member of a club'
+      - 
+        src: 'mitglied werden'
+        mark: 'nn + vi'
+        dest: 
+          - 'become a member'
+      - 
+        src: 'neues mitglied'
+        mark: 'adj + nn'
+        dest: 
+          - 'new member'
+      - 
+        src: 'mitglied'
+        mark: 'n'
+        dest: 
+          - 'member'
+
+  - 
+    de: 'prufung'
+    added: '2022-09-05 18:11:06.677680'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'prüfung'
+        mark: 'nf'
+        dest: 
+          - 'inspection, test'
+          - 'assessment, review'
+      - 
+        src: 'prüfung'
+        mark: 'nf'
+        dest: 
+          - 'exam'
+          - 'test'
+          - 'examination, assessment'
+      - 
+        src: 'prüfung'
+        mark: 'nf'
+        dest: 
+          - 'assessment'
+          - 'verification, control'
+      - 
+        src: 'prüfung'
+        mark: 'nf'
+        dest: 
+          - 'test, ordeal'
+      - 
+        src: 'genaue prüfung'
+        mark: 'adj  + nf'
+        dest: 
+          - 'detailed examination'
+      - 
+        src: 'harte prüfung'
+        mark: 'adj + nf'
+        dest: 
+          - 'hard test'
+      - 
+        src: 'harte prüfung'
+        mark: 'adj + nf'
+        dest: 
+          - 'difficult test'
+
+  - 
+    de: 'kästen'
+    added: '2022-09-05 18:12:04.239730'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'kasten'
+        mark: 'nm'
+        dest: 
+          - 'box, case'
+          - 'chest'
+      - 
+        src: 'kasten'
+        mark: 'nm'
+        dest: 
+          - 'crate'
+      - 
+        src: 'kasten'
+        mark: 'nm'
+        dest: 
+          - 'box'
+      - 
+        src: 'kasten'
+        mark: 'm'
+        dest: 
+          - 'box'
+
+  - 
+    de: 'tipps'
+    added: '2022-09-05 18:12:24.950827'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'tipp'
+        mark: 'nm'
+        dest: 
+          - 'hint, tip'
+      - 
+        src: 'tipp'
+        mark: 'nm'
+        dest: 
+          - 'advice'
+
+  - 
+    de: 'bevor'
+    added: '2022-09-05 18:13:16.483979'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'bevor'
+        mark: 'konj'
+        dest: 
+          - 'before'
+
+  - 
+    de: 'sammeln'
+    added: '2022-09-05 18:14:15.884503'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: '[etw] sammeln'
+        mark: 'vt'
+        dest: 
+          - 'collect'
+      - 
+        src: '[etw] sammeln'
+        mark: 'vt'
+        dest: 
+          - 'collect'
+          - 'gather'
+      - 
+        src: 'sammeln'
+        mark: 'vr'
+        dest: 
+          - 'gather'
+          - 'bring together'
+      - 
+        src: 'austern sammeln'
+        mark: 'npl + vt'
+        dest: 
+          - 'collect oysters'
+      - 
+        src: 'briefmarken sammeln'
+        mark: 'npl + vt'
+        dest: 
+          - 'collect stamps'
+      - 
+        src: 'muscheln sammeln'
+        mark: 'npl + vt'
+        dest: 
+          - 'gather seashells'
+      - 
+        src: 'muscheln sammeln'
+        mark: 'npl + vt'
+        dest: 
+          - 'collect seashells'
+      - 
+        src: 'sich sammeln'
+        mark: 'vr'
+        dest: 
+          - 'gather your thoughts'
+      - 
+        src: 'spenden sammeln'
+        mark: 'npl + vt'
+        dest: 
+          - 'gather donations'
+
+  - 
+    de: 'punkte'
+    added: '2022-09-05 18:14:38.627915'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'punkt'
+        mark: 'nm'
+        dest: 
+          - 'spot'
+          - 'dot'
+      - 
+        src: 'punkt'
+        mark: 'nm'
+        dest: 
+          - 'problem'
+          - 'point'
+      - 
+        src: 'punkt'
+        mark: 'nm'
+        dest: 
+          - 'time'
+          - 'moment'
+      - 
+        src: 'punkt'
+        mark: 'nm'
+        dest: 
+          - 'spot'
+      - 
+        src: 'punkt'
+        mark: 'nm'
+        dest: 
+          - 'full stop'
+          - 'dot'
+      - 
+        src: 'punkt'
+        mark: 'nm'
+        dest: 
+          - 'point'
+      - 
+        src: 'auf den punkt'
+        mark: 'rdw'
+        dest: 
+          - 'cooked perfectly'
+      - 
+        src: 'auf den punkt'
+        mark: 'rdw'
+        dest: 
+          - 'to the point'
+      - 
+        src: 'auf den punkt gebracht'
+        mark: 'rdw'
+        dest: 
+          - 'brought to the point'
+          - 'brought to the heart of the matter'
+      - 
+        src: 'auf den punkt genau'
+        mark: 'rdw'
+        dest: 
+          - 'exactly'
+      - 
+        src: 'auf den punkt genau'
+        mark: 'rdw'
+        dest: 
+          - 'cooked perfectly'
+      - 
+        src: 'den tiefsten punkt erreichen'
+        mark: 'rdw'
+        dest: 
+          - 'reach the lowest point'
+      - 
+        src: 'den tiefsten punkt erreichen'
+        mark: 'rdw'
+        dest: 
+          - 'hit rock bottom'
+      - 
+        src: 'einen punkt machen'
+        mark: 'rdw'
+        dest: 
+          - 'get a point, score a point'
+          - 'score'
+      - 
+        src: 'einen punkt machen'
+        mark: 'rdw'
+        dest: 
+          - 'get a grade'
+          - 'get credit'
+      - 
+        src: 'höchster punkt'
+        mark: 'adj + nm'
+        dest: 
+          - 'highest point'
+      - 
+        src: 'punkt machen'
+        mark: 'nm + vt'
+        dest: 
+          - 'come off it'
+      - 
+        src: 'wichtiger punkt'
+        mark: 'adj + nm'
+        dest: 
+          - 'important point'
+      - 
+        src: 'wunder punkt'
+        mark: 'adj + nm'
+        dest: 
+          - 'weakness'
+      - 
+        src: 'punkt'
+        mark: 'm'
+        dest: 
+          - 'dot'
+          - 'spot'
+
+  - 
+    de: 'beachten'
+    added: '2022-09-05 18:14:59.197589'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: '[etw] beachten'
+        mark: 'vt'
+        dest: 
+          - 'accept'
+          - 'follow'
+          - 'stick to'
+      - 
+        src: '[etw]/jmdn beachten'
+        mark: 'vt'
+        dest: 
+          - 'notice'
+          - 'pay attention to'
+      - 
+        src: 'nicht beachten'
+        mark: 'part + vt'
+        dest: 
+          - 'ignore'
+      - 
+        src: 'beachten'
+        mark: 'v/t'
+        dest: 
+          - 'obey'
+          - 'heed'
+          - 'comply with'
+          - 'observe'
+
+  - 
+    de: 'hinweise'
+    added: '2022-09-05 18:16:43.351740'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'hinweis'
+        mark: 'nm'
+        dest: 
+          - 'advice'
+          - 'piece of advice'
+          - 'tip'
+      - 
+        src: 'hinweis'
+        mark: 'nm'
+        dest: 
+          - 'indication'
+          - 'hint, clue'
+      - 
+        src: 'einen hinweis geben'
+        mark: 'rdw'
+        dest: 
+          - 'give a tip, give a hint'
+      - 
+        src: 'hinweis'
+        mark: 'm'
+        dest: 
+          - 'tip'
+          - 'piece of advice'
+
+  - 
+    de: 'beruflich'
+    added: '2022-09-05 18:17:12.626873'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'beruflich machen'
+        mark: 'adj + vt'
+        dest: 
+          - 'do for a living'
+
+  - 
+    de: 'gespräche'
+    added: '2022-09-05 18:20:22.439413'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'gespräch'
+        mark: 'nn'
+        dest: 
+          - 'conversation'
+      - 
+        src: 'gespräch'
+        mark: 'nn'
+        dest: 
+          - 'conversation'
+          - 'discuss'
+      - 
+        src: 'ein gespräch an die backe kleben'
+        mark: 'rdw'
+        dest: 
+          - 'force conversation on'
+          - 'talk at'
+      - 
+        src: 'ein gespräch ans bein binden'
+        mark: 'rdw'
+        dest: 
+          - 'force conversation on'
+          - 'talk at'
+      - 
+        src: 'gespräch führen'
+        mark: 'nn  + vt'
+        dest: 
+          - 'converse'
+          - 'have a conversation'
+      - 
+        src: 'in ein gespräch verwickeln'
+        mark: 'rdw'
+        dest: 
+          - 'get into a conversation'
+      - 
+        src: 'gespräch'
+        mark: 'n'
+        dest: 
+          - 'conversation'
+
+  - 
+    de: 'teil'
+    added: '2022-09-05 18:41:29.414662'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'teil'
+        mark: 'nm'
+        dest: 
+          - 'part'
+          - 'chunk'
+      - 
+        src: 'teil'
+        mark: 'nm'
+        dest: 
+          - 'portion'
+          - 'share'
+      - 
+        src: 'teil'
+        mark: 'nm'
+        dest: 
+          - 'component'
+          - 'part'
+      - 
+        src: 'teil'
+        mark: 'nn'
+        dest: 
+          - 'thing'
+      - 
+        src: 'den größten teil'
+        mark: 'rdw'
+        dest: 
+          - 'most'
+          - 'the majority'
+      - 
+        src: 'den größten teil'
+        mark: 'rdw'
+        dest: 
+          - 'most of the time'
+      - 
+        src: 'geringer teil'
+        mark: 'adj + nm'
+        dest: 
+          - 'small part'
+      - 
+        src: 'größter teil'
+        mark: 'adj + nm'
+        dest: 
+          - 'biggest section'
+      - 
+        src: 'größter teil'
+        mark: 'adj + nm'
+        dest: 
+          - 'biggest portion'
+      - 
+        src: 'hinterer teil'
+        mark: 'adj + nm'
+        dest: 
+          - 'back part'
+      - 
+        src: 'im hinteren teil'
+        mark: 'rdw'
+        dest: 
+          - 'in the back part'
+      - 
+        src: 'kleiner teil'
+        mark: 'adj + nm'
+        dest: 
+          - 'small piece'
+      - 
+        src: 'kleiner teil'
+        mark: 'adj + nm'
+        dest: 
+          - 'small part'
+      - 
+        src: 'mickeriger teil'
+        mark: 'adj + nm'
+        dest: 
+          - 'paltry share'
+          - 'tiny part'
+      - 
+        src: 'oberer teil'
+        mark: 'adv + nm'
+        dest: 
+          - 'upper part'
+      - 
+        src: 'teil der bevölkerung'
+        mark: 'rdw'
+        dest: 
+          - 'part of the population'
+      - 
+        src: 'unterer teil'
+        mark: 'adj + nm'
+        dest: 
+          - 'lower part, bottom part'
+      - 
+        src: 'vorderer teil'
+        mark: 'adj + nm'
+        dest: 
+          - 'front part'
+      - 
+        src: 'zum großen teil'
+        mark: 'rdw'
+        dest: 
+          - 'in the large part'
+      - 
+        src: 'zum größten teil'
+        mark: 'rdw'
+        dest: 
+          - 'mainly'
+          - 'primarily'
+      - 
+        src: 'teil'
+        mark: 'm'
+        dest: 
+          - 'part'
+
+  - 
+    de: 'insgesamt'
+    added: '2022-09-05 18:43:18.701668'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'insgesamt'
+        mark: 'adv'
+        dest: 
+          - 'all in all'
+          - 'in total'
+      - 
+        src: 'insgesamt'
+        mark: 'adv'
+        dest: 
+          - 'altogether'
+          - 'in all'
+
+  - 
+    de: 'unterricht'
+    added: '2022-09-05 18:50:37.817247'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'unterricht'
+        mark: 'nm'
+        dest: 
+          - 'class, lesson'
+      - 
+        src: 'unterricht geben'
+        mark: 'nm + vt'
+        dest: 
+          - 'give a lecture'
+          - 'teach'
+          - 'give a lesson'
+
+  - 
+    de: 'vertretung'
+    added: '2022-09-05 18:55:28.967167'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'vertretung'
+        mark: 'nf'
+        dest: 
+          - 'representation'
+          - 'representing'
+      - 
+        src: 'vertretung'
+        mark: 'nf'
+        dest: 
+          - 'representation'
+          - 'supply teacher'
+          - 'stand-in'
+      - 
+        src: 'vertretung'
+        mark: 'nf'
+        dest: 
+          - 'representation'
+      - 
+        src: 'vertretung'
+        mark: 'f'
+        dest: 
+          - 'representation'
+
+  - 
+    de: 'nun'
+    added: '2022-09-05 18:57:04.564087'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'nun'
+        mark: 'adv'
+        dest: 
+          - 'now'
+      - 
+        src: 'nun'
+        mark: 'adv'
+        dest: 
+          - 'nowadays'
+          - 'today'
+      - 
+        src: 'nun'
+        mark: 'adv'
+        dest: 
+          - 'meanwhile'
+      - 
+        src: 'nun'
+        mark: 'part'
+        dest: 
+          - 'so'
+      - 
+        src: 'von nun an'
+        mark: 'rdw'
+        dest: 
+          - 'from now on'
+
+  - 
+    de: 'wofür'
+    added: '2022-09-05 18:59:29.925256'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'wofür'
+        mark: 'adv'
+        dest: 
+          - 'for what'
+          - 'for which'
+      - 
+        src: 'wofür'
+        mark: 'adv'
+        dest: 
+          - 'for which'
+
+  - 
+    de: 'lebensmittel'
+    added: '2022-09-05 18:59:59.693172'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'lebensmittel, plural: lebensmittel'
+        mark: 'nn'
+        dest: 
+          - 'food'
+          - 'groceries'
+      - 
+        src: 'nahrungsmittel, lebensmittel'
+        mark: 'nn'
+        dest: 
+          - 'food'
+          - 'food product'
+      - 
+        src: 'lebensmittel'
+        mark: 'pl'
+        dest: 
+          - 'food'
+
+  - 
+    de: 'verlangen'
+    added: '2022-09-05 20:56:08.300657'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'verlangen'
+        mark: 'nn'
+        dest: 
+          - 'desire'
+          - 'demand'
+          - 'craving'
+      - 
+        src: '[etw] verlangen'
+        mark: 'vt'
+        dest: 
+          - 'demand'
+      - 
+        src: 'jmdn verlagen'
+        mark: 'vt'
+        dest: 
+          - 'request'
+          - 'demand'
+      - 
+        src: 'karte verlangen'
+        mark: 'nf + vt'
+        dest: 
+          - 'request a menu'
+          - 'ask for a menu'
+      - 
+        src: 'nach einer zugabe verlangen'
+        mark: 'rdw'
+        dest: 
+          - 'demand an encore'
+      - 
+        src: 'natürliches verlangen'
+        mark: 'adj + nn'
+        dest: 
+          - 'basic need'
+
+  - 
+    de: 'darin'
+    added: '2022-09-05 21:00:34.033494'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'darin'
+        mark: 'adv'
+        dest: 
+          - 'in it'
+          - 'in'
+
+  - 
+    de: 'zehen'
+    added: '2022-09-05 21:01:31.521339'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'mit dem zeh anstoßen'
+        mark: 'rdw'
+        dest: 
+          - 'stub your toe'
+      - 
+        src: 'zeh'
+        mark: 'm'
+        dest: 
+          - 'toe'
+
+  - 
+    de: 'herum'
+    added: '2022-09-05 21:09:02.541695'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'herum'
+        mark: 'adv'
+        dest: 
+          - 'around'
+      - 
+        src: 'herum'
+        mark: 'adv'
+        dest: 
+          - 'around'
+
+  - 
+    de: 'soweit'
+    added: '2022-09-05 21:11:36.912945'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'soweit'
+        mark: 'konj'
+        dest: 
+          - 'insofar'
+      - 
+        src: 'soweit sein'
+        mark: 'konj + vi'
+        dest: 
+          - 'be time for'
+          - 'time is up'
+      - 
+        src: 'soweit sein'
+        mark: 'konj + vi'
+        dest: 
+          - 'be ready'
+      - 
+        src: 'soweit'
+        mark: 'konj'
+        dest: 
+          - 'as far as'
+
+  - 
+    de: 'gleichzeitig'
+    added: '2022-09-05 21:12:53.523225'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'gleichzeitig'
+        mark: 'adv'
+        dest: 
+          - 'at the same time'
+          - 'simultaneously'
+      - 
+        src: 'gleichzeitig ereignen'
+        mark: 'adv + vr'
+        dest: 
+          - 'happen at the same time'
+          - 'happen simultaneously'
+      - 
+        src: 'und gleichzeitig'
+        mark: 'konj + adj'
+        dest: 
+          - 'and simultaneously'
+          - 'and at the same time'
+
+  - 
+    de: 'verruckt'
+    added: '2022-09-05 21:14:24.684656'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'verrückt'
+        mark: 'adj'
+        dest: 
+          - 'crazy'
+      - 
+        src: 'verrückt'
+        mark: 'adj'
+        dest: 
+          - 'insane'
+          - 'mad, nuts'
+          - 'mentally ill'
+      - 
+        src: 'verrückt'
+        mark: 'adj'
+        dest: 
+          - 'eccentric'
+          - 'crazy'
+      - 
+        src: 'nach [etw] verrückt sein'
+        mark: 'rdw'
+        dest: 
+          - 'be crazy for'
+      - 
+        src: 'nach jdm verrückt sein'
+        mark: 'rdw'
+        dest: 
+          - 'be crazy about'
+      - 
+        src: 'verrückt nach [etw]'
+        mark: 'rdw'
+        dest: 
+          - 'crazy for'
+      - 
+        src: 'verrückt nach jdm'
+        mark: 'rdw'
+        dest: 
+          - 'crazy about'
+      - 
+        src: 'verrückt vor sorge'
+        mark: 'rdw'
+        dest: 
+          - 'crazy worried'
+
+  - 
+    de: 'vorteile'
+    added: '2022-09-05 21:14:56.990237'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'vorteil'
+        mark: 'nm'
+        dest: 
+          - 'benefit'
+          - 'advantage'
+          - 'edge'
+      - 
+        src: 'eigener vorteil'
+        mark: 'adj + nm'
+        dest: 
+          - 'own benefit, own advantage'
+      - 
+        src: 'einen vorteil haben'
+        mark: 'rdw'
+        dest: 
+          - 'have an advantage'
+      - 
+        src: 'von vorteil sein'
+        mark: 'rdw'
+        dest: 
+          - 'advantageous'
+      - 
+        src: 'vorteil'
+        mark: 'm'
+        dest: 
+          - 'advantage'
+
+  - 
+    de: 'schlafanzug'
+    added: '2022-09-05 21:15:32.849035'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'schlafanzug'
+        mark: 'nm'
+        dest: 
+          - "pj's"
+          - 'pyjamas'
+          - 'pajamas'
+
+  - 
+    de: 'aufnehmen'
+    added: '2022-09-05 21:15:57.870365'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: '[etw/jmd] aufnehmen'
+        mark: 'vt, sepa'
+        dest: 
+          - 'record'
+      - 
+        src: '[etw] aufnehmen'
+        mark: 'vt, sepa'
+        dest: 
+          - 'commence'
+      - 
+        src: '[etw] aufnehmen'
+        mark: 'vt, sepa'
+        dest: 
+          - 'react to'
+      - 
+        src: '[jmd] aufnehmen'
+        mark: 'vt, sepa'
+        dest: 
+          - 'host'
+          - 'welcome'
+      - 
+        src: 'auf video aufnehmen'
+        mark: 'rdw'
+        dest: 
+          - 'record video'
+      - 
+        src: 'auf video aufnehmen'
+        mark: 'rdw'
+        dest: 
+          - 'film'
+      - 
+        src: 'eine hypothek aufnehmen'
+        mark: 'rdw'
+        dest: 
+          - 'take out a mortgage'
+          - 'get a mortgage'
+      - 
+        src: 'in ein verzeichnis aufnehmen'
+        mark: 'rdw'
+        dest: 
+          - 'index'
+      - 
+        src: 'kredit aufnehmen'
+        mark: 'nm + vt'
+        dest: 
+          - 'take out a loan'
+      - 
+        src: 'passagiere aufnehmen'
+        mark: 'npl + vt'
+        dest: 
+          - 'let passengers board'
+          - 'let passengers get on'
+          - 'take on passengers'
+      - 
+        src: 'wieder aufnehmen'
+        mark: 'adv + vt'
+        dest: 
+          - 'readmit'
+
+  - 
+    de: 'aufnahme'
+    added: '2022-09-05 21:17:03.333970'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'aufnahme'
+        mark: 'nf'
+        dest: 
+          - 'recording'
+      - 
+        src: 'aufnahme'
+        mark: 'nf'
+        dest: 
+          - 'accommodation'
+      - 
+        src: 'aufnahme'
+        mark: 'nf'
+        dest: 
+          - 'begin'
+          - 'start'
+      - 
+        src: 'aufnahme aus der froschperspektive'
+        mark: 'rdw'
+        dest: 
+          - "worm's eye view"
+          - 'low angle shot'
+
+  - 
+    de: 'ablauf'
+    added: '2022-09-05 21:18:01.128453'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'ablauf'
+        mark: 'nm'
+        dest: 
+          - 'process'
+          - 'procedure'
+          - 'course'
+      - 
+        src: 'ablauf'
+        mark: 'm'
+        dest: 
+          - 'flowing'
+          - 'outflow'
+          - 'discharge'
+
+  - 
+    de: 'mittlerweile'
+    added: '2022-09-05 23:34:00.988258'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'mittlerweile'
+        mark: 'adv'
+        dest: 
+          - 'in the meantime'
+          - 'meanwhile'
+          - 'by now'
+      - 
+        src: 'mittlerweile'
+        mark: 'adv'
+        dest: 
+          - 'meanwhile'
+      - 
+        src: 'mittlerweile'
+        mark: 'adv'
+        dest: 
+          - 'meanwhile'
+          - '(in the) meantime'
+
+  - 
+    de: 'aufgrund'
+    added: '2022-09-05 23:35:20.929244'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'aufgrund'
+        mark: 'präp'
+        dest: 
+          - 'due to'
+          - 'because of'
+          - 'owing to'
+
+  - 
+    de: 'bereiche'
+    added: '2022-09-05 23:35:40.733398'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'bereich'
+        mark: 'nm'
+        dest: 
+          - 'area'
+          - 'section'
+          - 'zone'
+          - 'part'
+      - 
+        src: 'bereich'
+        mark: 'nm'
+        dest: 
+          - 'department'
+          - 'division'
+          - 'sector'
+      - 
+        src: 'außerörtlicher bereich'
+        mark: 'adj + nm'
+        dest: 
+          - 'rural area'
+      - 
+        src: 'unbeschriebenes blatt'
+        mark: 'v part perf + nn'
+        dest: 
+          - 'blank slate'
+
+  - 
+    de: 'einsatz'
+    added: '2022-09-05 23:36:45.103260'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'einsatz'
+        mark: 'nm'
+        dest: 
+          - 'effort'
+      - 
+        src: 'einsatz'
+        mark: 'nm'
+        dest: 
+          - 'use'
+      - 
+        src: 'einsatz'
+        mark: 'nm'
+        dest: 
+          - 'deployment'
+      - 
+        src: 'einsatz'
+        mark: 'nm'
+        dest: 
+          - 'bet'
+      - 
+        src: 'einsatz'
+        mark: 'nm'
+        dest: 
+          - 'cue'
+      - 
+        src: 'im einsatz'
+        mark: 'präp + nm'
+        dest: 
+          - 'in use'
+      - 
+        src: 'im einsatz'
+        mark: 'präp + nm'
+        dest: 
+          - 'on duty'
+      - 
+        src: 'im einsatz'
+        mark: 'präp + nm'
+        dest: 
+          - 'employed'
+      - 
+        src: 'in den einsatz schicken'
+        mark: 'rdw'
+        dest: 
+          - 'send out'
+      - 
+        src: 'in den einsatz schicken'
+        mark: 'rdw'
+        dest: 
+          - 'deploy'
+      - 
+        src: '[etw] zum einsatz bringen'
+        mark: 'vp'
+        dest: 
+          - 'put'
+          - 'deploy'
+          - 'put'
+      - 
+        src: 'einsatz'
+        mark: 'm'
+        dest: 
+          - 'insert'
+
+  - 
+    de: 'krass'
+    added: '2022-09-05 23:38:30.371118'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'krass'
+        mark: 'adj'
+        dest: 
+          - 'crass'
+
+  - 
+    de: 'wahlkreis'
+    added: '2022-09-05 23:39:22.786839'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'wahlkreis'
+        mark: 'm'
+        dest: 
+          - 'constituency'
+
+  - 
+    de: 'egal'
+    added: '2022-09-05 23:40:07.673655'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'egal'
+        mark: 'adj'
+        dest: 
+          - 'do not care'
+      - 
+        src: 'egal'
+        mark: 'adj'
+        dest: 
+          - 'no matter'
+      - 
+        src: 'egal sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'do not care'
+      - 
+        src: 'egal sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'not matter'
+          - 'be unimportant'
+      - 
+        src: 'egal sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be irrelevant'
+      - 
+        src: 'egal wie'
+        mark: 'adj + adv'
+        dest: 
+          - 'no matter how'
+      - 
+        src: 'egal wie'
+        mark: 'adj + adv'
+        dest: 
+          - 'however'
+      - 
+        src: '[etw] / jdm egal sein'
+        mark: 'rdw'
+        dest: 
+          - "doesn't matter to"
+      - 
+        src: '[etw] / jdm egal sein'
+        mark: 'rdw'
+        dest: 
+          - "doesn't matter to"
+
+  - 
+    de: 'irgendwelche'
+    added: '2022-09-05 23:42:12.614237'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'irgendwelche…'
+        mark: 'indef pr'
+        dest: 
+          - 'any'
+
+  - 
+    de: 'scherz'
+    added: '2022-09-05 23:42:47.986586'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'einen scherz machen'
+        mark: 'rdw'
+        dest: 
+          - 'make a joke'
+      - 
+        src: 'einen scherz machen'
+        mark: 'rdw'
+        dest: 
+          - 'play a joke on'
+          - 'play a trick on'
+
+  - 
+    de: 'verfallen'
+    added: '2022-09-06 17:35:00.682727'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'verfallen'
+        mark: 'vi'
+        dest: 
+          - 'decay'
+          - 'deteriorate'
+      - 
+        src: 'verfallen'
+        mark: 'vi'
+        dest: 
+          - 'expire'
+      - 
+        src: 'in [etw] verfallen'
+        mark: 'präp + vi'
+        dest: 
+          - 'lapse into'
+      - 
+        src: 'jmdm/[etw] verfallen'
+        mark: 'vi'
+        dest: 
+          - 'get addicted'
+      - 
+        src: 'verfallen'
+        mark: 'v/i (irr)'
+        dest: 
+          - 'go to ruin'
+
+  - 
+    de: 'plötzlich'
+    added: '2022-09-06 17:36:34.889064'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'plötzlich'
+        mark: 'adv'
+        dest: 
+          - 'suddenly'
+
+  - 
+    de: 'zustand'
+    added: '2022-09-06 17:36:56.911561'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'zustand'
+        mark: 'nm'
+        dest: 
+          - 'condition'
+          - 'state'
+      - 
+        src: 'zustand'
+        mark: 'nm'
+        dest: 
+          - 'condition'
+          - 'state'
+      - 
+        src: 'zustand'
+        mark: 'nm'
+        dest: 
+          - 'state'
+      - 
+        src: 'zustand, plural: zustände'
+        mark: 'nm'
+        dest: 
+          - 'situation'
+      - 
+        src: 'in kritischem zustand'
+        mark: 'rdw'
+        dest: 
+          - 'in critical condition'
+      - 
+        src: 'körperlicher zustand'
+        mark: 'adj + nm'
+        dest: 
+          - 'fitness level'
+          - 'shape'
+      - 
+        src: 'zustand'
+        mark: 'm'
+        dest: 
+          - 'state'
+          - 'condition'
+
+  - 
+    de: 'ausnahme'
+    added: '2022-09-06 17:37:09.999007'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'ausnahme'
+        mark: 'nf'
+        dest: 
+          - 'exception'
+      - 
+        src: 'mit ausnahme von'
+        mark: 'rdw'
+        dest: 
+          - 'with exception to'
+          - 'except'
+
+  - 
+    de: 'darum'
+    added: '2022-09-06 17:37:45.856266'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'darum'
+        mark: 'adv'
+        dest: 
+          - 'about'
+      - 
+        src: 'darum'
+        mark: 'adv'
+        dest: 
+          - 'around'
+      - 
+        src: 'darum'
+        mark: 'adv'
+        dest: 
+          - 'therefore'
+          - 'for this reason, for that reason'
+          - 'because of this'
+
+  - 
+    de: 'realität'
+    added: '2022-09-06 17:40:33.606414'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'realität'
+        mark: 'nf'
+        dest: 
+          - 'reality'
+      - 
+        src: 'realität'
+        mark: 'nf'
+        dest: 
+          - 'reality'
+          - 'actuality'
+
+  - 
+    de: 'verkünden'
+    added: '2022-09-06 17:42:16.419294'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: '[etw] verkünden'
+        mark: 'vt'
+        dest: 
+          - 'announce'
+          - 'declare'
+          - 'proclaim'
+      - 
+        src: '[etw] verkünden'
+        mark: 'vt'
+        dest: 
+          - 'proclaim'
+          - 'preach'
+      - 
+        src: 'verkünden'
+        mark: 'v/t'
+        dest: 
+          - 'announce'
+
+  - 
+    de: 'tatsächlich'
+    added: '2022-09-06 17:43:00.051646'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'tatsächlich'
+        mark: 'adj'
+        dest: 
+          - 'actual'
+          - 'real'
+      - 
+        src: 'tatsächlich'
+        mark: 'adv'
+        dest: 
+          - 'indeed'
+          - 'really'
+          - 'in fact'
+
+  - 
+    de: 'all'
+    added: '2022-09-06 17:43:23.732784'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'all, alle'
+        mark: 'pron'
+        dest: 
+          - 'everyone'
+          - 'everybody'
+      - 
+        src: 'all, alles'
+        mark: 'pron'
+        dest: 
+          - 'everything'
+      - 
+        src: 'all'
+        mark: 'nn'
+        dest: 
+          - 'space'
+          - 'universe'
+          - 'cosmos'
+      - 
+        src: 'all, all inclusive'
+        mark: 'pron'
+        dest: 
+          - 'all-inclusive'
+      - 
+        src: 'all'
+        mark: 'pron'
+        dest: 
+          - 'very'
+      - 
+        src: 'all inclusive'
+        mark: 'rdw'
+        dest: 
+          - 'all-inclusive'
+      - 
+        src: 'ins all schicken'
+        mark: 'rdw'
+        dest: 
+          - 'send into space'
+      - 
+        src: 'all'
+        mark: 'indef pr'
+        dest: 
+          - 'all (of)'
+
+  - 
+    de: 'rein'
+    added: '2022-09-06 17:43:44.782252'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'rein'
+        mark: 'adv'
+        dest: 
+          - 'in'
+          - 'inside'
+      - 
+        src: 'da rein'
+        mark: 'adv + adv'
+        dest: 
+          - 'in there'
+      - 
+        src: 'unordnung rein bringen'
+        mark: 'rdw'
+        dest: 
+          - 'put in disarray'
+      - 
+        src: 'unordnung rein bringen'
+        mark: 'rdw'
+        dest: 
+          - 'put in disarray'
+
+  - 
+    de: 'quasi'
+    added: '2022-09-06 17:52:14.277935'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'quasi'
+        mark: 'adv'
+        dest: 
+          - 'virtually'
+          - 'sort of'
+          - 'quasi'
+
+  - 
+    de: 'darüber'
+    added: '2022-09-06 17:58:47.224982'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'darüber'
+        mark: 'adv'
+        dest: 
+          - 'over'
+      - 
+        src: 'darüber'
+        mark: 'adv'
+        dest: 
+          - 'above'
+      - 
+        src: 'darüber'
+        mark: 'adv'
+        dest: 
+          - 'about that'
+          - 'about it'
+      - 
+        src: 'darüber hinweg kommen'
+        mark: 'rdw'
+        dest: 
+          - 'get over'
+      - 
+        src: 'darüber nachdenken'
+        mark: 'adv + vi'
+        dest: 
+          - 'think about'
+          - 'ponder'
+      - 
+        src: 'darüber nachdenken'
+        mark: 'adv + vi'
+        dest: 
+          - 'think about'
+
+  - 
+    de: 'wache'
+    added: '2022-09-06 18:07:54.168397'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'wache'
+        mark: 'nf'
+        dest: 
+          - 'guard'
+          - 'watch'
+          - 'lookout'
+      - 
+        src: 'wache'
+        mark: 'nf'
+        dest: 
+          - 'guards'
+          - 'watch'
+          - 'keepers'
+      - 
+        src: 'wache, polizeiwache'
+        mark: 'nf'
+        dest: 
+          - 'station'
+      - 
+        src: 'wache halten'
+        mark: 'nf + vt'
+        dest: 
+          - 'stand watch'
+      - 
+        src: 'wache'
+        mark: 'f'
+        dest: 
+          - 'guard'
+
+  - 
+    de: '[jmd] aufregen'
+    added: '2022-09-06 18:12:58.297553'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'jmdn aufregen'
+        mark: 'pron + vt, sepa'
+        dest: 
+          - 'irritate'
+          - 'annoy'
+
+  - 
+    de: 'traurigkeit'
+    added: '2022-09-06 18:15:23.571778'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'traurigkeit'
+        mark: 'f (traurigsein)'
+        dest: 
+          - 'sadness'
+          - 'unhappiness'
+          - 'depression'
+
+  - 
+    de: 'umzug'
+    added: '2022-09-06 19:05:21.743107'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'umzug'
+        mark: 'nm'
+        dest: 
+          - 'move, relocation'
+      - 
+        src: 'umzug'
+        mark: 'nm'
+        dest: 
+          - 'procession, parade'
+      - 
+        src: 'umzug'
+        mark: 'm'
+        dest: 
+          - 'parade'
+
 
 broken: 
   - 'werven'
@@ -22007,3 +24620,23 @@ broken:
   - 'fleißig'
   - 'metz'
   - 'intergrund'
+  - 'aushandeln'
+  - 'vorwort'
+  - 'werbezeitungen'
+  - 'werb'
+  - 'zeitschrifften'
+  - 'gescpräsche'
+  - 'gespräsche'
+  - 'geschpräsche'
+  - 'ingesamt'
+  - 'gelöst'
+  - 'gelösen'
+  - 'gelosen'
+  - 'ungewohnt'
+  - 'ausnahmsweise'
+  - 'zufor'
+  - 'realtität'
+  - 'meckeren'
+  - 'meckern'
+  - 'überracht'
+  - 'vorzubereiten'
