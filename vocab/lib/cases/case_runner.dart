@@ -44,9 +44,7 @@ class CaseRunner {
 
   Future run() async {
     await context.load();
-    var s = await context.declensioner.getDeclension('trinken');
-    print(s);
-    return;
+
     do {
       var argsResult = _parser.parse(_args);
       var useCase = _argsMap[argsResult.runtimeType]!(argsResult);

@@ -33,6 +33,11 @@ class DeclensionSet {
       this.infinitiv,
       this.participle);
 
+  @override
+  String toString() {
+    return '$word - $presentThirdFormSingle, $pastThirdFormSingle - ${translation.join(',')}';
+  }
+
   static DeclensionSet fromYaml(yaml) {
     return DeclensionSet(
         yaml['word'].toString(),

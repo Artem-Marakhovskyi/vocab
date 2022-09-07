@@ -58,6 +58,8 @@ class Meaning {
 
   bool get isNoun => mark.isNotEmpty && mark[0] == 'n';
 
+  bool get isVerb => mark.isNotEmpty && mark.contains('v');
+
   String get nounArticle {
     var article = '';
     if (mark.isNotEmpty && mark.length > 1 && mark[0] == 'n') {

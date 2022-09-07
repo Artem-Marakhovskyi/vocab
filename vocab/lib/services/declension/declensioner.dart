@@ -21,6 +21,8 @@ class Declensioner {
       return null;
     }
 
+    _dict.upsert(declension);
+
     return declension;
   }
 }

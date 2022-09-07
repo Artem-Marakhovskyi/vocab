@@ -1,0 +1,1554 @@
+lastUpdated: '2022-09-06 19:57:45.353691'
+dict: 
+  - |
+      word: 'versuchen'
+      presentThirdFormSingle: 'versucht'
+      pastThirdFormSingle: 'versuchte'
+      past: 'hat versucht'
+      present: 
+        - 'vsuch(e)⁵'
+        - 'vsuchst'
+        - 'vsucht'
+        - 'vsuchen'
+        - 'vsucht'
+        - 'vsuchen'
+      translation: 
+        - ',, try something,,attempt,,try,,tempt,,give a try,,assay,,try out,,dabble at,,dabble in,,essay,'
+      imperative: 
+        - '-vsuch(e)⁵'
+        - '()-vsuchen'
+        - 'vsucht'
+        - '()vsuchen'
+        - 'Sie'
+      imperfect: 
+        - 'vsuchte'
+        - 'vsuchtest'
+        - 'vsuchte'
+        - 'vsuchten'
+        - 'vsuchtet'
+        - 'vsuchten'
+      presentSubj: 
+        - 'vsuche'
+        - 'vsuchest'
+        - 'vsuche'
+        - 'vsuchen'
+        - 'vsuchet'
+        - 'vsuchen'
+      imperfSubj: 
+        - 'vsuchte'
+        - 'vsuchtest'
+        - 'vsuchte'
+        - 'vsuchten'
+        - 'vsuchtet'
+        - 'vsuchten'
+      infinitiv: 
+        - ',vsuchend,vsucht,'
+      participle: 
+        - ',vsuchen,zu'
+        - 'vsuchen,'
+  - |
+      word: 'fallen'
+      presentThirdFormSingle: 'fällt'
+      pastThirdFormSingle: 'fiel'
+      past: 'ist gefallen'
+      present: 
+        - 'fall(e)⁵'
+        - 'fällst'
+        - 'fällt'
+        - 'fallen'
+        - 'fallt'
+        - 'fallen'
+      translation: 
+        - ',, fall,,drop,,decline,,light (on),,hit,,be killed,,lower,,plunge,,impinge (on),,shorten,'
+      imperative: 
+        - '-fall(e)⁵'
+        - '()-fallen'
+        - 'fallt'
+        - '()fallen'
+        - 'Sie'
+      imperfect: 
+        - 'fiel'
+        - 'fielst'
+        - 'fiel'
+        - 'fielen'
+        - 'fielt'
+        - 'fielen'
+      presentSubj: 
+        - 'falle'
+        - 'fallest'
+        - 'falle'
+        - 'fallen'
+        - 'fallet'
+        - 'fallen'
+      imperfSubj: 
+        - 'fiele'
+        - 'fielest'
+        - 'fiele'
+        - 'fielen'
+        - 'fielet'
+        - 'fielen'
+      infinitiv: 
+        - ',fallend,gefallen,'
+      participle: 
+        - ',fallen,zu'
+        - 'fallen,'
+  - |
+      word: 'bei·stehen'
+      presentThirdFormSingle: 'steht bei'
+      pastThirdFormSingle: 'stand bei'
+      past: 'hat beigestanden'
+      present: 
+        - 'steh(e)⁵'
+        - 'bei'
+        - 'stehst'
+        - 'bei'
+        - 'steht'
+        - 'bei'
+        - 'steh(e)⁵n'
+        - 'bei'
+        - 'steht'
+        - 'bei'
+        - 'steh(e)⁵n'
+        - 'bei'
+      translation: 
+        - ',, back up,,back,,help,,support,,bestead,,assist,'
+      imperative: 
+        - '-steh(e)⁵'
+        - '()'
+        - 'bei-steh(e)⁵n'
+        - 'beisteht'
+        - '()'
+        - 'beisteh(e)⁵n'
+        - 'Sie'
+        - 'bei'
+      imperfect: 
+        - 'stand'
+        - 'bei'
+        - 'stand(e)⁷st'
+        - 'bei'
+        - 'stand'
+        - 'bei'
+        - 'standen'
+        - 'bei'
+        - 'standet'
+        - 'bei'
+        - 'standen'
+        - 'bei'
+      presentSubj: 
+        - 'stehe'
+        - 'bei'
+        - 'stehest'
+        - 'bei'
+        - 'stehe'
+        - 'bei'
+        - 'steh(e)⁵n'
+        - 'bei'
+        - 'stehet'
+        - 'bei'
+        - 'steh(e)⁵n'
+        - 'bei'
+      imperfSubj: 
+        - 'stünde/stände'
+        - 'bei'
+        - 'stündest/ständest'
+        - 'bei'
+        - 'stünde/stände'
+        - 'bei'
+        - 'stünden/ständen'
+        - 'bei'
+        - 'stündet/ständet'
+        - 'bei'
+        - 'stünden/ständen'
+        - 'bei'
+      infinitiv: 
+        - ',beistehend,beigestanden,'
+      participle: 
+        - ',beisteh(e)⁵n,beizusteh(e)⁵n,'
+  - |
+      word: 'aus·wählen'
+      presentThirdFormSingle: 'wählt aus'
+      pastThirdFormSingle: 'wählte aus'
+      past: 'hat ausgewählt'
+      present: 
+        - 'wähl(e)⁵'
+        - 'aus'
+        - 'wählst'
+        - 'aus'
+        - 'wählt'
+        - 'aus'
+        - 'wählen'
+        - 'aus'
+        - 'wählt'
+        - 'aus'
+        - 'wählen'
+        - 'aus'
+      translation: 
+        - ",, pick,,select,,choose,,chuse ( ),,draft,,make a choice,,make one's choice,,sample out,,choose between,,tap,"
+      imperative: 
+        - '-wähl(e)⁵'
+        - '()'
+        - 'aus-wählen'
+        - 'auswählt'
+        - '()'
+        - 'auswählen'
+        - 'Sie'
+        - 'aus'
+      imperfect: 
+        - 'wählte'
+        - 'aus'
+        - 'wähltest'
+        - 'aus'
+        - 'wählte'
+        - 'aus'
+        - 'wählten'
+        - 'aus'
+        - 'wähltet'
+        - 'aus'
+        - 'wählten'
+        - 'aus'
+      presentSubj: 
+        - 'wähle'
+        - 'aus'
+        - 'wählest'
+        - 'aus'
+        - 'wähle'
+        - 'aus'
+        - 'wählen'
+        - 'aus'
+        - 'wählet'
+        - 'aus'
+        - 'wählen'
+        - 'aus'
+      imperfSubj: 
+        - 'wählte'
+        - 'aus'
+        - 'wähltest'
+        - 'aus'
+        - 'wählte'
+        - 'aus'
+        - 'wählten'
+        - 'aus'
+        - 'wähltet'
+        - 'aus'
+        - 'wählten'
+        - 'aus'
+      infinitiv: 
+        - ',auswählend,ausgewählt,'
+      participle: 
+        - ',auswählen,auszuwählen,'
+  - |
+      word: 'machen'
+      presentThirdFormSingle: 'macht'
+      pastThirdFormSingle: 'machte'
+      past: 'hat gemacht'
+      present: 
+        - 'mach(e)⁵'
+        - 'machst'
+        - 'macht'
+        - 'machen'
+        - 'macht'
+        - 'machen'
+      translation: 
+        - ',, create,,make,,do,,put,,go,,make for,,go for,'
+      imperative: 
+        - '-mach(e)⁵'
+        - '()-machen'
+        - 'macht'
+        - '()machen'
+        - 'Sie'
+      imperfect: 
+        - 'machte'
+        - 'machtest'
+        - 'machte'
+        - 'machten'
+        - 'machtet'
+        - 'machten'
+      presentSubj: 
+        - 'mache'
+        - 'machest'
+        - 'mache'
+        - 'machen'
+        - 'machet'
+        - 'machen'
+      imperfSubj: 
+        - 'machte'
+        - 'machtest'
+        - 'machte'
+        - 'machten'
+        - 'machtet'
+        - 'machten'
+      infinitiv: 
+        - ',machend,gemacht,'
+      participle: 
+        - ',machen,zu'
+        - 'machen,'
+  - |
+      word: 'wählen'
+      presentThirdFormSingle: 'wählt'
+      pastThirdFormSingle: 'wählte'
+      past: 'hat gewählt'
+      present: 
+        - 'wähl(e)⁵'
+        - 'wählst'
+        - 'wählt'
+        - 'wählen'
+        - 'wählt'
+        - 'wählen'
+      translation: 
+        - ",, adopt,,choose,,select,,dial,,vote,,opt (between),,return,,make one's choice,,opt for,,pick,"
+      imperative: 
+        - '-wähl(e)⁵'
+        - '()-wählen'
+        - 'wählt'
+        - '()wählen'
+        - 'Sie'
+      imperfect: 
+        - 'wählte'
+        - 'wähltest'
+        - 'wählte'
+        - 'wählten'
+        - 'wähltet'
+        - 'wählten'
+      presentSubj: 
+        - 'wähle'
+        - 'wählest'
+        - 'wähle'
+        - 'wählen'
+        - 'wählet'
+        - 'wählen'
+      imperfSubj: 
+        - 'wählte'
+        - 'wähltest'
+        - 'wählte'
+        - 'wählten'
+        - 'wähltet'
+        - 'wählten'
+      infinitiv: 
+        - ',wählend,gewählt,'
+      participle: 
+        - ',wählen,zu'
+        - 'wählen,'
+  - |
+      word: 'wohl·fühlen'
+      presentThirdFormSingle: 'fühlt wohl'
+      pastThirdFormSingle: 'fühlte wohl'
+      past: 'hat wohlgefühlt'
+      present: 
+      
+      translation: 
+      
+      imperative: 
+      
+      imperfect: 
+      
+      presentSubj: 
+      
+      imperfSubj: 
+      
+      infinitiv: 
+      
+      participle: 
+      
+  - |
+      word: 'beenden'
+      presentThirdFormSingle: 'beendet'
+      pastThirdFormSingle: 'beendete'
+      past: 'hat beendet'
+      present: 
+        - 'beend(e)⁵'
+        - 'beendest'
+        - 'beendet'
+        - 'beenden'
+        - 'beendet'
+        - 'beenden'
+      translation: 
+        - ',, wind up,,end,,conclude,,break up,,bring to a conclusion,,bring to a finish,,bring to a halt,,bring to completion,,cancel,,cause to cease,'
+      imperative: 
+        - '-beend(e)⁵'
+        - '()-beenden'
+        - 'beendet'
+        - '()beenden'
+        - 'Sie'
+      imperfect: 
+        - 'beendete'
+        - 'beendetest'
+        - 'beendete'
+        - 'beendeten'
+        - 'beendetet'
+        - 'beendeten'
+      presentSubj: 
+        - 'beende'
+        - 'beendest'
+        - 'beende'
+        - 'beenden'
+        - 'beendet'
+        - 'beenden'
+      imperfSubj: 
+        - 'beendete'
+        - 'beendetest'
+        - 'beendete'
+        - 'beendeten'
+        - 'beendetet'
+        - 'beendeten'
+      infinitiv: 
+        - ',beendend,beendet,'
+      participle: 
+        - ',beenden,zu'
+        - 'beenden,'
+  - |
+      word: 'entwickeln'
+      presentThirdFormSingle: 'entwickelt'
+      pastThirdFormSingle: 'entwickelte'
+      past: 'hat entwickelt'
+      present: 
+      
+      translation: 
+      
+      imperative: 
+      
+      imperfect: 
+      
+      presentSubj: 
+      
+      imperfSubj: 
+      
+      infinitiv: 
+      
+      participle: 
+      
+  - |
+      word: 'fehlen'
+      presentThirdFormSingle: 'fehlt'
+      pastThirdFormSingle: 'fehlte'
+      past: 'hat gefehlt'
+      present: 
+      
+      translation: 
+      
+      imperative: 
+      
+      imperfect: 
+      
+      presentSubj: 
+      
+      imperfSubj: 
+      
+      infinitiv: 
+      
+      participle: 
+      
+  - |
+      word: 'auf·hören'
+      presentThirdFormSingle: 'hört auf'
+      pastThirdFormSingle: 'hörte auf'
+      past: 'hat aufgehört'
+      present: 
+        - 'hör(e)⁵'
+        - 'auf'
+        - 'hörst'
+        - 'auf'
+        - 'hört'
+        - 'auf'
+        - 'hören'
+        - 'auf'
+        - 'hört'
+        - 'auf'
+        - 'hören'
+        - 'auf'
+      translation: 
+        - ',, stop,,quit,,cease,,end,,conclude (with),,call it a day,,come to an end,,leave,,walk it off,,give over,'
+      imperative: 
+        - '-hör(e)⁵'
+        - '()'
+        - 'auf-hören'
+        - 'aufhört'
+        - '()'
+        - 'aufhören'
+        - 'Sie'
+        - 'auf'
+      imperfect: 
+        - 'hörte'
+        - 'auf'
+        - 'hörtest'
+        - 'auf'
+        - 'hörte'
+        - 'auf'
+        - 'hörten'
+        - 'auf'
+        - 'hörtet'
+        - 'auf'
+        - 'hörten'
+        - 'auf'
+      presentSubj: 
+        - 'höre'
+        - 'auf'
+        - 'hörest'
+        - 'auf'
+        - 'höre'
+        - 'auf'
+        - 'hören'
+        - 'auf'
+        - 'höret'
+        - 'auf'
+        - 'hören'
+        - 'auf'
+      imperfSubj: 
+        - 'hörte'
+        - 'auf'
+        - 'hörtest'
+        - 'auf'
+        - 'hörte'
+        - 'auf'
+        - 'hörten'
+        - 'auf'
+        - 'hörtet'
+        - 'auf'
+        - 'hörten'
+        - 'auf'
+      infinitiv: 
+        - ',aufhörend,aufgehört,'
+      participle: 
+        - ',aufhören,aufzuhören,'
+  - |
+      word: 'erlauben'
+      presentThirdFormSingle: 'erlaubt'
+      pastThirdFormSingle: 'erlaubte'
+      past: 'hat erlaubt'
+      present: 
+        - 'laub(e)⁵'
+        - 'laubst'
+        - 'laubt'
+        - 'lauben'
+        - 'laubt'
+        - 'lauben'
+      translation: 
+        - ',, allow,,permit,,indulge,,admit of,,admit,,authorise,,authorize,,concede,,consent,,license,'
+      imperative: 
+        - '-laub(e)⁵'
+        - '()-lauben'
+        - 'laubt'
+        - '()lauben'
+        - 'Sie'
+      imperfect: 
+        - 'laubte'
+        - 'laubtest'
+        - 'laubte'
+        - 'laubten'
+        - 'laubtet'
+        - 'laubten'
+      presentSubj: 
+        - 'laube'
+        - 'laubest'
+        - 'laube'
+        - 'lauben'
+        - 'laubet'
+        - 'lauben'
+      imperfSubj: 
+        - 'laubte'
+        - 'laubtest'
+        - 'laubte'
+        - 'laubten'
+        - 'laubtet'
+        - 'laubten'
+      infinitiv: 
+        - ',laubend,laubt,'
+      participle: 
+        - ',lauben,zu'
+        - 'lauben,'
+  - |
+      word: 'verbessern'
+      presentThirdFormSingle: 'verbessert'
+      pastThirdFormSingle: 'verbesserte'
+      past: 'hat verbessert'
+      present: 
+        - 'vbess(e)⁴r(e)⁵'
+        - 'vbessst'
+        - 'vbesst'
+        - 'vbessn'
+        - 'vbesst'
+        - 'vbessn'
+      translation: 
+        - ',, correct,,improve,,augment,,better,,emend,,progress,,reform,,revise,,optimize,,ameliorate,'
+      imperative: 
+        - '-vbess(e)⁴r(e)⁵'
+        - '()-vbessn'
+        - 'vbesst'
+        - '()vbessn'
+        - 'Sie'
+      imperfect: 
+        - 'vbesste'
+        - 'vbesstest'
+        - 'vbesste'
+        - 'vbessten'
+        - 'vbesstet'
+        - 'vbessten'
+      presentSubj: 
+        - 'vbess(e)⁴re'
+        - 'vbessst'
+        - 'vbess(e)⁴re'
+        - 'vbessn'
+        - 'vbesst'
+        - 'vbessn'
+      imperfSubj: 
+        - 'vbesste'
+        - 'vbesstest'
+        - 'vbesste'
+        - 'vbessten'
+        - 'vbesstet'
+        - 'vbessten'
+      infinitiv: 
+        - ',vbessnd,vbesst,'
+      participle: 
+        - ',vbessn,zu'
+        - 'vbessn,'
+  - |
+      word: 'heben'
+      presentThirdFormSingle: 'hebt'
+      pastThirdFormSingle: 'hob/hub'
+      past: 'hat gehoben'
+      present: 
+        - 'heb(e)⁵'
+        - 'hebst'
+        - 'hebt'
+        - 'heben'
+        - 'hebt'
+        - 'heben'
+      translation: 
+        - ',, lift,,pick up,,raise,,hold,,heighten,,uphold,,up,,boost,,heave,,hoist,'
+      imperative: 
+        - '-heb(e)⁵'
+        - '()-heben'
+        - 'hebt'
+        - '()heben'
+        - 'Sie'
+      imperfect: 
+        - 'hob/hub'
+        - 'hobst/hubst'
+        - 'hob/hub'
+        - 'hoben/huben'
+        - 'hobt/hubt'
+        - 'hoben/huben'
+      presentSubj: 
+        - 'hebe'
+        - 'hebest'
+        - 'hebe'
+        - 'heben'
+        - 'hebet'
+        - 'heben'
+      imperfSubj: 
+        - 'höbe/hübe'
+        - 'höbest/hübest'
+        - 'höbe/hübe'
+        - 'höben/hüben'
+        - 'höbet/hübet'
+        - 'höben/hüben'
+      infinitiv: 
+        - ',hebend,gehoben,'
+      participle: 
+        - ',heben,zu'
+        - 'heben,'
+  - |
+      word: 'sauber·machen'
+      presentThirdFormSingle: 'macht sauber'
+      pastThirdFormSingle: 'machte sauber'
+      past: 'hat saubergemacht'
+      present: 
+        - 'mach(e)⁵'
+        - 'saub'
+        - 'machst'
+        - 'saub'
+        - 'macht'
+        - 'saub'
+        - 'machen'
+        - 'saub'
+        - 'macht'
+        - 'saub'
+        - 'machen'
+        - 'saub'
+      translation: 
+        - ',, clean,,clean up,,wash up,,tidy up,,mop up,'
+      imperative: 
+        - '-mach(e)⁵'
+        - '()'
+        - 'saub-machen'
+        - 'saubmacht'
+        - '()'
+        - 'saubmachen'
+        - 'Sie'
+        - 'saub'
+      imperfect: 
+        - 'machte'
+        - 'saub'
+        - 'machtest'
+        - 'saub'
+        - 'machte'
+        - 'saub'
+        - 'machten'
+        - 'saub'
+        - 'machtet'
+        - 'saub'
+        - 'machten'
+        - 'saub'
+      presentSubj: 
+        - 'mache'
+        - 'saub'
+        - 'machest'
+        - 'saub'
+        - 'mache'
+        - 'saub'
+        - 'machen'
+        - 'saub'
+        - 'machet'
+        - 'saub'
+        - 'machen'
+        - 'saub'
+      imperfSubj: 
+        - 'machte'
+        - 'saub'
+        - 'machtest'
+        - 'saub'
+        - 'machte'
+        - 'saub'
+        - 'machten'
+        - 'saub'
+        - 'machtet'
+        - 'saub'
+        - 'machten'
+        - 'saub'
+      infinitiv: 
+        - ',saubmachend,saubgemacht,'
+      participle: 
+        - ',saubmachen,saubzumachen,'
+  - |
+      word: 'niesen'
+      presentThirdFormSingle: 'niest'
+      pastThirdFormSingle: 'nieste'
+      past: 'hat geniest'
+      present: 
+        - 'nies(e)⁵'
+        - 'niest'
+        - 'niest'
+        - 'niesen'
+        - 'niest'
+        - 'niesen'
+      translation: 
+        - ',, sneeze,'
+      imperative: 
+        - '-nies(e)⁵'
+        - '()-niesen'
+        - 'niest'
+        - '()niesen'
+        - 'Sie'
+      imperfect: 
+        - 'nieste'
+        - 'niestest'
+        - 'nieste'
+        - 'niesten'
+        - 'niestet'
+        - 'niesten'
+      presentSubj: 
+        - 'niese'
+        - 'niesest'
+        - 'niese'
+        - 'niesen'
+        - 'nieset'
+        - 'niesen'
+      imperfSubj: 
+        - 'nieste'
+        - 'niestest'
+        - 'nieste'
+        - 'niesten'
+        - 'niestet'
+        - 'niesten'
+      infinitiv: 
+        - ',niesend,geniest,'
+      participle: 
+        - ',niesen,zu'
+        - 'niesen,'
+  - |
+      word: 'kennen'
+      presentThirdFormSingle: 'kennt'
+      pastThirdFormSingle: 'kannte'
+      past: 'hat gekannt'
+      present: 
+        - 'kenn(e)⁵'
+        - 'kennst'
+        - 'kennt'
+        - 'kennen'
+        - 'kennt'
+        - 'kennen'
+      translation: 
+        - ',, know,,be acquainted with,,ken,'
+      imperative: 
+        - '-kenn(e)⁵'
+        - '()-kennen'
+        - 'kennt'
+        - '()kennen'
+        - 'Sie'
+      imperfect: 
+        - 'kannte'
+        - 'kanntest'
+        - 'kannte'
+        - 'kannten'
+        - 'kanntet'
+        - 'kannten'
+      presentSubj: 
+        - 'kenne'
+        - 'kennest'
+        - 'kenne'
+        - 'kennen'
+        - 'kennet'
+        - 'kennen'
+      imperfSubj: 
+        - 'kennte'
+        - 'kenntest'
+        - 'kennte'
+        - 'kennten'
+        - 'kenntet'
+        - 'kennten'
+      infinitiv: 
+        - ',kennend,gekannt,'
+      participle: 
+        - ',kennen,zu'
+        - 'kennen,'
+  - |
+      word: 'kaputt·gehen'
+      presentThirdFormSingle: 'geht kaputt'
+      pastThirdFormSingle: 'ging kaputt'
+      past: 'ist kaputtgegangen'
+      present: 
+        - 'geh(e)⁵'
+        - 'kaputt'
+        - 'gehst'
+        - 'kaputt'
+        - 'geht'
+        - 'kaputt'
+        - 'geh(e)⁵n'
+        - 'kaputt'
+        - 'geht'
+        - 'kaputt'
+        - 'geh(e)⁵n'
+        - 'kaputt'
+      translation: 
+        - ',, break down,,break,,fall to pieces,,fritz out,,go haywire,,go kablooey,,go kaput,,go on the fritz,,go phut,,go tits up,'
+      imperative: 
+        - '-geh(e)⁵'
+        - '()'
+        - 'kaputt-geh(e)⁵n'
+        - 'kaputtgeht'
+        - '()'
+        - 'kaputtgeh(e)⁵n'
+        - 'Sie'
+        - 'kaputt'
+      imperfect: 
+        - 'ging'
+        - 'kaputt'
+        - 'gingst'
+        - 'kaputt'
+        - 'ging'
+        - 'kaputt'
+        - 'gingen'
+        - 'kaputt'
+        - 'gingt'
+        - 'kaputt'
+        - 'gingen'
+        - 'kaputt'
+      presentSubj: 
+        - 'gehe'
+        - 'kaputt'
+        - 'gehest'
+        - 'kaputt'
+        - 'gehe'
+        - 'kaputt'
+        - 'geh(e)⁵n'
+        - 'kaputt'
+        - 'gehet'
+        - 'kaputt'
+        - 'geh(e)⁵n'
+        - 'kaputt'
+      imperfSubj: 
+        - 'ginge'
+        - 'kaputt'
+        - 'gingest'
+        - 'kaputt'
+        - 'ginge'
+        - 'kaputt'
+        - 'gingen'
+        - 'kaputt'
+        - 'ginget'
+        - 'kaputt'
+        - 'gingen'
+        - 'kaputt'
+      infinitiv: 
+        - ',kaputtgehend,kaputtgegangen,'
+      participle: 
+        - ',kaputtgeh(e)⁵n,kaputtzugeh(e)⁵n,'
+  - |
+      word: 'verbringen'
+      presentThirdFormSingle: 'verbringt'
+      pastThirdFormSingle: 'verbrachte'
+      past: 'hat verbracht'
+      present: 
+        - 'vbring(e)⁵'
+        - 'vbringst'
+        - 'vbringt'
+        - 'vbringen'
+        - 'vbringt'
+        - 'vbringen'
+      translation: 
+        - ',, acquire,,guzzle,,squander,,manage,,achieve,,perform,,compass,,accomplish,,get,,feed,'
+      imperative: 
+        - '-vbring(e)⁵'
+        - '()-vbringen'
+        - 'vbringt'
+        - '()vbringen'
+        - 'Sie'
+      imperfect: 
+        - 'vbrachte'
+        - 'vbrachtest'
+        - 'vbrachte'
+        - 'vbrachten'
+        - 'vbrachtet'
+        - 'vbrachten'
+      presentSubj: 
+        - 'vbringe'
+        - 'vbringest'
+        - 'vbringe'
+        - 'vbringen'
+        - 'vbringet'
+        - 'vbringen'
+      imperfSubj: 
+        - 'vbrächte'
+        - 'vbrächtest'
+        - 'vbrächte'
+        - 'vbrächten'
+        - 'vbrächtet'
+        - 'vbrächten'
+      infinitiv: 
+        - ',vbringend,vbracht,'
+      participle: 
+        - ',vbringen,zu'
+        - 'vbringen,'
+  - |
+      word: 'gratulieren'
+      presentThirdFormSingle: 'gratuliert'
+      pastThirdFormSingle: 'gratulierte'
+      past: 'hat gratuliert'
+      present: 
+        - 'gratuli(e)⁵'
+        - 'gratulist'
+        - 'gratulit'
+        - 'gratulien'
+        - 'gratulit'
+        - 'gratulien'
+      translation: 
+        - ',, congratulate,,congratulate (on),,compliment on,'
+      imperative: 
+        - '-gratuli(e)⁵'
+        - '()-gratulien'
+        - 'gratulit'
+        - '()gratulien'
+        - 'Sie'
+      imperfect: 
+        - 'gratulite'
+        - 'gratulitest'
+        - 'gratulite'
+        - 'gratuliten'
+        - 'gratulitet'
+        - 'gratuliten'
+      presentSubj: 
+        - 'gratulie'
+        - 'gratuliest'
+        - 'gratulie'
+        - 'gratulien'
+        - 'gratuliet'
+        - 'gratulien'
+      imperfSubj: 
+        - 'gratulite'
+        - 'gratulitest'
+        - 'gratulite'
+        - 'gratuliten'
+        - 'gratulitet'
+        - 'gratuliten'
+      infinitiv: 
+        - ',gratuliend,gratulit,'
+      participle: 
+        - ',gratulien,zu'
+        - 'gratulien,'
+  - |
+      word: 'zu·bereiten'
+      presentThirdFormSingle: 'bereitet zu'
+      pastThirdFormSingle: 'bereitete zu'
+      past: 'hat zubereitet'
+      present: 
+        - 'beit(e)⁵'
+        - 'zu'
+        - 'beitest'
+        - 'zu'
+        - 'beitet'
+        - 'zu'
+        - 'beiten'
+        - 'zu'
+        - 'beitet'
+        - 'zu'
+        - 'beiten'
+        - 'zu'
+      translation: 
+        - ',, prepare,,make,,brew,,clean,,cook,,dispense,,concoct,,finish,,condition,,confect,'
+      imperative: 
+        - '-beit(e)⁵'
+        - '()'
+        - 'zu-beiten'
+        - 'zubeitet'
+        - '()'
+        - 'zubeiten'
+        - 'Sie'
+        - 'zu'
+      imperfect: 
+        - 'beitete'
+        - 'zu'
+        - 'beitetest'
+        - 'zu'
+        - 'beitete'
+        - 'zu'
+        - 'beiteten'
+        - 'zu'
+        - 'beitetet'
+        - 'zu'
+        - 'beiteten'
+        - 'zu'
+      presentSubj: 
+        - 'beite'
+        - 'zu'
+        - 'beitest'
+        - 'zu'
+        - 'beite'
+        - 'zu'
+        - 'beiten'
+        - 'zu'
+        - 'beitet'
+        - 'zu'
+        - 'beiten'
+        - 'zu'
+      imperfSubj: 
+        - 'beitete'
+        - 'zu'
+        - 'beitetest'
+        - 'zu'
+        - 'beitete'
+        - 'zu'
+        - 'beiteten'
+        - 'zu'
+        - 'beitetet'
+        - 'zu'
+        - 'beiteten'
+        - 'zu'
+      infinitiv: 
+        - ',zubeitend,zubeitet,'
+      participle: 
+        - ',zubeiten,zuzubeiten,'
+  - |
+      word: 'lassen'
+      presentThirdFormSingle: 'lässt'
+      pastThirdFormSingle: 'ließ'
+      past: 'hat gelassen'
+      present: 
+        - 'lass(e)⁵'
+        - 'lässt'
+        - 'lässt'
+        - 'lassen'
+        - 'lasst'
+        - 'lassen'
+      translation: 
+        - ',, let,,leave,,give up,,stop,,quit,,allow,,make,,have,,cause,,be possible,'
+      imperative: 
+        - '-lass(e)⁵'
+        - '()-lassen'
+        - 'lasst'
+        - '()lassen'
+        - 'Sie'
+      imperfect: 
+        - 'ließ'
+        - 'ließ(es)t'
+        - 'ließ'
+        - 'ließen'
+        - 'ließ(e)t'
+        - 'ließen'
+      presentSubj: 
+        - 'lasse'
+        - 'lassest'
+        - 'lasse'
+        - 'lassen'
+        - 'lasset'
+        - 'lassen'
+      imperfSubj: 
+        - 'ließe'
+        - 'ließest'
+        - 'ließe'
+        - 'ließen'
+        - 'ließet'
+        - 'ließen'
+      infinitiv: 
+        - ',lassend,gelassen,'
+      participle: 
+        - ',lassen,zu'
+        - 'lassen,'
+  - |
+      word: 'ab·biegen'
+      presentThirdFormSingle: 'biegt ab'
+      pastThirdFormSingle: 'bog ab'
+      past: 'ist abgebogen'
+      present: 
+      
+      translation: 
+      
+      imperative: 
+      
+      imperfect: 
+      
+      presentSubj: 
+      
+      imperfSubj: 
+      
+      infinitiv: 
+      
+      participle: 
+      
+  - |
+      word: 'vor·stellen'
+      presentThirdFormSingle: 'stellt vor'
+      pastThirdFormSingle: 'stellte vor'
+      past: 'hat vorgestellt'
+      present: 
+        - 'stell(e)⁵'
+        - 'vor'
+        - 'stellst'
+        - 'vor'
+        - 'stellt'
+        - 'vor'
+        - 'stellen'
+        - 'vor'
+        - 'stellt'
+        - 'vor'
+        - 'stellen'
+        - 'vor'
+      translation: 
+        - ',, imagine,,introduce,,present,,propose,,introduce oneself,,look good,,represent,,introduce (to),,ideate,,visualise,'
+      imperative: 
+        - '-stell(e)⁵'
+        - '()'
+        - 'vor-stellen'
+        - 'vorstellt'
+        - '()'
+        - 'vorstellen'
+        - 'Sie'
+        - 'vor'
+      imperfect: 
+        - 'stellte'
+        - 'vor'
+        - 'stelltest'
+        - 'vor'
+        - 'stellte'
+        - 'vor'
+        - 'stellten'
+        - 'vor'
+        - 'stelltet'
+        - 'vor'
+        - 'stellten'
+        - 'vor'
+      presentSubj: 
+        - 'stelle'
+        - 'vor'
+        - 'stellest'
+        - 'vor'
+        - 'stelle'
+        - 'vor'
+        - 'stellen'
+        - 'vor'
+        - 'stellet'
+        - 'vor'
+        - 'stellen'
+        - 'vor'
+      imperfSubj: 
+        - 'stellte'
+        - 'vor'
+        - 'stelltest'
+        - 'vor'
+        - 'stellte'
+        - 'vor'
+        - 'stellten'
+        - 'vor'
+        - 'stelltet'
+        - 'vor'
+        - 'stellten'
+        - 'vor'
+      infinitiv: 
+        - ',vorstellend,vorgestellt,'
+      participle: 
+        - ',vorstellen,vorzustellen,'
+  - |
+      word: 'kaufen'
+      presentThirdFormSingle: 'kauft'
+      pastThirdFormSingle: 'kaufte'
+      past: 'hat gekauft'
+      present: 
+      
+      translation: 
+      
+      imperative: 
+      
+      imperfect: 
+      
+      presentSubj: 
+      
+      imperfSubj: 
+      
+      infinitiv: 
+      
+      participle: 
+      
+  - |
+      word: 'vergessen'
+      presentThirdFormSingle: 'vergisst'
+      pastThirdFormSingle: 'vergaß'
+      past: 'hat vergessen'
+      present: 
+        - 'vgess(e)⁵'
+        - 'vgisst'
+        - 'vgisst'
+        - 'vgessen'
+        - 'vgesst'
+        - 'vgessen'
+      translation: 
+        - ",, forgot,,forget,,forget oneself,,get out of one's head,,lose sight of,,forget about,,unlearn,,disremember,,misremember,"
+      imperative: 
+        - '-vgiss'
+        - '()-vgessen'
+        - 'vgesst'
+        - '()vgessen'
+        - 'Sie'
+      imperfect: 
+        - 'vgaß'
+        - 'vgaß(es)t'
+        - 'vgaß'
+        - 'vgaßen'
+        - 'vgaß(e)t'
+        - 'vgaßen'
+      presentSubj: 
+        - 'vgesse'
+        - 'vgessest'
+        - 'vgesse'
+        - 'vgessen'
+        - 'vgesset'
+        - 'vgessen'
+      imperfSubj: 
+        - 'vgäße'
+        - 'vgäßest'
+        - 'vgäße'
+        - 'vgäßen'
+        - 'vgäßet'
+        - 'vgäßen'
+      infinitiv: 
+        - ',vgessend,vgessen,'
+      participle: 
+        - ',vgessen,zu'
+        - 'vgessen,'
+  - |
+      word: 'ändern'
+      presentThirdFormSingle: 'ändert'
+      pastThirdFormSingle: 'änderte'
+      past: 'hat geändert'
+      present: 
+      
+      translation: 
+      
+      imperative: 
+      
+      imperfect: 
+      
+      presentSubj: 
+      
+      imperfSubj: 
+      
+      infinitiv: 
+      
+      participle: 
+      
+  - |
+      word: 'schmecken'
+      presentThirdFormSingle: 'schmeckt'
+      pastThirdFormSingle: 'schmeckte'
+      past: 'hat geschmeckt'
+      present: 
+        - 'schmeck(e)⁵'
+        - 'schmeckst'
+        - 'schmeckt'
+        - 'schmecken'
+        - 'schmeckt'
+        - 'schmecken'
+      translation: 
+        - ',, taste,,smack,,smell,,be (to) liking,,savour (of),,smack (of),,flavour of,,savour,,taste good,,awful,'
+      imperative: 
+        - '-schmeck(e)⁵'
+        - '()-schmecken'
+        - 'schmeckt'
+        - '()schmecken'
+        - 'Sie'
+      imperfect: 
+        - 'schmeckte'
+        - 'schmecktest'
+        - 'schmeckte'
+        - 'schmeckten'
+        - 'schmecktet'
+        - 'schmeckten'
+      presentSubj: 
+        - 'schmecke'
+        - 'schmeckest'
+        - 'schmecke'
+        - 'schmecken'
+        - 'schmecket'
+        - 'schmecken'
+      imperfSubj: 
+        - 'schmeckte'
+        - 'schmecktest'
+        - 'schmeckte'
+        - 'schmeckten'
+        - 'schmecktet'
+        - 'schmeckten'
+      infinitiv: 
+        - ',schmeckend,geschmeckt,'
+      participle: 
+        - ',schmecken,zu'
+        - 'schmecken,'
+  - |
+      word: 'beobachten'
+      presentThirdFormSingle: 'beobachtet'
+      pastThirdFormSingle: 'beobachtete'
+      past: 'hat beobachtet'
+      present: 
+      
+      translation: 
+      
+      imperative: 
+      
+      imperfect: 
+      
+      presentSubj: 
+      
+      imperfSubj: 
+      
+      infinitiv: 
+      
+      participle: 
+      
+  - |
+      word: 'verbinden'
+      presentThirdFormSingle: 'verbindet'
+      pastThirdFormSingle: 'verband'
+      past: 'hat verbunden'
+      present: 
+        - 'vbind(e)⁵'
+        - 'vbindest'
+        - 'vbindet'
+        - 'vbinden'
+        - 'vbindet'
+        - 'vbinden'
+      translation: 
+        - ',, bandage,,connect,,associate,,unite,,combine,,put through,,link (to),,knit together (with),,associate (with),,put through (to),'
+      imperative: 
+        - '-vbind(e)⁵'
+        - '()-vbinden'
+        - 'vbindet'
+        - '()vbinden'
+        - 'Sie'
+      imperfect: 
+        - 'vband'
+        - 'vband(e)⁷st'
+        - 'vband'
+        - 'vbanden'
+        - 'vbandet'
+        - 'vbanden'
+      presentSubj: 
+        - 'vbinde'
+        - 'vbindest'
+        - 'vbinde'
+        - 'vbinden'
+        - 'vbindet'
+        - 'vbinden'
+      imperfSubj: 
+        - 'vbände/vbünde'
+        - 'vbändest/vbündest'
+        - 'vbände/vbünde'
+        - 'vbänden/vbünden'
+        - 'vbändet/vbündet'
+        - 'vbänden/vbünden'
+      infinitiv: 
+        - ',vbindend,vbunden,'
+      participle: 
+        - ',vbinden,zu'
+        - 'vbinden,'
+  - |
+      word: 'stehen'
+      presentThirdFormSingle: 'steht'
+      pastThirdFormSingle: 'stand'
+      past: 'hat gestanden'
+      present: 
+        - 'steh(e)⁵'
+        - 'stehst'
+        - 'steht'
+        - 'steh(e)⁵n'
+        - 'steht'
+        - 'steh(e)⁵n'
+      translation: 
+        - ',, stand,,be,,stand still,,suit,,become,,stand for,,dig,,represent,'
+      imperative: 
+        - '-steh(e)⁵'
+        - '()-steh(e)⁵n'
+        - 'steht'
+        - '()steh(e)⁵n'
+        - 'Sie'
+      imperfect: 
+        - 'stand'
+        - 'stand(e)⁷st'
+        - 'stand'
+        - 'standen'
+        - 'standet'
+        - 'standen'
+      presentSubj: 
+        - 'stehe'
+        - 'stehest'
+        - 'stehe'
+        - 'steh(e)⁵n'
+        - 'stehet'
+        - 'steh(e)⁵n'
+      imperfSubj: 
+        - 'stünde/stände'
+        - 'stündest/ständest'
+        - 'stünde/stände'
+        - 'stünden/ständen'
+        - 'stündet/ständet'
+        - 'stünden/ständen'
+      infinitiv: 
+        - ',stehend,gestanden,'
+      participle: 
+        - ',steh(e)⁵n,zu'
+        - 'steh(e)⁵n,'
+  - |
+      word: 'ab·stellen'
+      presentThirdFormSingle: 'stellt ab'
+      pastThirdFormSingle: 'stellte ab'
+      past: 'hat abgestellt'
+      present: 
+        - 'stell(e)⁵'
+        - 'ab'
+        - 'stellst'
+        - 'ab'
+        - 'stellt'
+        - 'ab'
+        - 'stellen'
+        - 'ab'
+        - 'stellt'
+        - 'ab'
+        - 'stellen'
+        - 'ab'
+      translation: 
+        - ",, put down,,stop,,park,,set aside,,assign,,take corrective action,,detach,,base one's argument (on),,take into account,,detail,"
+      imperative: 
+        - '-stell(e)⁵'
+        - '()'
+        - 'ab-stellen'
+        - 'abstellt'
+        - '()'
+        - 'abstellen'
+        - 'Sie'
+        - 'ab'
+      imperfect: 
+        - 'stellte'
+        - 'ab'
+        - 'stelltest'
+        - 'ab'
+        - 'stellte'
+        - 'ab'
+        - 'stellten'
+        - 'ab'
+        - 'stelltet'
+        - 'ab'
+        - 'stellten'
+        - 'ab'
+      presentSubj: 
+        - 'stelle'
+        - 'ab'
+        - 'stellest'
+        - 'ab'
+        - 'stelle'
+        - 'ab'
+        - 'stellen'
+        - 'ab'
+        - 'stellet'
+        - 'ab'
+        - 'stellen'
+        - 'ab'
+      imperfSubj: 
+        - 'stellte'
+        - 'ab'
+        - 'stelltest'
+        - 'ab'
+        - 'stellte'
+        - 'ab'
+        - 'stellten'
+        - 'ab'
+        - 'stelltet'
+        - 'ab'
+        - 'stellten'
+        - 'ab'
+      infinitiv: 
+        - ',abstellend,abgestellt,'
+      participle: 
+        - ',abstellen,abzustellen,'
+  - |
+      word: 'freuen'
+      presentThirdFormSingle: 'freut'
+      pastThirdFormSingle: 'freute'
+      past: 'hat gefreut'
+      present: 
+        - 'freu(e)⁵'
+        - 'freust'
+        - 'freut'
+        - 'freu(e)⁵n'
+        - 'freut'
+        - 'freu(e)⁵n'
+      translation: 
+        - ',, be glad,,make happy,,make sb. happy,,be happy,,be pleased,,rejoice,,look forward to,,please,,be happy for,,share happiness,'
+      imperative: 
+        - '-freu(e)⁵'
+        - '()-freu(e)⁵n'
+        - 'freut'
+        - '()freu(e)⁵n'
+        - 'Sie'
+      imperfect: 
+        - 'freute'
+        - 'freutest'
+        - 'freute'
+        - 'freuten'
+        - 'freutet'
+        - 'freuten'
+      presentSubj: 
+        - 'freue'
+        - 'freuest'
+        - 'freue'
+        - 'freu(e)⁵n'
+        - 'freuet'
+        - 'freu(e)⁵n'
+      imperfSubj: 
+        - 'freute'
+        - 'freutest'
+        - 'freute'
+        - 'freuten'
+        - 'freutet'
+        - 'freuten'
+      infinitiv: 
+        - ',freuend,gefreut,'
+      participle: 
+        - ',freu(e)⁵n,zu'
+        - 'freu(e)⁵n,'
+
