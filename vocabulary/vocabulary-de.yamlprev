@@ -1,4 +1,4 @@
-lastUpdated: '2022-09-06 19:05:21.759436'
+lastUpdated: '2022-09-08 21:27:23.963075'
 words: 
   - 
     de: 'stelle'
@@ -24607,6 +24607,345 @@ words:
         dest: 
           - 'parade'
 
+  - 
+    de: 'beliebt'
+    added: '2022-09-08 18:36:51.992062'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'beliebt'
+        mark: 'adj'
+        dest: 
+          - 'liked'
+          - 'admired'
+          - 'popular'
+      - 
+        src: 'beliebt'
+        mark: 'adj'
+        dest: 
+          - 'popular'
+          - 'big'
+
+  - 
+    de: 'erinnern'
+    added: '2022-09-08 18:37:39.436927'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'sich an [etw] erinnern'
+        mark: 'präp + vr'
+        dest: 
+          - 'remember'
+          - 'recall'
+      - 
+        src: 'jmdn an [etw] erinnern'
+        mark: 'präp + vt'
+        dest: 
+          - 'remind'
+      - 
+        src: 'sich an [etw] erinnern'
+        mark: 'präp + vr'
+        dest: 
+          - 'remember'
+          - 'recall'
+
+  - 
+    de: 'meistens'
+    added: '2022-09-08 18:38:19.167730'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'meistens'
+        mark: 'adv'
+        dest: 
+          - 'mostly'
+          - 'most of the time'
+      - 
+        src: 'meistens'
+        mark: 'adv'
+        dest: 
+          - 'usually'
+
+  - 
+    de: 'trotzdem'
+    added: '2022-09-08 18:39:11.126899'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'trotzdem'
+        mark: 'adv'
+        dest: 
+          - 'still'
+          - 'regardless'
+          - 'nevertheless'
+          - 'anyway'
+      - 
+        src: 'trotzdem'
+        mark: 'konj'
+        dest: 
+          - 'even though'
+
+  - 
+    de: 'einstellung'
+    added: '2022-09-08 18:39:35.478628'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'einstellung'
+        mark: 'nf'
+        dest: 
+          - 'attitude'
+          - 'opinion'
+      - 
+        src: 'einstellung'
+        mark: 'nf'
+        dest: 
+          - 'adjustment'
+          - 'setting'
+      - 
+        src: 'einstellung'
+        mark: 'nf'
+        dest: 
+          - 'hiring'
+          - 'recruitment'
+          - 'enlistment'
+          - 'appointment'
+      - 
+        src: 'innere einstellung'
+        mark: 'adj + nf'
+        dest: 
+          - 'attitude'
+      - 
+        src: 'positive einstellung'
+        mark: 'adj + nf'
+        dest: 
+          - 'positive attitude'
+      - 
+        src: 'richtige einstellung'
+        mark: 'adj + nf'
+        dest: 
+          - 'right attitude'
+
+  - 
+    de: 'häufig'
+    added: '2022-09-08 18:40:12.228304'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'häufig'
+        mark: 'adv'
+        dest: 
+          - 'often'
+          - 'frequently'
+
+  - 
+    de: 'sogar'
+    added: '2022-09-08 18:40:55.831413'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'sogar'
+        mark: 'adv'
+        dest: 
+          - 'even'
+      - 
+        src: 'sogar'
+        mark: 'adv'
+        dest: 
+          - 'even'
+      - 
+        src: 'sogar wenn'
+        mark: 'adv + konj'
+        dest: 
+          - 'even when'
+      - 
+        src: 'sogar'
+        mark: 'adv'
+        dest: 
+          - 'even'
+
+  - 
+    de: 'relativ'
+    added: '2022-09-08 18:42:48.857698'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'relativ'
+        mark: 'adv'
+        dest: 
+          - 'pretty'
+          - 'relatively'
+          - 'fairly'
+      - 
+        src: 'relativ'
+        mark: 'adj'
+        dest: 
+          - 'relative'
+
+  - 
+    de: 'szene'
+    added: '2022-09-08 18:45:21.870214'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'szene'
+        mark: 'nf'
+        dest: 
+          - 'scene'
+      - 
+        src: 'szene'
+        mark: 'nf'
+        dest: 
+          - 'scene'
+          - 'setting'
+      - 
+        src: 'szene'
+        mark: 'nf'
+        dest: 
+          - 'scene'
+      - 
+        src: 'szene'
+        mark: 'nf'
+        dest: 
+          - 'scene'
+      - 
+        src: 'aufgenommene szene'
+        mark: 'v part perf + nf'
+        dest: 
+          - 'recorded scene'
+      - 
+        src: 'szene'
+        mark: 'f'
+        dest: 
+          - 'scene'
+
+  - 
+    de: 'betonen'
+    added: '2022-09-08 18:45:57.767343'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: '[etw] betonen'
+        mark: 'vt'
+        dest: 
+          - 'emphasize'
+          - 'emphasise'
+          - 'stress'
+      - 
+        src: '[etw] betonen'
+        mark: 'vt'
+        dest: 
+          - 'emphasize'
+          - 'emphasise'
+          - 'stress'
+      - 
+        src: 'nachdrücklich betonen'
+        mark: 'adj + vt'
+        dest: 
+          - 'strongly emphasize'
+      - 
+        src: 'betonen'
+        mark: 'v/t'
+        dest: 
+          - 'stress'
+
+  - 
+    de: 'aussage'
+    added: '2022-09-08 18:46:58.279190'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'aussage'
+        mark: 'nf'
+        dest: 
+          - 'statement'
+      - 
+        src: 'aussage'
+        mark: 'nf'
+        dest: 
+          - 'message'
+      - 
+        src: 'aussage'
+        mark: 'nf'
+        dest: 
+          - 'testimony, evidence'
+      - 
+        src: 'wesentliche aussage'
+        mark: 'adj + nf'
+        dest: 
+          - 'point'
+      - 
+        src: 'aussage'
+        mark: 'f'
+        dest: 
+          - 'statement'
+
+  - 
+    de: 'hetzen'
+    added: '2022-09-08 18:55:09.321080'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'hetze'
+        mark: 'nf'
+        dest: 
+          - 'haste'
+          - 'rush'
+          - 'hurry'
+      - 
+        src: 'hetze'
+        mark: 'f'
+        dest: 
+          - 'rush'
+
+  - 
+    de: 'sowohl'
+    added: '2022-09-08 21:27:23.953271'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'sowohl, sowohl...als auch'
+        mark: 'konj'
+        dest: 
+          - 'both...and'
+      - 
+        src: 'als auch, sowohl...als auch'
+        mark: 'konj + adv'
+        dest: 
+          - 'as well as'
+          - 'in addition to'
+      - 
+        src: 'sowohl...als auch'
+        mark: 'rdw'
+        dest: 
+          - 'as well as'
+
 
 broken: 
   - 'werven'
@@ -24639,3 +24978,7 @@ broken:
   - 'meckeren'
   - 'meckern'
   - 'überracht'
+  - 'vorzubereiten'
+  - 'errineren'
+  - 'errinern'
+  - 'tatsätlich'

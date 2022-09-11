@@ -1,9 +1,2 @@
-# fetch words from API
-    - [batch] from input
-    - [one] from console
-# query
-    - [one] from console
-        - fetch -> if broken -> manually
-        - if contains -> show
-
-# tran
+dart bin/vocab.dart query -w aussage    
+dart bin/irregular.dart 0 20        
