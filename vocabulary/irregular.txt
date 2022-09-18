@@ -1,102 +1,102 @@
-#bake|backen|
-#command,order|befehlen|
-#begin|beginnen|
-#bite|beißen|
-#deceive,cheat|betrügen|
-#move|bewegen|
-#bend,turn|biegen|
-#offer,provide|bieten|
-#tie|binden|
-#request,ask|bitten|
-#blow,sound|blasen|
-#stay,remain|bleiben|
-#roast|braten|
-#break|brechen|
-#burn|brennen|
-#bring,take to|bringen|
-#think|denken|
-#be allowed to|dürfen|
-#recommend|empfehlen|
-#be frightened|erschrecken|
-#eat|essen|
-#go(not on foot),drive|fahren|
-#fall|fallen|
-#catch|fangen|
-#find|finden|
-#fly|fliegen|
-#flee|fliehen|
-#flow|fließen|
-#eat(by animal)|fressen|
-#freeze,be cold|frieren|
-#give|geben|
-#flourish,propser|gedeihen|
-#go,walk|gehen|
-#succeed|gelingen|
-#be valid,be of worth|gelten|
-#enjoy|genießen|
-#fall into, get|geraten|
-#happen|geschehen|
-#win,gain|gewinnen|
-#pour|gießen|
-#resemble|gleichen|
-#glide,slide|gleiten|
-#dig|graben|
-#grasp,grab hold of|greifen|
-#have|haben|
-#hold,bring yourself to a standstill|halten|
-#be hanging|hängen|
-#raise,lift|heben|
-#be called, bid|heißen|
-#help|helfen|
-#know(place,person)|kennen|
-#sound|klingen|
-#come|kommen|
-#can,be able to|können|
-#crawl|kriechen|
-#load,invite|laden|
-#let,leave(something behind)|lassen|
-#run|laufen|
-#suffer|leiden|
-#lend(out)|leihen|
-#read|lesen|
-#lie(on a place)|liegen|
-#tell lies|lügen|
-#measure|messen|
-#like|mögen|
-#must, have to|müssen|
-#take|nehmen|
-#name,call|nennen|
-#whistle,pipe|pfeifen|
-#advise,guess|raten|
-#rub|reiben|
-#tear,rip|reißen|
-#ride|reiten|
-#run|rennen|
-#smell|riechen|
-#call,shout|rufen|
-#separate|scheiden|
-#seem,shine|scheinen|
-#shove,push|schieben|
-#shoot|schießen|
-#sleep|schlafen|
-#hit,beat,strike|schlagen|
-#shut,finish|schließen|
-#cut|schneiden|
-#write|schreiben|
-#shout,yell|schreien|
-be(come) silent|schweigen|
-swell|schwellen|
-#swim|schwimmen|
-swing|schwingen|
-swear|schwören|
-see|sehen|
-be|sein|
-send|senden|
-sing|singen|
-sink|sinken|
-be sitting|sitzen|
-be obliged to|sollen|
-speak|sprechen|
+-bake|backen|
+-command,order|befehlen|
+-begin|beginnen|
+-bite|beißen|
+-deceive,cheat|betrügen|
+-move|bewegen|
+-bend,turn|biegen|
+-offer,provide|bieten|
+-tie|binden|
+-request,ask|bitten|
+-blow,sound|blasen|
+-stay,remain|bleiben|
+-roast|braten|
+-break|brechen|
+-burn|brennen|
+-bring,take to|bringen|
+-think|denken|
+-be allowed to|dürfen|
+-recommend|empfehlen|
+-be frightened|erschrecken|
+-eat|essen|
+-go(not on foot),drive|fahren|
+-fall|fallen|
+-catch|fangen|
+-find|finden|
+-fly|fliegen|
+-flee|fliehen|
+-flow|fließen|
+-eat(by animal)|fressen|
+-freeze,be cold|frieren|
+-give|geben|
+-flourish,propser|gedeihen|
+-go,walk|gehen|
+-succeed|gelingen|
+-be valid,be of worth|gelten|
+-enjoy|genießen|
+-fall into, get|geraten|
+-happen|geschehen|
+-win,gain|gewinnen|
+-pour|gießen|
+-resemble|gleichen|
+-glide,slide|gleiten|
+-dig|graben|
+-grasp,grab hold of|greifen|
+-have|haben|
+-hold,bring yourself to a standstill|halten|
+-be hanging|hängen|
+-raise,lift|heben|
+-be called, bid|heißen|
+-help|helfen|
+-know(place,person)|kennen|
+-sound|klingen|
+-come|kommen|
+-can,be able to|können|
+-crawl|kriechen|
+-load,invite|laden|
+-let,leave(something behind)|lassen|
+-run|laufen|
+-suffer|leiden|
+-lend(out)|leihen|
+-read|lesen|
+-lie(on a place)|liegen|
+-tell lies|lügen|
+-measure|messen|
+-like|mögen|
+-must, have to|müssen|
+-take|nehmen|
+-name,call|nennen|
+-whistle,pipe|pfeifen|
+-advise,guess|raten|
+-rub|reiben|
+-tear,rip|reißen|
+-ride|reiten|
+-run|rennen|
+-smell|riechen|
+-call,shout|rufen|
+-separate|scheiden|
+-seem,shine|scheinen|
+shove,push|schieben|
+-shoot|schießen|
+-sleep|schlafen|
+hit,beat,strike|schlagen|
+-shut,finish|schließen|
+-cut|schneiden|
+-write|schreiben|
+-shout,yell|schreien|
+-be(come) silent|schweigen|
+-swell|schwellen|
+-swim|schwimmen|
+-swing|schwingen|
+-swear|schwören|
+-see|sehen|
+-be|sein|
+-send|senden|
+-sing|singen|
+-sink|sinken|
+-be sitting|sitzen|
+-be obliged to|sollen|
+-speak|sprechen|
 jump|springen|
 prick,sting|stechen|
 stand|stehen|
@@ -104,7 +104,7 @@ steal|stehlen|
 rise,mount|steigen|
 die|sterben|
 stink|stinken|
-push, kick|stoßen|
+run into, push|stoßen|
 quarrel, clash|streiten|
 carry,wear|tragen|
 meet,hit|treffen|

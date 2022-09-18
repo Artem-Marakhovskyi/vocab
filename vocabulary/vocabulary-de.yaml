@@ -1,4 +1,4 @@
-lastUpdated: '2022-09-08 22:27:07.432186'
+lastUpdated: '2022-09-12 18:15:46.483751'
 words: 
   - 
     de: 'stelle'
@@ -24962,6 +24962,619 @@ words:
           - 'just as'
           - 'likewise'
 
+  - 
+    de: 'leidenschaft'
+    added: '2022-09-11 17:40:00.263836'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'leidenschaft'
+        mark: 'nf'
+        dest: 
+          - 'emotion'
+      - 
+        src: 'leidenschaft'
+        mark: 'nf'
+        dest: 
+          - 'passion'
+
+  - 
+    de: 'situation'
+    added: '2022-09-11 17:40:50.307038'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'situation'
+        mark: 'nf'
+        dest: 
+          - 'situation'
+      - 
+        src: 'festgefahrene situation'
+        mark: 'adj + nf'
+        dest: 
+          - 'gridlock'
+      - 
+        src: 'finanzielle situation'
+        mark: 'adj + nf'
+        dest: 
+          - 'financial situation'
+      - 
+        src: 'kritische situation'
+        mark: 'adj + nf'
+        dest: 
+          - 'critical situation'
+
+  - 
+    de: 'angst'
+    added: '2022-09-11 17:41:08.782287'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'ängstigen'
+        mark: 'vr'
+        dest: 
+          - 'frighten'
+          - 'scare'
+      - 
+        src: 'angst'
+        mark: 'nf'
+        dest: 
+          - 'worry'
+      - 
+        src: 'angst'
+        mark: 'nf'
+        dest: 
+          - 'fear'
+          - 'anxiety'
+      - 
+        src: 'angst'
+        mark: 'nf'
+        dest: 
+          - 'phobia'
+      - 
+        src: 'angst einflößend'
+        mark: 'nf + v part präs'
+        dest: 
+          - 'frightening'
+          - 'terrifying'
+      - 
+        src: 'angst gemacht'
+        mark: 'nf + v part perf'
+        dest: 
+          - 'frightened, scared'
+      - 
+        src: 'angst gemacht'
+        mark: 'nf + v part perf'
+        dest: 
+          - 'worried, scared'
+      - 
+        src: 'angst haben'
+        mark: 'nf + vt'
+        dest: 
+          - 'be afraid'
+          - 'worry'
+      - 
+        src: 'angst vor [etw] haben'
+        mark: 'vp'
+        dest: 
+          - 'fear'
+          - 'be scared of'
+      - 
+        src: 'große angst'
+        mark: 'adj + nf'
+        dest: 
+          - 'great fear'
+          - 'extreme fear'
+          - 'terror'
+      - 
+        src: 'krankhafte angst'
+        mark: 'adj + nf'
+        dest: 
+          - 'phobia'
+      - 
+        src: 'vor angst beben'
+        mark: 'rdw'
+        dest: 
+          - 'quail'
+
+  - 
+    de: 'zurzeit'
+    added: '2022-09-11 17:41:19.773763'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'zurzeit'
+        mark: 'adv'
+        dest: 
+          - '('
+
+  - 
+    de: 'steigen'
+    added: '2022-09-11 17:43:24.323017'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'steigen'
+        mark: 'vi'
+        dest: 
+          - 'rise'
+      - 
+        src: 'auf [etw] steigen'
+        mark: 'präp + vi'
+        dest: 
+          - 'climb on'
+      - 
+        src: 'steigen'
+        mark: 'vi'
+        dest: 
+          - 'increase'
+          - 'grow'
+      - 
+        src: 'steigen'
+        mark: 'vi'
+        dest: 
+          - 'increase'
+          - 'go up'
+      - 
+        src: 'steigen'
+        mark: 'vi'
+        dest: 
+          - 'be'
+          - 'have'
+      - 
+        src: 'in die wanne steigen'
+        mark: 'rdw'
+        dest: 
+          - 'climb into the tub'
+
+  - 
+    de: 'deshalb'
+    added: '2022-09-11 17:44:12.750532'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'deshalb'
+        mark: 'adv'
+        dest: 
+          - 'therefore'
+          - 'because of this'
+      - 
+        src: 'deshalb'
+        mark: 'adv'
+        dest: 
+          - 'that’s why'
+          - 'so'
+
+  - 
+    de: 'niedrig'
+    added: '2022-09-11 17:44:51.986054'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'niedrig'
+        mark: 'adj'
+        dest: 
+          - 'low'
+      - 
+        src: 'niedrig'
+        mark: 'adj'
+        dest: 
+          - 'little'
+          - 'low'
+      - 
+        src: 'niedrig'
+        mark: 'adj'
+        dest: 
+          - 'mean'
+          - 'low'
+      - 
+        src: 'niedrig'
+        mark: 'adj'
+        dest: 
+          - 'low'
+      - 
+        src: 'niedrig gestellt'
+        mark: 'adj + v part perf'
+        dest: 
+          - 'set low to the ground'
+
+  - 
+    de: 'erhören'
+    added: '2022-09-11 17:45:15.137720'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'erhören'
+        mark: 'v/t'
+        dest: 
+          - 'grant'
+
+  - 
+    de: 'erhöhen'
+    added: '2022-09-11 17:45:26.366033'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: '[etw] erhöhen'
+        mark: 'vt'
+        dest: 
+          - 'increase'
+      - 
+        src: 'sich erhöhen'
+        mark: 'vr'
+        dest: 
+          - 'increase'
+          - 'raise'
+      - 
+        src: '[etw] erhöhen'
+        mark: 'vt'
+        dest: 
+          - 'heighten'
+          - 'raise'
+      - 
+        src: '[etw]/jmdn erhöhen'
+        mark: 'vt'
+        dest: 
+          - 'elevate'
+      - 
+        src: 'den druck erhöhen'
+        mark: 'rdw'
+        dest: 
+          - 'increase the pressure'
+      - 
+        src: 'den druck erhöhen'
+        mark: 'rdw'
+        dest: 
+          - 'increase the pressure'
+      - 
+        src: 'rendite erhöhen'
+        mark: 'nf + vt'
+        dest: 
+          - 'raise interest rate'
+      - 
+        src: 'um einen halbton erhöhen'
+        mark: 'rdw'
+        dest: 
+          - 'raise by a half step'
+          - 'tune a half tone higher'
+          - 'tune a semitone higher'
+
+  - 
+    de: 'gegenteil'
+    added: '2022-09-12 18:02:30.095361'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'gegenteil'
+        mark: 'nn'
+        dest: 
+          - 'contrary'
+          - 'converse'
+          - 'opposite'
+      - 
+        src: 'im gegenteil'
+        mark: 'präp + nn'
+        dest: 
+          - 'on the contrary'
+          - 'in contrast'
+      - 
+        src: 'gegenteil'
+        mark: 'n'
+        dest: 
+          - 'opposite'
+
+  - 
+    de: 'gegen'
+    added: '2022-09-12 18:02:39.645953'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'gegen'
+        mark: 'präp'
+        dest: 
+          - 'against'
+      - 
+        src: 'gegen'
+        mark: 'präp'
+        dest: 
+          - 'against'
+      - 
+        src: 'gegen'
+        mark: 'präp'
+        dest: 
+          - 'against'
+      - 
+        src: 'gegen'
+        mark: 'präp'
+        dest: 
+          - 'around'
+          - 'about'
+      - 
+        src: 'gegen'
+        mark: 'präp'
+        dest: 
+          - 'versus'
+          - 'compared to'
+      - 
+        src: 'angehen, gegen [etw] angehen'
+        mark: 'vt, sepa'
+        dest: 
+          - 'fight'
+          - 'go about doing'
+      - 
+        src: 'gegen jmdn antreten'
+        mark: 'vp'
+        dest: 
+          - 'compete against'
+          - 'go up against'
+      - 
+        src: 'gegen das gesetz'
+        mark: 'rdw'
+        dest: 
+          - 'against the law'
+      - 
+        src: 'gegen das gesetz'
+        mark: 'rdw'
+        dest: 
+          - 'against a bill'
+          - 'against a law'
+      - 
+        src: 'gegen das gesetz'
+        mark: 'rdw'
+        dest: 
+          - 'against the law'
+      - 
+        src: 'gegen den strom'
+        mark: 'rdw'
+        dest: 
+          - 'against the grain, against the current'
+      - 
+        src: 'gegen den strom'
+        mark: 'rdw'
+        dest: 
+          - 'against the current'
+      - 
+        src: 'gegen [etw] kämpfen'
+        mark: 'rdw'
+        dest: 
+          - 'fight against'
+      - 
+        src: 'gegen [etw] krachen'
+        mark: 'rdw'
+        dest: 
+          - 'run into'
+          - 'hit'
+      - 
+        src: 'gegen [etw] prallen'
+        mark: 'rdw'
+        dest: 
+          - 'bump into'
+          - 'bounce off'
+      - 
+        src: 'gegen [etw] stimmen'
+        mark: 'rdw'
+        dest: 
+          - 'vote against'
+      - 
+        src: 'gegen etwas sein'
+        mark: 'rdw'
+        dest: 
+          - 'be against'
+      - 
+        src: 'gegen jmdn antreten'
+        mark: 'präp + vi, sepa'
+        dest: 
+          - 'compete against'
+      - 
+        src: 'gegen [jmd] auflehnen'
+        mark: 'rdw'
+        dest: 
+          - 'oppose'
+      - 
+        src: 'gegen [jmd] auflehnen'
+        mark: 'rdw'
+        dest: 
+          - 'rebel against'
+      - 
+        src: 'gegen [jmd] boxen'
+        mark: 'rdw'
+        dest: 
+          - 'box against'
+      - 
+        src: 'gegen [jmd] kämpfen'
+        mark: 'rdw'
+        dest: 
+          - 'fight'
+      - 
+        src: 'gegen [jmd] kämpfen'
+        mark: 'rdw'
+        dest: 
+          - 'fight against'
+          - 'protest'
+      - 
+        src: '[jmd] gegen sich aufbringen'
+        mark: 'rdw'
+        dest: 
+          - 'antagonize'
+          - 'provoke'
+      - 
+        src: 'gegen [etw] protestieren'
+        mark: 'präp + vi'
+        dest: 
+          - 'object'
+          - 'protest'
+      - 
+        src: 'auf/gegen [etw] schlagen'
+        mark: 'präp + vi'
+        dest: 
+          - 'batter'
+      - 
+        src: 'gegen [etw] verstoßen'
+        mark: 'präp + vi'
+        dest: 
+          - 'transgress'
+          - 'break'
+          - 'violate'
+
+  - 
+    de: 'sozusagen'
+    added: '2022-09-12 18:05:10.913441'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'sozusagen'
+        mark: 'adv'
+        dest: 
+          - 'quasi'
+          - 'so to say'
+      - 
+        src: 'sozusagen'
+        mark: 'adv'
+        dest: 
+          - 'as it were'
+          - 'so to speak'
+
+  - 
+    de: 'unterwegs'
+    added: '2022-09-12 18:07:08.226929'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'unterwegs'
+        mark: 'adv'
+        dest: 
+          - 'on the way'
+          - 'underway'
+          - 'en route'
+      - 
+        src: 'unterwegs sein'
+        mark: 'adv + vi'
+        dest: 
+          - 'be on the road'
+          - 'not at home'
+      - 
+        src: 'unterwegs'
+        mark: 'adv'
+        dest: 
+          - 'on the'
+
+  - 
+    de: 'regel'
+    added: '2022-09-12 18:08:47.907796'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'regel'
+        mark: 'nf'
+        dest: 
+          - 'rule, principle'
+          - 'law'
+      - 
+        src: 'regel'
+        mark: 'nf'
+        dest: 
+          - 'habit'
+          - 'norm, standard'
+      - 
+        src: 'regel'
+        mark: 'nf'
+        dest: 
+          - 'period'
+      - 
+        src: 'die regel betreffend'
+        mark: 'rdw'
+        dest: 
+          - 'concerning the rule, regarding the rule'
+      - 
+        src: 'die regel betreffend'
+        mark: 'rdw'
+        dest: 
+          - 'regarding the cycle'
+      - 
+        src: 'regel'
+        mark: 'f'
+        dest: 
+          - 'rule'
+
+  - 
+    de: 'schluss'
+    added: '2022-09-12 18:15:46.468551'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'schluss'
+        mark: 'nm'
+        dest: 
+          - 'end'
+          - 'close'
+      - 
+        src: 'schluss'
+        mark: 'nm'
+        dest: 
+          - 'conclusion'
+      - 
+        src: 'einen schluss ziehen'
+        mark: 'rdw'
+        dest: 
+          - 'draw a conclusion'
+      - 
+        src: 'schluss jetzt'
+        mark: 'int'
+        dest: 
+          - 'enough of this'
+          - 'stop it'
+      - 
+        src: 'schluss machen'
+        mark: 'nm + vt'
+        dest: 
+          - 'end it'
+          - 'break up with'
+      - 
+        src: 'schluss machen'
+        mark: 'nm + vt'
+        dest: 
+          - 'call it a day'
+      - 
+        src: 'zum schluss'
+        mark: 'präp + nm'
+        dest: 
+          - 'at the end'
+      - 
+        src: 'schluss'
+        mark: 'm'
+        dest: 
+          - 'end'
+
 
 broken: 
   - 'werven'
@@ -24998,3 +25611,7 @@ broken:
   - 'errineren'
   - 'errinern'
   - 'tatsätlich'
+  - 'gegental'
+  - 'kasus'
+  - 'herunterladen'
+  - 'freischalten'

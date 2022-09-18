@@ -22,7 +22,7 @@ class PairCollection {
   PairCollection(File file) {
     var linesSplitted = file
         .readAsLinesSync()
-        .where((element) => element.startsWith('#'))
+        .where((element) => !element.startsWith('-'))
         .map((e) => e.split('|'));
     var p = <Pair>[];
     try {
