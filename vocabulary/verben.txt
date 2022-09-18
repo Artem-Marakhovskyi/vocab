@@ -1,0 +1,15 @@
+sein            bin         war         bin gewesen
+haben           haben       hatte       habe gehabt
+werden          werde       wurde       bin geworden
+können          kann        konnte      habe gekonnt
+machen          mache       machte      habe gemacht
+müssen          muss        musste      habe gemusst
+sagen           sage        sagte       habe gesagt
+gehen           gehe        ging        bin gegangen
+geben           gebe        gab         habe gegeben
+wollen          will        wollte      habe gewollt
+kommen          komme       kam         bin gekommen
+sollen          soll        sollte      habe gesollt
+sehen           sehe        sah         habe gesehen
+mögen           mag         mochte      habe gemocht
+         
