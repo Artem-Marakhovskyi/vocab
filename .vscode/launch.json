@@ -19,14 +19,6 @@
             "type": "dart",
             "program": "bin/vocab.dart",
             "args": ["add", "--file=input/input.yaml"]
-        },
-        {
-            "name": "add_file_keyvalue",
-            "cwd": "vocab",
-            "request": "launch",
-            "type": "dart",
-            "program": "bin/vocab.dart",
-            "args": ["add", "--file=input/input-ru.txt", "--keyvalue"]
         },        
         {
             "name": "add_interactive",
