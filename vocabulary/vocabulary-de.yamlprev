@@ -1,4 +1,4 @@
-lastUpdated: '2022-09-12 18:10:50.395072'
+lastUpdated: '2024-02-25 10:13:44.318464'
 words: 
   - 
     de: 'stelle'
@@ -25524,6 +25524,1793 @@ words:
         dest: 
           - 'rule'
 
+  - 
+    de: 'schluss'
+    added: '2022-09-12 18:15:46.468551'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'schluss'
+        mark: 'nm'
+        dest: 
+          - 'end'
+          - 'close'
+      - 
+        src: 'schluss'
+        mark: 'nm'
+        dest: 
+          - 'conclusion'
+      - 
+        src: 'einen schluss ziehen'
+        mark: 'rdw'
+        dest: 
+          - 'draw a conclusion'
+      - 
+        src: 'schluss jetzt'
+        mark: 'int'
+        dest: 
+          - 'enough of this'
+          - 'stop it'
+      - 
+        src: 'schluss machen'
+        mark: 'nm + vt'
+        dest: 
+          - 'end it'
+          - 'break up with'
+      - 
+        src: 'schluss machen'
+        mark: 'nm + vt'
+        dest: 
+          - 'call it a day'
+      - 
+        src: 'zum schluss'
+        mark: 'präp + nm'
+        dest: 
+          - 'at the end'
+      - 
+        src: 'schluss'
+        mark: 'm'
+        dest: 
+          - 'end'
+
+  - 
+    de: 'sein'
+    added: '2024-02-25 10:13:27.779890'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'sein'
+        mark: 'vi'
+        dest: 
+          - 'be'
+          - 'exist'
+      - 
+        src: 'sein'
+        mark: 'vi'
+        dest: 
+          - 'be'
+      - 
+        src: 'sein'
+        mark: 'vi'
+        dest: 
+          - 'be'
+      - 
+        src: 'sein'
+        mark: 'hv'
+        dest: 
+          - 'has'
+      - 
+        src: 'sein'
+        mark: 'hv'
+        dest: 
+          - 'was'
+      - 
+        src: 'sein'
+        mark: 'hv'
+        dest: 
+          - 'be'
+      - 
+        src: 'sein'
+        mark: 'pron'
+        dest: 
+          - 'his'
+      - 
+        src: 'sein'
+        mark: 'vi'
+        dest: 
+          - 'be'
+      - 
+        src: 'sein'
+        mark: 'vi'
+        dest: 
+          - 'be'
+      - 
+        src: 'abgestimmt sein'
+        mark: 'v part perf + vi'
+        dest: 
+          - 'be customized'
+          - 'be adapted'
+      - 
+        src: 'abgestumpft sein'
+        mark: 'v part perf + vi'
+        dest: 
+          - 'be desensitized'
+          - 'be desensitised'
+      - 
+        src: 'abheben, abgehoben sein'
+        mark: 'partv i, sepa'
+        dest: 
+          - 'become a snob'
+          - 'be full of yourself'
+          - 'get above oneself'
+      - 
+        src: 'als arzt tätig sein'
+        mark: 'rdw'
+        dest: 
+          - 'practice medicine'
+      - 
+        src: 'am leben sein'
+        mark: 'rdw'
+        dest: 
+          - 'survive'
+      - 
+        src: 'am leben sein'
+        mark: 'rdw'
+        dest: 
+          - 'living, alive'
+      - 
+        src: 'am zug sein'
+        mark: 'rdw'
+        dest: 
+          - 'be'
+      - 
+        src: 'am zug sein'
+        mark: 'rdw'
+        dest: 
+          - 'be'
+      - 
+        src: 'an der reihe sein'
+        mark: 'rdw'
+        dest: 
+          - 'be'
+          - 'be next'
+      - 
+        src: 'angemessen sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be suitable'
+          - 'be appropriate'
+      - 
+        src: 'ansässig sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'reside'
+          - 'be resident in'
+      - 
+        src: 'anwalt sein'
+        mark: 'nm + vi'
+        dest: 
+          - 'be a lawyer'
+      - 
+        src: 'anwalt sein'
+        mark: 'nm + vi'
+        dest: 
+          - 'be a lawyer'
+      - 
+        src: 'attraktiv sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'look good'
+          - 'be attractive'
+      - 
+        src: 'attraktiv sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'look good'
+      - 
+        src: 'auf dem aktuellen stand sein'
+        mark: 'rdw'
+        dest: 
+          - 'be up to date'
+      - 
+        src: 'auf dem neuesten stand sein'
+        mark: 'rdw'
+        dest: 
+          - 'be up to date'
+      - 
+        src: 'auf dem weg sein'
+        mark: 'rdw'
+        dest: 
+          - 'be on the way'
+          - 'be on route'
+      - 
+        src: 'auf dem weg sein'
+        mark: 'rdw'
+        dest: 
+          - 'be progressing'
+      - 
+        src: 'jmdm/[etw] auf den fersen sein'
+        mark: 'rdw'
+        dest: 
+          - "be on one's tail"
+      - 
+        src: 'jmdm/[etw] dicht auf den fersen sein'
+        mark: 'rdw'
+        dest: 
+          - 'be on track of'
+      - 
+        src: 'auf der ecke sein'
+        mark: 'rdw'
+        dest: 
+          - 'be on the edge'
+      - 
+        src: 'auf der hut sein'
+        mark: 'rdw'
+        dest: 
+          - 'watch out for'
+          - 'wary'
+          - 'on alert'
+      - 
+        src: 'auf der hut sein'
+        mark: 'rdw'
+        dest: 
+          - 'be on alert'
+          - 'be wary of'
+      - 
+        src: 'aufgeregt sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be nervous'
+      - 
+        src: 'aufgeregt sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be irritated'
+      - 
+        src: 'ausgeglichen sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be balanced'
+          - 'be relaxed'
+      - 
+        src: 'ausgerichtet sein'
+        mark: 'v part perf + vi'
+        dest: 
+          - 'be geared toward'
+      - 
+        src: 'ausgerichtet sein'
+        mark: 'v part perf + vi'
+        dest: 
+          - 'be catered'
+      - 
+        src: 'ausgesetzt sein'
+        mark: 'v part perf + vi'
+        dest: 
+          - 'be abandoned'
+      - 
+        src: 'ausgesetzt sein'
+        mark: 'v part perf + vi'
+        dest: 
+          - 'be exposed to'
+      - 
+        src: 'ausgestattet sein'
+        mark: 'v part perf + vi'
+        dest: 
+          - 'be equipped'
+          - 'be outfitted'
+      - 
+        src: 'ausgestattet sein'
+        mark: 'v part perf + vi'
+        dest: 
+          - 'be equipped'
+      - 
+        src: 'ausreichend sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be enough'
+          - 'be sufficient'
+      - 
+        src: 'ausreichend sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be satisfactory'
+      - 
+        src: 'außer atem sein'
+        mark: 'rdw'
+        dest: 
+          - 'be out of breath'
+      - 
+        src: 'behilflich sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be helpful'
+          - 'help'
+      - 
+        src: 'behindert sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be handicapped'
+      - 
+        src: 'behindert sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be hampered'
+          - 'be encumbered'
+      - 
+        src: 'behindert sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'annoying'
+      - 
+        src: 'behindert sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'nuts'
+          - 'crazy'
+      - 
+        src: 'bei [etw] sein'
+        mark: 'rdw'
+        dest: 
+          - 'be at'
+      - 
+        src: 'bei [etw] sein'
+        mark: 'rdw'
+        dest: 
+          - 'at it'
+      - 
+        src: 'bekannt sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'known'
+      - 
+        src: 'bekannt sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be acquainted'
+          - 'know each other'
+      - 
+        src: 'bekannt sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be famous'
+      - 
+        src: 'beschädigt sein'
+        mark: 'v part perf + vi'
+        dest: 
+          - 'be damaged'
+      - 
+        src: 'besorgt sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be worried, be concerned'
+      - 
+        src: 'für [etw] bestimmt sein'
+        mark: 'vp'
+        dest: 
+          - 'be designated to do'
+      - 
+        src: 'beunruhigt sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be worried'
+          - 'be unsettled'
+      - 
+        src: 'cheerleader sein'
+        mark: 'nm + vi'
+        dest: 
+          - 'be a cheerleader'
+      - 
+        src: 'da sein'
+        mark: 'adv + vi'
+        dest: 
+          - 'be there'
+          - 'be present'
+      - 
+        src: 'da sein'
+        mark: 'adv + vi'
+        dest: 
+          - 'be with'
+      - 
+        src: 'dabei sein'
+        mark: 'adv + vi'
+        dest: 
+          - 'witness'
+          - 'be there'
+      - 
+        src: 'dabei sein'
+        mark: 'adv + vi'
+        dest: 
+          - 'participate'
+          - 'be involved in'
+          - 'to be in'
+      - 
+        src: 'dabei sein [etw] zu tun'
+        mark: 'rdw'
+        dest: 
+          - 'be there for'
+      - 
+        src: 'dankbar sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be thankful'
+          - 'appreciate'
+      - 
+        src: 'der ansicht sein'
+        mark: 'rdw'
+        dest: 
+          - 'be of the opinion'
+          - 'have the opinion'
+      - 
+        src: 'der beste sein'
+        mark: 'rdw'
+        dest: 
+          - 'be the best'
+      - 
+        src: 'der beste sein'
+        mark: 'rdw'
+        dest: 
+          - 'be the best'
+      - 
+        src: 'der hammer sein'
+        mark: 'rdw'
+        dest: 
+          - 'be awesome'
+      - 
+        src: 'der hammer sein'
+        mark: 'rdw'
+        dest: 
+          - 'be bold, be brash'
+      - 
+        src: 'der meinung sein, dass'
+        mark: 'rdw'
+        dest: 
+          - 'be of the opinion'
+      - 
+        src: 'der partner von [jmd] sein'
+        mark: 'rdw'
+        dest: 
+          - 'be'
+      - 
+        src: 'der partner von [jmd] sein'
+        mark: 'rdw'
+        dest: 
+          - 'be'
+      - 
+        src: 'dickköpfig sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be stubborn'
+          - 'be thick-headed'
+      - 
+        src: 'die konsequenz sein'
+        mark: 'rdw'
+        dest: 
+          - 'be the consequence'
+          - 'be what happens'
+      - 
+        src: 'dran sein'
+        mark: 'adv + vi'
+        dest: 
+          - 'be next'
+          - 'be'
+      - 
+        src: 'drauf sein'
+        mark: 'adv + vi'
+        dest: 
+          - 'be in a mood'
+      - 
+        src: 'drauf sein'
+        mark: 'adv + vi'
+        dest: 
+          - 'be high'
+          - 'be as high as a kite'
+      - 
+        src: 'drauf sein'
+        mark: 'adv + vi'
+        dest: 
+          - 'be on top of'
+      - 
+        src: 'dreist sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be audacious'
+      - 
+        src: 'echt gut sein'
+        mark: 'vp'
+        dest: 
+          - 'be very good at'
+          - 'be very talented'
+      - 
+        src: 'echt gut sein'
+        mark: 'vp'
+        dest: 
+          - 'really good, very good'
+      - 
+        src: 'egal sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'do not care'
+      - 
+        src: 'egal sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'not matter'
+          - 'be unimportant'
+      - 
+        src: 'egal sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be irrelevant'
+      - 
+        src: 'eifersüchtig sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be jealous'
+      - 
+        src: 'eifersüchtig sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be jealous'
+      - 
+        src: 'eigentümer sein'
+        mark: 'nm + vi'
+        dest: 
+          - 'be the owner'
+          - 'be the proprietor'
+      - 
+        src: 'ein diener sein'
+        mark: 'rdw'
+        dest: 
+          - 'be a servant'
+      - 
+        src: 'ein diener sein'
+        mark: 'rdw'
+        dest: 
+          - 'serve'
+      - 
+        src: 'ein fan sein von'
+        mark: 'rdw'
+        dest: 
+          - 'be a fan of'
+      - 
+        src: 'ein paar sein'
+        mark: 'rdw'
+        dest: 
+          - 'be a couple'
+      - 
+        src: 'ein paar sein'
+        mark: 'rdw'
+        dest: 
+          - 'be a match'
+          - 'be a pair'
+      - 
+        src: 'eingeschlossen sein'
+        mark: 'v part perf + vi'
+        dest: 
+          - 'be trapped'
+          - 'be locked up'
+      - 
+        src: 'eingeschlossen sein'
+        mark: 'v part perf + vi'
+        dest: 
+          - 'be locked up, be locked away'
+      - 
+        src: 'sich einig sein'
+        mark: 'adj + vr'
+        dest: 
+          - 'be in agreement'
+      - 
+        src: 'einverstanden, einverstanden sein'
+        mark: 'adj'
+        dest: 
+          - 'agree with'
+      - 
+        src: 'einverstanden sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'agree'
+          - 'be in agreement'
+      - 
+        src: 'entschlossen sein'
+        mark: 'adj  + vi'
+        dest: 
+          - 'be determined, be committed'
+      - 
+        src: 'entschlossen sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be resolute'
+      - 
+        src: 'erfolgreich sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be successful'
+      - 
+        src: 'erfolgreich sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be successful'
+      - 
+        src: 'erhältlich sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'to be available'
+          - 'to be in stock'
+      - 
+        src: 'erstaunt sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be amazed'
+      - 
+        src: 'erzürnt sein'
+        mark: 'adj + vi'
+        dest: 
+          - 'be angered'
+      - 
+        src: '[etw] / jdm egal sein'
+        mark: 'rdw'
+        dest: 
+          - "doesn't matter to"
+      - 
+        src: '[etw] / jdm egal sein'
+        mark: 'rdw'
+        dest: 
+          - "doesn't matter to"
+      - 
+        src: '[etw] leid sein'
+        mark: 'rdw'
+        dest: 
+          - 'be tired of'
+
+  - 
+    de: 'treten'
+    added: '2024-02-25 10:13:28.114439'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'jmdn/[etw] treten'
+        mark: 'vt'
+        dest: 
+          - 'kick'
+      - 
+        src: 'zu [etw] treten'
+        mark: 'präp + vi'
+        dest: 
+          - 'head to'
+          - 'move to'
+      - 
+        src: 'auf/in [etw] treten'
+        mark: 'präp + vi'
+        dest: 
+          - "stamping one's foot"
+          - 'push'
+          - 'step'
+          - 'stamp'
+      - 
+        src: 'auf [etw/jmd] treten'
+        mark: 'vi'
+        dest: 
+          - 'step on'
+          - 'tread on'
+      - 
+        src: 'fahren ohne zu treten'
+        mark: 'rdw'
+        dest: 
+          - 'ride without pedalling'
+          - 'coast'
+      - 
+        src: 'jmdn in den hintern treten'
+        mark: 'rdw'
+        dest: 
+          - 'kick'
+      - 
+        src: 'jmdn in den hintern treten'
+        mark: 'vp'
+        dest: 
+          - 'kick'
+      - 
+        src: 'in den ruhestand treten'
+        mark: 'rdw'
+        dest: 
+          - 'retire'
+          - 'go into retirement'
+      - 
+        src: 'in die eier treten'
+        mark: 'rdw'
+        dest: 
+          - 'kick in the balls'
+          - 'kick in the nuts'
+      - 
+        src: 'mit jmdm in verbindung treten'
+        mark: 'vp'
+        dest: 
+          - 'get in contact with'
+      - 
+        src: 'ins fettnäpfchen treten'
+        mark: 'rdw'
+        dest: 
+          - 'put your foot in your mouth'
+      - 
+        src: 'zutage treten'
+        mark: 'adv + vi'
+        dest: 
+          - 'become visible'
+
+  - 
+    de: 'küste'
+    added: '2024-02-25 10:13:28.379187'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'küste'
+        mark: 'nf'
+        dest: 
+          - 'coast'
+      - 
+        src: 'an der küste'
+        mark: 'rdw'
+        dest: 
+          - 'on the coast'
+      - 
+        src: 'von der küste weg'
+        mark: 'rdw'
+        dest: 
+          - 'away from the coast'
+          - 'inland'
+      - 
+        src: 'von der küste weg'
+        mark: 'rdw'
+        dest: 
+          - 'way along the coast'
+
+  - 
+    de: 'tauchen'
+    added: '2024-02-25 10:13:28.656968'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'tauchen'
+        mark: 'vi'
+        dest: 
+          - 'dive'
+      - 
+        src: 'tauchen'
+        mark: 'nn'
+        dest: 
+          - 'diving'
+
+  - 
+    de: 'hinsicht'
+    added: '2024-02-25 10:13:29.202576'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'hinsicht'
+        mark: 'nf'
+        dest: 
+          - 'regard, respect'
+      - 
+        src: 'in jeder hinsicht'
+        mark: 'rdw'
+        dest: 
+          - 'in every sense'
+          - 'in every respect'
+
+  - 
+    de: 'geschenk'
+    added: '2024-02-25 10:13:29.460813'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'geschenk'
+        mark: 'nn'
+        dest: 
+          - 'present'
+          - 'gift'
+      - 
+        src: 'geschenkpaket'
+        mark: 'nn'
+        dest: 
+          - 'gift, present'
+          - 'gift box'
+          - 'gift pack'
+
+  - 
+    de: 'dienen'
+    added: '2024-02-25 10:13:30.260936'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'dienen'
+        mark: 'vi'
+        dest: 
+          - 'serve'
+      - 
+        src: 'als [etw] dienen'
+        mark: 'konj + vi'
+        dest: 
+          - 'serve as'
+      - 
+        src: 'als [etw] dienen'
+        mark: 'konj + vi'
+        dest: 
+          - 'serve as'
+      - 
+        src: 'dienen'
+        mark: 'vi'
+        dest: 
+          - 'serve'
+          - 'wait on'
+      - 
+        src: 'als [etw] dienen'
+        mark: 'konj + vi'
+        dest: 
+          - 'serve as'
+      - 
+        src: 'dienen als [jmd/etw]'
+        mark: 'konj + vi'
+        dest: 
+          - 'serve as'
+      - 
+        src: 'mit etwas dienen'
+        mark: 'rdw'
+        dest: 
+          - 'help with'
+
+  - 
+    de: 'drohen'
+    added: '2024-02-25 10:13:30.529023'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'drohen'
+        mark: 'vi'
+        dest: 
+          - 'threaten'
+      - 
+        src: 'drohen'
+        mark: 'vi'
+        dest: 
+          - 'seem to do'
+          - 'impend'
+
+  - 
+    de: 'gelingen'
+    added: '2024-02-25 10:13:31.090075'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'gelingen'
+        mark: 'vi'
+        dest: 
+          - 'work'
+          - 'succeed'
+
+  - 
+    de: 'nützen'
+    added: '2024-02-25 10:13:31.703184'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'nutzen'
+        mark: 'nm'
+        dest: 
+          - 'advantage'
+          - 'benefit'
+          - 'use'
+      - 
+        src: 'nutzen'
+        mark: 'vi'
+        dest: 
+          - 'help'
+          - 'be helpful'
+      - 
+        src: '[etw] nutzen'
+        mark: 'vt'
+        dest: 
+          - 'use'
+      - 
+        src: '[etw] nutzen'
+        mark: 'vt'
+        dest: 
+          - 'exploit'
+          - 'take advantage of'
+      - 
+        src: 'eigener nutzen'
+        mark: 'adj + nm'
+        dest: 
+          - 'own purposes'
+      - 
+        src: 'einen nutzen bringen'
+        mark: 'rdw'
+        dest: 
+          - 'be of use'
+      - 
+        src: 'einen nutzen haben'
+        mark: 'rdw'
+        dest: 
+          - 'have a purpose'
+          - 'have a use'
+      - 
+        src: 'zu nutzen machen'
+        mark: 'rdw'
+        dest: 
+          - 'make use of'
+
+  - 
+    de: 'passen'
+    added: '2024-02-25 10:13:31.980948'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'passen'
+        mark: 'vi'
+        dest: 
+          - 'fit'
+      - 
+        src: 'passen'
+        mark: 'vi'
+        dest: 
+          - 'work'
+      - 
+        src: 'passen'
+        mark: 'vi'
+        dest: 
+          - 'pass'
+          - 'skip'
+      - 
+        src: 'gut zusammen passen'
+        mark: 'vp'
+        dest: 
+          - 'match well'
+      - 
+        src: 'gut passen'
+        mark: 'adv + vi'
+        dest: 
+          - 'match well'
+          - 'fit well'
+      - 
+        src: 'gut passen'
+        mark: 'adv + vi'
+        dest: 
+          - 'be okay'
+      - 
+        src: 'gut passen'
+        mark: 'adv + vi'
+        dest: 
+          - 'fit well'
+      - 
+        src: 'nicht zu jdm/[etw] passen'
+        mark: 'rdw'
+        dest: 
+          - 'not a good fit for'
+      - 
+        src: 'zueinander passen'
+        mark: 'adv + vi'
+        dest: 
+          - 'fit together'
+      - 
+        src: 'zueinander passen'
+        mark: 'adv + vi'
+        dest: 
+          - 'fit together'
+
+  - 
+    de: 'winken'
+    added: '2024-02-25 10:13:32.526614'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'winken'
+        mark: 'vi'
+        dest: 
+          - 'wave'
+      - 
+        src: 'winken'
+        mark: 'vi'
+        dest: 
+          - 'wave'
+      - 
+        src: 'winken'
+        mark: 'vi'
+        dest: 
+          - 'be expected'
+
+  - 
+    de: 'ecke'
+    added: '2024-02-25 10:13:32.790254'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'ecke'
+        mark: 'nf'
+        dest: 
+          - 'corner'
+      - 
+        src: 'ecke'
+        mark: 'nf'
+        dest: 
+          - 'corner'
+      - 
+        src: 'ecke'
+        mark: 'nf'
+        dest: 
+          - 'corner'
+          - 'corner kick'
+      - 
+        src: 'auf der ecke liegen'
+        mark: 'rdw'
+        dest: 
+          - 'lay on the edge'
+      - 
+        src: 'auf der ecke sein'
+        mark: 'rdw'
+        dest: 
+          - 'be on the edge'
+      - 
+        src: 'in die ecke drängen'
+        mark: 'rdw'
+        dest: 
+          - 'back into a corner'
+      - 
+        src: 'in die ecke drängen'
+        mark: 'rdw'
+        dest: 
+          - 'back into a corner'
+      - 
+        src: 'in die ecke treiben'
+        mark: 'rdw'
+        dest: 
+          - 'back into a corner'
+      - 
+        src: 'in die ecke treiben'
+        mark: 'rdw'
+        dest: 
+          - 'back into a corner'
+      - 
+        src: '[jmd] um die ecke bringen'
+        mark: 'rdw'
+        dest: 
+          - 'take'
+
+  - 
+    de: 'befinden'
+    added: '2024-02-25 10:13:33.068565'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'sich befinden'
+        mark: 'vr'
+        dest: 
+          - 'is'
+          - 'is located'
+      - 
+        src: 'sich befinden'
+        mark: 'vr'
+        dest: 
+          - 'is/are'
+      - 
+        src: '[etw] befinden'
+        mark: 'vt'
+        dest: 
+          - 'judge'
+          - 'decide'
+          - 'find'
+      - 
+        src: '[etw] befinden'
+        mark: 'vt'
+        dest: 
+          - 'think'
+      - 
+        src: 'sich befinden'
+        mark: 'vr'
+        dest: 
+          - 'be located'
+          - 'be'
+      - 
+        src: 'sich befinden'
+        mark: 'vr'
+        dest: 
+          - 'be'
+
+  - 
+    de: 'hotel'
+    added: '2024-02-25 10:13:33.335759'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'hotel'
+        mark: 'nn'
+        dest: 
+          - 'hotel'
+      - 
+        src: 'hotellobby'
+        mark: 'nf'
+        dest: 
+          - 'lobby'
+          - 'hotel lobby'
+      - 
+        src: 'hotelrezeption'
+        mark: 'nf'
+        dest: 
+          - 'reception'
+          - 'hotel reception'
+
+  - 
+    de: 'insel'
+    added: '2024-02-25 10:13:33.601086'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'insel'
+        mark: 'nf'
+        dest: 
+          - 'island'
+      - 
+        src: 'insel der ruhe'
+        mark: 'rdw'
+        dest: 
+          - 'island of tranquility'
+          - 'sanctuary'
+      - 
+        src: 'tropische insel'
+        mark: 'adj + nf'
+        dest: 
+          - 'tropical island'
+
+  - 
+    de: 'erwachsene'
+    added: '2024-02-25 10:13:34.438009'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'erwachsener'
+        mark: 'nm'
+        dest: 
+          - 'adult'
+          - 'grown-up, grownup'
+          - 'mature person'
+      - 
+        src: 'junge erwachsene'
+        mark: 'adj + nf'
+        dest: 
+          - 'young woman'
+      - 
+        src: 'nur für erwachsene'
+        mark: 'rdw'
+        dest: 
+          - 'for adults only'
+
+  - 
+    de: 'füllen'
+    added: '2024-02-25 10:13:35.005315'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: '[etw] füllen'
+        mark: 'vt'
+        dest: 
+          - 'fill'
+      - 
+        src: '[etw] in [etw] füllen'
+        mark: 'präp + vt'
+        dest: 
+          - 'fill'
+          - 'pour'
+      - 
+        src: '[etw] füllen'
+        mark: 'vt'
+        dest: 
+          - 'occupy'
+          - 'take'
+      - 
+        src: 'sich füllen'
+        mark: 'vr'
+        dest: 
+          - 'fill'
+      - 
+        src: 'bis zum rand füllen'
+        mark: 'rdw'
+        dest: 
+          - 'fill to the brim'
+      - 
+        src: 'in konserven füllen'
+        mark: 'rdw'
+        dest: 
+          - 'can'
+      - 
+        src: 'sich füllen'
+        mark: 'vr'
+        dest: 
+          - 'fill up'
+          - 'become crowded'
+
+  - 
+    de: 'bein'
+    added: '2024-02-25 10:13:35.300657'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'bein'
+        mark: 'nn'
+        dest: 
+          - 'leg'
+      - 
+        src: 'bein'
+        mark: 'nn'
+        dest: 
+          - 'leg'
+      - 
+        src: 'bein, hosenbein'
+        mark: 'nn'
+        dest: 
+          - 'pant leg'
+          - 'trouser leg'
+      - 
+        src: 'auf einem bein hüpfen'
+        mark: 'rdw'
+        dest: 
+          - 'hop'
+          - 'hop on one leg'
+      - 
+        src: 'ein bein stellen'
+        mark: 'rdw'
+        dest: 
+          - 'trip'
+      - 
+        src: 'ein gespräch ans bein binden'
+        mark: 'rdw'
+        dest: 
+          - 'force conversation on'
+          - 'talk at'
+      - 
+        src: 'klotz am bein'
+        mark: 'rdw'
+        dest: 
+          - 'millstone around the neck'
+          - 'impediment'
+      - 
+        src: 'klotz am bein'
+        mark: 'rdw'
+        dest: 
+          - 'millstone around the neck'
+          - 'impediment'
+
+  - 
+    de: 'mund'
+    added: '2024-02-25 10:13:35.585677'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'mund'
+        mark: 'nm'
+        dest: 
+          - 'mouth'
+          - 'pie hole'
+      - 
+        src: 'den mund aufmachen'
+        mark: 'rdw'
+        dest: 
+          - 'criticise'
+      - 
+        src: 'den mund aufmachen'
+        mark: 'rdw'
+        dest: 
+          - 'open your mouth'
+          - 'express an opinion'
+      - 
+        src: 'halt den mund!'
+        mark: 'int'
+        dest: 
+          - 'shut your mouth'
+          - 'Be quiet'
+      - 
+        src: '[jmd] honig um den mund schmieren'
+        mark: 'rdw'
+        dest: 
+          - 'kiss up to'
+      - 
+        src: '[jmd] nach dem mund reden'
+        mark: 'rdw'
+        dest: 
+          - 'say what'
+      - 
+        src: 'kein blatt vor den mund nehmen'
+        mark: 'rdw'
+        dest: 
+          - 'be blunt'
+          - 'be outspoken'
+      - 
+        src: 'schaum vor dem mund haben'
+        mark: 'rdw'
+        dest: 
+          - 'foam at the mouth'
+      - 
+        src: 'schaum vor dem mund haben'
+        mark: 'rdw'
+        dest: 
+          - 'foam at the mouth'
+
+  - 
+    de: 'brechen'
+    added: '2024-02-25 10:13:35.884892'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: '[etw] brechen'
+        mark: 'vt'
+        dest: 
+          - 'break'
+      - 
+        src: '[etw] brechen'
+        mark: 'vt'
+        dest: 
+          - 'break'
+          - 'violate'
+      - 
+        src: 'sich [etw] brechen'
+        mark: 'vr'
+        dest: 
+          - 'break'
+      - 
+        src: 'brechen'
+        mark: 'vi'
+        dest: 
+          - 'throw up'
+          - 'vomit'
+          - 'puke'
+      - 
+        src: 'mit jmdm/[etw] brechen'
+        mark: 'adv + vi'
+        dest: 
+          - 'break up with'
+          - 'split up with'
+      - 
+        src: 'sich brechen'
+        mark: 'vr'
+        dest: 
+          - 'crash'
+          - 'break'
+      - 
+        src: 'jmdn brechen'
+        mark: 'vt'
+        dest: 
+          - 'break'
+      - 
+        src: '[etw] brechen'
+        mark: 'vt'
+        dest: 
+          - 'break'
+
+  - 
+    de: 'husten'
+    added: '2024-02-25 10:13:36.417053'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'husten'
+        mark: 'vi'
+        dest: 
+          - 'cough'
+      - 
+        src: 'husten'
+        mark: 'nm'
+        dest: 
+          - 'cough'
+      - 
+        src: 'husten'
+        mark: 'vi'
+        dest: 
+          - 'disapprove'
+
+  - 
+    de: 'ankunft'
+    added: '2024-02-25 10:13:37.479703'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'ankunft'
+        mark: 'nf'
+        dest: 
+          - 'arrival'
+
+  - 
+    de: 'anschluss'
+    added: '2024-02-25 10:13:37.762110'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'anschluss'
+        mark: 'nm'
+        dest: 
+          - 'connection'
+      - 
+        src: 'anschluss'
+        mark: 'nm'
+        dest: 
+          - 'keep up'
+          - 'connection'
+      - 
+        src: 'anschluss'
+        mark: 'nm'
+        dest: 
+          - 'contact'
+      - 
+        src: 'im anschluss'
+        mark: 'präp, nm'
+        dest: 
+          - 'subsequently'
+
+  - 
+    de: 'rund'
+    added: '2024-02-25 10:13:39.125879'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'rund'
+        mark: 'adj'
+        dest: 
+          - 'round, circular'
+      - 
+        src: 'rund'
+        mark: 'adj'
+        dest: 
+          - 'rounded'
+      - 
+        src: 'rund'
+        mark: 'adj'
+        dest: 
+          - 'busy, chaotic'
+      - 
+        src: 'rund'
+        mark: 'adv'
+        dest: 
+          - 'around, roughly'
+      - 
+        src: 'rund'
+        mark: 'adv'
+        dest: 
+          - 'around'
+      - 
+        src: 'rund werden'
+        mark: 'adj + vi'
+        dest: 
+          - 'get round'
+
+  - 
+    de: 'ereignis'
+    added: '2024-02-25 10:13:39.411206'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'ereignis'
+        mark: 'nn'
+        dest: 
+          - 'event'
+          - 'occurrence'
+          - 'incident'
+      - 
+        src: 'bedeutendes ereignis'
+        mark: 'adj + nn'
+        dest: 
+          - 'turning point'
+          - 'defining moment'
+
+  - 
+    de: 'bekannte'
+    added: '2024-02-25 10:13:40.217901'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'bekannte'
+        mark: 'nf'
+        dest: 
+          - 'acquaintance'
+
+  - 
+    de: 'especially'
+    added: '2024-02-25 10:13:41.169334'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'especially'
+        mark: 'adv'
+        dest: 
+          - 'besonders'
+          - 'insbesondere'
+          - 'gerade'
+          - 'vor allem'
+      - 
+        src: 'es·pe·cial·ly'
+        mark: 'adv'
+        dest: 
+          - 'besonders'
+          - 'hauptsächlich:'
+
+  - 
+    de: 'reise'
+    added: '2024-02-25 10:13:41.454867'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'reise'
+        mark: 'nf'
+        dest: 
+          - 'journey, trip'
+          - 'voyage'
+      - 
+        src: 'reise'
+        mark: 'nf'
+        dest: 
+          - 'travel, trip'
+
+  - 
+    de: 'getränk'
+    added: '2024-02-25 10:13:41.729532'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'getränk'
+        mark: 'nn'
+        dest: 
+          - 'drink'
+      - 
+        src: 'getränk mit kohlensäure'
+        mark: 'rdw'
+        dest: 
+          - 'carbonated beverage'
+          - 'fizzy drink'
+
+  - 
+    de: 'brief'
+    added: '2024-02-25 10:13:42.015177'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'brief'
+        mark: 'nm'
+        dest: 
+          - 'letter'
+      - 
+        src: 'brief'
+        mark: 'nm'
+        dest: 
+          - 'letter'
+      - 
+        src: 'brief schreiben'
+        mark: 'nm + vt'
+        dest: 
+          - 'write a letter'
+
+  - 
+    de: 'entweder'
+    added: '2024-02-25 10:13:42.853634'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'entweder, entweder...oder'
+        mark: 'konj'
+        dest: 
+          - 'either'
+      - 
+        src: 'oder, entweder...oder'
+        mark: 'konj'
+        dest: 
+          - 'either...or'
+
+  - 
+    de: 'ding'
+    added: '2024-02-25 10:13:43.410051'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'ding'
+        mark: 'nn'
+        dest: 
+          - 'thing'
+      - 
+        src: 'ding'
+        mark: 'nn'
+        dest: 
+          - 'thing'
+          - 'matter'
+          - 'affair'
+      - 
+        src: 'ding'
+        mark: 'nn'
+        dest: 
+          - 'thing'
+          - 'issue'
+          - 'problem'
+      - 
+        src: 'ding'
+        mark: 'nn'
+        dest: 
+          - 'dingbat'
+      - 
+        src: 'krummes ding'
+        mark: 'adj + nn'
+        dest: 
+          - 'shady deal'
+
+  - 
+    de: 'gesetz'
+    added: '2024-02-25 10:13:43.670274'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: 'gesetz'
+        mark: 'nn'
+        dest: 
+          - 'law'
+      - 
+        src: 'gesetz'
+        mark: 'nn'
+        dest: 
+          - 'law'
+      - 
+        src: 'das gesetz betreffend'
+        mark: 'rdw'
+        dest: 
+          - 'legally'
+      - 
+        src: 'gegen das gesetz'
+        mark: 'rdw'
+        dest: 
+          - 'against the law'
+      - 
+        src: 'gegen das gesetz'
+        mark: 'rdw'
+        dest: 
+          - 'against a bill'
+          - 'against a law'
+      - 
+        src: 'gegen das gesetz'
+        mark: 'rdw'
+        dest: 
+          - 'against the law'
+      - 
+        src: 'gottes gesetz'
+        mark: 'nm + nn'
+        dest: 
+          - "god's law"
+
+  - 
+    de: 'bestimmen'
+    added: '2024-02-25 10:13:44.315818'
+    last_attempt: '1970-01-01 01:00:00.000'
+    success_attempts: 0
+    total_attempts: 0
+    meanings: 
+      - 
+        src: '[etw] bestimmen'
+        mark: 'vt'
+        dest: 
+          - 'decide'
+          - 'choose'
+      - 
+        src: '[etw] bestimmen'
+        mark: 'vt'
+        dest: 
+          - 'determine'
+          - 'ascertain'
+      - 
+        src: '[etw] bestimmen'
+        mark: ''
+        dest: 
+          - 'determine'
+          - 'ascertain'
+      - 
+        src: 'über [etw] bestimmen'
+        mark: 'präp + vi'
+        dest: 
+          - 'have control over'
+      - 
+        src: 'bestimmen (für)'
+        mark: 'vt'
+        dest: 
+          - 'designate'
+      - 
+        src: 'blutgruppe bestimmen'
+        mark: 'nf + vt'
+        dest: 
+          - 'determine blood type'
+      - 
+        src: 'das geschlecht bestimmen'
+        mark: 'rdw'
+        dest: 
+          - 'determine the gender'
+      - 
+        src: 'das versmaß bestimmen'
+        mark: 'rdw'
+        dest: 
+          - 'determine the meter'
+      - 
+        src: 'einen preis bestimmen'
+        mark: 'rdw'
+        dest: 
+          - 'set a price'
+      - 
+        src: 'genauer bestimmen'
+        mark: 'adv + vt'
+        dest: 
+          - 'describe in more detail'
+      - 
+        src: 'genauer bestimmen'
+        mark: 'adv + vt'
+        dest: 
+          - 'narrow down further'
+
 
 broken: 
   - 'werven'
@@ -25564,3 +27351,24 @@ broken:
   - 'kasus'
   - 'herunterladen'
   - 'freischalten'
+  - 'verschieden'
+  - 'änheln'
+  - 'befehlen'
+  - 'gehorchen'
+  - 'gechehen'
+  - 'wiedersprechen'
+  - 'geradeaus'
+  - 'stempelln'
+  - 'erkältet'
+  - 'gebrochen'
+  - 'zusätlichen'
+  - 'abfiegen'
+  - 'umstiegen'
+  - 'aufstieg'
+  - 'ausgestorben'
+  - 'aufzulösen'
+  - 'urknoll'
+  - 'grundlegenden'
+  - 'buchstabieren'
+  - 'nachshauen'
+  - 'urahn'

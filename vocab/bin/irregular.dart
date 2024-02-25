@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:colorize/colorize.dart';
 import 'package:vocab/model/input_dict.dart';
-import 'package:vocab/services/input_stream.dart';
+import 'package:vocab/services/tools/input_stream.dart';
 
 void main(List<String> arguments) async {
   var file = File('${Directory.current.path}/../vocabulary/irregular.txt');

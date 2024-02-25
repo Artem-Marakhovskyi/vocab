@@ -1,14 +1,14 @@
 import 'package:colorize/colorize.dart';
 import 'package:vocab/model/input_dict.dart';
 import 'package:vocab/model/word_entity.dart';
-import 'package:vocab/services/wordreference.api.dart';
+import 'package:vocab/services/api/wordreference.api.dart';
 
 import '../model/existing_dict.dart';
-import 'html_parser.dart';
+import 'parser/definition_html_parser.dart';
 
 class Translator {
   final ExistingDict _existingDict;
-  final HtmlParser _parser;
+  final DefinitionHtmlParser _parser;
   final WordReferenceApi _api;
 
   Translator(this._existingDict, this._parser, this._api) {}

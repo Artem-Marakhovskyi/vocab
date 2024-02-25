@@ -1,7 +1,4 @@
-import 'package:colorize/colorize.dart';
-import 'package:vocab/model/input_dict.dart';
 import 'package:vocab/model/word_entity.dart';
-import 'package:vocab/services/wordreference.api.dart';
 
 import '../model/existing_dict.dart';
 import '../model/input_dict_key_value.dart';
